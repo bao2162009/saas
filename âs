@@ -1,0 +1,59 @@
+local UILibrary = {}
+
+-- Hàm tạo một Frame đơn giản
+function UILibrary:CreateFrame(name, parent, size, position, color)
+    local frame = Instance.new("Frame")
+    frame.Name = name
+    frame.Size = UDim2.new(size.X.Scale, size.X.Offset, size.Y.Scale, size.Y.Offset)
+    frame.Position = UDim2.new(position.X.Scale, position.X.Offset, position.Y.Scale, position.Y.Offset)
+    frame.BackgroundColor3 = color
+    frame.Parent = parent
+    return frame
+end
+
+-- Hàm tạo một Button
+function UILibrary:CreateButton(name, parent, size, position, text, color)
+    local button = Instance.new("TextButton")
+    button.Name = name
+    button.Size = UDim2.new(size.X.Scale, size.X.Offset, size.Y.Scale, size.Y.Offset)
+    button.Position = UDim2.new(position.X.Scale, position.X.Offset, position.Y.Scale, position.Y.Offset)
+    button.Text = text
+    button.BackgroundColor3 = color
+    button.Parent = parent
+    return button
+end
+
+-- Hàm tạo một Label
+function UILibrary:CreateLabel(name, parent, size, position, text, color)
+    local label = Instance.new("TextLabel")
+    label.Name = name
+    label.Size = UDim2.new(size.X.Scale, size.X.Offset, size.Y.Scale, size.Y.Offset)
+    label.Position = UDim2.new(position.X.Scale, position.X.Offset, position.Y.Scale, position.Y.Offset)
+    label.Text = text
+    label.BackgroundColor3 = color
+    label.Parent = parent
+    return label
+end
+
+-- Hàm tạo một Toggle Button
+function UILibrary:CreateToggle(name, parent, size, position, textOn, textOff, colorOn, colorOff)
+    local toggle = Instance.new("TextButton")
+    toggle.Name = name
+    toggle.Size = UDim2.new(size.X.Scale, size.X.Offset, size.Y.Scale, size.Y.Offset)
+    toggle.Position = UDim2.new(position.X.Scale, position.X.Offset, position.Y.Scale, position.Y.Offset)
+    toggle.Text = textOff
+    toggle.BackgroundColor3 = colorOff
+    toggle.Parent = parent
+
+    local isOn = false
+
+    toggle.MouseButton1Click:Connect(function()
+        isOn = not isOn
+        toggle.Text = isOn and textOn or textOff
+        toggle.BackgroundColor3 = isOn and colorOn or colorOff
+    end)
+
+    return toggle
+end
+
+return UILibrary
