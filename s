@@ -1,1 +1,5836 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _UahkOvdpWuec = a; end)); return(function(f,...)local h;local a;local o;local y;local d;local t;local e=24915;local l=0;local n={};while l<243 do l=l+1;while l<0x24e and e%0x1f16<0xf8b do l=l+1 e=(e-211)%32595 local r=l+e if(e%0x3846)>0x1c23 then e=(e+0x363)%0x7de2 while l<0x275 and e%0x1674<0xb3a do l=l+1 e=(e+766)%20021 local y=l+e if(e%0x2588)<0x12c4 then e=(e*0x103)%0x32b1 local e=46207 if not n[e]then n[e]=0x1 d=function(n)local e=0x01 local function l(l)e=e+l return n:sub(e-l,e-0x01)end while true do local n=l(0x01)if(n=="\5")then break end local e=t.byte(l(0x01))local e=l(e)if n=="\2"then e=a.vGHcefrs(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then h[e]=function(l,e)return f(8,nil,f,e,l)end elseif n=="\4"then e=h[e]elseif n=="\0"then e=h[e][l(t.byte(l(0x01)))];end local l=l(0x08)a[l]=e end end end elseif e%2~=0 then e=(e*0x2b0)%0xaedc local e=32994 if not n[e]then n[e]=0x1 t=string;end else e=(e-0x1e1)%0x18d6 l=l+1 local e=95339 if not n[e]then n[e]=0x1 a={};end end end elseif e%2~=0 then e=(e+0x1d9)%0xb18d while l<0x31b and e%0x2fd8<0x17ec do l=l+1 e=(e+689)%24135 local d=l+e if(e%0xe38)<=0x71c then e=(e*0x8f)%0x11b1 local e=47340 if not n[e]then n[e]=0x1 h=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x97)%0xadc0 local e=88113 if not n[e]then n[e]=0x1 y="\4\8\116\111\110\117\109\98\101\114\118\71\72\99\101\102\114\115\0\6\115\116\114\105\110\103\4\99\104\97\114\66\118\108\114\75\116\68\117\0\6\115\116\114\105\110\103\3\115\117\98\71\116\105\97\109\89\85\106\0\6\115\116\114\105\110\103\4\98\121\116\101\107\67\89\70\108\118\111\108\0\5\116\97\98\108\101\6\99\111\110\99\97\116\107\83\107\77\105\111\103\99\0\5\116\97\98\108\101\6\105\110\115\101\114\116\117\70\101\100\80\69\122\98\5";end else e=(e*0x387)%0x5c01 l=l+1 local e=51790 if not n[e]then n[e]=0x1 h=(not h)and _ENV or h;end end end else e=(e-0x64)%0xb0cf l=l+1 while l<0x275 and e%0xb1e<0x58f do l=l+1 e=(e-89)%7307 local h=l+e if(e%0xa48)<0x524 then e=(e+0x32f)%0x3eb5 local e=93571 if not n[e]then n[e]=0x1 o=tonumber;end elseif e%2~=0 then e=(e*0x54)%0x3d52 local e=64572 if not n[e]then n[e]=0x1 end else e=(e+0x20b)%0x3648 l=l+1 local e=96771 if not n[e]then n[e]=0x1 end end end end end e=(e+452)%2563 end d(y);local l={};for e=0x0,0xff do local n=a.BvlrKtDu(e);l[e]=n;l[n]=e;end local function r(e)return l[e];end local r=(function(y,t)local f,n=0x01,0x10 local l={{},{},{}}local h=-0x01 local e=0x01 local d=y while true do l[0x03][a.GtiamYUj(t,e,(function()e=f+e return e-0x01 end)())]=(function()h=h+0x01 return h end)()if h==(0x0f)then h=""n=0x000 break end end local h=#t while e<h+0x01 do l[0x02][n]=a.GtiamYUj(t,e,(function()e=f+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 a.uFedPEzb(l[0x01],(r((((l[0x03][l[0x02][0x00]]or 0x00)*0x10)+(l[0x03][l[0x02][0x01]]or 0x00)+d)%0x100)));d=y+d;end end return a.kSkMiogc(l[0x01])end);d(r(31,"8a_G;i!Nc7rblSY5YGl!SrbS7!N5cbNb;YaRa5Ybb_b7Gaaa_aG;_SKbSNlSrl7aGrSlbllSlYli7YcS;rii_Na_cN!7NbirGl;SGGaGYlSYbr75!!5;S!Yclcrrb!riNY!7;_CGS5l7!a;ii_Gca!5bSY55SccYc5N;;;_a5r7FNGca!;;N_N;GA7S7YGrYNYNG;5SYlJS;b!7Nrr!7!SG;al5cYbll;b_S;t_G2i_cSqSS7;r.!iil;5bc7lrlc7!Y;5Gx_;_5Y;SirNrb!YibYNlrSbblrnNrcaic!aa;_aLNbNlcGiaN_7nYYrYGS5rfbiNSi5;r_Ir_c;7iN;iSi5GbGGI7SGb_rlcaF55_%jYclrr;rIcbcSir;Ya7TbbYiS;M;YGNaX5cdYScb;r5Nb!5ilGrrbcSr;ca!!NaiiaGalYcYbb5c5ac5r?l5alYl;rbclNB!;iNa;fici!NNrilG7G7Gb:blYrY7.7GiY5_S!YilGr;cN!YcYiaGL5SKaSCblrb_ae;a_5;Slbcb;cr7!iNiNgl_GSY!5ia!i;;_cG;O75rSllNr7!riGSlbYSsrY7;c;!!!5_!GrYY5bSG;7_bGSar6;5l1;Y*rNc!irGS;7b!7rrrclN&;7G__5_7SYl!So7N7E!rYilcS!b57rch7.!S;G<S5^Xcb5biGGai_lErYYHTS7bSrNc!!S;rhSr=c_7_NriGi;_SGr}iYcbarbNGXSY5:;YGlibSbr7icr!!;!=i0rNriY!S;b_ldS5aYlYSbG7i!5NS;5{Nr7cl7rcaiY;;;iaY5lScb!l_7bc!5NS7Y5lYb_bbri!a;c_7}a5a5_!;;;iNNail*r4l5cbGlir;y5Y5EG5b5YY(l77iNSiliabr7rrlblc7cY!!Gi_;Y7Yl!i;iirN5_Y_l5_YSSi7SN5aM5m9!&rS;S_rG77!a;bGbbb7SrS7aNG!bNc;cyYQYSNbibH_c{7ar57Tb5NlY7iNaNi;G_ib;7irNcNcYN5ia;r5lS55ilr;d_aG_a_2Ya!5!S!b57bN5i5llrSb57Yl;N_NGG!_bT!Y;SYicGb;r_7MY5_5alGrYriN7;iiNvlr!c77NNNirGl;SaYaN5bbrl;cac!5;SiY7lNYrlNbac5!NaS_!5ac:!aNaiN;G;7GiY52*bYrY7;QlYS55YG55bNb5rc!rGN_ba;7cN7cYNIcSil_af;MiYYlSc__;/iai5N_OlSb_bG75ib_Yd5bV7ar7ci75!;;7G7abYcYSlNGlalGGG!_SYGSclYcScl;YYNlcSbblb!bYca!s;GGcaNYaN!"));d(r(200,"yo{SeITQ)rABd_uYS)QToBIe)ABrYT{QYdre__9_e)T r<_9o{SQ)odYuS_ej_B=_BooIe)druYuS_IS)SuoYS{eorIIY)S{Toru_du_Su)o)_uQoueSroT9rueSQdB{uooueY{IdIYoSdTSAkBTYeIeQoB)dY{{QoSzTdJ_Sr)eBC)I{eIe)__)n)oeIYBo__oSI3QrAere_eQSr_ueoIeI)dBoYd{oIArdd_NS{uIArSdT.rTSrBTerY{TT_ASudoYIAISdI_o{Ye_r_BoYr{TodIeYY{oToAe_nu_SrTQ)Y_)xoIB{ATo_oSuIoBIBroBS,)QdYre_vQeAQuSodI{)oBuuYsoQo)ABAo.{r)rro)<B_Te)rd{=eSI0uBIuT{Cer)SdS_Bo{QNA_B{oreoQYIe)uSITTAqdr6SeS)QBouuoATATdAYuY_e>_B#uAorITreBdY_oITQ)B_I/YSAouI)Yd{YTBAe_A7reTQQ)Ad_YBeoro_Sur{e*ueIu){{Io)uddYeSQTuAS_I{o{dTQIe)uSSI_rdd_DSedQuAou{{oT)rSdTuW_#KdA__r{eIw{IBuYdSQTYAABeYB{YI_BB_doQIuSI"));gRYcx_gYGYfHceM=function(e)e((-a.dseFt_Ek+(function()local n,l=a.bzwbwuyA,a.Qg_mIsdn;(function(e)e(e(e))end)(function(e)if n>a.chg_pkoU then return e end n=n+a.Qg_mIsdn l=(l+a._meogGBK)%a.yqFfjYUM if(l%a.oTClVEYT)<a.iGjPWRdd then l=(l+a.zAmCnRhz)%a.GqEUFiKW return e(e(e and e))else return e end return e end)return l;end)()))end;MecHfYGYg_xcYRg={a.AyZRpQyI,a.dmMgSegZ};local e=(-a.VLtFrwFv+(function()local n,e=a.bzwbwuyA,a.Qg_mIsdn;(function(l,n,h,e)l(h(l,n,e,l),h(l and n,e,e,l),n(h,e,h,l)and e(e and l,e,n,e),n(e and n,h,e,l))end)(function(l,t,d,h)if n>a.KfFzabla then return h end n=n+a.Qg_mIsdn e=(e*a.ZUlaJHaU)%a.MWxdwarD if(e%a.mVQkViur)<a.cfCkVxkZ then return h(h(d,t,h and t,l)and t(t,l,l,t),l(l,d,d,l),t(d,h and l,l,h),d(d,d,h,t)and d(l,l,h,h))else return t end return l end,function(l,t,h,d)if n>a.IOORewSc then return t end n=n+a.Qg_mIsdn e=(e+a.QraCBCeO)%a.wYWCfT_m if(e%a.ODoOnBxR)>a.bVfgqrRZ then return d(l(d,l,h,h),h(d,l,d,l),t(d,t and d,l,h),l(l and d,h and t,t and l,h))else return h end return l end,function(h,t,l,d)if n>a.EFnDwJvm then return t end n=n+a.Qg_mIsdn e=(e+a.PwrXVIKv)%a.TmAHqWoh if(e%a.gcXACzPe)>a.jbenlrnP then return t(h(l,t,h,t),t(d,t,h,d)and l(t,h,l,d and l),l(l and d,l,l and h,d and l)and d(h,l and h,d,d),h(d,h,h,h))else return l end return d end,function(h,t,l,d)if n>a.QIu_aIbI then return d end n=n+a.Qg_mIsdn e=(e*a.MicwrqOs)%a.MmRSLyjA if(e%a.XPMHEphr)<a.ajEKKBQq then return l(h(d,h and l,l,l),l(l,l,l,t),d(h,l,l and l,h and t),l(h and t,h,d,d))else return h end return t end)return e;end)())local s=a.winbzDOW or a.KJpuBqag;local te=(getfenv)or(function()return _ENV end);local d=a.lvCdoIzx;local m=a.Qg_mIsdn;local y=a.Kmnvahfz;local h=a.aMqhVdHj;local function de(u,...)local b=r(e,"DZJ-#hE;*C5A+KlyC-#*l+CS-;K*;+Jn+#E*lnh;C#y55##Gl#**J5;yhZl#Cl-#KK;5#yyoC#-*K+*&yzE*5+ZJAAh*y+5?#JCCEEu;5-#*yC+J;W:*5+huyJ#EZEA;hlvh*;##lJ*lJ+KK5E#+l+Cr-#KEJCy55;E5ZlA3h#y*C5l+A*EIyC55h-lJ;5-*Kl*JJA+-EKM*A5hlJEKAE+Z}A#hE5*;#Z+AhEESyCl-El+CC#JK+*AJ#KhE+ZA+#*EJ+++;WZ#Z5Kh;#4C#5yZCB-#K*;5KlC*#KK+A-h#y*C+#al#A#KEZ:;EJEA+EPn#5Ey5K{;ZZh5+hCG-;E-*l**#-h+*5Jh-l**+-IKJJEly*+#ZK#;5Jy+#;hl*5yh-y*CA;JZyA*h+BQ5Jy++hEAZ#A;JCygCE-#lhAJE#y*C+#_lJ-AcG5J#;lyCS-JK;*;K;ClElgyAEhKJEKEE+ZaA#hEA%;CJhA*Ehky5lhhsV*Z-*K**lhJyCC*-+l.*Jy5C*#*l#AAh+a05##*l++3KhZ*;lJ5+#E*V+5ld;++ElZ-CAh+yl5-h-Z5+ZEB1#5*#55ZEA.#5l*ZJ#+5;hZ{A#h*y5h*Zl+EE5yK5#hhll+JE5/*5+heyJ#EZEA;hlgh+l;AZ#A*h+ylEZJ*+h#l.#AhhKy#CJ-*6lA#h#y*C+-lChhyZQKJ;AZ*A+E3%JhEJ{+KEJ?y5+*JJC+*E+ZuAJT#AC-+l#l5C;-1K#;*Z5*Z-#KA*VZl+AE*l+Cl-yJ5Ks;1Z#A*h5AZ;lZ5ll5O-#K*;+Zl;--+l5*yJcKZE5ZpC#EZy*CK#Al**AE-x#5*#+y7C#++;K+xJEKCE+ZwA#hE5y;#ZEAAE-c#5E#AyA;E-#l+;CJ#+KE;-llh*#J*++El++ElyA5J5E#yl+C_-#KEJ*K#;+Zh+EEyhE0-C+#,l#*EKl5Yh-KE*+-Klh;+Z5+!CE#hK+*PJ#+E-ylyC---+E;KZ#+#E+>UAJh;Zl?+E#O*5+#l+;;;ZAAAEJ+KEEQ5yZ*#-lCC;EZ++AE-Z#5hh+ylC##hK5*5JKK;E+ZC+-JZy555#+AJECJ+Kl;;-Z*+-ZKEA5Z5NJ5E#55CC;y7CE;KZ#ACE5+55;#*l**y#J5J*#Z++*;ZKE5+EJy;h*XPA-h-y5(J5*#*l+Cf-JCE-K+y+;E* +Azh#y*C+-LJ-*5#EKQ;#Z*A5J#Kl**JC;A#;y5CmJy5yC+#5CA*K-JKAJAZsAyE-s5AE#*lAhCE;M*5+hSy#C*C#;A+#J5K5;!Z#A*h5+5E#Z#AyEEllAC#AyA*E#*K+;lh;y*C+#gl#**J+K*A#ZCAKEJ!C5*#+yPCJyE55#+&Z+5;-ZmA#h*y5#lZlAyEE1K;J;AZ++}E#i*5+h4+#K;-ll5*#J*++El+R*+-#5K;lJ;CK#5yhK5*lJU+#E*25E-J*+5EyZ;A*h5yy5yyy+*ChJ+KZ;yZ+AyCE-lK+*dJ#+EJ#5+h*y#C*5Jh#l**+-/KJJ#yVC*-ZlJ*AZ55A;J?5AE-+mJCA#uZEAyh+G>5##EC*E#}+*hhEyy+E;h/+Abh#yEhl6+A*E;KK55hZ+E*y-#KA;;#ly*C#-*K+;lyh5h#El*;Z755C5Jh*l**+-1KJ-Cl+C--*KE*-JI5*;EZhA5E-K;C*#*l>*5J++y5Eh5l+Cj-#KEJyy#CE-Al-*#JE+A;AV55JE;FE5K#%l5*+EJ8y5*#+y/CJyC5+h-y*CE#-lFEhJyl!5J#*l**+-rKJhZl+5JEEZ#5+h?y#CEyh5+h+y*;+#Cl1*h--KV;-#5yZCt-#K*;5mJCT-+lAAJEsy*C+#!lJ-yy+5Zh-+ECE-Cl-*hJE+;CE#ZK+*,J#+E-Al#CJ-;+*;CZJA**l-JK#;*Z+AlJ*35A!h%y#C*-5C*h*BZ+l;#Z#A*h+ylh_yl5#CJ-AK*;+J9+J-ElE*;-#K7;h#JlC**J+K_l*;CZl++EC55hJy=C#-*K5hCyW5a-+llAEEJy+5R##lE#CNn5+hJyKCQZhlJ;lh-y#C*-+l:*#C#EJA<ZEKJh+c=5##E5#E5_lAZ-5y<CJ-J+5*y-Z++;hZJ+J-ARtCy#-l*Ch{+l-*;JCyJ+*-*K+*PJJ*Z-+lC*;-*K#E++yACE+BCtJ*5#5+l-lC-;AJ<;y;EZEA;h*yE5M#ylmlEElJlAJJJ;;#-y-C;-;5AC--+l5*AJlKZ+5h*+hh*f-EC;EZyA+E7f#qlAAEJyCCC-yl*JEK*E+Z,A#hEA#;%ZJCAhKy#*E-+ll*5#;KE;qLK+EC5#Jl%*#J*+5#ll*CKJ++-5EhTl+CN-#KE-Ky#5J-+KC*;J#y55J#zl#**J55l#*yK*+J#,E5+#+ywC#-EC#-E+-+5;vZVA#h*hy3*5hh5*l-EK#;*Z+AlJElJ*CJ;+-C5#-lL*#J*+5hJl#*#-;K5;K#5llCi-#K*;5K-+E;iT+A8h#yEhJZQ+*hh225C#-Z5+JEOP#5*#55Z#KyA;AJ_J;+*E+Z9A#h*5#-E*#l5C#-rK#;*Z5;A-AK#C<JeKZ;E-lyZ*#J*++El+;C*-#++;KJJ+0hyyZAJhEyy;y-#lC*yh;CJ-hKC;KJZ+h*CA-ZAA+Ebe#5*#+EkJA;*Kl*#J#+*E+tlEhP#A-5J#Cl**+-QKJ-VAChy)*aA5+hLy#C*-++*JaE*+y;2Z#A*h+OYl#+;J+CJ##K*;+J2+JZ#lT**JZKJ;A{5C-Ehy*AJ-l+C;EJZSEAE#+yLC#-EClhMyR5-#ElCE#-Z+*EKZAA*hA-JK+;*Z++<EJA;;+JZ+u;*Z-Ay*;J*++;GZ#A*h+Jll##5yhCk-#K*;5K#CK#ElA;+JK+EE+#JlA**J+K8;J+CC-##K**ZZlyJC*-*K+*vJJ*iJ;ApAEhyy+5Q##lE-*H#5+#+yhCJEEZJ5+hPy#CEl5A-hUahC*-ly-**-CIJ5C#*l+C -J**hhwWC+EAQ+A9h#y*C+#U+#+;JyCK#xl#**J+KeC#*Ay-C#-*K+*YJ#l*+Kh8AEE#y+50##lE#CQ2AhhJy-5Z-#lhEhJUKEC5#Jlx*#J*+5-u++;-yA5U5EhJl+Cs-#KE#*y#C+-hlE*yJ5+**n#Jhl**J+KY;JlACA-yKy*EyZ*5JlR;A,hlyJ5J#CKy#KJEKE;*KlA#E;S#Elh5l+*K-;lJ*EJEKJ-JK*;+J-+EE;>lAhh#y;5J#hlh*CJ+K;;5Z;AyE;WJAK*4Z*++;*y;C;h*ly;ZZEA;hA-Alh;CJE+*-*l;C5JJyyE#QAlKEEL+5l;*y_AlE5:Z5-h5yECy^J+RhCJ#+l#CuZAK#:l;*5Z-l+E5JZCAE;JJAl-Zy;C5ZyKKCl-#+KEC--5yCy#3l#**J+KaK+A*y+EJZb5*#+yrCJlEAAhKyAh-Z#CA*--JKl;C#;l**+-QK#;*+#EE5#r5AJh9y#C*5yh#yECZ-5K;ZE+!h+BT5##EA+ECkF5hh-yzC-E5VlA=h#y*C5yZlECkJ+K6;#ZE;J-ol*hEJEAyE#-5lE*8J#+*E5+-**J5+y;;Z*A5hy(yK;;*Z++3E#1*Z+y;-#C5#hlT*#J*+5JJl#C;Z#K5*#JEA+CJ-+K*;+JI+JZElE*CJK+*E5ZylE*yJ+K ;#ZE;;J+lZ;*Jh+yCE-KK+*4J#+EJ;5KhZyCylAZ##l**+Jl*h#+y-C;-#K;hCJ5K;#*Zh5+hZyyC+-yZEAKh+6^5##E5lh+g*A;;lJ#+#E*U+5l-JK+;h#JlC**J+Kd;Jy5**-KKK55h5yTC#-*K5--lE;+ZACAE*ZE*;#+yACy#EyJKE*#Z++kE#3EhyJyK-;-y5AWEZ1C5^-ll#A5Ehz=5##*l5EyplAEhAyKC*#ZKlA-h#y*C+#cl#**;;ZM;EZKA+Ejq#5EXJ+#EJ(lKl*;J#+*E+BlEZ-*KA;yZl+Z*l#ZK#;*Z+AlZ^K+*#ZK+l;;_ECyh#y#5#-ll;**J5KE5EhHl+C{-#KE#Ay#5--#lh;lJ#y55I#cl#**J5Cz-C++AlE*>#5*#+ll#+1#AJ#+)Z5J#KZJAAh*y+5_#JC#Erc*5ZhJyA+-E#8*5+hsy#C*EWJw*E-;++;rZ#AE?*K#;+Zh+EEyyl*#hxy*;y-#lC*yh;y*C+#fl#**u+EhA#Z5+;E(W#5*#55ZEAZ+*+hCyMCh#-lz*-h5)h5m##l**5K+5K#ElyC5#ZK*;AhJyEC*-+ls*Jl-+l;#Z#A*h+ylhh?J5KCJ-5K*;+Jz+J-ElE*;JlKhCl#El#**J++l#yyhC}-Cl-55h-yeC#-*K5hZy*Cy#-lx*-h5fy53##l**5ZZ5##AyV*l-AK**5JC+l;;GA5+h+y#Cl#^l-AAh+9}5##*l+Cq;KZ*;lJ5+#E*m+5l-EKJ;CZE+JE-y*Cl##Z5+#Ee{#5*#55EE#Z+*Ch#yKC;ElZKA#h*y+Clr-+hh*QCAJh-l*CK-#lZ;5-#yE5w-+l4*#JE*K#pl;*+J5K;;##5y-C9-#K*;5KKC.-;l>CQ-JyAC+#xl#**J+EOZlh*AyE}q#5*#+ytC#*AZ+*J-Z+*E+ZtAJIAK+;CJ-A+Eh>JCZ#+lKC;-#L5A#hjy#C*-5ClhyRJ5C#yl#Chhy 15##*l+C1-#h*A+JJ++E*&+AjhJAEE+&l+-h+UE5C;;Z*A+EvG#5*W+EJK#-AK+*rJ#+*E+5?JlC*yl5-##l**+5-#CK5Zl+*E#X*5+#l5J;JZCAP-EU*5};JZAA*h+Bx5J6;+EEJFE5y#+JJKvE*,+ABhJ5y;E0lA_hyl;5;#ey+*+-KIE5l#+ynC#-EC5hAyLCE-+ZJAlh*y+5P#J5;hy:#5J#lyhCU#JlE5lh#y#C*-+h#yKC*-Z;J-+A*h+rV5J{;AyE#ZJE-#Ky#CA-*C;CJJeKEJ;ZA+ZEJmA5a#Jy;*+Jy*y*5J^+yE;+-C#h5yl5ZJ5ln*Jl-AK-l#Ey;*+-LK#;E+KC#-AKy;+Zy5Z;JZy*lhlyy5E#KZ;A*h+Ug5##*l+C ;#K5CtJ/+#E*i5hyJlK*ECZ;A#-hy*5KhZl*C-ZlK;*JJA+J;#ZZKy*IJ#+*E+ZSA##*AA5J#Cl**+-gKJhZl*C*-#)A5+hIy#C*-+lTl#E*+l;EZ#A*h+yl*JJ-A*;JFKK5*ZJ6+#E*15*ZJA+#El#-l#**J+Kd;#K*J-516;5*#+y9C#-*-+lKE#+AE+ZkA#h*y+-7KlJ**l-*K#;*Z+AlJJKA*EJy+E;*ZhlJC-J*++;/ZJ;---++**Z*+C#K3#AThEFZC*#ZKlAJhyy*C+#OlJhy EC+#-yECA-KK**ZZlyJCK-*K+*XJJCE-*l;*AJh+*ElZ5lA*+-xK#;*Z++nAK#*5l5Ey#C*-+Klh;a;5A#AyJhKyEC5*ZZ#+lJCLE5+hAy-5#-hl+*lJ#KhE5Z5AKE;y+5Ch-AZ*5-5K+#JyCA+ElS;+ZZ++ZEE#555CJ-EK5-CJ;*2JE=K5##Cy5h5-;K*;*ZyKJ-JZ#5+h*VZEEN&AZh*l+CK##{E;*J#+#;;Z;l5;<y*55E lKy55l#%l#**J5;+#*yg*C-5l-;JyK55hhMJCC#+y-C+#+llAEhKy+5b##lE#-255U#;ZlKZE#H*5+#lA-;J}lAJhAy**K#(l;*+J5K;;#yC+-;#-;K*;+Jn+#E*###*C#y55;#kl#**J5CZ##lACXJlKA;*J5A+;J-5l;*rJ#+*E5+y*lJ5+l;;Z#;--KR;A*;5JM+oE#W*55y+AEhI-llE*#J*++El+h*#-#++*J#5y;Cp-#K*;5KlCy-#K5*iKy5_J;JkAy*5-;K=;#Z*A5TKKl*Ay++CE.=hA-hHy-+AE+ZuA#h*y+5a-+J;*l-*K#;*Z+AlJhK*;5Jy+l;hK5lJC-J*++;GZJE#-uK*;ZJJ+Ah5l55*EelKC*#ZKAAJhCy*C+#rlJ-Ay+C+#-Z5+CEkf#5*#5+y;ZU#AhhlyyC##Cls*KJEl65JhHl**+-1KJJ#y-5J-cl+*5^5+Kh;ZEAA*EJK++;IZ#AEZ#Cyh0l#llC;-#K*;+Zl;h-+l-*;J#+;Cl#;l#**J++l-JlyC7JyK#*h#ly*C#-*K+;lK;5;#AlAEEJ*KA5Jhhl**+-<KJ-*y5CQ#ZA+*hJAK#;;y5AUEZwC5n-ll#A5EipS5##*l5#*N9AA;lJ*+#E*Y+5lZh++;5JnAihyW5KJ;yZ*A+Ee<JhAyC5AZyyE55hKy*5-#AZJA*h*y+5c#J5;h*yKK;;*Z++IE#u*5+*#-#C5#;li*#J*+5J#lKC--+Kyh#JZAAE7W-K5*5J>+#E*t5h+J*KtECZ5+--ly+A#JZl+ChJy{;5*#+yvC#-*K+5<E#+5;ZZoA#h*y5h*(ZC#-A-JlJ;*Z++8EJA#*MJ*5Z;JZAC)hKy#CC#;l#*;hlb*5##*l+*l0-5*#Kl+5#-ylAAJh5y*C+#vlJhh4EA-##yEAl;3{#5*#+ll#*ZZAKhcyK5;#ElKC*ZCK,;YJEA*EC-JlQ;*Z++wEJ+-*-Z+K*E*ZC*+h-y;C+-yZE+Zh+^75##ECAE9LJ5+h#l+CA#EmlAhh#y*C+-lCKh#7#5 ;EJ#A+Eos#5EyA+^;J *AChyK#C#-ll;*#h5Q#5I##l**5s5A#h;y-C#-KK*5lhCy#C*-+Kl-Zy#5C#Kl#C;y+CA5;#*l+C,-#K*h+*yU#E5/yAfh#y*C5y****5-5Kb;#Z*A5ZKK#*ZZA+_;ZyEAAh1yy5--+KyAEhKy+5&##lE#;y+AZh;ZlKZE#P*5+#l5%E+Z#5KhlW;CEJZ+l;CJE5l;lZy+EEK-El!;+J=+#EElC*s-FK*E+Zl+-*5-ZK&;#Z*A5Z#KK;+JAyJ5--*K+*k*AZ5+h;-J+A;E-yC*A#ZyJ;*-;KKEC+JEAP*5+h0yJh5^+5+hybJ5h;JZ+A*h+7^5JJC+&ElZ#5#h-yl+;E*R+Aqh#y*C+#(l#**+*K-;#Z*+llE=#5*#+K+C#-*K+*E--+*E+Zxl-h*yK54##l*Cb-hK#;*Z+lyE#UC5+h=CCC*-+lM*#J*++;7Z#y5hKxZ5##*l+CP-#K*;#JS+#E*7+ALhhy*A+EZl#**J+K9;#-yA+;J**5*#Ky,*--*K+*Y-Ed*EKZJA###y+58##ll*+-BK;;*Zy+iEhX*5KhHy#55-KlY*#JC++;YZ#A*5-vZ5E#*llCm-hK**lJZ+#E5^+h5h#y*C+hJll**JyK>lEZ*A+E=J#A##+y-C#-AK+J#J#K5*EZ?A*h*-y50##l*5+#;K#;+Z++#E#hZ5+EJ&lC*#ZljyEJ*++;2-#+Zh+wh5##Kl+Ky-#l55-Jn+5E*;lAYh#y*A+#;l#*lJ+KE;#JZA+Ex<l5*h-y{C#-*K+*w-El#E+Z*A##;y+5o##y5Cy-pKK;*oZ+HE#W*Alh*y#5J-+b;*#J*++;#ZKA*E#Sm+##*lKCO-#Q;;+J++#EKN+A&h#y*+A#>yZ**-;Kr;#Z*A+5EkhA##+yJC#-5K+*=E++*;-ZUAyh*0*57##-7*+-;K#*#Z++AE#&+l;hZy+C*hEli*hJ*++#yZ#+Fh+P*5##*l+CE-#K**#J(yJE*/KAIh5y*C+hJlh**J+KJ;#Z*A+E:ZE5C#+yUC*-*K+*0J#K5EKZ.A#Eey+5^##l*Cl-ZK#;*Zy+6E#b*5+EJyhC*-+l;*#J*++;aJEACh+g>5h#*l+C<-#ZJ;KJC+#;29+AQh#y*5A#fll**J+Kj;#Z*A+Ehg#AZ#+yJC#-5K+*0J*+*E+ZzAKh*y+5=##yy*+-_K#;5Z++OE#:*+zh)y#C*-+l/*#J*Ks;+Z#A*h+CA5;#Cl+5J;#KC;+J1GlE*S+A!;#;XC+#_l#**J+y;;#J5KhEX>#5*+lyOC#-*ll*KJ#+*E+h5A#h*y++YhCl**+-UK#;*+C+1;EZ;5+h(y#JA-+l?*#J*l*;{Z#A*hKOG5##*yl5#-#K*;+E;+#E*6++JC#yCC+#4,l**J+KsC5EEAKE>a#l-#+yZC#l-K+*#JC+*E+Zjlyh*yK5(##yC*K-mK#;CZ++VE#Z5l+hZy#C*#Kl7*#J*l+5lZ#A*h+,25#EAl+5J#5K*;lJL#hE*d+A,h#_vC+#_l#*5J+KJ;#J5+EEFeh5*A5ykC#-*llC*J#+5E++CA#h*y+AJ#ll**y-wlh;*Z++Q*#JZ5+h-y#CA-+AI*#-5l#;_ZCA**Z!!5##*l+Al-#KA;+Jh+#E*:+AYEhy*Cl#8l#**JlK,;#-ZA+EJ0#5C#+yJC#-lK+*aJ;+*5EZjAhh*yK5%##y5*K-=K#;5Z++0E#7l5+hky*C*hzl>*hJ*+l;uZ#+5hKtO5##*l+C.-#K**lJZ+#E*UKA<h#y*ClZKl#*KJ+Ku;#Z*A+;J*55*hJy4ZJ-*K+*8J5laE+ZEA#5+y+5Z##l**+-#KC;*Z++rA*>*5KhQ/EK*-KlE*#5E++;{Z#K*;KR^55#*yJCtZlK**J;-+hElP+TCh#yCC+#Zl#*+-ZK=;#Z*ZhE<Oh5*hl-qCh-lK+5#J#+*E+ZElhh*,J5VC+l**K-fK#;*JU+hE#8*5+5*y#CC-+l#*CJ*++;_EKA*hKfQAE**lKCE-#+J;+Jj+#El-KAoh5y*--#-lh**J+K3;*ZKA+E.}#-y#yyZC#-*HA*tJA+*;ZZ(A#h*y++;#hly*+-ZK#;5Z++OE5>*A#hby;C*-+l!*##Z++;CZ#Ayh+%65##*yJC_-+K*;lJQ+EE*ZJA#h#_zC++Cl;*CJ+Ki;#Z++ZE{B#5*Khy-Ch-*ll+)JhK4E+5-A#h*y+AJ-Al*Ch-jh#;*Z++FE#nl5+h*y#C5-+lZ*#-5K#;:Z+A*Zh)G5##*ylCZ-#lZ;+-Z+#E*V+K.Ehy*5h#zlK**y+K2*EJhA+EAN#E##+ySC#-*y**oJK+*;;Z!A#h*y+#l##y.*+-HK#;5Z++rEE *A#h_yhC*-Kl.CE-#++;*Z#5-h+<T5##*&CCs-+K*;KJ}+EE*J+A5h#%ZC+#*l##EJ+K(;AZ*+;ES_#5*hYyv+#EAKK*AJ#;*E+l#A#**Z^5b#yl*K;-e;;;*#+K#E#Z-5+CKy#-*-+yJ^ZJ*K*;d#JA*h+QG+#hhl+C+-#l#;+hE+#;5Z5AsEZy**Z#ul#**-lK;;#JEA+#h_#5*#+,J5;-*lA*3MC+*E+Z6A#E-y+5+##y;*+-JK#**-;+bEyS*-lhN>!C*-+E**#-Z++;AZ#A5h+J25E#*yEC{-KK*hZJ.KE*Z}+A+h#+AC+#9l#**#*K!;lZ*+*E/7E5*E+y5C##-K+*CJ#CKE+JJ+5h*7C545Cl**+-^K#*5Z++AE#Zh5+hJy#A*-yl1CuJ*Kh;)lCA*ElFy5#hEl+5C-#K*;+J<KJE*Z*AiEJy*Cl#4 #ACJKKK;#JZA+-hF#A5KqyO5--*J+*SJ#+*E+h-AhEhy+5y##l5*+hU6h;CJ5+:ElQ*#Kh7y#-K-+yp*#J*++;JZ#l**yQZA##*C+Cw#;K*5+JA+#;*q+yJh#ZyC+#MJ;*C-5K:*#Z*AlEWJ#KC#KyyC##JK+JZJ#+*ZZZT+hh*y+5(#El*A+E-Kh*CZ+;YE#2l5+*0ZZC*#KlT+EJ*;C;zZ#yAhKUy5#hCl+CJ-#y*5KJZK#E*ZEAjyhy*C+lhl#C5J+Kb;#Z5A+C)-;5Chly?##-*;E*uh#l#E+JJA#C5y++;##l*+y-Zl#;*Jl+7EEw*++*Zyh5C-+lA*#+C++;tACA*EyPM5##*llCgE#GA;K--+#Z*W++ph#J*AE#by;**ElK/JZZ*A+5-whAC#+f-C#-5K+5_hh+C;lZ(Ayh*CK5G##*K*+##K#;*Z++JE#-*KyhZ>*C*l+lS5EJ*y+*fZ#++h+#J5#Eyl+Co;;KC*lJzK*E*9lA7;#JCCKh-l#C#J+;Z;#Z*EZENZC5*#+y2CE-*:+A-JhKKE++9A#AAy+K^hJl*5Z-1ZE;*#-+zE##A5KE-y#5K-+lJ*##*yK;ZJ*A*EC8i#h#*l+-h-#ll;+Jo+#E5p+l0*;yCAJ#8C#**;+Kj5#JAA+;EO#l5#+Z;C#-*Zy*Z-*+**JZbAEh*nlJ###yK*+y+K#;*Z+KJl*z*+Jh0h+C*-+lpCE5+++*;Z#Kyh+bN5#h5ZlC}#+K*55JN+#E*J+Ayh#Z^C+h*l#AlJ+lJCZZ*KhEYA*5*#+y{5EhZK+C5J#-JE+ZzA#E5^h5Ihyl*;A-YK#;*Z++-E#J(5+EAy#C5-+yJCCJ*lh;,#JA*h+3R+#Iyl+5C-#yZ;+hE+#;5Z;A_Ely**Z#el#**-lKl;#--A+#y(#5*#+mJ5#-*y**}Z-+*E+ZfA#Ehy+AC##L#*+-JK#*5-E+>;l3*AKhMy#C*h+l**##J++*5Z#KAh+ZJ5A#C_*CaKCK*;+Ja+#;Co++5h#Z#C+#Jl#C5#_K=*yZ*+KEz_#5*E+V*C#h-K+CAJ#lAE+JJ+Jh*ZC5 C5l**+-qK#*lZ+KAE#Jh5+hJy#A*#*lj5aJ*l;;kAAA*h+JC5#Ehl+C9-#K*;+-JKlE*J5A0AEy*C+#dV#CKJ+ll;#-EA+C5N#A5EhyvA--*l3*3J#+*E+ZhA#;Ey+5J##l5*+#^K5;*-5+0KlV*+EhkJ#CA-+yl*#YC++5*Z#A*;*Iz+-#*lKC8-#K**JJ9+#**,++lh#yCC+#-l#**-lKZ;#Z*K*ES3#5*#+^JCh-*K+C*J#+*E+ZI+EhCy+50hKl**+-IK5;*Z+lZE#ZV5+hZy#5S-+lWCEJC++;6--A*h+xT5#h5lKCv-#y#;+JQ+#E*ZlAZh#y*A+#&l#**J+lJ;hZ*A+;hP#5*#+ys5E-CK+*}-5+*E+Z A#E5yK5{##yy*+-uK#;*Jl+ZE#S*+5hVy#C*-+yJ*hJ*++*KZ#A*h+VE5##*PlCa#;K*;KJI+EE*H++Jhhy*C+hll#**J+Ka*EZCA+E&JZ5*#+yYC5-*K+5-J#y;E+ZZA#h+y+5PhElC*+-_yE;*Z++rE#Z55KhFy#A;-+lf*#J*Kl;ZZ#A*;;WO5##*l+5J-hK*;+#Z+#E* +K^hEyC+0#4yy**<AK,C#-hA+*#V#++#+ECC#-lK+*j#5+**AZLAhh*yl5i##y5*K-mK#C;Z++<E#i*AlhZy#C*hKlW*#J*++5JZhK+h+JE5##Cl+A8#KK*5uJ!KyE*+#A0;#z5C+E#l#5+J+#C;#ZlA+E8J55*;:yXCh-*Kl*0J#K5EKZ4A#;Ey+5g##l*Cl-ZK#;*-C+XE#I*5+5Cy#A+-+%E*#JC++;G#-A**o/T+;#*l+C8-#-h;+##+#EC!+AZh#ylC+#}i***#hK{;hZ*AlEqN#A5#KyNC#h;K+*0J#+*;lZZA#h*Zy5g##l*Cl#CKhCKZ+KZE#!*5+;seEC*EZlv5CJ*ly;LJEKJh+J;5#Cll+C3-#K**+JQlCE*--AXhEy*A+hKl#5lJ+yh;#AyA+;JJv5*;-yFJA-*K+*<##KhE+-;A#;yy+5+##y5C+-xy+;*JK+PE#d*++E^y#+<-+!**##A++*JJ;A**EkbA+#*l+C_-#ZA;K#*+#CJS+AJh#y5;C#acK**JKK<;#Z*A+(hm#KJ#+yPC#-CK+*}+C+*C;ZfA#h*Gg5S##*K*+h+K#;*Z++#E#-*+7hVJ{C*5ylVA{J*KllKZ#lhh+Jl5##*l+A}-*K*5CJ6yZE*#EATEEylC+Ell#EKJ+Ks;#J5+hE,--5*-Zy(C#-*llCKJ#y*E+yhA#h*y+5th+l*AC-O_#;*Zl+t;#OC5+;+y#J5-+mK*#J*;Z;,#ZA*h+zm5;#*Z+5#-#gh;+C-+#C#9++JKZy*+5#SZJ**J+KvC#J#A+*l<#KE#+J5C##5lC*ih-+*JZZOA#h*wl5Z##Z**+ZyK#;*Z+KJ;;W*KKhOl-C*-+lz*#-;++ClZ#lCh+%J5#h*y*CsEZK*glJjyJE*-++#h#JhC+}Al#A;J+lb-KZ*l*E7C*5*;Cy2C#h_K+5KJ#+*E+ZJA#**Z;5t;Zl*yy-{IB;*Jl+lE#-E5+;ly#C*-+Yt*yJ*y5;x#JA*CJ8kAEh-l+Ay-#;h;+J0+#;5Z#Am*#y*+;#al#**-lh#;##CA+l-p#5*#+y)K;-Ca5*:hh+*ElZ2+#lZy++K##;5*+hlK#**5h+RC_B**yhdJZC*#+5C*#h-++#KZ#l#h+>15A#*Z*C!-#K*;yJHy#;y2+K+h#EAC+E+l#C5#hK=5ZZ*l5Ejm#5*E+yEC#EhK+5KJ#gJE+JJ+#h*J55qEAl**+-alE;yZ+lyE#Jy5+h>y#55+RlpA#J*y-;xZ#A*h+#-5h;hl++O-#K5;+-,*KE*-*A}lEy*+C#_l#CEJ+yK;#Z*A+EJ)#K*hlyQ+Z-*#y*}hW+*;lZJA#*Ey++l##l**+h9y0;*#5+UCJR*lEh<gEAJ-+=y*#Z;++;<Z#+5hlzaK##*KACI-#K**l5#+#CCk+Cyh#y*C+#}J;*Ch5K%5hZ*AlE7Z#-Z#+ZKC#+5K+5lJ#K*yhZWlsh*Ky57;Zl*C+yCK#5-Z+S#E#-#5+h,=JC*E*l7*#J*+y;b##Alh+J+5#AAl+A+-#l5;KJ!yZE*-5ALh#y*A+#Zl#AhJ+yK;#hJA+;J:K5*;5yvAA-*K+*6-EK#E+-yA#;yy+5H##y5Z -)=#;*#-+2E#I*5+C-yh+h-+ZF*#J5++*LKKA***Tz-E#*ZCCa-#K5;+#K+#E*w+AJh#J*5+#nZZ**CyKu5:Z*+lEZP#KE#+ZlC#-*K+5.JK+*C5Z:lJh*-E5RhElA*+hyK#E;Z++^E#Z5+Zh=J#C*JAlv*#J*Kly#Z#lCh+ly5##*l+Cv;;KC55J?yhE*&lA>E#*ZC+EKl#Z5J+yl;#J*#hEH-15*JyyL+Z-*l+#CJ#y-E+#lA#*#y+5^h-l*A*-}K#;*Zy+.C#Z;5+;+y#}A-+^+*#-5Ks;z#ZA**5TV5##*i+Cy-#sh;+#K+#5Jw++Jhly*+5#R,A**J+K,*EJCA+*y?#+y#+yTC##5EY*Sh#+*C-Z8A#h*y+l-#hZh*+E(K#;5Z+K&JKH*K*hW*EC*EClF*#-#++CKZ#A*h+uJ5#;*y5CtEZK*lyJLy7E*Zl+*h#JEC+Ell#**J+y4;KZ*l5E8-J5**Ey<5E#yK+5yJ#A;E+ZHA#E50K5M;#l*;A-QK#;*JlZ*E#-C5+-yy#C*-+lcCKJ*y5;k#hA*hlS=A#Ehl+AK-#E5;+#l+#;*JZAG*6y*;y#kZZ**-+l-;##-A+AZ?#K##+wGCl-*zE*nZJ+*C;ZnA#E;y++A##l**+-0K#;5yC+gCc.*A*h>y#C*#Jl?*#hh++;#Z#ACh+,;5##*ylCZ-#K*5ZJg+#E*W++Jhhy*C+EEl#**J+Kp*EZCA+EOJy5*#+ywC##5KK*!J#y#E+ZvA#h*Gl5Z##l*A--8K#;*Z+KJEhc*5+;5y#C*-+lICEJC++;R-KA*h+oR+#*Kl+Al-#ao;+_;+#**JZA%*Jy*+5#RhK**J+Kl;##*A+*K!#5*#+yICy-*)5*dh#+*EKZ0A#h5y++l##l**+-(K#*5-E+?C-e*E;h7y#C*#lyA*#h*++*ZZ#A*h+J!Kh#CZ+CME#K*CyJ:KEEyBKlJh#ZkC+#!l#**-#Kr5#Z*llE>0E5*hl6*C#ECK+CZJ#+*E+-M+lh*JK5);hl*5y-XlE*EZ+y-E#hl5+hFy#C*#+lFAhJ*yy;!ZEA*;+Z65#;5l++Z-#;y;+-J_#EC-yAuhEy*C+#<S#5CJ+4-;##AA+C5Y#A5Keyb+*-*yE*:J#+*E+hEAh*Ay+5J##l5*+Evn;;C#y+wAo_*+ZhvJ#CA-+Z-*#KZ++-;Z#+*lhHfK;#**;C)E-K*5+-#+#CAc+#Ch#ZyC+hJEZ**EvK)5JZ*A+EoJ#AE#+J#C#E+K+AEJ#K5;KZWlCh*lZ5f##l*Cl-yK#5lZ+;ZE#n*5+EJi;C*;-l%-hJ*++;4Z#A5h+-#5#;yl+CJ-#l*CJJSy;E*J-A7**y*C+Zyl#A+J+{;;#Z*A+Eu5C5**#yOC#-*K+*<J5+*E+#CA#*Jy+5Z##l+*+-,lE;CZ++IC*i*5+hmy#55-KlN*#h5++;tZ#A*El/Z5##*JZCk-#K*;+-J+hE*j+lEh#y*C+#El#**EEKa*EZ*AKE?!h5*#+^JCh-*K+A-J#+*E+ZEA#h*-;5a;Kl**K-dKE;*Z+KJEho*5+*-y#C*-+laCEJC++;%#-A*h+pa5EJhl+++-#lK;+Ji+#ElS+AMCZy*5-#Glh**--Ku;#J5AKE(_#Ky#+y8C#-*ll*ZJ#+*5#Z^A#h*y+AJ#hl**+EZK#;*Z++_;ERC5+hiJJC*-+lL*#-5+K;fZ#y-h+!)5##*ylCZ-#K*AZJc+#E*=++Jhhy*C+;+l#**J+yw;EZCy5Eu-E5*hCyLA##lK+AlJ#PEE+*CA#hly+5.*#l*+C-9Kh;*ZK+OE#Z55KhVy#KZ-+lm*#J*yl;ZhJA*C+n_5h#*v+5*-#ZE;+h?+##y9+K,hyy*K5#uJJ**5hKN;5Z*A+5d/#KA#+yZC#-5K+*L-E+CE+Zollh*y+5=##y5*K-mK#AhZ++NE#R*Evh)-JC*;+lU*hJ*++*EZ#yEh+-C5##*l+Ce#+K*A5JQ+hE*PKAQEEZ#C+;ll#ZyJ+K);#-*+lER#J5**5yF52-*ll*;J#?;E+JZA#h*y++S#+l*+A-BZ-;*-y+L;EZJ5+CZy#A4-+lY*#J*KE;ch-A*CKgz5E#*yl5A-#Z*;+-Z+#E*x+Kq*hyCK+#xJ#**#yKp*EZyAK5Jx#;C#+yHC#-*lK*mE#+*5lZ2AEh*%l55##JC*+#ZK#;*Z+lF;*g*lKh?-hC*hyl_CE-l++A-Z#7lh+Ik5##*yJC1;hK*AyJT+EE*J+A;h#-5C+*Zl#JyJ+y 5hZCyyE=#E5*+#yjC#;lKK+-J#+5E+ZJA#h*5Z5I**l**+-pKy;*#+y-Eh#+5+K5y#+#-+ZR*EJ*Z<;Q;CA*;Z4GK#;AlKK#-#E#;+l5+#C*ZCAiC*y*JJ#UyC**h+N-;hh+A+AlQ#K##+Je5*-*Ja*9lZ+*klZW+EKhy+lh##ZE*+-gK#C*JZ+%5C=*yZh9J5C*#ly-*#El++hhZ#A*h+ZJ+n#*--C3ZCK*;+J=KE*Za+y*h#KKC+#jl#**-#K=ACZ*I#EqsE5*h+yJC#;+K+ECJ#3KE+#0l;hC#v5n#Al*l#-6/#*yZ+_#E#-A5+yKy#+*h}lf+*J*K#;>;KA*El#U5h*Kl+y;-#K*;+#(lhE*hZA&CCy*ZZ#k>#*KJKZh;#hKA+K#/#A*h#yLK*-*5h*UEC+*;lh:AhCKy+5J##l**+hgyh;*EZ+%5C_*lEhMqEZ+-+JE*##J++;_Z#A*5J)ZlC#*llCR-EK*C+Jh+h5lc+y#h#hEC+hwyK**;ZKS+LZ*TJERJ#5K#K-EC#;+K+-KJ#K*;hZ}yCh*C;5R*5l*5+-hKhAlZ+B#E#yZ5+E4yAC**ZlMCAJ*ZJ;k##lAhK#h5#yZl+A;-#g**KJxLCE*K5A:ECy*++h#l#+KJ+EC;#-yA+EE=#5*CJyd++-*KK*gJE+*E+JJAhh*y+Kl##l**+-GlE;CZ++%5C<*5+hYZ#C5-KJ;*#E*++;lZ#K*E+BslA#*--CO5KK**JJ)+#AZI+lAh#yCC+#Jl#**-lKZ;#Z*fgEjN#5*#+oJCh-*K++hJ#+*E+ZdlEhC#-5W*Kl**K-?y#*+Z+X;E##*5+J;y#A*#Als+AJ*Z-;1*KA*EJa>5#CZl+A*-#KC;+JZ+#E*ZlAZh#y*l^#il#**J+JC;#hyA+5C!#5C#+y=-C-*J-*jJ#+**JZVl#*AyKl;##Ah*+--K#5*-Z+{5At*+Kh?=EC*E+Z-*hEy++*AZ#AAh+-&5l#*--Cn;hK*CAJiy#CANKy;h#K+C+#Al#A*JKKQAAZ*;yEG.y5*;+J-Ch;yK+l+J#J#E+#kAhh*#-5.5*l*Ah-Fa#5AZKr;E#lJ5++;y#+*h#lv+AJ*yJ;%*hA**+--5h*yl+AK-##;;+h1KlE*h-A1Z*y*5l#:Z#AAJKZ;;#E+A+Ah{#K*h#y)KA-*#;*dAZ+*C+#-AhCyy+ll###Z*+EUKA;*E-+gCE.*yJhNJ#+A-KJ;*#5-+++hZ#l*E;1MlA#*KJC?*CK*5+h-+h5y/+-Ch#A*C+;3y-**;-K}y+Z*;JE.-#KA#K-;C#Z5K+KhJ#y*;lZayAh*hE5OhEl*A+E-KhAyZ+hyE#Al5+*byKC**-lQKyJ*lA;k##lAhK#;5#yEl+J+-#0*ChJH1AE*+-A9yNy*++;-lh+yJ+lE;#A#A+C46C5*C-yN-J-*KK*OJE5hE+h*A#Ely+5L##l5EC-&ZK;*Jh+:E#)*AJhpy#lJ-+yN*#JC++;-Z#A*El Z5##*-#Cs-#K*;+-J+hE*n+yCh#y*C+#dyE*CJ+KYAAZ*A+ERZEJ+#+-AC#y-K+*YJ#+lE+ZV?_h*-Z59#hl**y-uK#*5ZK+3E#hJ5+hBy#C*#llZ*#J* l;HZ#A*h+ZJ5h#*l+KA-#K*;+#:+EEChCAdC-y**-#!0#C-J+ZK;#EhA+KCz#5l#+y}l--*lA*_Jh+*;-ZHA#E5yK5Q##JE*+-uK#;*Jl+ZE#o*yJhqy#C*-+yJ*hJ*++A#Z#A*h+b{AE#Cl+C^;hK*;+J:+#;5&KAth#-5C+#.l#**-lKZ;#Z*yyE19#5*#+8JCh-*K+++J#+*E+Z.l*h*#C5!C-l**K-RlE*#Z+<KE#ZC5+hjy#A*#ylpKZJ*ZC;P-;A*ElZh5#C;l+5*-#K*;+J=lZE*hCA25-y*Cl#1yECyJ+Zl;#JCA+EP #+*EJy(lJ-*J5*X#;+*;lZ-A#5*y+yE##l**+-6KK;CE5+pA#s*5lh8HE5l-+Jy*#-C++;(Z#K*E5)fy-#*-ACph;K**lJh+#ACx+*Zh#y*C+#py5**;AK(+hZ*AlE7ZE5+#+#qC#+yK+*vJ#l***Z=_#h*#+5:hRl*5+hZK#+CZ+_lE#5y5+;xZhC**ll0KhJ*-J;TZ5nAhKhJ5#;hllCZ-#KC;+J#+CE*G+AR*Zy5CK#1H#5CJ+JJ;#ECA+EKr#+*;KyZlE-*Jl*i5Z+*E+hEAh55y+5J##l5*+hOnh;CEy+6AE9*lZh{OE#A-+-h*#;y++;)Z#A*E;)vy;#*#ZCg-EK**lJ-+#A+p+;*h#y*C+EFyK***TK9+*Z*yEEVZEAy#+#hC#E-K+*nJ#K5*CZwn5h*lA5Q##l*Cl#*K#+yZ+lAE#e*5+hjyCC*CLlTKAJ*+l;.JE+lh+hh5#K-l+Cj-#l5*+J6Z5E*lJA_h#y*C+yJl#KyJ+K{;#Z*A+;JAR5*5#y8h+-*K+*&##K*E+E*A#Apy+K5##y5CA-qJK;*2A+&E#/*AlE*y#yJ-+*y*#J*++*JJyA*A;!:C-#*l+Co-#y-;+;*+#+-)+AJh#y*5Z#0-K**J+K};#Z*A+EhO#tJ#+yGC#-*K+*_-J+*+;ZRA#h*y+5c##yK*+*+K#;*Z++?E#r*hlhahZC*-+lP*#J*++AKZhZEh+q05##*l+C<#JK*KAJ:J-E*<+A9EE(5C+5/l#l5J+K/;#-*K#E.E#5*5+ya+l-*llC5J#JCE+y*A#h*y+5g#Cl*l+-WKE;*Zl+0;#T+5+AWy#5J-+-#*#h*Kf;);#A*lAXeKu#*yl5+-#-C;+A;+#E*G++eh5y*y+#chl***KK1;5Z*A++Zf#5l#+yZC#-+K+*s-E+CE+ZILAh*y+5s##y5*K-wK#K;Z++fE#!*AlhZy#C*Col8*#J*++*JZhA*h+h-5##*l+CE-#K*KlJ9+EE*7KA(h;y*C+hJlh**J+J;;#Z*A+E}ZE5C#+ySy#-*K+*wJ#K5EKZvA#5Ay+51##ll*+-3-;;*h-+IEhk*A-hNy#55-KlG*#*Z++;iZ#A*El0Z5##*#EC7-#K*;+-J+hE*{+YAh#y*C+#ryE*CJ+KzKYZ*A+E)I#A5#Ky.C#ChK+*GJ#+*;lZZA#h*h55%##l**+#JKh;*Z+Z;E#j*5+hEy#C*5olR5yJ*+K;&Z5A*h+ZJ5h#*l+lC-#K*;+J2KEECU+Ap5ly*C+#{l#C5JKKc;#;-A+ExQ#5*hlyZC#-*-**,J#+*E+JJAhh*y+yK##l**+-0lE;CZ++1+J%*5+hLy5C*-+#h*#EE++;ZZ#+8h+)?AE#Cl+CL*+K*;+JN+#;5dKAPh#hZC+#ol#**-lKZ;#Z*p+E^L#5*#+=JCh-*K+K5J#+*E+ZP+EhCy+5kCyl**+-IK#*5ZK+}E#E#5+hky#C*#llZ*#J*JC;=Z#A*h+ZJ5h#*l+ll-#K*;+#=+EEC;JAe5Zy**-#Yp#5ZJ+-E;#;lA+KCT#5l#+y_y+-*QJ*MJh+*;EZ(A#E5yK5G##-y*+-FK#;*Jl+ZE#<*TKhey#C*-+yJ*hJ*++KJZ#A*h+P>AE#Cl+C?CCK*;+JN+#;5tKA2h#h;C+#6l#**-lKZ;#Z*Z#E,X#5*#+pJCh-*K+KhJ#+*E+ZO+EhCy+5k5Zl**+-<K#*5ZK+cE#hl5+hdy#C*#llZ*#J*J5;9Z#A*h+-J5h5ll+y*-#KC;+#(KyE*;JAP5-y*55#Bw#*yJ+-E;#;lA+KCw#5*;AyFy+-*-y*6J#+*E+#JAhAly+)*##lC*+haKh;**J+0A-q**-h Z#Ah-+#E*#*l++lCZ#A**AW.H+#*hfCj-#K*;+hJ+h+ln+Z*h#yCC+EgyK**CJKS+hZ*+CEYJ#+h#+hEC#ClK+yCJ#+lE+Z)Z+h*BK5o#hl**l-^K#*5ZK+}E#h55+hTy#C*#llZ*#J*Zy;kZ#A*h+hC5#5ll+y*-#KC;+JB;EE*;JAohhy*C+#%lEEhJ+-;;#ZKA+E6c#55JCyMy+-*%+*3J#+*;lhoAh+Zy+hJ##l**+-EK#;**E+zCh0*5Kh<y;C*-+yJ*hJ*++KEZ#A*h+)}AE#Cl+CaCAK*;+Jr+#;5}KA6h#EWC+#Nl#**#JKSKKZ*AlEp h5*E+y5C#5ZK+*lJ#ElE+ZTAKh*E;57##l*CX-H:#;lZ+JAE#lC5+*Zy#+*#Kl}lyJ*;y;Q*5A**+xE5#A-l+E+-#p#;+JE+#E*;*A9EAy*CK#&lh**J+lJ;hZ*A+*#e#5*#+8i53-C#;*LKl+*K*Z!A#ECy+eC##h-*+-ZK#C*-#+I+K6*A5h>#;C*-+lJ*#C-++;bZ#A+h+-aA%#*h;CGZhK*C+JRy#;JT+ZAh#5AC+AEl#C5--KslBZ*J-Eb&#5*E+ZZC#5#K+l+J#-KE+-GAChCE*5mApl*Kl-gl#;lZ+JAE#l#5+A+y#Cl-+l:y_J*l*;9ZhA*hl&e5#h5lKC^-#y+;+J:+#E*ZlAZh#y*AA#?l#**-+K+;h*-A+Z5/#Z##+y35C-*#h*_*y+*EKZpK#hKy+,C##yE*+-hK#;*J*+)+yR*5+hMy*C*E+yK*#C-++hZZ#+;h+-IA##*h;C7l;K*yJJrKE;y6+Z+h#JEC+#6l#5*#KK?l=Z*J*E:-55*hl;5C#5hK+EhJ#+*E+JJAhh*E55R--l**+-clE*;Z+JyE#y;5+hqy#C*hBl(yfJ*-A;rZEA*E+ZZ5#A-l+E+-###;+JE+#E*;*ANE+y*CK#)lE**J+lJ;hZ*A+;*>#5*#+y45E-CK+*=#;+*E+ZS+#C#yKaA##5J*+C+K#;*Jy+c+Kf*Z;h<yhC*h+y5*#CZ++;yZ#hlh+VY5l#*h;C_-#K**_Jpy#;;U+ZAh#KCC+REl#A*#CKuKyZ*EyEBk55*;+UCC#5-K+h+J#y#E+ZEA#h*E*5j;rl**K-uKh;*Z+KJEho*5+;5y#C*-+y=+qJC-;;d+lA*+*^S5#h;l+yC-##-;+JZ+#**glA>AKy*5A#T*5**J+lA;#*-A+E_1#5+#+JvC5-*#;*3^h+*5;ZGl#EZy+6A##CA*+ZZK#5*-Z+t+yB***h_JqC*#Jlv*#C#++;5Z#ACh+iZ5##*ylCZ-#K*5EJ9+#E*Z+l+hhE-C+y5l#y#J+K7;lZ*JhEpEy5*#Ky)A#hJK+lCJ#K;E+AEA#h*SE5W5yl**+-qK*;*#++yE#;-5+-Zy#Z#-+Z3C-J*-;;S+;A*J5nXK#E-l+yA-#A#;+#++#ElM+A(+0y*Al#Tlh**JKK2;#J5AKEGX#KJ#+yFC##*l**Z*y+*JEZ!J0h*y+5;##hZ*+CAK#;CZ+l=El=*Zhh)R-C*#ZlN*##L++KAZ#A*h+G#5#;*lKC4CyK*hKJ(;vE*-++5h#E-C+y-l#hEJ+lJ*JZ*J*E3-J5*#+y%A#hCK+l+J#-#E+#EA#E5*E50AZl*;Z-_K#;*Jl+JE#;E5+-yy#C*-+yJ*+J*-A;36-A*h+>05#h+l+y+-##;;+JJ+#;*JEA&Ayy*;*#^hQ**-JKo;#*#A+EAL#5C#+yZC#-*ll*ZJ#+*CEZ_A#h*d+K+#hh-*+l5K#l#Z++.;EH*ZhhOhyC*-Kle5##-++KCZ#+;h+5E5##*6*CiCyK*;+JR+*E*-++hh#E-C+JZl#5EJ+Su*lZ*J;EkA;5*K-yo+##JK+lAJ#5#E+-+A#hly+5vAzl*+J-<Kh;*ZK+}E#Z55KhTy#+J-+l:*#-*/*;Z;yA*ZE2GZ>#*l+Cy-##Z;+*A+#EC/+KjE*y*Qh#.y-**KJKN;#J+A++AX#5*#+y#C#E*y-*/*y+*#KZ:Z-h*J+AK##h-*+l-K#EhZ+yIE*F*Z;hkK8C*E*le*5J*++K+Z#KJh+?Z5##Cl+C:#EKC;+J4llE*{+A?E#-#CK5Al##JJ+-+;#Z*+EEtEK5*A;yICh-*y+*lJ#-ZE+JqA#yly+5&hQl*y;-&K#;*JV+IC#ZK5+AAy#;C-+y+*#h*+K;4;yA*A+>kKW#*Z+Ch-##-;+K-+#bJI+AEh#y*9*#cyJ**JKK9;hZ*A+;Jsh5*#+hEC#-*K+C8Eu+CK;ZzElh*E*5I##yy*+CCK#l-Z++ZE#J*AChXhKC*#+lXSCJ*++*FZ#J-h+,g5##+l++u#-K*l;Jr5hE*#-A>*#m;C+5Al#l*J+y+;##*+6E4Ey5*yyy)JC-*KlhKJ#-#E+#JA#h*y+A4*%lCy;-1*l;***+&E#ZC5+ACy#S--+lZ*##*K5;j;KA*E+eLJC#*l+5;-##-;+J{+#E+M+l6h+y*i;#M+h**EhK 5#JZA++A!#G*#+Z+C#E*yS*,*y+*ZyZB#Ch*yl;K##h#*+h;K#;*Z+Kc;F_CZ;hQ5lC*5*lw*#-(++KCZ#J-h+)Z5#E*y*CxCKK**+JsZ;E*_+Ahh#E-C+# l#*+J+&c*JZ*J;Ealh5*BAy3+#-KK+lAJ#;AE+KZA#E5H85YAml*y-->K#;*-+lZE#;#5+A+y#uK-+,?*CJC-*;.*PA*l+vpA#h#l+yA-#A#;+*++#E5lCAf+my*Ay#Il#**-+j+;h*-A+Z5R#Z##+yc5h-*#h*X*y+*EKZiK#;Zy+tC##yC*+yyK#;*-E+d+y=*5+h,yAC*E+yJ*#C-++hZZ#CEh+-&5*#*h;C{C#K*-;J/y#;EM+ZAh#-*C+KEl#A*hyKZKyZ**lE{5E5*;+{ZC#5-K+EVJ#lyE+#=+*h*E;51h*l*C+-.K5;*Z+J+E#Zh5+hZy#CC-+lwCEJC++;Y#-A*h+9TA#*#lKyA-#CJ;+*++#E*JZA!AKy*r;#Xlh**#+l+;#*ZA+;J9#;;#+yY5K-*#;*OJ#+*;-Zbl#EEy+LA##+C*+E6K#5*J*+}+yd*M+hfCEC*E+l;*#C-++A0Z##lh+-BK;#Ch;CW)EK*KCJjy#Eyo+ZAh#K*C+E;l#A*#IKFKyZ*K1EcCh5*hJypC#5#K+CAJ#+CE+ZJA#h*)l5Z##l*K2-}K#;*Z+KJEhI*5+Chy#C*-+yi+zJC-;;g+lA*+*2w5#E#l+yC-##-;+JZ+#**ZJA AKy*5l#F*5**J+l5;#*-A+ERI#5+#+J45#-*#;*&gh+*#;ZUl#E+y+uA###**+h+K#5*J5+(+y>*hyhcJ*C*#Jlt*#C#++CLZ#ACh+VJ5##*ylCZ-#K*+rJI+#E*7++Jhhy*C+*hl#**J+l=#AZ*J;EjAl5*A*yOC#-5K+lCJ#--E+ZZA#;*yy5=5Kl*Cl-_E+;*Z++;E#;-5+h%y#C+-+Zb*+J*-;;jyhA*-#WXAEEZl+y+-#-y;+J_+#**xKAN+Hy*g*#PhC**#+Kh;h*#A+++d#Z+#+xtCy-*#;*>*#+*K*Z^l#E+y+WA##y+*+CKK#;lZ++.K0n*+ChtyhC*-llQ*#-5+K;)Z#yKh+Sn5##*ylCZ-#K*+iJx+#E*Z+l+hhE-C+y5l#y#J+KVCZZ*JhEkEy5*#KybA##+K+lCJ#KAE+AEA#h*!y5P5yl**+-9K*;*#++yE#;-5+-Zy#JE-+Z}*KJ*-;;B;#A*;Zq%K##+l+yA-#*A;+-C+#Eld+AF+Xy*+C#(lh**JKK9;#J5AKEd8#yy#+yHC##*A-*j*y+*JEZfJ:h*y+5;##hZ*+CAK#;CZ+lG;hf*Zhhcs;C*K#lI*#-C++KAZ#A*h+n#5#;*IJCsCyK*hKJP*EE*ZlA;h#E#C+5;l#**J+yG*AZ*J*E2;m5*+ZyRA#-KKKl+J#-#E+#yA#E*Z*5B5yl*l+-m#t;*#+K#E#;-5+E#y#Yh-+lJEZJ*-*; huA*h+WTA#Zyl+yA-#CJ;+*++#E*J*A%AKy* ;#wlh**#+Kh;#*ZA+;-f##a#+yL5J-*#;*6J#+*;wZ?l#hly+2A##+C*+yhK#*5Jy+eK>v*Z-h3y#C*h+lJ*#C#++K+Z#JKh+J,5C#Ch*C15nK*J#J1K#;hB+ZAh#h*C+5+l#A*#aKzKyZ*KIEe;Z5*#l+KC#5#K+5CJ#+*E+Jg*Ah*E;5ryll*y*-eK#;5Z+JCE#;-5+hZy#A*#*lwlKJ*Ky;V5+A*h+9K5#A-l+CP-#K+;+hG+lE*;;A4-hy*/+#QyE5ZJ+-+;#;yA+E(f#+*EZyo1u-*#**)CC+**+ZhAh+#y+Q+##Jh*+#tlJ;**;+/+#P*Z*h_J#5+-+#A*#-+++KKZ#A5-CU7ZS#*WKCe-#K**+h++hK-7+E5h#E#C+#,yZ**ChKYKyZ*AKEqJ#AC#+hCC##AK+#yJ#+**JZwZyh*y+5o#5l*A+#hK#l-Z+J(E#lZ5+*=qCC*5;lr+#J*y-;m##KZh+EA5#Z5l+yZ-#v*5yJZJyE*l+A1;Ay*++h#l#y-J+l#;#5CA+EEe#5*A*yb+*-*KK*7Jh+*E+JJAhh*y+yh##l**+#7Z<;C*;+uZlS*Z*h^y#CA-+#C*#C-++;ZZ#K*;Zb/(K#*_eCMACK*;+-++#K-P+Avh#y+C+;SlK**C;K4hhZ*TZEt-#5A#+hAC#C*K+5+J#y*;hZ,Zyh*5y5REZl**lSKK#l#Z+lhE#I*5+EVlEC*5;ld-lJ*-*;HZ#K-h+EC5#A-l+CZ-#K*CEJW++E*x+A_h#y*51h*l#**J+E5;;ZCA+Ec--5*h#y4C*-*K+*eJ#;XE+ZCA#hly+5e##l*C#-^Kl;*J-+nE#e*5+EAy#5n-+l5*#JC++*JJJA*E#(xlV#*l+Cw#EKl;+JC+#C-V+Akh#y*Cy#:l+**JlKT;hZ*+lE;p#Am#+RZC#-*K+59#h+*;#Z.A+h*hJ5uE#l5*K-*K#*3Z+E;E#J*A*hXy+C*##l!I*J*Kly#Z#+Jh+J*5##*l+Cv*KK**#JG+lE*HKArh*yKC+#vl#JJJyKZ;#J5y+EZUA5*+Ay&C#-*llCyJhKmE+h*A#h*y+5&hCl*C--0KE;*ZK+4E##y5+hvy#C*-+lF*#J*KK;ZZ#A*hKu{5##*JAC4-#K**zJL+#E*/l+#h#y*C+-l5ZhhTy;+#Kl#C-##l-;+Z5+lhJ_*ACEZy*CE-+ZJACh*y+5b#JA5h*s*5#;5J;+7E#i*55<J+#;;y5AcEZ{C5m-ll#A5E*)95##*l5#J #A;J5y;C*-*lh*yc*+;C+#*l#**J+lJA;Z*A+Ei1E5*#+yUA##+K+*/J#+*E+Z-A#E5Sl5:#El**K-qK#;*Z+K5E#a*5+hJy#C5-+om5:J*++;mZ#A*E)&j5#EJl+Cu-#KC;+J_+#E*JCA)h#y*C+#Ql#**J+K-;#Z*A+EZ)#5*#+ypC#-*K+*#J#+*E+ZJA*h*y+5V#J+Zh+ZJKE* Z++jE#YEhAJK+,;5ZWAChEJ5KJ;qZ#A*h5KA;}Z++CEl-EKl;+J +#EEl;;lJ,+y;-#-yA**J+K_;5#CA+E40#5A#+yZC#-*K+*#JC+*E+ZvA;h*yK5r#*lK*+-xK#*pZ++ZE#Z5l+hZy;C*-llN*#J*l+CZZ#AAh+G-5##Cl+CVE-K**eJS+hE*:+Aah#-lCK#-l#*5J+KJ;#Z*lAESx#5*#yy9C#-*ll+9Jh+AE+Z-A#h*y+5N;-l*CP- KE;*Z++SE#C;5+h-y#C5-+lh*#J+KZ;wZ#A*EywI5h#*ylK2-hlp;+J#+#E*f+AEh#y*5h#Bl#**JKKR;;Z*A+;J0h5*#+ymC#-*K+*o-E+CE+ZRA5h*y+57##y5*K-xK#;yZ++(E#c*CKh7y+C*-ll/*hJ*++A;Z#Alh+Gq5##*l+CEC+K*;yJ)KeE*7KA2hEy*51#hl#**J+K+;#ZCA+E<J=5C#+yPCE-*K+*aJ#KCEKZ1A#hCy+5t##lC*+-bK#;*Z++,E#o*AZh{y#C*-+JA*#J*++;=Z#A*h+=w5E#*lKC9-hK*;+J.+#;*1+AJh#y5C+#9l#**#EKV;#Z*AKEMvE5*#+W5C#-*K+*ZJ#+*E+ZkA#h*y+5h##l**+-JK*;*Z++kEJlZ;+-JyE5I-+lM*#JE*K#1lJC;-EKK#J#5y-C_-#K*;5+l;h#hK***J#yAC+#.l#**J+K)E#K;AyE% #5*#+y3C#-*K+*Y-#+*E+Z1A#dJy+5n##l**+-8K#;lEy+ZE#q*A hkyhC*-Kl/**JK++;YZ#A+h+=Z5##+yZCW-#K**AJ,+hE*U+h5h#y*C+#Zl#**J+K.;JZ*AKENVE5*#+y9A#h#K+*ZJ#+CE+Z-A#E5_+5R#El**l-zK#;*-+K;E#G55+hJy#CC-+yJ5UJ*+y;XZCA*h+L2AEhyl+C#-#K+;+JF+#;5 lAdhCy*5Z#Ql#**J+Z-;hZ5A+Eh8#55#+yn#5-*KK*>Jh+*ElZ/+#lZy+5s##lA*+-ZK#;*JK+ZE#q*5Kh&y#C*-+lT*#J*++;>Z#A*hK:J5##*l+CVQ#K*;+JP+#E*.+Avh#%CCK#Pl#*CJ+Kr;#Z*A+E4e#y-#+yjC#-5lh*_J#+*E5+A*l-EK4;yZ*+JEh-JK+;*Z++REJlC*VJlK#E#Z-Al*E-h++;}Z#AE-AKK;WJZ+5EAX(Ah#+yCCJ#+4lA#h#y*C+-lAKh*TlKJ;5Z*A+E <J;hJEK-E#ZEKy*zJ#+*E+ZbA#*Z-+5-##l**+-bK#;*J#IwE;u*5+h/y#C*-+{e+#J5KJ;uZ#A*h5KA;?Z++CEl-ElJ;+J&+#EEA5*-J{KhE*2l+-h*PCKJ;AZ*A+Ek&J*5Z+A+EyZJAh*J-h+*E+ZmAJQAK+;*Z>+ZEEw#5--hyEC5#-+-;*JKK-C5#Jlr*#J*+5JZllCZ-AKl5;#*l+Cx-#K*;+#Ez#E*blA5h#y*C+-lAZEJqy*Z#*lyC--mK-55h-ySC#-*K5-Zy*Cy#-lw*-h5XZ5)##l**5W*5Vh;ly+J;-Y*5+hiyJh5ZEAKhAy;;5#-lUChJ*+l*-Z*+CCJ#CK*;+J +JJ5lE*KJA+;hAZ55hh+y+AJ#yyJCC-yAy*JJo+C;--5lh*nJ#+*E5KyCZJ#Kl;#ZKA5E5-JKy;*Z++:EJ+;;+--K-#hZE+phKy;55;JZ*A*h+k95JJ;A*EC-EKy;+JU+#EE+C*dJ+KJ;KZVl;**J+K^;#Z*A+h)#-55h#y}C#-*K5#Zy*5E#cKK*AJ*yy52##l**+-HK#;3hA+ZEh455+h%y#C*-ll**#J*++ElKh**J5Ky;lJh*5C--#K*;+Jr+#E*J3y3hEyKC+#ql#*E1hC+#+l*AlEK!#5*#+ll#lZ*AAh;y*5Z-+Al*lJyKE;K#El+*+-eK#;Ey#C#-K!5AhhRy#C*-55yh*aE5A-+lK*EJ+j-5##*l+C9-#Z*cAE/+EE53+Ajh#yEJ;#JyZ**J+KO;JK;CCJ+KK*EJ;A+;Z1*Ah#lW*+5;ZZVA#h*y5hCZ_+4h+-JKA;*Z++(EJ+E**-3+_;hz+lJ*lJ*++;LZJ;?-EKC;lJE+;h+?J5*;lJh+#E*F+5lphKJ;hZylEC#J+Kn;#ZEEK-#K#;yZA55EhyCAGhM2E+5;JZRA#h*y5#lZlAyEE<KKE;lZ++8E#bE;KJ;+l;JZCl-*#J*++;iZ#A**6#T5E#5l+CG-#KE-yJJ++E*r+A3hJKJ;+ZyAAh+Oh5x;EJhA+E2)#5E9lA+E*Z;*Kh5WZ;E-yl#*AJ;yy5L##l**+-OK##*hA+JE+c*5+h>yJE*Zh5+hZyyC+-yZEA+h+8u5##E+#h+Z;KA;+J0+#E*c+ASh#y*Cl#Al#**J++lJEl*CAZAKA;#-e+b;ZZEKl*;J#+*E+1l*hJ+K-;;Z#A;*y-=K#;*Z++8E#l*lAhJyEC*-+l(*Jl++l;5Z#A*h+ylE-ZA+ThlV5AZ#+yl5JEC^+AJh*y*C+#IlJh#yC5l;EZ+A+EsQ#5EJCA+E--AK+*LJ#+*E+ZkA#C*yl5h##l**+JlC-#*yyCyEEZL5+hxy#CEyKAmhJS;5E#KAZA5E;0r5##*l5hK:lAA-EO}5--ylG*CJ#y5Cl#wl#**J5Ch;EJJA+EX=#5EJ#A+EEZZAihy&#C;-+ZJA5h*y+5<#JAEEEj;5lhhZl+#E#<*5+#l+Z;JZylJ*5J*++;NZJCZJ*K*;#JEllC*-#K*;+Zl;l#*lA*;J*KZE+#Jy-**J+K!;J+CC3-CK-hCJX+K;JZ;*5h-y*Cy-AZJAKh*y+5R#J+;EE?lA-hhy6CC-Eu5AZh3y#C*-5Clh*NKC+;JZ+A*h+pg5Jy;+Ch+ZE5+hhyJ+#;Z%lA0h#y*#Z# l#**J+Kf;#Z*+l*5%#5C#+yCC#-*K+*I-Z+*ElZXA#h*y+5IE#ll*+-JK#;5Z+yEE#0*A;hiyEC*-ylV*#J*++;CZ#ACh+HY5##Al+C##KK*;+JcA-ECNKAnh#5JC+#El#*CJ+K:;#ZlyjEZ=C5*-AyZCh-*lJ*)J*+KE+ZjA##;yK5Z##v*5K-!K5;*JZ+/Elu*AJ5-yhCl-+ll*#JC++;ZZ#A+EZ<_5##*y5CB-hK**PJh+#E*%+CyhhyCC+EqZh*C--Kj;5Z*f#ELZEJ+#+yCC##AK+*(J#+*5yZZAAh*qh5X#El*CJ*-Kh;yZ+K#E#OC5+hZy#C+#Zln*#J*lk;kZhA*E_>h5##*l+;y-hKC;+#WlhE*Z-A7h5y*5y#mq#hJJ+K;;#ZyA+CZ7#A5E;y3CK-*l**FJ#+*E+ZEA#hyy+5C##l5*+-oKy;*J#+!EE(*5+hvy#CK-+l**#-1++;EZ#A*Elxp5K#*lyCe-#K*;+Jh+#;J8+Ahh#y*C+#=lK**-hKX;EZ*AlE::55+#+y*C#h*K+*ZJ#+*E+Z#ACh*y+5uE#l**K-7K*;KZ++cE#-E5+hZy#C*lElf*lJ*+l;>Z#A*h+5h5#h-l+CO-#K5;+JOECE*Z*A^h#y*5J#bZ#AAJKK+;#hKA+Ey)#K*hAyH5L-*l+*I--+*C+#-AhE#y+lZ##y;*+EWlJ;*J*+j*#_*AAh!J#+A-Kl+*##A++;yZ#l*E#%%AF#*y;C<#-K**+Z++#;-O++hh#z#C+;ny+**-;K}C;Z*yZEPm#AK#+y5C#-lK+*AJ#+*;ZZ}Alh*yl5R##l**+#JK#*mZ++5E#Pl5+;HZhC*#Elj*+J*lZ;?Z#-5h+MA5##+l+Cc-#y*C-JB+yE*Z;AqE*y*A+#-l#ChJ+K;;#ZCA+EiUA5*h;yW5Z-*l**=J5KEE+Z+A#-KyK5Z##l**+-#KC;*Z++&#C{C5Khoy##J-+lK*#JC++;/Z#K*;KW}AZ#*yCC:-lK**J;-+h;hn+l5h#yCC+#Zl#*+-ZKa;#Z*yEE4_h5*hsyhC#-*K++JJ#+CE+Z3hlh*SC5M#hl**+-,y#;5ZK+KE#Zh5+h5y#A*-llvCZJ*KC;ah+A*El*#5#h;l+C+-#K*;+J8V;ECZCAjE-y*Cl#,j#5CJ+KK;#JhA+EZ0#5lCyyZ5Z-*JZ*fJh+*EKZ%A*hKy+5!##JK*+-ZK#*5h++Z;Z_*+5h2y#C*h+GZ*#-h++;KZ#A+h+Ppe##*yCC4-hK*;lJ?l#*CQ+Alh#yyC+#Zl#**5+Kt*JZ*+5E6ZZ5*E+7EC##EK+*lJ#OAE+JJ+hh*{A54hEl**+-8y#ChZ++yE#Z;5+;Ky#C*#+lTC#J*K5;MZ#A*h+Z*5#h;l+CJ-#K5;+-.+CE*Z#AN;;y*5A#6V#MAJ+Ky;#J-A+5J_#A5h=yb5#-*ll*&J#+**+ZKA#E*y+AL##yy*+#Jl;;*JK+);EF*5+hoZ#5;-+yZ*#-C++5KZ#A*hlTBAE#*y9C8-#K*C+-5+#;5c++Jh#J-C+EMyK**-lKR*EZ*y#EGr#+J#+:ZC##5K+*}J#+*;pZ!+#h*y+5d#El**+5;K#*;Z++yE#Z*5+;p-KC*#AlIC-J*!5;uJ#+yh+)y5#EZl+Cy-#y*C!JjK-E*ZAAz;*y*5lhZl#C*J+lJ;#Z*A+*7Zh5*h+yB5#-*tC*f-#l-E+JZA#hyy+5y##l*C+-}l#;*Zl+NEE(*AlEay#5C-+yJ*#J*++CWZAA*EK}(Ah#*ZCC,##l#;+-J+#*;P+Ayh#y*v-#nyh**JlK&;EZ*+l;AX#A5#+xJC#-*K+50JE+*;lZ8+Eh*JC5!E#yZ*+#-K#*-Z+lyE#M*+ZhrnEC*-ll,*EJ*Kl*;Z#+Ah+ZJ5##*l+Av-+K**yJGK;E*-CA_;#EKC+h#l#C-J+2C;#Z*AlExZ;5*#ly CE-*llCJJ#K+E+JJA#h*y++=#Cl*5.-wl*;*#C+L*#ZJ5+Ehy#5*-+Z**#J*AC;nJCA*El{7AC#*l+C*-#l+;+JJ+#E5(++JE%y*AZ#%yE**J+K/C#J+A+;hT#AK#+ZKC#h*y** -5+*;KZbl+h*y+5Z##yl*+#-K#*lZ+K&;*?*+-h)J+C*#Al8*#,E++*EZ#+lh+Z;5##*I*CW#CK*;lJ?+EE*r+Alh#LlC+#hl#**J+yz;AZ*KJETZ55*#ly!A##hK+CEJ#KlE+ZhA#;*Z#5ah5l*5J-W6;;*JJKAE#Zl5++ly#CC-+lZ*#J+KZ;.Z#A*K5d75h#*y{Ch-#K*;+,Z+#EC0+Anyly*AJ#&lC**J+K C#J;A+;E}#Al#+yJC#h*Kl*P-5+**JZUACh*Z+5Z##yl*+#EK#5*Z+liEhf*+Jh<i5C*Eylr*5-A++*EZ#-lh+0Z5##Cl+C#-CK*;+Jw#5E*XKA!h*yKC+#!l#J*J+KZ;#Z*EEE6Z55*hJy(C#-*y+hhJ#KyE+Z5A#CCy+AJ#Kl*5#-Yy+;*Z++8E#^l5+ECy#C*-+lh*#-5lJ;IJlA*C+o>5##*w+55-#yJ;+-5+#E+_+KzhKy*A;#Ny#**E5K(C#J-A+;+T#AC#+JlC#-*yv*7-l+***ZmAEh*%+5h##dZ*+;5K#CJZ+KJE*2*+Eh9-#C*-+l45##C++*5Z#KJh+,#5#E*5-C<#yK*CUJ=KKE*J+AJh#Z#C+hhl#5ZJ+KX;EZ*KEEwJd5*#ly?5##-K+CCJ#+CE+J5A#h*Z;5thll*CZ-&K#;*-+KJE#JJ5+E5y#C5-+dt;;J*lE;oJlA*EZkx+##+l+55-#yJ;+h=+#**Z5AoEly*AE#_J***-+K#;#-ZA+*+P#+J#+J65Z-*yh*?-l+***Z(l#Ely+AC##JJ*+#CK#;*JZ+r;5T*+hhQyEC*#+EC*#-J++AZZ#+lh+b&#l#*7JCO-CK*;+Jzl#;;a++Eh#MlC+#Jl#5*-KKS*5Z*KJE1=C5*E+y#C##lK+CEJ#yyE+-LA;h*ZJ5Oh5l*Ay-{K5*EZ+KEE#A_5+hZy#CC-+l#*CJ*++;7A+A*hKLv5*#Kl+CI-#5I;+JZ+#E*AEAcE5y*5J#Sl#**#+-Z;#JyA+E5j#A*#+qJ5#-*y#*N#++*E+ZPA#h+y+AC##l**+-EK#*5-C+I;ln*l+hQy#C*h+ll*##J++*5Z#A+h+3dAZ#*9;C?##K*;+J1+#;Jc+++h#oCC+#sl#**ACKo*lZ*K*Et/E5*h+y;C#hZK++5J#lJE+JJ+Ah*ZE5Q*#l**+-Ly#*ZZ+K5E#JJ5+h#y#C*#AlUCyJ*li;vZ#A*h+Z;5#E#l+5h-#K*;+J%+lE*JEAf;sy*Cl#0y#5#J+lC;#ZCA+;5W#5*h+yW5l-*lZ*sJ#+**+ZCA#;Jy+A5##l5*+hgyh;*-E+G;l9*AZh/Z#AC-+y5*##J++5;Z#K*EZwZAl#*VECx;*K**+-#+#*Z:+K+h#ZJC+#&*l**#EK{;CZ*A+EkJ#+C#+H5C#hJK+*JJ#l*hyZB+lh*ZE5_#Cl*5+-+K#CJZ+K5E#-y5+;(U-C*hElTClJ*+y;SJ#++h+ZC5#Ell+55-#?**+JzKKE*ZKAu;My*++h6l#5ZJ+l5;#-#A+E%Zl5*EJy85K-*Kl*3-#hZE+Z5A#E*y+AE##l*-E-_l5;*JJ+>E#j*++AZy#5y-+l5*#EK++*JJEA*;#in++#*l+C -#lK;+-C+#E*O+Ahh#:55K#/yl**E+Kq;#Z*K+;+{#+J#+P5C#-+K+*7-l+**;ZX+#h*y+5)##lA*+#+K#*CZ++uE#1*l#hZIlC*h*ls*EJ*K+**Z#KZh+#55#EJl+5J-;K*CEJ<Y#E*V+A.;#!#C+h5l#5JJ+K#;#Z*+lE/Zy5*EayMC#-*K+*KJ#l#E+JhA#h*y+59#ll*5E-9yP;*Zl+U;#Z#5+ECy#CC-+y5*#J*K+;dJlA*EZN75##*<+*--#yJ;+-5+#E5Q+KBELy*AE#Wyl**-ZKjC#-2A+;5N#+J#+-#C##*ly*{-K+*C*ZN+lh*J+AF##>Z*+#5K#C#Z+yI;h7*+hhTJlC*hhl0*#-Z++*EZ#KZh+NJ5#h*;hCU-lK*+ZJQK5E*r+h5h#UlC+#hl#**J+y3ChZ*KJE,Z55*#lyYA#hCK+CEJ#KlE+hEA#;*ZK5ch5l*5J-6k;;*JJZ-EhZl5+-*y#CC-+lZ*#J+KZ;mZ#A*##)p5h#*yLCh-#K*;+hh+hECP+A_yly*AJ# l5**J+KMC#ECAK;;c#AJ#+ZYC##5lJ*b-++*5AZ6A#h*y+5h##4Z*+-{K#;yZ+KJ*/!*+EhpZZC*-+l95#JC++*AZ#AKh+J;5#h5y*C{h%K*CCJF+#E*H++Ah#ZJC+h5l#5#J+l9yKZ*KhE_#-5*EEy05E+#K+C5J#K5E+Z)A#;*Y#5Ohll*5E-}T*;*JlK-E#J-5+EJy#C*-+rtC*J*l;;cJyA*;l0PAEhZl+5+-#l5;+J)+#**JCAX;9y*A*#3J2**-+lh;#-hA+EEO#A;#+yx-Z-*y**8JE+*ElZR+EE-y+AK##ll*+-jK#;*-#+m;yv*+ChjyEC*#llJ*###++ClZ#A*h+Nj5+#*NECchRK*;lJjK#EKF++Ch##JC+h5l#**-+K(*lZ*+ZE_z#5*E+y;C#hJK+C5J#+5E+-PACh*ZE5_hll*KJ-ay#;KZKK5E#JJ5+C#y#5*hClnCKJ*y*;(JlA*h+555#EJl+Ch-#K*;+#}lhE*JEAaEly*Cl#iV#5CJ+l5;#-JA+5E3#+*EKyd5l-*yE*,h#+**+ZhAh;Jy+A5##ZA*+#8ll;*-h+q5A6*+Eh=y##J-+y5*#JK++;oZ#K*;KkTAl#*FECL-EK*C+#Z+#*JO++5h#-lC+Enph**#EK)*lZ*l+EHJ#5K#K%5C#hJK++#J#K*;hZ^+Kh*ZK5Nhll*Cl;9KhCJZ+xAE#_*5+;9ZhC*hElgClJ*KC;U-#AKhKZ55#EJl+AC-#l*CCJdKKE*-EAVEly*++Z+l#5ZJ+l5;#-#A+EqZ#5*EJyU5K-*Kl*i-#+AE+Z5A#;*y+AE##q*5*-3l5;*JE+^*#z*++EEy#5l-+yE*#-l++;EZyA*;J.?Ay#ClKCr-hK**PJh+#E*d++AhhyCC+##lC**J+KGC#ZCAKE2J#+C#+xEC##JK+5sJ#l**KZ7+5h*ZJ5!h5l*5+hZK#*lZ+KEE#-;5+hE#;CChJl15hJC+K;gZhA*E8Ph5##*l+AZ-hKC;+-J#*E*JJAi*Cy*C+#8O#5AJ+lE;#JlA+C*Y#+*EKyO5A-*lE*X##+**+-ZA#Eyy+A;##yl*+-EPh;*--+(*y/C5KhLy#C*#?lh*#J*++CAZhACh+Jr+h#*8-CM-lK*C+Jjl#*CR++;h#IyC+hEl#5*#KK%*AZ*K-E6-K5*hJ#-Ch#yK+5+Jh+CE+ZZA#h+gZ57##l*A*-ZKh;*Jl##E#Zy5+*hy#C*-+lnC*JCl-;uJCA*;-m6+#;#lK5;-#ly;+hl+#**6KA0E+y*5E#v1#**-ll#;#-ZA+5YY#5*#+Z25#-*yh*P-K+*;IZdA#Ehy+A5##y5*+#EK#;*J5+8;yP*+-hUy#C*-+yK*##Z++*AZ#A5h+Zi5+#*B#Cx-hK*ChJ>+#ZJa++Eh#yKC+# l#5*#KKP*5Z*KJEm<E5*E+ZZC##lK+CEJ#lAE+-XKhh*ZJ53h5l*Ay-HK55CZ+KEE#C-5KhZy#C*-+l#*CJ*++;iCyAChKiu5#yJl+5E-#Kl;+J&+#**hKAZEAy*5E#W%;**-ll};#-9A+Cyn#5*#+yW5--*yh*XJ#+*;-Zr+EEyy+A5##&h*+-gK#C*JC+4;yN*A#hHZ;C*#ll-*###++*KZ#A*h+IvAE#*rEC>#lK*C*J1K#yZP++Ch#-;C+h5l#C5A*Kx*lZ*+lE>r#5*E+6;C#hJK+C5J#y+E+JJ++h*Z;5ihEl**+-_y#;KZ+KAE#J-5+;Jy#55#;lF5qJ*Kl;aZ#A*;+aA5#E#l+5+-#Z#;+-b+AE*JCAgEJy*5A#fl#JhJ+l+;#Z5A+EJ/#A5hly!AZ-*l5*4J#+*E+JKA#;-y+AK##l5*+#Jl#;*-*+YCJu*5+hmy#55-+y5*###++;JZ#+*;-7_AK#*-EC2#lK*;+-t+#*J8+Ahh#y*C+E3yE**#EK<*lZ*AlE=J#Al#+(5C#hJK+5-J#l*;ZZZ+lh*ZE5x**l*C+#EK#CZZ+l+E#JJ5+hpClC*hEl_*CJ*++;V-#KCh+Z55#EJl+CJ-#y*CKJuKlE*JEAS;;y*A+EZl#5JJ+l5;##*A+*/}C5CEEyf5l-*My*V-#++E+JCA#Cyy+A5##l*-E-pll;*JZ+&E#s*++;Zy#AJ-+y5*#J5++Cd-hA*;E(xAl#*0yC!h#yC;+-5+#*J_+l(h#Z*5Z#Zyl**#EKRA*Z*++;h_#+Z#+ZZC#hJK+CJE#+C*EZ,yyh*y+5WE#>C*+#5K#CJZ++KE#J*AZhZ(lC*hEla5KJ*K+;JZ#KZh+J55#EJl++MZ4K*ChJ1KlE*J*Agh#ZZC+hEl#5ZJ+KJ;#J*+KE0%l5*Eyy!55-*y+*;J#KlE+Z5A#;Ay++7hyl*5J-Ql5;*-J+?E57K5+EEy#SE-KlZ*#JC++;#ZCA*h+ _ZJ#ClKC!-*KK;+J%+#K+YKAZh#Z*AK#uy5**-EKjC;Z*K+*Zc#Al#+MEC##lK+5z#h+**JZ_+5h*JA53#5ZC*+#EK#l+ZK+ZE#e*5+h#yCC*-+l:y*JC+K;0Z*AKh+}z5#AKlKCZ-#l5>uJjK5E*#ZA&h#y*A+E-l#ClJ+lE;#hWA+EeA55*E-yo5C-*lK*N##lCE+J*A#EJy++-##c*5K-ol+;*-#+1;5P*AJ*Zy#Ao-+EZ*hJC++;zZ#A+EZF>5##*EKCZ-hK*C+#Z+#*8}+A5h#ZAC+E,_h**##K7*+Z*KJEnJ#+C#+k*C#hSK+ACJ#+lCKZm++h*;K5Z#hl**+-FK*;KZ++zE#*C5KhZy#C+#Zls*#J*#l;ZZhA*El*#5#E,l++h-#K*;+#9l;E*J#A2E+y*+l#%l#J-J+l;;#JyA+;*=#+*EMyI5+-*lE*I#;+*;lJAA#;Zy+l&##l**+h(lY;*-h+N;KY*A6hqy#5J-+y5*#-5++*EZ#A*EC,kAy#*/-CW-#K*;+JA+#*Z ++Ah#y5C+h7EK**##Kq;hZ*KhE37#hJ#+2EC#-KK+*eJ#l**KZj+5h*ZJ5R#El*5+hZK#*lZ+KEE#Z-5+;<ZhC*hJlFC5J*yy;zZ5lCh+ZE5#JAlKCZ-#K*;+J#+CE*)+A%-;yCCK#{l#-JJ+lE;#ZlA+E?j#+*#yyu5A-*lE*iJy+*;lZ#A#;Ny+Ky##l**+-Ty&;*-h+7E#8*A-hkzE5C-+y5*##K++;kZ#+5EJu0Ay#*-hCf-#K*;+-A+#*#f+ACh#y*C+#xGZ**#;Kw;EZ*AlEzZE5l#+o+C#hKK+*/J#+*K5Z4+lh*ZE5<E!l*C+-5K#CZZ+yyE#JJ5+EJyKC*hElNCEJ*++;n-#Ayh+Z55#EJl++#-#l5CZJ4KyE*ZlAHh#y*A+h;l#5-J+lA;#-5A+;JZ;5*E*ye5E-*K+*W##lCE+J+A#;#y+K+##y*Ah-ZyZ;*#5+V;-{*5+h*y#A#-+lJ*#J5++*J-GA*;Cs)KJ#*l+C?-#yZ;+-A+#*h2+AJh#95Cy#:t0**-#K1;#Z*A+;J%#+J#+M+C#-5K+C!-K+**hZ.ylh*ZE5k##CJ*+#5K#;KZ++rE#J*+KhFklC*hEl_*EJ*l+CZZ#KJh+Z55#h-l+AB-CKCCEJnKlE*hXA>E#y+C+hCl#A#J+l5;#Z*EEEiZl5*hZykC#-*y+5ZJ#lJE+J5A#h5y++QEhl*5E- ll;*J;+6*#JC5+E5y#AJ-+Z?*##*KZ;ZJlA*;EW.K;#*y+CA-#yZ;+E;+#*J%+AByly*AE#alC**J+KPC#-CA+;5X#+J#+yJC#h*yK*m-l+**EZIAyh*Z++Z##aJ*+#5K#5*Z+lTECrC+EhrolC**%ljC#-A++*CZ#KCh+Z55#h5J+CZ#lK*+;Ju+#E*J+KZh#ZJC+h5l#ChJ+y ;CZCKEE?Zl5*;hye5##-K+CCJ#yJE+J5A#**K*5_hKl*5E-,y{;*Z++-E#Zl5+ECy#C5-+y_C5J*KE;:ZyA*;JW,+#h+l+5E-#lJ;+JA+#**ZKAbE5y*AJ#Fy5**-Jl;;#JlA+JERh5C#+yZC#-+lZ*PJ#+*-JZZAhh*9{5h##l**+y+Kh;CZ+ln*hU*+Jh6ylC*#;l 5##C++*EZ#+lh+ZE5#E*2KCb#5K*CJJzy-E*ZJlZh#HlC+_+lh*CJ+K7;#Z++ZE{o#5*Z*yZCh-*lY*hJ#+*E+KKAhhCy+AJ+*l*5J-pnC;*Z++9*#JA5+EEy#5l-+Z**#J**J;<JAA*;Z3WAh#*o+AZ-#y{;+J5+#;-=+KT;hy*A##2y+**#JK4;5EAAK;*M#;+#KyZC#-CK+*#JC+*E+Z=**hCyK5G#*lK*+-pK#hZZK+ZE#J*+Kh/4+C*#El^*yJ*l+CZZ#Kch+Z*5#hll+AjhhK*C#J?K+E*#hABh5#ACKh*l#EJJKKZ;#ZCA+E#MC5*#+yjEl-CKK*r-E#+E+J*A#*Ky+5O##c*5y-Ol+;*-#+w;y_*5+lAy#5y-+y;*## ++CTZlA*;#mo5l#*y;CU#El-;+-C+#5*g+ABh#Z*5l#nyK**#hK7;*Z*A+EA_#+J#+ JC##lK+*O-E+**;Z1+Ah*y+52##>Z*+#CK#C-Z++JE#Z*-hhfI+C*-Kl?CKJ*l+hCZ#A*h+aE5#E#l+C#-CK*;+J>A-EC2KAqEE-*CK#Kl#CZJ+K(;#Z*lAEpZJ5*hEyTC#-*K+_yJ#KhE+ZJA#E;y+5##Cl**+-v+Z;CZK+XE5hA5KEZy#*#-KlZ*#JC++;#ZCA*h+_{C)#ClKCs-*KK;+JM+#hhGKAZh#J*A3#Oyh**#EKk5yZ*+J+*F#Ah#+KCCh-CK+*JJ#++;ZZ7A#h*lh5Z#hl*CJC*K#;CZ++;E#,C5+hJy#C+#Zl9*#J*K-;FZhA*El#V5h#Cl+CC-#K*;+JTElE*jlArhEy*C+#Vl#Z;J+KZ;#Z5A+E-V#5+hZyaC#-*lJ*JJh+*E+JAAhhly+5=##l+*+-E1h;*JJ+FhKiC5Khoy#C*#)lh*#J*++ECZhACh+)#5C#*l+CX-5K5;KJuKE5*MKAEh#%ZC+#_l#5*#KK2;AZ*+ZEIZC5*#+;yC#-lK+*JJ#KtE+Z#ACh*y+51#El5*K-XK5+AZK+5E#(*5lhZy#CC-+l#*CJ*++;cZ#A5hK:z5*#Kl+C3-#K5;lJZ+#**-KAZhyy*5E#{y+**J++Z;#J-A+EJS#5C#+yEy+-*lJ*cJZ+CEKZ%AEh*cQ5h##l**+JKKh;CZ++s,ld*AJh3yEC*-+lM5#ZZ++;EZ#A+h+fy5##lh#C0-hK*;ZJZ+hE*_lAuh*yKC+#9l#;KJKKZ;#Z*+KEZR#5*#Ky^C#-*K+*uJ#+**;Z{A#h*yy53##l**+->K#lZh++JEyg*5+h6yJh;7++-E-KE5E#;llChy56J5K#*l+CW-J*+hhyl5--#lh;lJ#y55-#Wl#**J5;l#llyCE-K5J55hEyGC#-*K5-yy#5A#A+;*sJh++;;#Ell*+-jK#;EK+Ey-*lB#Ch-y#C*-+l *#J*++;/ZhA*hl9+5##*l+*ll 5yhll+5*#E+E*CZ-KJ;;#JlA**J+K/;JK-**-KK#*ZJAy-C#-*K+*nJ#+*AhhmAEE-y+5x##lE#ls5AZ#ylA;*-lK;;+J;yECK-+lp*#JE*h-+l+**hlc55##*l+*lZEAJhCyE5J#-K*;lJ#y55Z#?l#**J5*l#*yK*+EZwh55E-y_C#-*K5JKyICE#JlJCZ-JK+;CZ-5;ECy+5KhEy;*+#ZK**hZlK*C5#;lf*#J*+5Jyl#CA-AAl;JZ#+-E/U-K5*aJG+#E*^5*CJ#K5Cl#hl#**J++l--l*Cy-yQE5+#+y C#-E*+-lKy+5;#Z A#h*y5#+Z-+JECzC5##*Zl+yE#f*5+#l5hE+Zh5y-hy+5C#ly-EEJyK#;AZ;llCK-#K*;+Zl;Z-+l-*;JZKJE*ZKA--5B+5#;EJdA+E:)#5Ey5+-EsZEA5h# J+AE+Z!A#h*y+52-#J;*l-*K#;*Z+AlJhK*;yJ#+JEyd+lrAlJ*++;!JEJ5h+ig5#hEl+C3-#y*ChJd+#E*/+APEAy*5lh*l#*5J+K+;#Z*A+E&ZC5*#+yYCE-*Kl*IJ5+KE+Z>A#E-y+5Z##l**+-#KC;*Z++zEyY*5KhrXEK*-Kl7*#-E++; Z#K*hlXZ5##*l+C{#YK*C+-;+#E*/+A9h#GyC+hJE***JlKY*KZ*A+E?9#lA#KyvC#-5K+*JJ#+lCKZWA#h*-h5{#hl**+-vK*;KZ++:E##Z5+hZy#A*EKlZ*hJ*++;9JAA*El*#5##Al+5h-#K*;+Jbz;ECUKALh;y*Cl#ol5KAJKKZ;#hZA+EZg#5C#+y#CC-*K+*ghK+*EKZ,+EC*yK5Z##lA*+-}K#C*#*+tEhQ*5Kh&x;C*#ll**#J5++**Z#A*h+s&Ay#*lKC&-EK*;lJry#*hp+AZh#0hC+hhl#C5JlK8;EZ*+JE9%#5*E+zCC#-5K+*JJ#KAE+JJ+Eh*yy5F#Al**+-HlE^JZ++#E#fC5+hty#55h#lv*CJ*K-;7Z#A*El{Z5##ll+CA-#K*;+J9KyE*PlA&h5y*Cl#.y#*AJ+KZ;#J;A+EJw#A*KhyFCh-*yJ*6J#+*C+J#A#hCy+5C##y**+#JZ#;CZl+)E;B*5+hxZ#AC-+lJ*#J5++*-Z#+55+.F5;#*yZCF-#K*;+-A+#E5X+AJh#y5C+hJy;**JyK&;5Z*A+EqJ#Av#+y-C#-AK+C-J#K5*-ZdA*h*ZE5H##l*Cl#;K#;KZ++;E#g*5+EJylC*#JlSClJ*++;cJE-+h+_;5##yl+C0-#K*ClJG+;E*Z-A0hEy*5+hKl#*5J+Ky;#ZAA+C{ZK5*#ly 5h-*yE*m-EK:E+Z-A#h+y+57##O**y-&K;;*Zy+g;;s*Alh#y#C+-+y5*#J*++*JJhA*EZoP5A#*l+Cx#Eh+;+JE+#EyS+Aeh#y*Ky#Zl;**-JK8;EZ*++lCv#55#+yJC#-AK+Adh;+CElZM+Eh*r#5e;#M-*+-JK#*+Z+KAE#Z*-hh:yEC*#El%*hJ*K+yCZ#ACh+S55##*l+C}#hKC;+J_+hE*&+A%h#y*C+#pyJ**J+KM;EZKA+EB%#5Ed5+#;Cq*Kl**J#+*E+_lE-J*K5;yJZ+J;7-JlZ;*Z++cEJ+;*CZ++K;EZ;5+EZy*5h-ly*A5ENjc5##*l5EC/#A5;lJh+#E*a+5ldy+#;CZylEC-J+KO;#ZEE5J+lJ*;I5+-E2X;AEEJJ;+*E+ZnA#h*y+5t##lC*+-JKA;*Z++oEJ+-;*JK+#;ZZAlJ*KJ*++;6ZJ;--EKl;*J;+wE5(KK5*EJQ+#E*g5CJJlKh;JZlAyh#y55>;EJ-A+Et&#5Ey5A+EKlEAEh;yAC+-Al7AEEZy+5i##lE-*?C5J#AyECK-#K;5lhCy#C*-+Kl-*0Z55#yl2CZJ5KH5#E#l+CU-#K*JEJ%+#E*3+ATh#y*5JC-lh**J+K#;#ZCA+EZn#5+hZy0C#-*l1*HJh+*E+JZAhh*y+5Z##l**+-m;l;*Z++%Ehs*5+hxy5lA-KlS*#-i++;ZZ#ACh+8#5C#*l+C=-+K*;KJu+*EKx+AHh#1-C+#Zl#**KEKS;#Z*AKEI,#5*E+JZCh-*K+*=J#+5E+Z)5hh*y+5&#El**K-}lEA*ZK+LE#ZE5+hGy#A*K#l4*#J*++;FZ*A*El/*5##Cl+Ch-#K*;+JfKCE*N+A2hEy*Cl#!l#*AJ+KZ;#Z5A+E:w#A*hKy C#-*KK*rJh+*C+ZlA#h*y+5-##ly*+EilW;*Z++B;39*A#h{J#+A-Klj*#-h++;*Z#l*;E:B5##*yJCo-+K**lE0+hECz+AAh#y*C+hvEK**J+K1;KZ*AKE, #hJ#+yZC#-AK+*/J#l*;ZZZAhh*yK5r#ll*C+-*K#;*Z++5E#XC5+hF+#C*-+l9*hJ*++;bZ#+ChK c5##Cl+Cw-#K*;+JY+#C;4+A<h#y55Z#tl#**J5*a#Ky*C#E-_#5*#+y3C#-*x++bJE+KE+Z%A#hE5K;5ZK+;*y-rK#;*Z++=##;;l+hJ>-C*-+l?*JKC5.#Cl-EC-UKK*JJ;C5E->*5y#AJJ+5E*}+AxhJK;E*3KAAh*JlK;;#Z*A+hlAy;#JC+kEKZ;Ky*bJ#+*E+Zg;#+5-+5J#5l**+-?KJ-Ey-C5#-C-5lhAy#C*-+Kl#J3J5+#KlJ**Z5++;KJEllCA-#K*;+Zl*--*ly*y<JKJ;-Z5+ZJEJyK%;#Z*A+ERz#A**+yJC*-*K+*4JJ5Z-+yJAEhKy+5%##lE#hy+5+#*Zl+hE#W*5+#lA-E*ZyAy*E-Z++;fZ#AEZAK}*;J;55E#ZC5*;lJ*+#E*H+5lJhKh;EZ*5Z-5KCKJ*CZ*A+E(sJE5JE+KEA%;CAh5lhC+-+yJ*y-JKC;yyy+JEaaCA-;5JZ+,E# *55 l+A;JZAl-*#J*++;iZ#-*Al#%5E#yl+C9-#KEJ5y5CA#JlC#lhEylC+#{l#*El+;y#*ynhCE-N#5*#+y7C#-*#E+uJE+AE+ZUA#hE5ZJA#Ey-*+-HK#;E+lCs#-+-*-Z+K*E*ZCAl*E-J++;_Z#AE-lK5*ZZl+5EA7^5E#+JJ+lE*t+AwhJ5EEyv++Zh#y55y##yhAyE6O#5*#+y0C#E+Z+*JJl+*E+ZaAJZ;++*-J-Cyh*yK5##yZy+ E#B*5+hIy#C*-+lJChJ*++;1ZJEA-+K*;qJZ+EE#8-ChhEy55-J-K**K--y55A#tl#**J5*l#ly*CCJlK#EEZ*+C;JlhAEh;y-+AE+Z9A#h*y+5U;2J**y-7K#;*Z++jE#l*lAh-y#C*-+lb*#J*A+5yZEAlh+6.5##E+;h+>*Ahh5JJ+CE*2+AzhJAE;^JhA#*5-hKk;#Z*A5Z#KK*EJAA+EK=E5+*JJK+*E+ZkAJZ-KE;lZ*+;E_:55K;5JZ+1E#T*554y+#E#Z#lJ*+J*++;qZJE;J+Kl*-Jh+E;#-Ely;+JS+#EEAC;+JJ+lElZKAlE*.hCy--yh**-ClJ*-Z*+KE#ZZ55E#JEK#E+ZjA#hEA-;5ZJA#E-lA5A##c:CF#Zi5A-h7y#C*-5A#hyy#5P#KyJA5;-_f5##*l5#yH#AAhAKl5-#hlE*EJ#A;;C{+AKEE6;C+hZl*ChJll*55h-y C#-*K5h#yK5E-+lKC-h5P55o##l**5KlA#hhyCCH-Kl;h5Z+++E*ZC5+*#K+++;VZ#+5C+NZ5##*pECo-#K*C+#Z+#E*x+AMh#J;C+#^*l**JKK_;#Z*A+ER_5yA#KyZC#-lK+*ZJ#+CE+Z#ACh*y+5/#5l**K-PK*;KZ++0E#Z-5+hZy#C*lElG*hJ*++;3Z#A*;+-Z5h#Cl+CZ-#3Z;+JWAhE*LKA!hEy*CK#Bl#E;J+KZ;#ZCA+Eg%#5*Z+y)Ch-*K+*)J#+*;lhsAhhCy++###l**+-w;l;*Zl+4Ehr*5+hzy#J;-+lZ*#J5++;-Z#A+EZ%j5##*yKCf-hK*C+hZ+hEl_+Ahh#JZC+#vKh**-JK(;EZ*AKEa}5Zb#+yZC##;K+*ZJ#+5E+Z#ACh*y+5Oh-l**K-IK#ZKZ++ZE#G*5+hpy#C*q+lR*hJ*+K;jZ#A*ElJ55##Cl+A+-#K*;+J0KCE*_lAVhEy*C+#I)#*5J+KJ;#Z5A+;CL#5*ECycCE-*Ky*&J#+*E+ZAA#hCy+5I##lA*+-#KE;*Z++dZh_*5Kh=y##J-+lE*#J5++;cZ#K*;K}o55#*yJCXhyK**JJ#+#EKH+Kxh#yCC+#El#*+-ZKN;#Z*K+EmYh5*h)yhC#-*K+-ZJ#+CE+ZLhlh*%J5B#;l**+-wK5+AZK+EE#J+5+hZy#CC-+l#*CJ*++;4-*A*hK2u5*#Kl+C6-#3J;+JZ+#**JKASh5y*5Z#aP+**J+;5;#ZyA+EJs#5*#+ZkAh-*l-*xJA+*C;ZFK#;Cy+5;##ly*+h*K#;lhT+ZE5t*hKh_yhC*#-lR**JK++;rZ#ECh+7Z5##*CEC.-5K**RJT+#E*Y+Kyh#yyC+#hl#**J+KdA5ZC+JE}1E5*#ly_C5ECK+*EJ#;CE+ZZA#h*y+5##Cl**+-n*h;*ZK+2*#JC5+hEy#CK-+yA*#JlyK;!Z5A*eKj}5h#*l+C)-*KK;+JB+#ZCU+AZh#Z*+K#ZlA**-JKz;CZ*+ll#H#AZ#+QyC#-*K+*kE;+C;-ZiAKh*yl5T#5ZC*+-;K#JCZ++ZE#/*5+h#yCC*-+lO-hJ*+K;,-#lChKj;5##*l+5J-#y*,ZJ=+KE*ZJAT;-y*A+#*l#CZJ+KC;#-yA+EPZ#5*h-y2CK-*Kl*X-ElhE+Z*A#;ly+5T##(*Cu-SK+;*J#+U;ZN*AlEfy#5Z-+yK*#J*++;4JJA*E#ri5E#*llCf-#KK;+J*+#E*/+Aeh#y*J;#:l+**J+KR;#Z*+lEE^#AZ#+&EC#-*K+5X-C+*;hZYAKh*_C5MhE/Z*+-5K#CEZ++_E#Z5AZh yyC*h5lB*#J*Kl*ZZ#+#h+Zl5##*l+5J-KK**CJ,lJE*z+AGh#-ACK#Cl#ChJ+KJ;#J*K#E30+5*;-y>CK-*K+CKJ#KQE+Z_A#h*y+AJhyl*Ch-Tl5;*Z++^*#Z#5+hCy#5Z-+lK*#-5Kl;3ZlA*;yS35##*yl5--#l-;+-l+#E* ++Jh+y*5*#XgJ**J+Kv*EC+A+EK7#+##+y0C#-*CE*uJK+*;CZ AEh*c+5;##y:*+hhK#*ZZ++^;ht*A#h3y#C*-+l)5#JC++;CZ#AKh+4l5#h*yyCw-+K**AJ<+KE*V++;h#8uC+#,l#**J+lJ*yZ*+hEPZC5*#+yaA#hCK+*CJ#KZE+JZA#E5*E5V#ll*5--0K#;*Jl+JE#Z-5+E#y#C*-+yJCCJ*K*;e-JA*h+g(5#hEl+CC-#l#;+JJ+#;*Z;A6h+y*5;#XlK**J+uE;#JnA+Eq!#5*#+JVCA-*l#*=hZ+**lZPA#;Jy+5*##l**+-fK#*5Jl+MEKM*5Kh^y#C*h+y**#-Z++;CZ#AAh+JB5C#CyhCO-KK*C+JxK#;J(+A*h#yAC+#Cl#**-JKZ;+Z*A+E=.#5*;+4-C##vK+CPJ#+5E+ZOAyh*8#5.##l**+-n7#*;Z++*E#-J5+;-y#C*#Jlv*+J*++;fZ#A*h+ZJ5#hZl+Ch-#K*;+-GKAE*Z#AchAy*5h#<yEC#J+K*;#-#A+ENz#A5#ly>CK-*yy*_J#+*;lJ#A#EJy+5+##l**+#Jh*;*J;+^*;s*5+h4y*+*-KlC*#+y++;ZZ#+5lgruAZ#*yyCO-#K*;+AZ+#;EF+A+h#y*C+#.l***-CKx*ZZ*+5Enk#A-#+ylC#-lK+*1J#+**:Z(+-h*wZ5i##l**+#-K#**Z++KE#i*5+hnRlC*#5l8C#J*+l;8JE+Kh+Ry5#Ell+CB-#y**;JXK-E*ZAAkEZy*5lCIl#C*J+lK;#Z*A+E,{y5*hAy%CE-*Kl*0-EKyE+JbA#Ely+5^##(*5#-Ll#;*J++T;Z%*Alh5y#5C-+yl*#J*++*JZlA*ElS}+J#*l+Ct#ElJ;+--+#*E1+A>h#y*+A#wy***-#KO;#Z*A+5-0hA*#+/#C#-5K+Cc5K+*;AZsKAh*^+5phEKE*+#NK#*lZ++WE#J*AJh>b#C*#+lFCZJ*Kl;*Z#+Ch+J-5##*l+5J-+K**lJVlJE*)+AzEEG;C+h-l#5EJ+K>;#J5+#ESZ*5*E*yLC#-*K+C*J#K*E+J#A#h5y+A_CJl*CA-wyC;*J++x;E1C5+ERy#5Z-+lr*#J*KK;xJhA*E*sz5##*ylC#-#l5;+-*+#E*O+AsEly*5y#oyJ**J+KW;#-JA+;r.#A*#+>-C##*lA*B--+*;AZ)+#h*=lZK##y**+#hK#;*Z+luECt*A+hX7#C*#KlYCE-;++*ZZ#A+h+Rz5#h5tZC>#EK**SJb+#E*ZlAEh#2AC+##l#**J+K:;*Z*++EIZ;5*#lyb5##JK+*yJ#K-E+JtA#**Z 5th-l*AE- y;;*JlsuEhZ*5+hZy#C*-+.n5hJ*K+;}J#A*hyww+##KlK5B-#l*;+J5+#;*Z<AQE-y*Cy#My#**h+JJ;#J;A+;>V#+C#+y^C+-*l+*3JC+*E+Zm+#;Zy+5y##ly*+#vK#C*Zl+6E+4*A#h)ZYC*#ly-*#-*++;EZ#A*h+JqA #*y+CQ##K*55JB+#;C<++Zh#yCC+#Ul#**-#Kz*EZ*+AEB3#5*#+yCC##*K+CJJ#+CE+Z#lyhC:h5.A#l**K-_K#JJZ++CE#BK5+hTy#55ZXlk*lJ*lJ;!Z#A*;+!55#hJl+C5-#lh;+-JKhE*Z;A<;Jy*C+#xyE*KJ+K+;#J%A+Eb_#A5hKyu5Z-*y5*MJ#+*E+Z#A#EEy+5*##l**+-?yZ;*JE+p;J<*5lh81#JZ-+lC*##K++;5Z#A+EZ9<5##*CyCs-hK**J**+#ECQ++Ah#yCC+#Jl#*+-ZKu;#Z*K;EiRh5*#+_ZCh-*K+*ZJ#+*E+Z.A#h*y+AG##l**+-Jlh;*Z++%EJAC* J;+Ah;ZC5+hK}E5;-+yZ**-h+l**#5y#CW-#K*;5+lCl#Zlh*!JJK;Cl#;l#**J++lJyl#CC-tKK*;#lyhC#-*K+;ll-C*-*l*AEEZy+5:##lE#jxCAJh;l*CC-JK*5lhKy#C*-+Kl-lr*5A#;l*CZJ+5l;lZy+EEK-ElJ;+JF+#EEAK*#JA+y#5Z5AAEJfCKJ;*Z*A+EqWJ*ZZ+KJCE#JK+*_J#+EZAlN*y-;+yh*ZlA;h+-JlK;*Z++pEJA5;+Jy5y;hZEAAh#kh5Ah#+J*AJ*KC;EZ*AA#l:*55hhl+CAE5ZEAth#y*C5y-A*h5yy5;#*l5*y-ygEA+#+ynC#-ECEEL2-Cy#=lC*#Z;KCE+ZK+EE;y+AZ#*yh*l#*15A#hvy#C*-5*+h-oJ5C#Cl#**hlf55##*l+*llJ5A#*yKCn-ElA*!-Zy55A#1l#**J5;l#;l#CCJ+KJ*;Z++K#&d;5AhLy-+5;ZZ&A#h*y5hCZU+kh+-Zn;;*Z++YE#AJ5+hZy#C*-+l!*#JlZy;ZZhA*E:I>5h#*lKCx-*KK;+J/+#E+&+AZh#y+5Z#)l#**--K_;hZ*A+R5:#5C#+yZC#-*K+*EJ*+*E+ZiA+h*yK5!#hl*C!-hK#;*Z++*E#sC5+hzvhCC-+l)*hJ*++;HJEy*hK_Z5##Kl+C%-#y*CKJ?+hE*:KA<h+y*5l+#l#*5J+KA;#Z*A+Eb#55C#KyGCE-*Kl*R##+KEKZJA#h*y+A&##y**y-}Kh;*J++>EEr*5+y5y#C5-+lJ*#J*++;:#-A*hy/m5##*l+Cn-#Zl;KJJ+#E5d+AJh#_*;;#Vlh**--KS;EZ*A+El3#55#+y-C#-*K+Ci-A+*EKZIAKh*yl5T##yZ*+-JK#;+Z++&E#Z*AQhUyhC*-Klk*EJ*++;hZ#A5h+3J5##*l+C hoK*;yJv+#E*V+AXh#-lCK#Jl#*5J+KJ;#J*JKEN_h5*hJy0CE-*K+CCJ#+5E+ZhA#h*y+A #Kl**K-HlT;*Zl+!E#ZJ5+hJy#Cl-+ld*#-*KA; ZhA*hy,&5E#*f+C--#K5;+J +#;Ev+AEE#y*Cl#dsE**JKK1;#Z*+WEhM#5*#+ZJC#-CK+Cu5K+*EKZI+Zh*yl5T##CJ*+--K#;yZ++pE#J*5lhZy*C*-+loC-J*l+;lZ#A+h+e#5##5l+CE-#K**JJW+hE*_KAahhy*C+hJlh**J+KZ;#Z*A+Em/y5*hXyYC5-*Kl*TJ#++E+Z-A#h*y+5###d*Cy-9K;;*Z++NElb*Alh;y#CK-+l#*#J*++;dJ;A*hyjr5C#*llC}h#ly;+J-+#EAM+AJh#ylC+#olC**J+KP;hZ*AyENT#A5#KyWC#-CK+*qJ#+*+lZ.A#h*yl5N##l**+#JKh;*Z++:E#?*5+hV#KC*-ylW*CJ*+K;8Z#+ChKtR5##Cl+C^-#K5;+J(+#E5q+AGh#y55C#vl#**J5*5h#y;C--#KK;*y5+5EAZJAC*JJl+*E+Z_AJeCKf;;ZACEEEj;5lhhZ++AE#&*5+hXA-C*-+lj*#J*++;HZ#Alh+>Z5##Cl+CB-#K**KJu+EE*IlAfh#y*C+hEl#*CJ+KJ;#Z5A+;(ZZ5*#+yjCE-*KK*XJ#+yE+ZUA#h*y+5X##l*CC- Kh;*ZK+_E#v*5+hAy#C5-+lJ*#J*++;_-)A*hK{(5E#*llC1##lh;+Ji+#EC<+AZh#y*5K#Zl#**JKKi;#Z*A+EFW#5*#KyqC#-*Kl**J#+*E+IlEWJ;KE;KZKA*h+-ZK;;*Z++)E#AJ5+hZy#C*-+l4*#-*hh;jZhA*hKbB5##*l+5Z-hK*;+JZ+#E*&+A=h#y*C+#;l#**J+KJ*5Z*A+Es^JhEJ++K;Zj*AhhylJC*#-lI*J-;++EyylAhEZqe5Jh;Zl+CE#j*5+#lK-;JZh+{h+yhC+#KZEAKh+(o5##E5hh+r+5*;lJE+#E*q+5lZh+#;-J}A#*5-AK ;#Z*A5ZZK**ZZA5ZE*ZhA5hyKJCA#ql;*-h5dc5n##l**5+^5-mlZl+EE#a*5+#l++E#ZA5lh;JClJ;xZ#A*;+-Z5h#Cl+Cj-#KK;+-J#*E*iyA4hhy*C+# l#+AJKKZ;#ZAA+EJ(#5l;Ky:Ch-*ly*iJh+*E+ZxA*hKy+59##yA*+-ZK#C*-K+,EEt*5Kh_y*C*#JZZ*#J5++*-Z#ACh+4.5##+yZCP-#K**yJz+hE*J+KZh#y5C+#Zl#*+J+yNChZ*AlE=.E5*#yy2C5*AKK*JJ#KhE+ZZA#hCy+5##Cl**+-clZ;*ZK+cE*fK5+h0y#5A-+lZ*#-5X+;ZZ;A*hlWN5##*?+AE-hK+;+JJ+#Ey_++Jh+y*5J#:l5**J+K{;#JKA+E#a#5l#+yTC#-*l5*.J;+*E+ZTAEh*y+A;##lA*+-JK#;*Z++4#-W*5lhqyEC*-+ls*###+K;JZ#A5h+gB5##*yKCZ-#K*;KJm+#E*9+Auh#y*Cy#<l#**JlK*;#Z*A+hlK#*ZZ*AKEA0*5A*JJ5+*E+Z<AJ-Z+*;*Z#+E*l-*K#;*Z+Al#hK+*5-t+?EyZ5lZ*CJ*++;2Z#l;hK_Z5##*l+C>-#y**EJT+hE*dKA h;y*A+hZl#*CJ+KZ;#Z5A+;_{h5*#Ky4Ch-*K+*sJ#l-E+ZaA#hCy+5j##l**+-QK#;+Z++TE#w5A-h3y#C*-5AZh*yy5-#)l-A5EJz85##*l5hlml5yhEyK+E;Y}+APh#yE;KZ#+JE*y*5;hJZ5+JEUS#5*#5AKElZA5+hlJh+lE+ZsA#h*##5Z#hl**+-<K#;*-++yE#jC5+hZy#CA-+84C#J*+K;SZhA*EIT0+#h+l+CZ-#KC;+JZ+#;*J*A)hhy*Cl#ol#**J+KJ;#Z*A+EZ #5*#+y)C#-*K+*hJ#+*E+ZJA5h*y+5t#J5Ch*,;A##*Zl+yE#G*5+#l5hE+Zh5y-hy+5C#ly-EEJyK#;AZ;llCK-#K*;+Zl;E#*lhE#JKKCE+ZC+-EJwCA#;EZlA+Ev%#5E:5+;ElZ;;**JJC+*E+Z0AJ-ZKE;CZ#lCCA-iK#;*Jl;lE#.C5+hhy#C*-+,wCyJ*+l;7Z#A*hlS/AEEZl+C#-#KA;+J_+#E*JZAohEy*5w#elE**-JKJ;#Z5A+EKx#5C#+y)C#-+lZ*:J#+*;CZ4Ahh*Z+KZ#hlA*+-JK#;5Z+KJl*H*AZh&y*C*-+l0*#EA+K;-Z#AKh+BJ5##l-yCZ-;K***J&+hE*!KAQh*yKC+#Xl#C#J+KZ;#Z++ZE{3#5*hCy Ch-*y+5ZJ#+CE+Z-A#hCy+5eEwlC*K-(KE;*Z++zE#ZC5KhWy#CC-+l^*#J*++;IZ#A*h+S85##CllC -#K*;+yf+#E*.+A,h#y*C+#0yh*CJ+K_;hZ*A+E^^#5*#+yBC#-*K+*6Jh+5E+ZHA#h*++5 ##l**+-iK#;*Z+KZEh}*5+hZy#C*-+l0*#J*++CZZ#A*h+sJA-#*l+Cv-J*#h8y*CZ#JlA;5rp++;#yAA!EhgAKJ*ZZ*A+E47J*7JEKW;JX*A#h5{hC*#Cl=*Ah5V-5x##l**5lA5(hhl+CC#-u5A#h=y#C*-55Zh#yE5A#5yZhEhl4C5##*l+*llyAJh5y#5--+lE*ChEgJC+#)l#*EK55-#2yh**Jll-;*JCyJCC-*K+*BJJ54-*ly*;h5yl5 ##l**5y-KE*CZ++BE#,Ehy-/++E#ZhA5h*y;*C#5llC;Z;++*ZJ;llC;-#K*;+Zl;m-+l#*#JK+5Cl#Kl#**J++l-hl+*+#JKy*JJC+yhJ ++Zh.JEKAE+ZpA#hE5*;#Z+AhEE/yCl-El+CC#JK+*AJ#KhE+ZA+#*EJ5++;1Z#AEJ4XJ5+#*l+Cx-JCC#+ll5-#JlC#KhEc;C+#al#*EKK5##Kl;EK-#lZ*EJAClE;N+A-#yJEK;E+ZpA#hEAl;5JZAyhAKl5;##yC*+-Jl;;+JKyE5--+l=*#JE;l#=y-;---++**Z*+CEl-EKy;+JY+#EEA5EZ-Z+#;#Z4lECKJ+K=;#ZE;l-5lZ;yZA5yElyCA{h1BE5-#ElKC-Z-KE;#ZK+;*l-EK#;*Z+Al-yK#*^JKKJCA-+l%*#J*++;aZ#A*hl(h5##*l+*lM;A*#lyR+;E*x+Abh#y*C+#8J#*5-EKp;#Z*A5Z*K4;5Jh+#;-Z*5AhdJE+yE+ZoA#hE5*;#Z+AhEESyKE;+Z++7E#UE*hJvKEC5#ll6*#J*+5Z+l*C(JCK5*-ZJCK#5yh5J-Cl+C--+l+*lhEHEC+#Ml#*EK5AQhZyh*+-Cl-hEZ*+*E#Zh5**JJl+*E+Z&AJ-5KE;KZ5+EE;y+5J#*Zl+hE#T*5+#l5AE*ZCAA*E-Z++;zZ#AEZKK3;AJJA5E#Z-A+;l-J+#E* +5lee++;# KAlE;yE*l#+yJCE-yK;*ZZ++l;J-5l+*9J#+*E5A+**-^+C;5J-AJ#-.55J#lK#C5--K*5+Zhy#C*-+lqJlJ*++;XZ#A*h+uL55;Cl+Cb-#K+;+JZ+#E*8+A#hCy*C+#Ul***JKKB;*ZKA+Epk#AJ#+yZC##5Z+*ZJ#+**CZqA#h*Z+hZ##l**+-gK#C#Z++cEE0*5+huy#C*-+l!*#-Z++; Z#ACh+X^5##*6CCb-#K*;KJ:+hE*d++Ah#y*C+#Zl#**J+K:ZlZ*A+E)WE5*#+yXA#hCK+*RJ#+*E+JCA#hlJK5u##l*CA-pKh;*Z++8E*qK5+hjy#5;-+lZ*#J+KZ;xZ#A*E+8 5h#*l+5Z-hK*;+JZ+#E*}+A.yly*C+#:lh**J+K:;#h+AKEg{#5C#+yZC##5l+*QJ#+*;-ZtA#h*Z+AC##l**+-XK#*lZ++iEE:*5Kh2yhC*-+l^*#-E++;JZ#A5h+cr5#E*y5Cs-EK*;lJs+lE*ZJACh#y5C+h5l#*CJ+KZ;#Z++ZENU#5*EEywCh-*ls*hJ#+*E+K#A#hCy+AJ*#lC*l-il*;*Z++_E#K;5+h-y#CA-+l.*##*l-;nZ;A*hy2WAh#*l+CK-#KA;+J#+#E* +AeE*y*Cl#0l#**-0K0;*J+A+E{i#_h#+yZC#-**E*2JA+*;BZ&A#h*%JK##hll*+*KK#;CZ++;E#T+AZhTy#C*CClq*hJ*l+CZZ#Ayh+dE5##ll+CE*;KC*-JGlAE*RKAGhhy*5M#hl#**J+y;;#ZCA+E#/C5*#+y6yZ-*KK*^##lCE+Z;A#hly+5E##%*AK-ZKA;*J-+P;-)*AlK#y#5Z-+lC*#J*++;.h;ACE-SX5K#*llCu-5JA;KJ;+#CE1+AZh#yCC+##lC**J+KU5JZ*AKEpb*5K#+yWC#ChK+*ZJ#l**KZ2AAh*SJ5u#5l*5+EZKh;yZ++;E#Z;5+EJ;*C*#hl,C#J*++;9Z#yAhKI;5#hZl+CJ-#Kl5KJY+AE*ECAqhhy*C+#Sl**KJ+KU;#;hA+EZ>#+*;KyZC+-*l-*1--+*E+A5A#EJy+5J##l**+hSyh;*JE+uEl{*5Kh8y#KA-Kl**#-J++;JZ#Al*Km/5+#*#CCd-hK*;+JX+*EK>+Axh#hhC+#Zl#**KEKi;+Z*AlEne#5*E+E-C##,K+**J#+CE+ZPAKh*u#5(#Al*C#-Xy#*;Z++CE#jl5+hEy#A*#ylU*KJ*Kh;6ZKA*;+ZK5#hZl+CC-#y;;+J2#EE*ZEA8h#y*C+#Xb#5JJ+K5;#JJA+;-U#+*hJyT5e-*l#*fJC+*E+ZEA#EJy+5+##y-*+-EK5;*J;+<+Zq*5Khky#C*#Xlh*#J*+++KZ#ACh+ZJl##Cy*C/#JK*;+Jgl#CKm+A+h#!#C+h5l#**JKK7*ZZ*+ZEPM#5*E+>EC##hK+*KJ#K!E+ZI+Eh*S55n#Cl**+-^y#**Z++lE#ZE5+hKy#C*h%leC:J*K5;fZEA*ElZ#5#hhl+Cl-#K*;+#g+hE*ZCA:EZy*AE#px#C5J+Kl;#JJA+E*.#+*h*yG5--*lE*7-Z+*E+h-AhEhy+5y##l5*+-ol*;CJ*+B;>d*ACheZ#AC-+l+*#-#++**Z#AlEyz Ap#*#-C,-hK*;+J!+*EKa+AVh##yC+#Zl#*+-ZKq;#Z*ZCEm?h5*#+C5C##hK+*JJ#+*E+-7Khh*OC5HhZl*5;-dK5+-ZK++E#Eh5+hZy#5h-+l#*CJ*++;W;ZA*hKmo5#;;l+CS-#l#;+J?+#E*-AAshhy*5-#tl#**-J-*;#Z5A+* F#5C#+yJC#-+lZ*wJ#+**+Z0Ahh*jJy-#hlC*+CJK#;CZ++ZE#=+AZhVy#C*Clla*hJ*KY;hZ#A*h++#5##Cl+AcEhKC;lJS+hE*ZAAvh#5JC+##l#*5J+K!;#-*KKEcO*5*hvyQCh-*K++-Jh+5E+Z#A#h5y+5E;hl**l-0C*;*ZK+nE#R*A(hhy#C*-+5#*#JC++;)AlA*hlI}5E#*l+CBh#l!;+JJ+#E5F+AZh#y*5h#qlE**JKKS;EZ*K+EE0#5A#+yZC#-AK+53JE+*EyZrA;h*:h5,E#lA*+--K#;AZ+KyE#J*AJhzy*C*-lla*CJ*++;;Z#AKh+7#5##*l+A.EAKC*ZJW+CE*ZJAW;# %C+#hl#*KJ+KC;#-*+ZE>aC5*hZynCC-*K+*;J#++E+Z#A#hKy++eh(l*C>->K*;*-#+3E#Z*5+hhy#Cl-+l!*#J*K#;FZ5A*hlf)5##*l+C5-#Ky;+J-+#E*a+AqEKy*5##7l***J+Kk;#ZCA+Ehd#AY#+yJC#-**E*oJ5+*E+ZIA#h*Z+KZ#hll*+-EK#*AZ++NC-Y*A#hayCC*-+lW*#EA+K;EZ#+bh+&J5#h5-hCZ-AK**5J1+#E*J++Jh#yyC+#;l#5JJ+Ki*EZ*+#EfY#5*#+yYA##JK+**J#K.E+ZAA#;*ZC5R#+l*C#-3K+;*-++EE#Z<5+h*y#5y-+lt*yJ*Kh;mZ#A*h+Y>+#ECl+CC-#lZ;+JA+#**JKANhKy*5h#uyZ**#+C-;#JZA+ECL#Ay#+yoK;-Cl-*vJK+*ElZ=+EKZy+5*##yE*+-9K#C*JG+iE+k*A#h(GlC*h+ly*#-Z++;EZ#+,h+Jp5*#*yECn-AK**#J7+#EKv+ACh#0ZC+#5l#5*-5K.;lZ*+JE_ZZ5*E+25C##-K+*;J#KhE+Z}KhhCNE5?#ll*C;-pK#*-Z++*E#ZJ5+hJy#C*#*l9*KJ*+l;aZ#A*;+aZ5#hZl+CC-#yC;+#EKhE*ZhAgy-y*CK#uyA**-}Kh;#Z*A+yy&#5C#+y%-l-*lh*LJE+*E+ZYK#A;y+5C##yZ*+-+K#*5Jh+sEl8*5lhjy#C*h+y<*#--++;*Z#+Gh+fr5+#*y;C&-yK**hJ.l#ECQ+A+h#}IC+#Kl#**JyKN*3Z*+*E,YK5*#+t+C##JK+*+J#+CE+Z#ACh*y+5T%*l**K-}K#JJZ++CE#/55+hTy#A*JAl(*KJ*Kh; -#A*h+gl5#hJl+C*-#lZ;+JYKlE*ZEA!hAy*5E#dl#C5J+KA;#Z*A+E1x#+*h2y(Cy-*l;*x-E+**+ZyA#E-y+5A##lK*+#JKh;*J*+ME*8*5+h:Z#5J-+l+*#-#++*5Z#K*E5q4AZ#*y#Cs-+K*;+-++#;En+A)h#y*C+E7?h**-5Kj*JZ*+;EaJ#y##+ylC##EK+**J#+*;lZO+Zh*FC5ghJl*5+#*K#*EZ++*E#Zh5+hsB5C*#AlB*#J*++;f-#KZh+0y5#h;l+CA-#y**JJNK-E*ZAANEZy*C+#Jl#CEJ+Kl;#J;A+;JZl5*hAy(5C-*K+*jJ#+AE+Z+A#E;y+5J##l*C--jKy;*J;+F;8U*AlC=yh5#-+yJ*#J*++C^-hA*E*PnA4#*rEC -#*J;+JK+#E*.+A h#Z*-*#cyZ**-CK9*EZ*K+E5e#Ah#+yKC#-KK+*aJK+*;5Z2Ayh*y+5_##y-*+-+K#*EZ++JE#?*+#hISZC*-+l_*#J*++;+Z#+Eh+_Q5##*l+A #JK**5JdKJE*ZlAV;#CCC+#ll#CEJ+ll;#Z*+lEMZ#5*h*y/C#-*K+*EJ#KCE+ZCA#h*y+5V#Kl*C5-1lh;*Zl+k;#N+5+hKy#55-+ll*#J*KK;ZZ#A*hK=b5##*l+Co-#K*;KJ{+#E* lAhh#y*C+-lC+J;K*E+;hJyA+Efr#5*(lygCh-*K+*xJ#+*E+ZJA#h5y+5S##l**+-all;*ZK+aEEf*5lhPy#A--+lJ*#JC++;qZ#A*EKSX5;#*l+C:-#K*;+J*+#E56+AJh#y5C+#EyE**JlKM*;Z*AKEF{#5*hiyhC#-*K+C-J#+CE+Z4+yhCyy5_#hl**l-QK#JJZ++#E#}55+hNy#C*h;lZ**J*Ko;TZ;A*EJ-Z5##+l+Cy-#KC;+J,+#E+ZZAVh#y*5A#jlh**J+l+;hZ+A+EJU#5*#+y#CC-*K+*B-5+*EKZ<A#mJy+5h##l5*+-3K#C*-K+bECP*AZhMyhC*-+y+*hJK++;JZ#A*h+a#5C#*l+Ca#5K*;KJi+#ZJ9+A-h#y5C+#Sl#5*#KK1;;Z*AyE8Lh5*#+r+Ch-AK+*JJ#+*E+Z0+hhCy+53#hl**+-tK#;*Z++:EEo*5+hYyE5C-+l0*#JE;yh(l+*#-hK5;*Z;5CE59lA;-;l+5Z#;)lAKh#y*C+-l5Eh#j95yJhyJCC4lK;;+J-AyCh-lK+*=J#+*CZZZA#h*y+5B##l*5+-AK#;CZ++XE#455+EJ^+C*-yl_*hJ*++;uZ#K-h+tZ5##Al+CJ-#K*C;JG+hE*IKATh#y*C+hCl#**J+KZ;#Z*A+E0j#5*#+yhC#-*K+*J-J+*E+ZIAJ0EK+;KJZA*Eh<y*J##y#Ci#ZK#5yhny#C*-+l%*#J*9+;JJZA*h+3T5J{C+REfZEA-hEyK5-JElfChJ#y55h#rl#**J5*A#lyEC>-yK**JJhyJCl-*K+*GJJ55#ElK*5-EK;E+ZJA**+-;K#;*Z+KJ**>*5+hPyCC*-+lg5#J5++;LZ#A*h+gZ5##*W#CU-hK*;+Jm+#E*J++;h#y5C+#Ll#*AJ+yp**Z*AlEicE5*#ly:5###K+*ZJ#++E+ZJA#h*x-5T##l**K-VK#;*Z++:E#.*AZh,y#C*-llE*#J*++Elly*#-0KK*J#5y;C}-#K*;5+yC*#EK5*5JKKZE+}l+-*5-*Kv;#Z*A5ZJK#*;y5+-E*Ry5AhKy#5ZElZ*A#h*y+Cly-A*E50yAZhJ0z+JEA^*5+hryJE+Z;5+h*!h55;QJCA*h+NjAE;Jl+CP-#KK;+JB+#E*JCA,hhy*C+#ul#**#+l*;#ZCA+EZb#5A#+y:CA-*KK*6JE+*E+ZQA#hly+5R##l**+-JK#;+Jy+FE#r*A#hOyhC*h+ZZ*hJK++;#Z#A+h+_6Ch#*yZC9-EK*;KJv+5K&d+Aah#ylC+#Zl#*5J+K#;CZ*A+Eu>55*#KyM5E;*KK*2J#+CE+ZeA#h*5E5&#hl**K-PK#;*Z+#yE#g*5+hJy#C5-+l#*CJ*++;9J#A*hK!j+#;ClKCh-#K+;+JJ+#E*yKA(hCy*Cl#^lh**-J-*;#Z*A+ElY#5C#+yJC#-+lZ*8J#+*;5ZvAhh*y+#h##l**+-BK#;*Z++U-#Q*5+hOyhC*-+l,*#-C+K;}Z#ACh+Uv5##*l+Cp-#yE;+Jo+#E5>+Ajh#y*ClhZl#**J++l#<y-C;-;K*;EZ*+yE*ZJAhZ5yC5E#ElCAEEpy+5z##lE-yzn59#;l+CK#JR5AZhay#C*-5AJh)S&C+;J-vA*h+(B5J,*+hh+Z#A;#yy55Z-+yZ*NJ-*-#yuJC*-;A;;y##y;*+Jll-;*ZA;+CE-KK+*&J#+EJ;+5;JZ;yl5;##l**+Jl5h#+l+C;--lE5lhCy#C*-+KlE-vJ5hh3l+*hJ+KK5E#yl+CG-#KE-#yX5--AlE;yh;y*C+#nl#**_+-yAhZ5+#Es?#5*#55AEAx#+dhxdZ5EElZhA#h*y+ClZKA#E#^<KE;KZ++_E#fE*A-#+yE*-ll+*#J*++Ell-**-5+l*ZZ++;Eyz*AJhhJJ+AE*=+AchJ++;hZ;A*EZy+KJCJZ*A+E>cJ--JA+KE*X*5A1A!-5Jy;lOC;J*+5*2J-A*Z;My5;#*5;Cl-Jlh*4JAK--Z-llE*#J*++Ely-*+-AK;;##5y*C_-#K*;5+yC*#El;*;JjK+hh<+A+h*JlKE;#Z*A+hlKJ*JJ-+5;Z-5l**/J#+*E5+;*lJE+*;;yyAyh*Z#5#hhZl+hE#u*5+#lKZE+m5A-*EJ+++;(Z#AEZ+KK;A#5y;C_-#K*;5Kh*JJJ+hEXJK+E;EkyA#*5--K&;#Z*A5-WK+;hZ+Ay;J-5lJ*1J#+*E5yZ*VJyK+;?#ElK*+-rK#;E+CC5--l+5KhZyE5h-+l:*#JE;5#5lKC;J+KC*-lY5A;#_y5*;lJK+#E*_+5lY;+#;CUy+Eh#sC57yy++EAdhjEAb#+y_C#-E55h5yK5;-+lCC-h5J#51##l**+;5K#;5Z++=E#8*5+;vwCC*-llj*EJ*l-;1Z#K7h+x#5##*l+CJ-#I*C-J9+*E*J5Ashhy*C+#Kl#*KJ+KZ;#Z*A+E8JZ5*hJy0C#-*lZ*Sh#KEE+ZEA#ECy+5h##y55J-7KA;*J4+{E#{*++ENy#Cy-+l;*#--++C{J+A*E-)^5A#*2wC)h#yC;+J;+#EyU++Jh#t5lC#.l+**-+K);#Z*A+EZT#5y#+y;C##>K+C2-A+*;JZ7+Jh*=-5%;#lK*+-EK#*hZ+KhE#Z5+JheyAC*##lv*#J*Kl;CZ#+sh+?55##*l+CXhZK**-JS+EE*%lAbE#v5C+#El#CAJ+K;;#Z*KhEU!A5*#KyYC#-*K+ChJ#K_E+ZoA#hAy+K1h*l*C#-vlx;*-C+M;#CZ5+h*y#AZ-+lZ*#h*l(;rZ+A*EA64Ay#*l++E-hKy;+J*+#ECp++fKKy*5J#_lA**--K/;##lAKEhw#5l#+yZC##*Eh*UJ*+**#Z3ACh*y+5##hl5*+-#K#;5Z++t;#f*5yh1y#C*-+lw*###++;#Z#A*h+)#5##*yhC>-CK*;KJS+#E*Z+A5h#y+C+hEl#*KJ+Pw;CZ*+3Ek3K5*hJyzC#h-K+*hJ#+*E+ZZA#**ZZ5G#Cl*5*-HKE;*J++AE#6+5+h-y#CK-+y1C5J*Kd;NJlA*hl/85#*llKC--#K5;+JJ+#E*ZKAZh#y*CK#Ul#**J+Kf;#Z*+kEVM#5*#lyEC#-*K+;llhC##-y8*#h5eh51##l**51y5lhEyACK-*lZ;lhJy5C*-+l(*JR-C5-+lA*yhlkh5##*l+*lxKAJhhyi+E*#o+A?h#x5J2#dlE**-xK/;#Z*+l5oXh5A#+y-C#-*K+*EJ#+*;OZqA#h*yK5N#hl**+#JKh;*Z++nE#F*5+hi*-C*-ylN*EJ*KT;mZ5MAhK<-5#hSl+CZ-#KC;+J#+CE* +A!h+y*CK#Ql**KJ+K9;#-JA+EZ/#5lCyyZC*-*l;*RJh+*EKZIA*hKy+5q##y-*+-ZK#;+JZ+uE#^*+Eh%yhC*#lJ *hJK++;-Z#A*h+vE5##*yJCx-hK*;KJs+EE*S++Jhhy*C+##l#**J+Kj*EZCA+Ecmh5*#+yjC#+;K+*hJ#+5E+ZEA#hl#y5Z#Cl*Cy-fKh;*ZK+SE*BK5+hIy#5A-+lZ*#J+KZ;1Z#A*;EXU5h#*yJl--hKl;+-E+#EC&+AZh#y+5Z#fl#**#JKd;hZ*+3EhU#5*#+n5C#-CK+CJE#+C;-ZOAEh*y+5pE# C*+-*K#;lZ++ZE#{*yJhZyAC*-ll{*EJ*++CyZ#A5h+R;5##*l+C}hjKC;lJ7+EE*Q+A%h#sCCK#Ml#*CJ+K2;#Z5A+Ep}#55#+y4C#-5lA*iJ#+*E5+Z**-Z+AhZZ*+hE53y*J#AykC;--X5AChsy#C*-5CJE#aZ*4#Cyh**-hKy;lJhK>C8-5K*;+Je+#Ch.+A?h#y*C+#/l#5*-CK};#Z*A+E_ph5*hlyJC#-5K+*JJ#+*E+ZI+hh*y+5)#El**+-qK#*#Z++sE#_*5+hxy#C*hEl}*#J*+K;IZ#A*h+0i5##*lKCr-#K*;lJy+#E*{+5luh++;hgyChh+FC5lh-+E*y-#KA;;#+yEC#-*K+*j5J+*E+Z{A#h*y+5pE#7-*+- K#;*Z++ZE#k*Ahh^yEC*-Kli*#J*++**Z#A*h+}J5##*l+C<-yK*;+J +#E*%+Ash#yyC+#<l#*CJ+KY;#Z*A+EkO#A3#+y7C#-5lh*eJ#+*E5ly*l-EKA;KZ*+Zhl-Jl-;*Z++rEJAC*9JC+-#CZOAKEJd;;5#-l**yJA)J5C#*l+Ce-JCEh-y55-E5ZJAMh#y*C5SZA9hye+5w;EJhA+EN/#5EylKYEKl+AhEZy#5Z#Al5CZ-+yl5h##l**+Jl5KhJyhCVE;(*5+hPy#C*-+K%+-JA++;?Z#A*h+:^A#**lK5l-#K*;+JG*CE*oKAvh*y*C+#?yE*yJ+KJ;#ZlA+EPO#A5E-yGC;-*lJ*WJ#+*;lZEA#h+y+5E##l**+#Jl#;*JZ+.E5G*5+h)y#Ah-+lZ*#JK++;ZZ#K**K9Z5E#*l+C9-EK**l5#+#E+m+Ahh#y*C+#wJ;*CJlKa;*Z*AlE>o5KC#+yJC#h#K+*ZJ#+*E+Z#ACh*y+5(EIl**K-9lEy+Z++-E#8y5+h_y#55+^lj**J*K#;:Z#A*El*#5##Kl+C;-#K*;+J#y#EC&yAk;By*CK#B^#ACJKK;;#Z5A+EJf#A5ZJy8CK-*Ky*cJ#+*E+J5A#EJy+5E##l**+-OlA;*Jh+}EKw*AEhPy#AZ-+l;*#-Z++;JZ#Al;hkL5A#*7-Cr-hK*;KJr+*EKI+Afh#LyC+#Zl#*+-ZKB;#Z*K;E6Yh5*hl-WCh#SK+*ZJ#+*E+-IKhh*{h5b#Al*CS-YK#AlZK+*E#R55+hJy#C**#lG*hJ*KJ;QZ+A*EH-A5h#Al+Cy-#KC;+J!laEC%KAphEy*C+#)l#CCJKKU;#ZCA+E0_#5*#+y}C#-*K+*kJ#+C;tZaA#h*y+#5##lC*+-:K#;*Z++oC-Q*5lh.y#C*-+l<*#ZC++;ZZ#A5h+tZ5##*yKCZ-#K*;KJW+#E*B+Agh#y*C+#Ml#**JKK#;#Z*A+E_K#5*#+yuC#-*K+*2J#;JE+ZZA#hCy+5i##l*lC-cKh;*ZK+BEh?*5+EZyhC*-+lZ*#J*++;2Z#A*h+cU5##*l+CZ-*K*;+J8+#-*X+A/h#y*C+#_l#**KEKx;hZ*AKE>N#5*#+#KC#-CK+*ZJ#+CE+Z!+hhCy+5P#hl**+-.K#;*Z++tE;k*5+hjyECy-+lf*#JE5l#PlVC--EKC5Eh,l+CB-#KEhKy#5J#*K**;-Jy55##Ll#**J55f#Kl#*C-;K#;;#KyhC#-*K+*wh-+CEKZ!A#h*y+5fE#lC*+-ZK#;CZ++JE#J*5Kh2yhC*-KlG*hJ*K+;AZ#ACh+P-5##*l+Ci#ZK*;+JG+hE*q+Adh#y*C+# lE**J+K);EZyA+E=X#5EoCA+E-f+A+hlJEK5E+ZvA#hE5*;#Z+AhEEMyClJCKE*ZJl+h;*Zy+*;*Z5lZ*CJ*++;OZ#+Eh+0Z5##*l+CW-#l*C;JM+hE*9lAsh#y*C+##l#*CJ+KZ;#Z*A+;UWy5*#Ky<Ch-*K+*_J#KlE+ZFA#hCy+5M##l**+-_K#;*Z++3E#mCAZh7y#C*-+CK*#JC++;xZ#A*h+aaAZ#*llC%-hK*;+J9+#*J&+AJh#y5C+#Nl#**-JK6;hZ*AlEGkh5*#+yZC#-*K+*ZJ#+*E+Z,A#h*y+5-##l**+-JK+;*Z++sEJ+C*vJl+*EhZ-AH*E-*++;4Z#AEj*K#;+Zh+EEyyl*;hCl+5E-JAKE5Zhy55-#kl#**J5;+#*yo*C-5l-5Chhy9C#-*K+J5J#+CE+ZPA#h*y+5/lll**l-nKh;*Z++F*#JC5+hJy#C5-+l-*#JlyK;:ZEA*E-Rq5h#*l+CS-*KK;+JW+#Ey +AZh#y*#E#vlE**JKKL;#Z*K+*Z<#55#+yJC#-5K+Cc5K+*EKZ!Ahh*yl5g##yC*K-}K#;CZ++.E#G*5+hLy#CC-+l!*#J5KZ;fZ#A*h5Ay;#Z#+#CZ#vK*;+J7l#*C=+AZh#y*C+#Zl#**KEKz;EZ*A+Et6#5*E+ZZC#-5K+*JJ#+CE+ZEl*hCyK5d#5l**K-VKE;*Jz+hE#Q*5+hEy#CC-+l#*CJ*++;RZKA*hK>=5#yJl+CZ-#KC;+Jk+#E*J*AZhhy*Cl#.l#**-NKh;#Z*A+EAx#5C#+yg-l-*KK* JE+*E+ZeA#;#yK5Z##l5*+-iK#;*JK+ZE#7*5Khuy#C*-+lV*#J*++;2Z#A*hK<;5##*l+CFKlK*;KJd+#E*r+Ash5JCC+#Zl#*lJ+KZ;#Z*A+E#FC5*#+yFC5-*KK*zJ#;JE+ZZA#hCy+5k##l*AA-bKE;*Z++sE#^*5+#Zy#CC-+lJ*#JC++;HJhACh+g45h#*l+Cs-#K*;+J%+;E*F+A.hE7*C+#0l#*EK*5##+lhCE-y+lh;JCA+;EUJ*K-5lh+5;-ZTA#h*y5#+Z*+shCr5A-;5J#+OE#d*55ZZ+*;EZH5KhAy*+K;+Z#A*h+H6-5#*lKCd-#K*;+J}K#;+t+AZh#y5C+#sl#**#hKk;hZ*AKEn #5*#+T5C#-5K+*1J#+*E+-(+Zh*yl5)#El**l-OK5;KZ++JE#ZH5+hZy#CC-+l#*CJ*++;)Z+A*hKH>5*#Kl+C!-#lJ;+JZ+#E*AEA hEy*C+#>l#**#+yZ;#Z5A+EJ/#5C#+nmZK-*KK*kJ;+*ElZPA#ECyK51##lC*+-vK#;*Z++qE# *5+h y#CC-Kl!*#J*++*ZZhA*h+fZ5##*l+C1-#K*;+J#+#E*?+AJhAy*C+#rlJhC7m5;#Al**AEJL+5*#+yjCJZCA2hlG#C##-llAEhly+5s##lEhCg5A;#*y5+JE+H*5+h8yJE*Zh5+hZyyC+-yZhAlh+pn5##*-#CZ-hK*;+J>+#E*J+Alh#yCC+#Zl#*5J+yS*+Z*AKE_ph5*#yy%A##lK+*ZJ#+CE+ZZA#E*yK5s#hl*CB-^K#;*Z+K*E#S*5+hZy#C*-+l=*#J*++;GZ#A*h+GZ5h#*l+Cf-#lC;KJ)+#ECf+A0h#y*C+#Yl#*KJ+Kk;#Z5+#EY/#5*#5CyE#ZEAAhKyl5+ElZAA#h*y+Cly-A+E5yl5lhZyhC/-Jl;5lhhy#C*-+Kl-Ky#5##bZE+;h+?w5##ECKE#sK5;JKy#5Z#ElAhlJ;++;-Ryl#*C#-K,;#Z*K++hf#5C#+yWC#-AK+*wJ;+*ElZ)A#h*y+5wE#yy*+-JK#;5Z++#E#d*A;hLy*C*-KlW*#J*++*;Z#A5h+W#5##5l+CE#;K*;lJp++E*_KA,hhy*5:#hl#**J+K*;#ZCA+E#sC5*#+y:5U-*KK*oJ#;JE+ZJA#h*y+5/##l*5;-ZKE;*Zl+:Eh,*++*ZyhC5-+lJ*#JC++;tfhA*hls^5E#*lKCa-#*J;+JJ+#ECP+Abh#y*A;#ZlE**JlKG;#Z*+JCZT#55#+}EC#-CK+*PJ#++;ZZ>A#h*ZJ5f#hl**+K5K#;5Z++ZE#z*5+hx;AC*-llg*EJ*++;T-#+hh+1J5##5l+CJ-#K*C;JW+EE*glAMhhy*C+#El#*5J+KZ;#Z*A+*zZl5*#ly/C#-*lZ*?J#KCEKZ^A#hCy+5g##l**+-IK#*EZ++WE#(5AKh_y#C*-5*lE#YE5A#5l+E#-AK*;lJE+;E-d#Ah#+JJ+KE*z+AYhJ5y;!ZJA;E; w5C#EZ5+;EzT#5*#55JE#Z;C5hO}Z5C#,Kl*#h5:;5L##l**5K+A-hVyECl-yKA;+JK+#C5#Jl/*#J*+5Zlll*y-EKK5E#+l+CX-#KEhhyH5EE5Z#A.h#y*C5lyA#EZV55#h-y+AlEC1#5*#+ll#*ZZA5hyyu5Z-5laAEhyy+5V##lE#;y+AZ#*yhCyE;p*5+h/y#C*-+KR+-JA++;LZ#A*h+ 35##*llC;-#K*;+Zl;J#Jl-*5-ZCECl#hl#**J++l#El#C#-2.E5K#+y^C#-ECh#+y+C*EKJ-A#h*y+AJ#ll**K-GlZ;*Z++x*#Z#5+hZy#CC-+l-*#-5lJ;pZ;A*hlI^5##*l+Cl-#KC;+J-+#E5H++Jhhy*Cl#cl+**J+KwC#--A+EJq#55#+yEC##5l-*YJ;+*;{ZcA#h*y+lE#hl5*+-JK#;5Z+y?C;cC5lho6JC*-Kl.A#Jl++;JZ#Ayh+FA5#h5ECC.-;K***JU+#E*J++Kh#yAC+#-l#*lJ+lJ*lZ*+eE=dl5*#+y:5E-+K+*hJ#KJE+ZVA#E5j;5.#5l*CE-TK#;*Z+K;E#IA5+hEy#C5-+yz5ZJ*+l;QZCA*hyU.A#KZl+CJ-#lZ;+JZ+#E*ZKAZh#y*CK#rl#**J+Ka;#Z*+-Eub#5*#ly*C#-*K+;llhC*-5ly*l-hC55J#El**+-jKJ-AZl+JE#_*5+#lACCA-+l0*#J*++;OZ#A*hlU#5##*l+*l}K5*hlJJ++E*V+AnhJ5;E+Zl+-EhjEA#;EJZA+ERb#5EpK+YEAZJ55h#3-5+E+hJA#h*y+5vlll**+-7K#;*Z++vE5-C5+hGy#+5-+lZ*#J*++;#ZCA*h+!3KE#*lKCj-#*J;+J=+#ECT+ASh#y*#C#}l#**JKKH;hZ*A+Ey!#5*#+yJC#-*K+*4JK+*E+ZxAhh*yK5m##l5*+-PK#;AZ++3E#1*5yhSy#C*-KlV*hJ*++;#Z#A*h+!#5##*l+5J#ZK*;KJ<+hE*:+AG;#ZCC+#Zl#*CJ+Kh;#Z*E-E:FE5*hZyUC#-*y+C5J#+5E+ZJA#h5y+5v#El**y-^K5;*Z++YE#Z;5+hJy#C5-+l-*#-5KJ;pZ;A*E1d35##*l+55-#K+;+Jh+#E*n+KUhEy*5I#Pl***JyKe;#+JA+Ehq#5l#+yvC#-*KK*ZJ*+*;xZaACh*y+5*##lC*+-#K#;5Z+KXEE>*5+h9yAC*-KlG*#J5++;4Z#A+h+(>5##*lKCx-hK**iJ=+#E*J+Ayh#yCC+#Zl#*yJ+lJ*yZ*AlExSh5*#+ywA#hCK+*JJ#+5E+ZhA#E5*n50#;l*C%-bK#;*Z+E5E#?+5+h;y#C*-+lEK;JCKQ;M-hA*hKqS5h#*yPCh-#K*;+#Z+#ECm+A#hCy*C+#0<***JKK{;#+JA+E#1#AW#+y=C#-lJy*ZJ*+*CCZYAhh*yK5k#*lK*+-xK#5hZ++ZE#L*hEhfy*C*#hlB*#J*KJ5ZZ#A+h+J+5##Cl+C)-#K+*ZJ0+#E*-*AQhhy*C+l5l#*+J+K*;#Z*A+EOhE5Ch=yqC*-*K+*1J5yCE+Z#A#*#y+5Z##l**+-#KC;*Z++eC<v*5Khgy*CK-+l7*#hh++;ZZ#+5lI^_5*#*yxC<-#K**l5#+#EKS+A#h#y*C+#iJ;*CJlK1;CZ*AlEaX#hl#+yZC#-CK+*JJ#K*yhZHA#h*9-5<#hl*C}-hK#;*Z+{ZE#zC5+haClC*-+l8**J*++;kZ5lCh+Oq5#*Jl+CZ-#K*;+J#+CE*f+A<*ly*CK#vl#-JJ+Kj;#Z+A+E{=#+*;KyZC#-*K+* J5+*E+GZA#h*y+5J##lC*+-bA-;*Z++TE#H*5+hSy#E*-+l&*#J+++;WZ#+5C+BZ5##*lKCq-#K*C+*#+#E*q+Adh#yKC+hJy5**JKK_;*Z*A+EzZEA;#+yJC#-+K+*jJ#K5*JZaA;h*tv5a##l**+#*K#;*Z++-E#F55+h:yCC*-+lo*CJ*++;XZ#+ChK&(5##Cl+Cq-#K*;+JM+#*y,+Aph#y55E#(l#**J5**#dyA;A-5lZ*#J++8CE#2K+*%J#+EZ5l5*K-Z++ElJ-l5CK-iK#;*Z5*v#JK**C<#+K;-Z+Ay#Jy*5ChZl**EJ+eJA-#*l+C -J*ChQyCC-ZCl9*K-JK;#5Z-A*hyyAKJ;KZ*A+EvuJh#JhAlE;ZJAChiy-+5;hZuA#h*y5#KZlA;;^lJA*hhyE+JEEU*5+htyJh#-llJ*#J*++El+AA5hl).5##*l5#K-El?;+J0+#EE+K*<JJK;;EZK*J*5JlKj;#Z*A5Z_?EAh#+y.C#-E*Ch5y-5+JKlH*A-J+5;#J-++*l-AK#;*Z+AlZ*lZ*;-VK-#hW+AJh<)Z+l;#Z#A*h+yl;KZ*+lCJ-lK*;+Ji+JZEKy;+-Z+#E5ZyA#EhJlKJ;#Z*A+hlCK55hAy)C#-*K5Jly;C##CK+*J-;++;Ky&A;hA2g5-;5J;+.E#w*55_#+K;-Z+Ay-#bZCA#2l-A5E#v_5##*l5#ATA5#EOy15Z#EnlACh#y*C+-lC+h#Hy*Z#lyh*5-3HEA##+yYC#-EC-h5yJC##-+A*AJ#l9;gJZl5CE-7K#;*Z5*J-llh*JJl+yE#f5Ar*;J*++;!Z#A*h+{Q5##5llCm-#K*;5KZ+EEyd+AWh#yEh;Y++Zh*Uh5y;EJ-A+Ejr#5Eyl+z;-yE5+hKbhC+-5lrAEhKy+5R##lEEly+AZhZZl+AE#P*5+#lAZ;*ZhClh#3h5K##lJ**hl,C5##*l+*ll*AZh5yyCU#ZK5*MhEHEC+#3l#*EK5A!hZyh*+-Cl-hEZ*+*E#Zh5**-J#+*E+ZdA#h*hhl_#ElK*+-YK#;Ell*+-+K*5lhhy#C*-+Kl#Ey#50#yZE+-h+G=5##E5lE5ZZ5y#AK*Cl-;K+*;hEy5C+#vl#*EKCK-;#Z*A+-M*+EA#+-JCE#<K+*!J#+EZ5l-*T-EK5;#JJlC*+--K#;*Z++=E#Y*5+C3yhVE-+ln*#-5yJ;7ZhA*;+I_5##*a+5C-#KC;+JZ+#*Ji++JE*y*Cy#xy;**J+KX;#J;A+EZ1#5A#+yJC##5lh*bJE+**+ZOA#h*Z+A;##l5*+-JK#CJZ+KJEl1*AQhwZ!C*-+lx*#-;++;JZ#A+h+BJ5#h5yhC9-;K*C+J +#E*J++Jh#yAC+#-l#5JJ+lJ;AZC+ZEPZ55*#+y_C#h-K+*-J#+KE+ZJA#E5>J5d#*l*5+-=K#;*-++CE#X+5+h#y#AJ-+yJCAJ*KJ;qZ;A*h+Ip5#h-l+C#-#Kl;+JJ+#**ZKALhCy*CK#{yC**#+yZ;#ZlA+Ehd#A;#+yE+h-*lJ*,-C+*EKZUA#h*xY5h##l**+#hK#;CZ++#ECn*5+he_+C*-KlN5##C++;EZ#AKh+ZZ5#E*ZKCZ-5K**JJIlhE*.+yEhhylC+#Jl#*5J+y4ChZ*+-ERP;5*E5y4A#ECKK**J#+AE+Z#A#E5*)5<#ll*5l-PK#;*Z+e-EhZc5+h5y#C5-+lEAhJ*K#;&-EA*hK_Y5##*yQCh-#K*;+#J+#EC<+KT;hy*5##^l;**#lKBC##CAKE*i#Ai#+y#C##5EX*9Jl+*CZZ4A#h*y+l-#hy8*+-5K#;5Z++8LCW*Ahh7y#C*#JlGA#hA+K;CZ#Ksh+Z;5#;*uJC,-KK*CyJvKAE*-+l-hhmZC+#*l#CyJ+FV;;Z*+hEb?K5*E-y%+#EAKK*CJ#+yE+J;A#**/55t#Kl*C;-:lA;*Jl##E#ZJ5+Eyy#C*-+yJAEJ*K;;7ZlA*h+u8+#hAl+CA-#l-;+Jl+#;5ZCAPEny*+6#ml#**-ll5;#JhA+*#1#5*#+SJAW-*l5*Y#*+*E+ZRA#E-y+5A##yE*+-JK#*5JA+_;/ *AEhcy#C*h+JZ*h-#++;+Z#+Eh+ZJA5#*yCCQh*K*;+JQKE*Zz+Alh#Z+C+#)l#C5#EK,*-Z*l(Et)#5*#+y-C###K+*yJ#+5E+JJKdh*6C5/#ll**+-py#ChZ++KE#Zh5+hly#55#Kl7CJJ*l-;2Z#A*ElZ+5#h;l+5;-#K*;+-JK#E*Z+A}EAy*C+#vl#C-J+KK;#J*A+EJ1#A5EZyB5J-*1-*=J#+*E+ZEA#E;y+50##l**+-EyU;*J#+w+lv*5KhSy#C*#Hlh*#J*++K5Z#ACh+-VA*#*y#CM-CK*5JJnKEC*>++Ph#ZhC+#&l#5*#hKV*#Z*++E2ZJ5*hlj*C##CK+*+J#+*E+ZdAlh*m+5a#El**l-1lE*AZ+KZE#Jh5+hky#A*#*l1ChJ*KK;pJJA*ElZJ5#h5l+CE-#K*;+JpKzE*ZKAphEy*Cl#ty#*lJ+l<;#J+A+EAG#A*hZyP5h-*KK*9-Q+*;+CCA#E*y+AC##yr*+#%hK;*JK+q;Kx*A#h>y5C*-+yJ*#J5++;ZZ#+Zh+d,AE#Cl+Cu-KK*;+Ja+#;5wKAQh#vJC+#vl#**-lKZ;#Z*+5ER1#5*#+PJCh-*K+*yJ#+*E+Z3+EhCy+5?h#l**+-OK#*5ZK+.E#ZV5+hVy#C*#llZ*#J*KK;!Z#A*h+ZJ5h#*l+C;-#K*;+J(KEEC!+AgEZy*C+#^w#*5JKl-;#Z+A+EKm#+*hKyV5;-*ly*4JE+*;JZqA#EKy+5Z##lC*+-EK#;*Jl+ZE#d*AhhQy#C*-+yJ*hJ*++;yZ#A*h+c1AE#Cl+CI##K*;+JX+#;5zKA0h#RhC+#wl#**-lKZ;#Z*+#EX9#5*#+OJCh-*K+CZJ#+*E+Z)lEhC)y5_hCl**K-oy#*CZ+K-E#G+5+EJy#A*#*l_C;J*Ky;=ZEA*EJ1e5#hKl+C%-#KC;+JZ+#E*ZlAZh#y*5h#Tl#**J+E5;#JAA+;h2#5C#+yg5l-*ly*G-E+*E+ZGA#EKy+A-##lC*+-ZK#;*Zy+U;#&*5+h?y#C*#Vy-*#J*++KKZ#ACh+ZJl##Cy+C6#yK*;+JdKE*;6K+Zh#.*C+#8l#**#ZK *#Z*AlE1xh5*#+cZCh-*K+*ZJ#+*E+Z-A#h*y+5y##l**+-JKE;*Z++OEJ+E5lh*y#C*-+Kl-5y*AQZlll*;J+UJ5E#*l+C1-J*y;lJJ+#E*S+5lj-y5Cl#{l#**J5*K;EZ5A+Em{#5E>lyJCE-*K+*(JJ;CElZJA#h*y+Cl%ul5Ch-9K#;*Z5;E-#l+;CJ5+e;hXAlJ*EJ*++;}ZJE#hl h5##*l+*ll#AZh+y*+EE5p+A3h#yE#C#JyJ**J+K_;JK*C5-QlZh+Jh+A;#Z;CAE#yyC*ElZJA#h*y+Cly#lA*+-BK#;*Z++cE#:*5lCZy#C*-+2o#hJ*+l;!Z#A*EC{!AEhKl+C--#l-;+Jo+#**J*ALh;y*Cy#TyZ**#+lJ;#ZAA+E-Q#AZ#+yE5Z-*Kl*mJA+*EKZNA;h*kR5h##l**+-;K#;CZ++#ECx*5+h0-#C*-KlN5##C++;JZ#A*h+rJ5#h5J+CZ-;K**;JG+#E*J+KZh#yAC+#-l#*5J+y_ChZ*AyE>_;5*hJy_C5E+KK*JJ#KEE+ZZA#hAy+5##Cl**+-tlJ;*ZK+>E*jK5+hiy#5C-+lZ*#J*;E;0ZEA*h+^s5##*Z+5#-#K5;+J;+#;;S+A#hCy*C+#7J#**JKK^C#-CA+EJq#5*#+yJC##5Z+*ZJ;+*;;Z2A#h*Z++Z##lA*+--K#;5Z+lG*h3*5yhqy;C*-KlI*5J+++;JZ#KJh+qZ5##Al+C#-CK*;+JVKlE*pKAgh#5JC+#Jl#**J+K_;##*KXEmvE5*h*yv5--*lH*hJ#+*E+hpA#hCy++sEhl**l-OK#;*Zl+(;E#*5Kh-y#5--+l&*##*lK;WZ;A*hy8w5E#*2+AZ-#KA;+J-+#;J)+AE**yCCl#GIh**JKKo;;Z*+/Ehe#5*#+ZZC#-CK+*#JC+*E+Z&K*h*yK5z##CJ*+-JK#;*Z++<E#-*+9hmyEC*-yl!C-J*K,;hZ#A*h+#O5##Cl+AGhhK*;lJW+#E*ulAXEE-*CK#-l#C-J+KL;#-*KKEqU;5*#yyQCE-*y+5ZJ#+AE+Z-A#h+y+5E#*l**l-=&Z;*ZK+vE;Y*A0hhy#C*-+7K*#JC++;pAlA*hl:S5##*l+C<E#l+;+JJ+#EKQ+Ayh#y+5Z#0l#**E+Kg;hZ*K+*Z>#55#+yLC#-5K+CJE#+CEyZmAyh*y+5nE#9C*+--K#;AZ++JE#J*+Kh>y;C*-ylfCJJ*KJ5#ZhA5h+-#5##Cl+C--#K+*ZJY+#E*#jA.hhy*5)#hl#**J+j;;#ZCA+E!5l5*#ly<C#-*K+*ah#K+E+ZJA#ELy+5y##l+CZ-&K#;*h++TEh1*++;Zy#C5-+lT*#J5++*Jh#AChyx?5y#*l+C_h#yC;+J-+#EA/+AJh#Z*AK#gl;**JyKe;+Z*+JC#Mh55#+JlC#-CK+*-J#++;ZZ8A#h*-55,#hl*CW-hK#;*Z+YfE#,C5+hkClC*-llN*#J*++;}##++h+?J5#hEl+Cy-#K**KJZ+#E*oKAQh#y*C+#il#**#JKi;#Z*AlEC.#5*#+llhhL*A-h5yJC+#Ay#AEEhy+5=##lE#KIp5;#+l5C;-#C-EEJZ+h-Z-llJ*#J*++El+yA5Ehoe5##*l5#E}#A+#Cy5Cx#hKAAJhEy*C+#(lJ#EJlK+;#Z*A+hl+h;*Zy+#EJby5+mAKl5ZRhZJAEh*y+5{#J55*l-JK#;*Z+AlZAe5A#h)y#C*-5CEh#G+;5#5l-**hlqJ5##*l+*ll#K5*ZJ,+#E*u5EtJKK*;##JlE**J+KO;J+#AlE;&#5*#+ll#yb#AChIyK5;ElZJA#h*y+ClyhlA*+-dK#;*Z++Rh##;5lhJy#C*-+Kl#oJ5K5;QZ#A*h5+)*JZ*+C##PKA-h+yy*-#+l;*3hEy5C+#%l#*ElCKJ;EZ*A+EjnJh;#+yJC5-*K+*eJJ5-#Cl#*K-;yl5J##l**+Jl*Z;5*E+=E#j*AJ5-yhCC-+l-*#JC++;ZZ#A+EZ3<5##*lyCI-hK**iJh+#E*P+A#h#yCC+#Fyh*CJ+K8;hZ*A+E)J#+C#+yJC#-*K+CZJ#K55+ZZA;h*Q;5a##l*5+hZK#;AZ++-E#ZC5+;UZhC*-yl3*;J*K9;8Z5A+h+RJ5#AZl+CZ-#KA;+J#+CE*0+A2AKy*CK#x^#5CJ+KJ;#Z*A+ECm#A5*+yZC;-*l;*0J#+**+-ZA#hAy+5-##yZ*+h>yh;*Zy+_E;<*A-hny5C+-+lJ*#-A++;ZZ#AAh+U#5C#*l+Ck#;K*;KJx+#ZJS+AJh#y*C+#il#A*#WK0;EZ*+5E:Z-5*hayhC#-*K+lCJ#+CE+-7Khh*yl52##l*Ch-SlEA*ZK+-E#Z-5+h:y#A*hKl:*;J*+y;rZKA*;+JZ5##Al+C--#KK;+JEy*ECflABEly*CK#=l;**-qKh;#Z*A+;5B#5C#+y#CC-*K+*v#Z+*EKZMA#QJy+5J##l**+-IK#5*-%+pEE4*+Jhxb-C*#klh*#J*++KCZ#ACh+Jq+h#*llCu-#K**hJGKE5*^KA-h#3-C+#zl#5*#KK_;;Z*AyEupK5*E+ZZC#-AK+*-J#K#E+ZEl*hCyl5_E*l**K-YK;;*J6+hE#^*5+;#y#CC-+l#*CJ*++;0-AA*hKQa5#yJl+CJ-#K*;+J4+#C*JcAHhEy*5##qy-**-dKh;#Z*A++C3#5C#+ZLAh-*Kl*oJ#+*;hZ1+EC*yK5-##y-*+-&K#C*-K+%E;(*5yh)yKC*h+,Z*#JA++;-Z#+Ah+bE5*#*llCGE#K*;KJO+;E*Z7Ahh#y*C+;,l#*CJ+K/ZlZ*AlE2t#5*#+y<+##+K+*JJ#K5E+ZyA#h+&Z5P##l*yh-WKh;*-+lZE#G55+hky#5Z-+yJ+#JC+y;rZyA*h+s.+#ECl+C--#KA;+JC+#**JKAQh;y*Cy#6ll**-JK#;#Z5A+CCn#5C#+y-C#-+lZ*rJ#+*5hZXAhh*y+#5##l5*+-!K#;*Z+yj;*.*5lh6H#C*#Alx**JK++;?Z#JZh+oZ5#E*OKC{-EK*;+Ja+KE*ZlyjhhyAC+#Al#**J+yQChZ*AyE}T;5*hhyBA#hCK+*-J#+AE+J3A#hlFf5=#El*+l-QKh;*Zy+%E*OK5+h(y#K5-+lZ*#J*;E;nZEA*h+d45##*Z+5#-#K5;+J5+#;;B+A#hCy*C+#=#K**JKKsC#-CA+EJ?#5*#+yCC##5Z+*ZJ;+*;;ZbA#h*Z++Z##lA*+--K#*ZZ+l^*h?*5yh)y;C*-ylj*5h++K;JZ#wZh+_Z5##Al+C#-CK*;+JuXKE*nKABh*yKC+#pl#yZJ+KZ;#Z*EEEV9E5*#KysC#-*K+A*J#+5E+ZJA#h*y+5%Z#l**l-jKh;*Z++/E#AJ5+hJy#CC-+lk*#JlZy;ZZEA*5+vn5h#*lKCq-*KK;+Jd+#A*t+AZh#y+5Z#:l#***NK8;hZ*+l5Fgh55#+fhC#-*K+CJ#-+CEyZ4A5h*y+5x##yy*+-JK#;5Z++ZE#i+AZhwy#C*CEl<*hJ*KlARZhA5h+Zh5##*l+5Jh-KC;yJN+EE*2+Aoh#yyC+#Jl#*5J+KZ;#Z*EEEIeE5*#lybC#-*K+J5J#+AE+Z-A#h*y+AS+Kl**l-nKh;*Zy+^E#AJ5+hJy#CC-+lI*#JlZy;ZZEA*A5_N5h#*lKC7-*KK;+JU+#+E%+AZh#y+5Z#=l#**CZKH;hZ*A+<5d#55#+yJC#-*K+*g#l+CEyZQA*h*y+5Oh#y5*+-JK#*hZ++-E#_*A;hOyEC*#Zl2*#J*++**Z#AAh+p#5##*l+5>-lK*;lJaKZE*zyAdh*ylC+#1l#yZJ+KZ;#Z*EEEUtE5*#ly)C#-*6+C#J#+5E+ZKA#E+y+5olll**l-LKC;*Z++NC#Z+5+hJy#5h-+y#*#J*KK;ZZ#A*hKo05##*l+CW-#K**AJ}+#E*blAJh#y*C+-lCZ*5-hKb;#Z*A5JZK#;yJEAlE*Z;+(*JJA+*E+ZcAJIE5K;KZ?+Yh+-JKE;*Z++uEJAC5lh#y#C*-+KlhKy*5l;JZKA*h+!g5J(-+EElS*A;h2y5CKE5Z;Awh#y*C5y;AlEJeJCZ##lECA-5lZ5AlE*CJKKZ;hZCKKX;EyZTA#h*y+5>##l**+-JKE;*Z++REJ+h5lh*y#C*-+Kl#hy*C5#yllChy5gJ5E#*l+C4-J**;lJ++#E*m+5lZZ++ElZ-+-#Cy+Clh-yJCCEJUC5*#+yaCJZ55*h#Y-+5ElZpA#h*y5h+###J*+-mK#;*+E+OE#k*5+h}y#C*h+hA*#J*++;BZ#A+h+f&Ay#*lKCP-#K*;+Jql#*#Q+AZh#yCC+#Zl#**##K_;#Z*A+EFBh5*#+yhC#-CK+*ZJ#+*E+Zr+5h*y+5/##l**K-eK#*-Z++ZE#O*5+hMy#A*hNlU*hJ*+K;/ZlA*h+EE5##5l+CZ-#K*;+J<+;E*6KA>hhy*Cl#ul#CJJ+KJ;#Z*A+EdT#+*hhyrCE-*Kl*/--+*E+JCA#hAy+5:##l**+h_yW;*Zy+_E;f*A*hfy#AZ-+lJ*#J5++;-Z#A*5A,<5;#*lKC=-#K*;+-Z+#E5H+AJh#yAC+#Yy-**JyK);EZ*A+Em1#AJ#+yJC#-5K+*-J#+***ZBA;h*yy5>##l*CJ##K#;AZ+K*E#=C5+hoy#C+#Zld*#J*l#;WZhA*E{}h5##*l+AA-#KC;+J&ElE*SyA:h*y*C+#nl#++J+K#;#ZKA+EYW#+*E#ysC*-*lB*xJ;+**+ZAA#h+y+5###ly*+-%lh;*JG+?E*e*5+hPy#C+-+lh*#JK++;kZ#K*EC!c5C#*yZC=-;K*C+JJ+#EK=+Ahh#ihC+#BhA**-ZK9;CZ*AKErB#5Z#+y#C#-+K+*hJ#K5*EZzACh*{;5x##l*5+-CK#;KZ++hE# K5+EJyEC*#Jls*KJ*++;7JE+Jh+r;5#hZl+CN-#l5*JJ>++E*ZhA6h#y*C+hCl#*KJ+K*;#Z5A+E6A55*h/y}C*-*lZ*_-#hZE+Z-A#h5y+5###l+CZ-%K#;*hC+WEhH*5+y5y#CA-+l#*#J*++;rh*A*EoMi5C#*l+CNh#Ky;+J#+#E+=+A-h#Z*CK#9l***-XK8;AZ*A+;E)#5+#+y#C#-*K+*QJ;+*;ZZHACh*y+5VE#y+*+-hK#;KZ++-E#J*A+huyCC*#ZlBCZJ*++ZWZ#AKh+jh5##Cl+C4#yK**HJ8+*E*ZZAsEEyKC+#hl#C-J+Ka;#-*K*EgHC5*hZy>CC-*llC/J#+lE+ZCA#h*y+56#ll*C--TKE;*Z++n;EZK5+h*y#5Z-+l=*#J*KJ;TZCA*E#4x5E#*l+Cy-#K+;+J#+#EKG++YhKy*Cy#}lE**-mKW;#+JA+E-S#5l#+y3C##5#+*kJ*+*EyZsA#h*Z+5###l+*+-#K#;KZ++o;*o*AZhMyCC*-+l75#-p++;hZ#AKh+_E5##*yECx-5K**ZJa+#E*J+Alh#ylC+#El#*lJ+KG;EZ*+-E&tA5*#+yxA#-+K+*;J#+yE+Z-A#;*yy5k#Al*C--(KA;*Z+K-E#.l5+hEy#Cy-+l8+;JCKf;}Z5A*hl^HA#KZl+C--#KA;+J#+#*lh5AZh#y*lC#olh**-hKo;*ZKA+Esc#yh#+yZC#-+lZ*oJ#+*+ZZ4Ahh*JJll#hlC*+*VK#;CZ++CE#&+AZh1y#C**+l&*hJ*Kb;hZ#A*h+hh5##Cl+AEhIK*;lJ(ZCE*0KA8hKy*53#hl#**J+Jh;#ZCA+E}5l5*#yy/C*-*K+*PJ#;JE+Z#A#Ety+59##y*Zh-7K;;*Zl+pE*B*AlC_yhCA-+ll*#J*++*J--ACE0aV5+#*l+C<-#lE;+J-+#E5s+AZh#y+5Z#rl#**J+K!;hZ*A+;Zjh5*#+yZC#-*K+*SJ#+*E+ZhA#h*y+5J#Al**+-8KJJ#y C*-*lZ;lhJ{JC*-+ld*Jl*55#=yZE+-hKA*#J;5A;#ry5*;lJh+#E*t+5lP#KZ;+Z*lEChJ+Ks;#ZE;#-5l#*EZ+CK;#Z;AAh5yKEhEKZ/AhEJy+5c##F*#K-UKh;*Z++pEEM*Alh5y#C5-+l-*#J*++C}JlA*hliW5E#*llCfh#l+;+JJ+#E5P+A#h#yl5l#Wlh**--Kq;hZ*AlE F*5K#+yYC#-yK+*ZJ#++;ZZiA#h*Mh50#hl**+K5K#;CZ++=E#V*5+*GS*C*-Klj*hJ*KZ;rZ#+ChK{85##Cl+Cw-#K*;+JO+#E*.+Avh#yCCK#0l#**J+lZ;hZ*A+EZI#5*#+y?C#-*K+CCJ#+*E+ZJAlh*y+5n#J5-E-y+A*#*yC;J##K+5lhCy#C*-+Kl-*fZ55#yloCZJ5KQ5EhZl+C7-#KE-+K#;J#JlC*CJ#KhCl#hl#**J++l-Jl+5Z-,3;5*#+y9C#-*K+5#E#+AE+ZBA#h*y+5m-#J;*y-BK#;*Z++rE#;Zl+h-y#C*-+l,*#J*5+5yZE+Jh+0k5##E55hlZZ5*#+yC;E#*l%AJEAy*C+#SlJ-hy*Cl#5l5CC-5l#*ZZA5y;ZQ#AhhlyyC##Clt*KJElN5-##l**+-SK#K**y*tEE_y5+hzy#CEl5A5hAzJ5CalZ;A*h+H?5##*5+SJ;#K5*KJU+#E*{5hKJP+E;JZJ+ZEJ<+5C#-+ECE-;Kl*hl5yJC*-*K+*cJJ5Z-+yJAEEOy+5s##lE-Ag!AJh;yCC5#*G5AJh2y#C*-55/--y+5#IKZE+<h+tP5##EAKEK0lA.-CKJ;ZE5ZhA8h#y*C5yAAlEE_!5y#*yJChEJfC5*#+y<CJy**Ah#y++5;CZ&A#h*y5#lZl+hEh)8AZ-hl**y-*l**5h-y#C*-+lo*#J*++;OZEAlh+=85##ECKEK?aAg#+JJ+AE*W+AehJA-E*ZKA#EZIAKJ*ZZ*A+E9oJE5Z*+#;-lCAEhKKJCA#Pl;*-h*#Z5m##l**+K5K#;*Z++<E#T*5+hEJhC*-+l_*5J*+K;(Z#A*Ew_h5##*l+CE-#KC;+J7ElE*k+AIh#y*C+#^a#ACJKKv;#Z*A+;T_#5*-Ky_C#-*Kl*oJh+*;lh,Ahh*y+5J##l**+h!;E;*Z++7E#j*AAhd!EAh-+lZ*#-Z++;bZ#A*hlX_5##*llCB-EK*;+J++#E*U+A6h#y*C+#^l***J+KS;#Z*A+EQ!#A5#+yZC#-CK+*xJ#l*;5ZXAhh*yK5<hKl*Cl-CK#;AZ++ZE#k*5+hb8EC*-KlX*;J*+l;,J#K#h+0:5#E1l+CZ-#l5A+JZ+#E*7lA!h#y*A+EZl#**J+Ks;#J;A+;J**5*#Ky)5A-*K+*vJ#LlEKZ>A#h5y+5J##l*h+-PK#;*Zl+aE#w*5+KAy#C*-+lJ*#J*++*JZEA*hKg9Ah#*l+Ceh#ll;+JZ+#EC7+Ayh#i55J#,lE**#JKQ;#Z*+lECa#5A#+yKC#-*K+CJJh+*;1ZR+5h*y+5{hEy;*+-hK#;yZ++fE#P*lyhZyhC*#Zl2*EJ*K+**Z#A*h+)#5##Cl+C<-*K*;+JG+EE*&+A=EE8AC+#Zl#CCJ+Kq;#-*+CEjah5*#Ky?5--*llC#J#+5E+ZEA#h*y+AJ#ll**y-sKy;*Z++{;EZZ5+h#y#5l-+lU*#-5h);9ZCA*EZW)5##*l+K--hKC;+Jh+#E54++9E+y*C+#Gy;**JKK7;#Z+A+EU!#55#+yeC##5ly*uJh+*;*ZqA#h*Z+A;##lC*+-ZK#*5Z+KJE5t*5lhH 5C*-+lRCEJ5++;-Z#+lh+8^5#h5y+Cr-*K*CJJf+#E* +A+h#yCC+##l#*5J+lW*;Z*A+E:ZJ5*#Ky9C##hK+*MJ#+5E+ZpA#**Z#51##l*CE-0K+;*Z++KE#^*5+hJy#C*-+lb**J*+K;!Z#A*h+dnA##ll+CG-#yo;+JZ+#;5ZUASh#y*Cl#(l#**#+lC;#Z*A+Et,#A;#+.J5K-*KK*dJ;+*E+ZeA#ClyK5m##l5*+-JK#;**;+LE#M*5yh>y#C*-+l+*#J*++;-Z#A*h+ZJAJ#*lKCY#*K*;+Jgl#*J=+AZh#yCC+#yl#C5#-KF;EZ*KJEIM#5*hly5C#-AK+*hJ#+*E+ZiAAh*yK5)#;l**l-Sl#*#Z++TE#ZK5+hZy#C*#ylM*#J*+y;aZ#A*h+=l5##Cl+CJ-#K*;+-L#KE*6+A!E+y*CK#al#CCJKKv;#ZCA+E}N#5*#+yOC##JK+*xJ#+5ElZmA#h*y5#+#Ey(*+-jK#;EKJCL#*AE*EZy+#C5#Jli*#J*+5Jlly*#J5Kz5E#5l+CV-#KE-lJJ+KE*f+AUhJ5lE+J#AZEJy*5K#-Z5+*EY #5*#55;E#sCAAJlyl5Z#AlK*lJyyl5J##l**+Jl*-;5Zl+RE#N*55>lyECK-+l^*#JE;+#Cy#CuhlLl5##*l+*ly#AE#+yK;*#Zl;Cu--A;*^ZAA#*CE+KL;#Z*K+JZ1#5C#+y>C##JK+CJ#R+*ElZdAKh*y+5zE#yA*+-JK#;5Z++5E#J*Ayh=yEC*-llI*CJ*KJ;*Z#ACh+&;5##Cl+CJ-#K+*ZJ2+#E*Z-ANhhy*50#hl#**J+ay;#ZCA+*wJh5*#Ky(C#-*Kl*1-Ez*EKZJA#EZy+5,##R*5K-=KE;*Zl+eEEs*++;Zy#C5-+lJ*#J+++;E#*AChK,uAJ#*lKCa-EK**UJh+#E*7+Alh#yCC+##lC**J+Kz*hZ*AKE(P#h5#+yZC#-*K+*uJ#+*-+ZgAhh*y+5T##l*C%-hK#;*Z+yyE#^C5+;bZhC*-Kl>*#J*+l;%JEy*hKkJ5#hZl+C=-#y*CKJT+EE*9lARhEy*A+EZl#*5J+KJ;#JTA+EE&*5*#Ky 5l-*KK*:JE+*;aZhA#h*y+A5##lC*+-_*E;*ZK+}E#b*5+hoy#E*-+lZ*#JC++;7Z#A+EZaH5##*JACp-hK*C+#Z+#EC4+ANh#y5C+hJJ#*CJlKq;KZ*A+E^J#+C#+yJC#-5K+*JJ#l**KZkAEh*yl5R#hl*CJ-#K#;CZ+l-E#NC5+hJy#C+#Zlo*#J*ly;(ZhA*h+AJ5##Cl+Cv-#K*;+JTC#E*IKAzhEy*C+#vl**KJ+K7;#h;A+EZO#+*EKyNCh-*K+*FJE+*;lhaAhh5y+5C##l**+h3yh;*Zl+(EEQ*5lhcZ#AC-+lJ*#J5++;;Z#AlCzOZ5h#*ZEC?-hK*;lJR+*EK<+Awh#JJC+#Zl#*+-ZK,;#Z*lCEteh5*#+5JC#-CK+*tJ#+*E+ZU*#h*yK5z#;l**+-iK*;KZ++XE##;5+hZy#A*hKlW*hJ*++;LZEA*El#05h#5l+CC-#K*;+#vlhE*plAVhEy*Cl#cR#5CJ+KJ;#Z5A+E-b#5lh:yQCh-*ZJ*&Jh+*ElZ=A*hKy+5U##Zl*+-ZK#;*+l+QEh *5+hIy#C*-+Av*#JC++;#Z#A*h+L#5C#*l+Cf;-K*;KJ^l#*Ci+AZh#y*C+#Jl#C5E+KZ;EZ*+hEY0#5*E+ZZC#-5K+*JJ#+5E+-!Khh*yl57#El*CJ-=K55+ZK+ZE##h5+hZy#C5-+l#*CJ*++;uhZA*hKsz5*#Kl+C(-#Z;;+JZ+#E*AlA2hhy*C+#=l#**J+5{;#ZCA+Ehi#5*#+y25h-CK+*aJh+*E+ZFA#h*y+5P#;l**+-%KE* Z++_E#qE;+JC+!EhZ-A1h-J5KJ;qZ#A*h5+K;lJAA+El-Elg;+Jb+#EElK*#-JK*E*Z;+J*C-ZK_;#Z*A+*yeh5C#+yFC#-*K+59Jl+*EKZ^Ahh*yy5>E#}J*+-ZK#;CZ++JE#Z*+hhkyhC*-Kl6*#J*++**Z#A*h+ Z5##*l+CF-#K*;+Je+#E*&+AZhEy*C+#rl#h*J+Kw;#Z*A+E4q#5*hKyZC#-*KK*nJ#+*E+Z.A#h*.-5d##l**y-bK#;*Z++FE#;*l+h-y#C*-+l>*#J*++A/ZEAKh+%f5#A+#KyJ5}-K;yJ6+#E*?+A h#l*KA#Jl5**J+KFl;*+Jl+C;J&y#lynC#-*K+*JJh+*E+ZWAJhC-r5M##l**+K5K#;CZ++ME#k*5+h.J-C*-ll1*#J*++;.Z#ylhK.Z5##5l+CJ-#ylC*Jz+hE*Z*A hhy*Cy#bl**KJ+K:;#J#A+EZ/#5*yEyMCh-*KK*6J#+*E+-yA#h5y+5F##l**+-EK#;*Zy+LE#t*5KhsyEC*-+yJ*hJ*++;8Z#A*h+dUME#*l+Cg-EK*;+J:+#+ZH+AZh#yAC+#Zl#*+-ZK ;#Z*llEtsh5*#+C5C#-CK+*0J#+*E+Z l-h*yl5z##l**+-zK#AlZK+ZE#N55+hJy#Al*5lZ*hJ*Kl;:ZhA*EZsb5*#Kl+Ce-#l5;+JZ+#E+ZZA h#y*+l#<lh**J+l5;#ZCA+EzQ#5*#+yl;#-*lj*>hE+*EKZvAhh*&R5h##l**+EJK#;CZ++r0l9*5Khcy;C*-+lm*##-++;JZ#A*h+Qs5#h5llCe-;K**SJ0+#E*Zl+Eh#y+C+##l#**J+Kn;AZ*AKEga*5*#ly2A5#CK+*ZJ#lhE+ZZA#hyy+5##Cl**+-!yZ;*ZK+GE*aK5+h y#+5-+lZ*#-5h4;GZhA*EJ8?5##*ylZ#-#K5;+JJ+#E*_+AuEly*Cy#bl#**J+Kt*EC+A+E#v#5+#+y_C#-+)+*ZJE+*CKZpAhh*y++y##ll*+-ZK#;*Z++&;l_CA-hey*C*-+l8*#-Z++;*Z#A+h+&r5##*y-Ci-KK*;yJH+#E*I+AKh#}JC+#1l#**J+KI*;Z*+;EsdC5*#+y C#h_K+*+J#+KE+ZSA#h*ZC5}#Kl*C*-HKE;*Z+hyE#Z)5+h*y#5Z-+l>*AJ*Kh;>ZCA*h+st5##ll+C*-#lc;+JC+#**ZEAbh+y*5##klh**J+lA;#ZyA+E;{#A,#+ypC5-*KK*3J5+*;-ZHA*C-yK5J##f5*+-ZK#;*-*+ZEhc*5lhuy#C*-+y+*hJ*++;JZ#A*h+I9Ah#Cl+Co-hK*;+Ji+hE*P+Ach#y*C+#_lE*lJ+Km;#Z*l5EZeE5*#+yLC#-*K+*+J#+AE+ZZA#h*y+5IEZl*Cb-vKh;*Z++iE#JI5+h-y#C5-+lJ*#J*KI;TZEA*h+q05;#*l+CK-#K*;+JZ+#E*d+A_h#y*C+#Jl#**J+KJ;AZ*A+EI,J;+J;A+E*ZhA5*JJy+*E+ZMAJc5++;yyyAyh*Z#5#hhy5+>;hd*5+hFy##J-+lf*#J*++;(Z#A*ACbo5##*lKC<-hK*;++5+#E*9+AZh#y*C+#EZh**J+Kn*#Z*AKE?v#5*hVyhC#-*K+C1J#+CE+JJy#hCy+5m#hl**+-rK##;Z++ZE#Q55+hey#A*h*lH*hJ*+K;(ZEA*h+Z;5##Cl+CJ-#K*;+J K#E*)+AVh#y*Cl#bl*CEJ+KB;#JEA+EZI#5*yEyWCC-*Ky*fJ#+*E+-yA#hly+5###l**+-4+h;*JZ+dEE0*5Khey5T(-+lX*#--++;ZZ#A5h+6#5C#*l+C7-yK*;KJw+#;CdKAeh#yCC+#dl#**J+KR;#ZlA+Eg^#55hEy%C#-*K5EJyl5h#Jll*yJ#+5;w#El+*+-(K#;E++;lZy95A#hIy#C*-5*yh#wE5A#KllC+hlvy5##*l+*llh5+hhly;h-+lC*l--5EEyZ#AAh;JlK*;#Z*A+hlAJ;AZ*+l;Jx+A5*JJy+*E+ZzAJZ5KE;KZAA;##}55-#*y-+c;K4*5+hFiEy--+lH*#JC++;gZ#K*;-.<5##*l+C=-*K**l-Z+#E5&+AEh#y*C+#nyy**J+KL;EZ*AlE{)5AJ#+yaC#-yK+*ZJ#+CE+Z#ACh*y+5z#Al**K-6K*;KZ++dE#Z#5+hZy#55;+lZ*#J*+K;)Z#A*;+nJ5h#*l+CY-#Kl;+#TKyE*O+A{h#y*5G#IyEN+J+KJ;#ZKA+Ez?#5**yyZC#-*Kl*>JE+*;JE-Ahh*y+5y##lC*+-ZK#;+JZ+{E#G*AAh%yhC*#Glh*#J*++**Z#ACh+JnKh#ClKCH-#K**mJ_KEl+I+A-h#y5C+#1l#**EyKZ;hZ*AyEicE5*hJ#-Ch-CK+ChJ#+CE+ZZA#h+GZ5R##l*5Z-sKh;*Jt+hE#p*5+E*y#CC-+ !5hJ*+K;tZ#A*hl47+#;ClKCZ-#KC;+J-+#E*yKAUhhy*Cl#<lh**J+lZ;hZ*A+EZx#5*#+y_C#-*K+*JJ#+*E+Z-A#h*y+5R##l*;+EyKE;KZ++ME#LE*lZ++*;;-+ll*#J*++;3AlA*h+LL5##*l+Cr-5JA;KJ.+#E+}+AZh#yCC+##lC**J+K/;*Z*AKE&j*5K#+yvC#-yK+*ZJ#+*ZEZ_A#h*yK5{##l**+*KK#;*Z++ZE#uC5+h#yCC*-+l^*KJ*+K;/Z#EJh+uq5##5l+C}-#K*KCJ6+#E*OKAbhhy*5l*flh**J+KJ;#Z*A+;JJ-5C#KyMCh-*K+*LJ#KOE+Z=A#h5y+5Z##l+CZ-/K#;*Z++7Eh=*5+EZyhC*-+lZ*#J*++;pZ#A*h+O+5##*l+CJ-5K*;+J8+J#-K**#-ZKECl#;l#**J++lJJlyCM-jKK*;#ly5C#-*K+;llE5J#ClECJ--+*ElZ#lA*+-RK#;*Z++nh##;5lh-y#C*-+Kl-hlA+l;hZ#A*h+yl;EZ#+#EG-Elu;+JX+#EE+5;l-Z++;;Zy+J*5-ZKL;#Z*A5#JKY;+JAyJCy-*K+*cJJ;5-+ly;JJ*KC*ZZ*AEh+-JKy;*Z++,EJ+5*EJK+AE;y#A5h-y*5-;JZ+A*h+L25Jy;A+ElZ-AhhEj#+E;;)+Adh#yE#KZ#AKh;KK5#hZyECANlK;;+J-AyChEMK+*oJ#K5;5ZZAhh*:J5b##l*5+#AK#;CZ++ZE#ZZ5+EJeCC*-yle*;J*++;?Z#+=h+0Z5##Al+CJ-#y**5JH+EE*6KA6EMy*5lh+l#*+J+K5;#Z*A+E<ZJ5*#ly2C*-*Kl*(J5KCE+ZJA#;yy+5Z##l**+-#KC;*Z++G*Ar*5Kh>Z#+C-Kl-*#J5++;+Z#+5lgxL5C#*y-C>-#K*;+E-+hEAi+Ahh#y5C+#EZh**JyKWCAZ*AKE22#5*hayhC#-*K+5;J#+CE+-qlhhCOg50#;l*C*-RlEy+Z++EE#x55+hqy#C*;ylZ**J*KJ;0ZEA*EJ-Z5##+l+A;-#KC;+JP+#E+ZZABh#y*+-#Olh**J+;h;#ZKA+EZ9#5*#+_JZ*-*lJ*PJC+*E+ZGA#*lyK5h##ll*+-ZK#*5h++ZE5H*5KhPy#C*-+Yy*#Jy++;hZ#A*h+&m--#*yJC>-EK**#J?+*EKv+A7h#ZCC+#Zl#5*hKKZ;yZ*+<E1Zs5*#+ZyC##hK+*5J#+*E+Zqy;hCd;5?hZl**l-<K55CZ++AE#JC5+hZy#C*-+l#*CJ*++;9-hA*hKqv+#;ClKC+-#l-;+JA+#E*yKAMEmy*Cl#dlh**-J-*;#ZlA+;56#5C#+yJC#-+lZ*PJ#+**EZsAhh*&ll2#hll*+-*K#;*Z+KJ*-kCA-h<y*C*-+lG*###++;EZ#A5h+&Z5##+yZCI-#K*CJJ%+hE*,++Zhhy*C+#Zl#**J+Kf;#Z*A+ES,#5*#+yoCC-*K+*PJ#AbE+ZcA#h*y+5w##l*5--tK#;*ZK+6EhQ*5+E5y#C*-+lZ*#J*++;2-ZA*h+0V5h#*lKC/-#ll;+J?+#ECn+A:h#y*C+#sl#**J+K);#ZCAlErg#5*#++TC#-*K+*<J#+*E+ZQ+hhCy+5S#hl**+-}K#;*Z++RE5Q*5+hQy;C*-+l9*#J*++hWh-A5E#Ie5##*l5hZ0#5EhAy55Z8E:yA}h#y*C+#Ol#**E+KJ;*Z*A+E:sJ*ZZ+KJC;-*K+*gJ#+*E+Z9A#h5 h58##l**5lA5lhEygCy-*lJ*hh-%;C*-+la*#EZ++;-Z#A*h+nr5##*yACr-*K*;KJ/+#E*i++Kh#yAC+#Jl#*5J+K.*ZZ*+%E1qE5*#yy1A##-K+*hJ#+*E+ZEA#h*Z;5!#5l**K->K*;*Z++5E#UK5+hhy#Cl-+yJC{J*KJ;VZEA*h+M.+#JCl+CE-#Kl;+J#+#;5J-A hAy*5Z#Rl#**J+l#;#J)A+EJX#5*#+M^C5-*l#*IJh+*;#ZbK#;Jy+5C##l+*+--K#;*J5+aE+T*A#h_yKC*#lyJ*#-Z++;hZ#A*h+eTl;#CyJC(-KK*;lJe+#Zl=+A;h#yKC+#El#**#*KZ;AZ*AlEU3#5*#+gZCh-*K+*ZJ#+*E+ZgA#h*y+5-##l**+-JK+;*Z++fEJlC*pJlK#E#Z-Al*E-Z++;LZ#AEJAK#*JJ;A*ECxJ5*;lJ*+#E* +5lJ#KZE*,KAAh*yAKZ;CZ*A+E.q#K;#KyZC#-*K+*SJ#l*EKZmAhh*yK5n#hl*5+#EK#;CZ++ZE#H55+Ec3lC*-Kl8*;J*++;&Z#Khh+<V5##Cl+CM-#K*;+Jv+#;-F+Avh#y5Cl#_l#**J5CJ;EZ5A+En{#5E=5yJ5J-*K+*FJJ**#5ltCZL+Kh;AJ#+;#AZ#5y#*Zl+JE#3*5+#l5-C5##l *#J*+5JEl#C+)5K5;-Z*llCJ-#K*;+Zl**E5ZZAch#y*C5ynAKE*S#KJ*?Z*A+E}WJhyZ++Z;-lEAEhCV-5h#El;AEh5y+5?##lE-*-JK5;*Z++/EJ+E*;Z++JE*-llC*#J*++El+5**#v+K;lZ#+Chy-EJE;+J!+#ElhyAZhhy*Cy#}lh**JKK6;*ZKA+Ej^#5A#+yZC#-+lZ*QJ#+*;MZzAhh*y+AZ#hl**+-ZK#;*Z+l>*h=*5lhsy#C*-yl_CEE*+K;-Z#Ayh+S}5#E*xKCe-;K*;yJQ+;E*J+KZh#yAC+#-l#C-J+KE5*ZCAlE9sy5*#Ky?C;-*lU*hJ#+*E+ZAA#hCy+5##Cl**+-LJZ;*ZK+Q*#JC5+hJy#C*-+lh*#-5L+;ZZ;A*E-u.5##*v+AZ-#KA;+J-+#EKz+K{;hy*Cy#Ql;**JKK ;5#+AKEJ:#A5#+yZC#-AK+*#JC+*E+ZP+Eh*yK5o#*lK*+-FK#*KZ++ZE#:*hlhzyEC*-KlG*#J*++#7Z#A5h+eW5##*l+C#-CK*;+JiZZE*qKAq;#ZCC+#Jl#**J+Kh;#J5y+EZT;5*h-yYC#-*y+5ZJ#+AE+Z-A#hKy++%Ehl**y-?K;;*Zl+zE5_+5+hJy#AE-+lZ*#JA++;#ZCA*h+0I+J#*lKCv-#*5;+JJ+#EC4+A_h#y*E+#rlE**JKKb;#Z*+WEh4#5*#+-KC#-CK+5/#h+*ElZ4A#h*aZ5QhEJ**K--K#;yZ++mE#J*+Kh=y;C*-ylz*CJ*l+CZZ#AAh+f-5#hZl+CE-*K*;lJblAE*kKAch;y*5&#hl#**J+y;;#ZCA+E)AE5*#ly2Ch-*K+*rJ#C*E+ZJA#h5y+5j##l+CZ-fK#;*EC+QEhs*++;Zy#C5-+l6*#JK++*Jh#AChyBe5A#*l+CSh#yC;+J-+#EA +Ahh#Z*AK#rl;**JyKQ;*Z*+JE#m#55#+JOC#-CK+*-J#++;ZZTA#h*J+5a#hl**+lJK#;5Z++ZE#m*5+hO+#C*-ll_*;J*++;IZ*AKh+k85#Chl+CZ-#y*CKJ9+EE*!+AVhCy*5l*jlh*AJ+K;;#Z*A+*wJh5*#yyuC;-*lZ*z##lCE+Z-A#hAy+55##ll+R-ZKE;*h-+:Eh>*5yhey*CK-+lT*#hy++;ZZ#A+EZo%5##*JECO-hK*;+KJ+#E5M+AZh#y*C+#7A#**JlKc;*Z*A+ExS*5K#+yvC#*hK+*ZJ#l**KZzAEh*y+5j#Cl*Cl; Kh;AZ++;E#b*5+;%ZhC*-yl%*;J*KZ;4-#KCh+&-5##Al+C*-#Kl*(J>+EE*#yAghhy*Cy#^l**KJ+K4;#hAA+EZe#5*ylyICE-*KK*^J#+*E+l4A#h5y+5h##l**+-#KC;*Z++<AZW*5Kh%Z#AC-+lJ*#J*++;hZ#+5C+eZ5;#*y-C1-#K*C+#Z+#EAp+A-h#yKC+Ef<h**JyKs;;Z*+JEM%5K+#KyJC#*JK+*ZJ#+AE+Z#ACh*y+5_*ll**K-QK*;KZ++WE#hh5+hZy#C*lElr*EJ*KJ;GZ#A*h+-*5##5l+CJ-#K*;+JBC#E*!lAWh5y*C+#Bl#CCJKK);#ZCA+Eav#5*#+yfC#-yK+*BJ#+AE+ZqA#h*y+5 ##J**l-#K#;*Z+Al-KK**lhJyKC*-+l_*Jl-5E#ll*C;-_K5;K#5llCe-#K*;5l#+E;hG+A0h#yEhKZ#A#E5<;55hZy;;5-#lC;*#lyJC#-*K+;ll;+5;#Z2A#h*y5EZZ#AEEAQ5AZZhZ+KZE#}*5+h)ClC*-+lp*#J*++;sZ5lCh+2V5#h*l+CZ-#K*;+J#+CE*W+AQE#y*CK#6l#-JJ+Kk;#ZCA+E4z#A5ChyZCh-*l-*mJ#+**+ZhA#hCy+5Z##l5*+-8lE;*Zl+wE#x*5+hvZ#54-+lJ*#J5++;hZ#K*Eh7u5E#*llCP-5K*C+-A+#E56+AJh#yCC+#Rl***JyKQ;#Z*A+E_J#yl#+y-C#-AK+*hJ#l*;ZZkA;h*yy5n#*l*5+#ZK#;AZ++-E#tC5+heyAC*-Kl7*;J*+l;^J#+5h+%n5##Al+CZ-#K**KJZ+#E*1KAgh#y*C+#^l#**-*Kn;#Z*AlE#b#5*#+llEKm*Al*J-J+*E+Z0AJxEK+;KJZA*Eh}y*J##y#Cs#ZK#5lh5y#C*-+Kl-JyAC*#Kl2*E-AKG*Z#5yKC!-#K*;5K-5##IK**CJl++EAyKAlEJ!A*A#LyhCAEJ%+5*#+yiCJyC5+#l.-5J#C5KAEEKy+5(##lE#l/5AZ#ylA;y-l+C*_J/KE;-ZEAKE-l-5E##lKC;hla55##*l+*ll+5##lyCC*#;l+;yJ#y5Cl#%l#**J5C-;EJZA+EQ!#5Ep;+5;Jg+AAh#yl5ZElZJA#h*y+Clg*l5CE-:K#;*Z55J-llh*JJl+yE#W5Ak*E-;++;<Z#AEbKK#;KZ;CKE#ZZAEhA+lC;-+l-;yhhZyC+#/l#5*#KKx;hZ*A+E<:;5*hJ#-Ch-CK+*#J#+CE+ZZA#h+GZ57##l*C(-BKh;*J?+hE#Q*5+hCy#CC-+)8AhJC+l;NZhA*E*XLAE++l+C#-#K+;+Jx+#E*#yAZhEy*5_#(lE**-JJ-;hZ5A+EA.#5C#+yZC#-+lZ*HJ#+*;;ZwAhh*y+hJ##l5*+-QK#;*Z++b*S,C5lhVyEC*-+l!CEE*+K;JZ#+-h+6H5#E*llCZ-EK*;lJa+EE*J++5h#yAC+#Jl#*lJ+yIChZ*+ZEa(h5*h9y.A#hCK+*hJ#+KE+ZCA#h*Z-5i#;l*CZ-)K*;*JJZ-Eho+5+E#y#CC-+lZ*#J+KZ;dZ#A*;? t5h#*y6Ch-#K*;+##+#EC}++JC#yC5Z#<lC**J+KaC#5EA+Eh3#5K#+yZC#h*Ky*PJ5+*EyZBA+h*Z+A+##ly*+--K#*JZ++{;+8*AZhSyAC*-lld*###++;EZ#A*h+dj5#E*aZC.-5K**JJj+KE*1++;h#yKC+#hl#*lJ+y<;5Z*+ZEs?C5*h-y7C#-+K+*EJ#+CE+ZcA#hl{h5R#Cl*5K-kKh;*JJ+PE*MK5+hxy#AC-+lZ*#J+KZ;YZ#A*;lSY5h#*l+h+-#Kl;+Ju+#E*G+A,cEy*5J#Ylh**J+KN;#-#AKEEH#55#+yGC#-**l*rJC+*E+ZcA#h*y+A+#hlK*+-JK#;*Z++B;hpC5+h{yhC*-+l2*#J*++;TZhA*h+)L5E#ll+Ck-#KEh;l+C*#hl5AZEJy*C+#OyE+*JKKZ;#ZCA+Eux#5*yEybCE-*K+*oJ#+*E+CyA#hCy+5J##lA*+-#KC;*Z++7EKV*5Kh y5++-Klh*#Jy++;ZZ#A*h+m#5C#*l+C6-AK*;KJW+*EK)+Afh#cZC+#Zl#**KlKQ;5Z*AKEq9#5*#+N+Ch-lK+*JJ#+*E+ZEZ+h*yK5d#*l**K-.KE;*Jb+hE#P*5+h#y#CC-+lb-EJ*+K;dZ#A*h+wz5#E#lKCZ-#K5;+Jv+#E*ZKAZh#y*CK#wl#**J+K ;#Z*+EEm!#5*#ly*C#-*K+;lK5C*h_Al*lJ;++5JhJl**+-qKJ-*y5C8#ZA+*hJAK#;;yA+#hyy*+K;ZZEAyh+.n5##EC*E#q+5hhEyy+E;^x+A=h#yEhKZ#+Jh+yC5;##Z5+-EMU#5*#5C+E*ZkAYhCyE+5;AZwA#h*y5#+Z*+shC65A-#JKJCf#*Kh*^JC+-C5#Cl^*#J*+5J*llC*-5K>hZJ*+AEy&lAZZCJJ+CE*U+AFhJ5*;hJ)A+*5-+K ;#Z*A5%+K**4ZC+5;-jJ*AhKy_55-E+ZElZCyKAl##l**+hByh;*ZK+YE# *5Kh y##J-+lJ*#J*++;dZ#K*;K_M5E#*llCu-AK**Jh#+hECn+AEh#yCC+#Jl#*+-ZK1;#Z*+JE sh5*hdyhC#-*K+C#J#+CE+Zmhlh*yK5o##l**+-_K#AJZ++JE#d*5+h}y#A*#Ele*EJ*+l;/Z*A*h+Z;5##5l+CJ-#K*;+-j+CE*7KAzh*y*Cl#il#C;J+KZ;#ZCA+EU.#5*#yytCE-*K+*RJ#+**+Z+A#h5y+5J##l+*+-EJ;;CZl+k;h,*5KhSyhC*#4lh*#J*++*ZZ#ACh+R#5C#*l+CT#;K*;KJe+#ZJt+AJh#y*C+#Il#5*#KKk;EZ*AlEtvl5*h+;CC#-CK+*hJ#+5E+-HKhh*yK5_##l**l-=lEA*ZK+JE#ZZ5+h?y#A*hKl^*EJ*+l;PZEA*;+JZ5##5l+CJ-#lW;+JEy*EC6KAvEyy*CK#,lE**-VKh;#Z*A+;A}#5C#+y#CC-*K+*{#Z+*EKZQA#LJy+5Z##l**+-LK#5*-w+!EhQ*AJhxy;C*-+yZ*hJ*++;ZZ#A*h+Ui5##*l+C<-#K*;+JZ+hE*W+Axh#<CCK#(l#*CJ+K/;#Z*A+Eg2#5*#+ysC#-*Ky*4J#+*E+A5A#h*y+5N##l**+-?-Z;*Z++uEhv*5Khiy#5C-KlG*#JC++;mZ#A*h+.Q5#hJl+C9-#K5*EJ7+#E*g5E*Jj+5;hZ#+-E*yA5?;EZKA+Ew2#5E{++CE*Z;Kl*#J#+*E+Ol*KJ*Kl5J#+l**+-2KJ-Cl+*l#-lJ*CllyE5#-+l^*#JE*C##lE*A-A+Z;#ZE+AE5ZZKA;+J%+#E*/+A_##A;Cy#cl#**J+K<;#Z*A+EJcA5*#+yxCJlE*KhKy(5_-+ZJAyh*y+5S#JCyEE%555-Cl+*l#-lJ*Ch-y#C*-+lz*#J*A+5yZ#G;h+Gr5#h5w5CZ-#K**pJr+#E*J+ACh#y*C+#xl#*AJ+lJ;lZ*AKEUdA5*#+yT5E-CK+*JJ#+yE+Z{A#E5by59#;l*C--SK#;*Z+K*E#t*5+h-y#C5-+lG*EJ*++;^Z#A*h+&>5#yJl+CM-#KC;+J +#El-KAOh#y*5+#klh**J+K_;*ZKA+E_/#A*#+yZC#-**E*WJ#+*E+Z/A#h*y+AK#hlC*+-JK#;*Z+lo;EH*5KhiyhC*##l&5#-l++;ZZ#ACh+dC5##*lKC_-#K*;+JX+hE*X+AKh#y*C+#Ol#**J+K0ZlZ*A+E%_;5*#+ytC5*AKK*RJ#K+E+ZZA#hCy+5##Cl**+-Ql*;*ZK+gE*{K5+hmy#AJ-+lZ*#J*;E;kZ#A*h+ju5##*l+-A-#KC;+JJ+#E*?+K4h+y*CK#<lh**-#K_C#J;A+EZ4#5C#+yCC#-*l#*zJ#+*E+Z4Ahh*y+5C##l**+-zK#;*Z++gjln*5+hBy*C*-+lI*5;A+K;gZ#KEh+NZ5##Cl+C#-CK*;+JglJE*7KA7h*yKC+#cl#5+J+KZ;#Z*EEE:Y#5*#+y3C#-*K+JAJ#+CE+ZJA#h*y++^#5l**K-0Kh;*J#+r*#JU5+hZy#CC-+lh*#J*l;;RZ#A*h+7:5h#*l+CZ-#K*;+J,+#E*b+AIyly*C+#tlC**J+KG;5#CA+ERI#Kh#+yZC#-*K+*#JC+*E+ZjlZh*yK54##CJ*+-kK#;*Z++zE#H*+ChZyhC*-llf*#J*l+*;Z#ACh+kZ5#hMl+Az#ZK*;KJ2+hE*ZZASh#uEC+#?l#**J+KZ;#Z*KEE /#5*#+yzC#-*K+J5J#+*E+ZEA#h*y+5EC;lC*+-=fh;*ZK+BEhB*Ajhhy#C*-+ZZ*#JC++;#ZCA*h+>IKl#*lKCU-#*J;+J=+#E*:+Axh#d5AJ#Zlh**-)K_;#Z*K+;*T#5C#+yZC#-AK+CJJh+*ElZ>AAh*y+5&hEyC*+--K#*JZ++eE#Z55Kh0y*C*#-l1*#J*++;yZ#ACh+(#5##5l+C2-5K*;+Jx+#E*iKA%h#+*C+#3l#**J+KS;#Z*EEEw_#5*h-ygC#-*lJAZJ#+*E+hEA#hCy+5a##l+CZ-:K#;*EJ+wEh4*5+y5y#C*-+lV*#J*++*JJ5AChK}>5*#*l+C&h#lZ;+JZ+#ECk+A-h#z5AC#TlE**--KM;#Z*+lEhR#5A#+yEC#-*K+CJJC+*;FZ>AAh*y+5<##yh*+-ZK#;+Z++JE#=*A+hWy#C*-+lY*hJ*++#MZ#A*h+vP5##*l+C:KlK*;+J%+#E*Y+A(;#ZCC+#<l#**J+KZ;#JEh5EW{A5*C;yiCh-*K+*kJ*+KE+ZvA#5-y+5Z##l+CZ-XK#;*E5+OEhG*5+y5y#C*-+lv*#J*++Cr-hA*h+^t5##*llCG-#5*;+J +#E* +A}h#y*5K#Zl#**JKKS;#Z*A+ET8#5*");local l=a.bzwbwuyA;a.FnuSKqKD(function()a.hMaWGXIk()l=l+a.Qg_mIsdn end)local function e(e,n)if n then return l end;l=e+l;end local n,l,r=f(a.bzwbwuyA,f,e,b,a.kCYFlvol);local function t()local l,n=a.kCYFlvol(b,e(a.Qg_mIsdn,a.lvCdoIzx),e(a.yGdIcjQR,a.YB_OdKTc)+a.aMqhVdHj);e(a.aMqhVdHj);return(n*a.MyhMlTQk)+l;end;local k=true;local k=a.bzwbwuyA local function p()local e=l();local l=l();local d=a.Qg_mIsdn;local h=(n(l,a.Qg_mIsdn,a.albHCfST)*(a.aMqhVdHj^a.XhYqBDym))+e;local e=n(l,a.Lsrqytwv,a.vCcEYSPi);local l=((-a.Qg_mIsdn)^n(l,a.XhYqBDym));if(e==a.bzwbwuyA)then if(h==k)then return l*a.bzwbwuyA;else e=a.Qg_mIsdn;d=a.bzwbwuyA;end;elseif(e==a.UFPfYDuI)then return(h==a.bzwbwuyA)and(l*(a.Qg_mIsdn/a.bzwbwuyA))or(l*(a.bzwbwuyA/a.bzwbwuyA));end;return a.DWqechYL(l,e-a.cSknLuQu)*(d+(h/(a.aMqhVdHj^a.tpyvmBjT)));end;local c=l;local function _(l)local n;if(not l)then l=c();if(l==a.bzwbwuyA)then return'';end;end;n=a.GtiamYUj(b,e(a.Qg_mIsdn,a.lvCdoIzx),e(a.yGdIcjQR,a.YB_OdKTc)+l-a.Qg_mIsdn);e(l)local e=""for l=(a.Qg_mIsdn+k),#n do e=e..a.GtiamYUj(n,l,l)end return e;end;local c=#a.AyZRpQyI(o('\49.\48'))~=a.Qg_mIsdn local e=l;local function le(...)return{...},a.nYbixkfH('#',...)end local function he()local o={};local e={};local b={};local k={b,o,nil,e};local e=l()local f={}for h=a.Qg_mIsdn,e do local n=r();local l;if(n==a.Qg_mIsdn)then l=(r()~=#{});elseif(n==a.lvCdoIzx)then local e=p();if c and a.FLtYhGby(a.AyZRpQyI(e),'.(\48+)$')then e=a.DSOEkTWf(e);end l=e;elseif(n==a.aMqhVdHj)then l=_();end;f[h]=l;end;k[a.lvCdoIzx]=r();for o=a.Qg_mIsdn,l()do local e=r();if(n(e,a.Qg_mIsdn,a.Qg_mIsdn)==a.bzwbwuyA)then local r=n(e,a.aMqhVdHj,a.lvCdoIzx);local s=n(e,a.Kmnvahfz,a.YB_OdKTc);local e={t(),t(),nil,nil};if(r==a.bzwbwuyA)then e[d]=t();e[y]=t();elseif(r==#{a.Qg_mIsdn})then e[d]=l();elseif(r==u[a.aMqhVdHj])then e[d]=l()-(a.aMqhVdHj^a.AfqJzWfk)elseif(r==u[a.lvCdoIzx])then e[d]=l()-(a.aMqhVdHj^a.AfqJzWfk)e[y]=t();end;if(n(s,a.Qg_mIsdn,a.Qg_mIsdn)==a.Qg_mIsdn)then e[h]=f[e[h]]end if(n(s,a.aMqhVdHj,a.aMqhVdHj)==a.Qg_mIsdn)then e[d]=f[e[d]]end if(n(s,a.lvCdoIzx,a.lvCdoIzx)==a.Qg_mIsdn)then e[y]=f[e[y]]end b[o]=e;end end;for e=a.Qg_mIsdn,l()do o[e-(#{a.Qg_mIsdn})]=he();end;return k;end;local function ne(n,e,l)local h=e;local h=l;return o(a.FLtYhGby(a.FLtYhGby(({a.FnuSKqKD(n)})[a.aMqhVdHj],e),l))end local function _(j,r,o)local function he(...)local t,z,c,ne,u,l,b,g,ee,p,k,n;local e=a.bzwbwuyA;while-a.Qg_mIsdn<e do if a.lvCdoIzx<=e then if e<a.yGdIcjQR then if a.Qg_mIsdn~=e then for l=a.qHowXDW_,a.saEGgomA do if a.Kmnvahfz>e then g={};ee={...};break;end;p=a.nYbixkfH('#',...)-a.Qg_mIsdn;k={};break;end;else p=a.nYbixkfH('#',...)-a.Qg_mIsdn;k={};end else if a.Qg_mIsdn<=e then for l=a.zFJjuPBB,a.mQUdeQun do if a.YB_OdKTc~=e then n=f(a.YoDXmKiJ);break;end;e=-a.aMqhVdHj;break;end;else n=f(a.YoDXmKiJ);end end else if e<=a.bzwbwuyA then t=f(a.YB_OdKTc,a.AfqJzWfk,a.Qg_mIsdn,a.MtVTVjhQ,j);z=f(6,36,2,79,j);else if e>-1 then repeat if e>1 then l=-41;b=-1;break;end;c=f(6,17,3,63,j);u=le ne=0;until true;else c=f(6,17,3,63,j);u=le ne=0;end end end e=e+1;end;for e=0,p do if(e>=c)then g[e-c]=ee[e+1];else n[e]=ee[e+1];end;end;local j=p-c+1 local e;local f;local function c(...)while true do end end while true do if l<-40 then l=l+42 end e=t[l];f=e[m];if 169<f then if f>=255 then if 296<f then if 318<=f then if f<329 then if f>=323 then if f>325 then if 327>f then local e=e[h]n[e]=n[e](n[e+1])else if f==328 then n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];do return end;else local r;for f=0,7 do if 3>=f then if 1>=f then if f<1 then r=e[h]n[r](n[r+1])l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if-2<=f then repeat if f~=3 then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end else if f<6 then if 5==f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 3~=f then for r=35,90 do if 7~=f then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];break;end;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end end end end else if f>323 then if f>324 then local h=e[h];local t=n[h]local y=n[h+2];if(y>0)then if(t>n[h+1])then l=e[d];else n[h+3]=t;end elseif(t<n[h+1])then l=e[d];else n[h+3]=t;end else for f=0,6 do if 3>f then if f>0 then if 1<f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else n[e[h]]();l=l+1;e=t[l];end else if f>4 then if 5<f then if not n[e[h]]then l=l+1;else l=e[d];end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f>1 then for y=10,63 do if 4>f then for e=e[h],e[d]do n[e]=nil;end;l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;else for e=e[h],e[d]do n[e]=nil;end;l=l+1;e=t[l];end end end end end else local l=e[h]n[l]=n[l](s(n,l+1,e[d]))end end else if 319<f then if 320>=f then n[e[h]]=o[e[d]];else if 319<=f then for r=19,94 do if 321~=f then local e=e[h];b=e+j-1;for l=e,b do local e=g[l-e];n[l]=e;end;break;end;local r;for f=0,6 do if 3<=f then if f>=5 then if f>=3 then repeat if f~=5 then n[e[h]]=n[e[d]][e[y]];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 4~=f then n(e[h],e[d]);l=l+1;e=t[l];else r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end end else if f<=0 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if-2<f then repeat if 1<f then n(e[h],e[d]);l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];until true;else n(e[h],e[d]);l=l+1;e=t[l];end end end end break;end;else local e=e[h];b=e+j-1;for l=e,b do local e=g[l-e];n[l]=e;end;end end else if f>=314 then for t=28,52 do if 319>f then r[e[d]]=n[e[h]];break;end;if(e[h]<n[e[y]])then l=l+1;else l=e[d];end;break;end;else if(e[h]<n[e[y]])then l=l+1;else l=e[d];end;end end end else if 334<=f then if 336<f then if f<=337 then local s,r;for f=0,6 do if 2>=f then if 1>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if-1<f then for y=41,57 do if 1<f then n[e[h]]={};l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];break;end;else n[e[h]]={};l=l+1;e=t[l];end end else if 4<f then if 1~=f then repeat if f~=6 then n(e[h],e[d]);l=l+1;e=t[l];break;end;s=e[d];r=n[s]for e=s+1,e[y]do r=r..n[e];end;n[e[h]]=r;until true;else s=e[d];r=n[s]for e=s+1,e[y]do r=r..n[e];end;n[e[h]]=r;end else if-1<f then for r=22,58 do if f~=3 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end end else if f>335 then repeat if 338<f then if not n[e[h]]then l=l+1;else l=e[d];end;break;end;n[e[h]]=-n[e[d]];until true;else n[e[h]]=-n[e[d]];end end else if 334>=f then if(n[e[h]]~=e[y])then l=l+1;else l=e[d];end;else if 331<=f then for r=21,52 do if f~=335 then for f=0,6 do if f>=3 then if 5<=f then if 3<f then repeat if f~=6 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n(e[h],e[d]);until true;else n(e[h],e[d]);l=l+1;e=t[l];end else if-1<=f then for r=24,88 do if 3<f then n(e[h],e[d]);l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n(e[h],e[d]);l=l+1;e=t[l];end end else if f<=0 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else if f>-3 then for r=15,56 do if 2>f then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end end break;end;local r,s,_,a,b,p,k,u,c,f;for f=0,4 do if 2>f then if f<1 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if f<=2 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 1<=f then for o=44,62 do if 4~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;f=0;while f>-1 do if f<3 then if 1>f then r=n;else if f~=2 then s=e;_=l;else a=s[h];b=s[y];p=d;end end else if 5<=f then if f>1 then for e=24,52 do if f~=5 then f=-2;break;end;l=c;break;end;else l=c;end else if 2~=f then for e=32,65 do if 4~=f then k=r[a];u=r[b];break;end;c=k==u and s[p]or 1+_;break;end;else k=r[a];u=r[b];end end end f=f+1 end break;end;else f=0;while f>-1 do if f<3 then if 1>f then r=n;else if f~=2 then s=e;_=l;else a=s[h];b=s[y];p=d;end end else if 5<=f then if f>1 then for e=24,52 do if f~=5 then f=-2;break;end;l=c;break;end;else l=c;end else if 2~=f then for e=32,65 do if 4~=f then k=r[a];u=r[b];break;end;c=k==u and s[p]or 1+_;break;end;else k=r[a];u=r[b];end end end f=f+1 end end end end end break;end;else for f=0,6 do if f>=3 then if 5<=f then if 3<f then repeat if f~=6 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n(e[h],e[d]);until true;else n(e[h],e[d]);l=l+1;e=t[l];end else if-1<=f then for r=24,88 do if 3<f then n(e[h],e[d]);l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n(e[h],e[d]);l=l+1;e=t[l];end end else if f<=0 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else if f>-3 then for r=15,56 do if 2>f then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end end end end end else if f<331 then if 325~=f then for s=17,86 do if 329~=f then for f=0,4 do if f<2 then if 0==f then n[e[h]]=r[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f<=2 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 0~=f then for s=21,75 do if f>3 then r[e[d]]=n[e[h]];break;end;n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];end end end end break;end;for f=0,6 do if 3>f then if 1>f then n[e[h]]=o[e[d]];l=l+1;e=t[l];else if-2<f then for s=12,68 do if 2>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end else if 5>f then if f~=-1 then repeat if f~=3 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f>=4 then repeat if f~=5 then n[e[h]]=r[e[d]];break;end;n[e[h]]=n[e[d]]/e[y];l=l+1;e=t[l];until true;else n[e[h]]=r[e[d]];end end end end break;end;else for f=0,4 do if f<2 then if 0==f then n[e[h]]=r[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f<=2 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 0~=f then for s=21,75 do if f>3 then r[e[d]]=n[e[h]];break;end;n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];end end end end end else if 331>=f then if(n[e[h]]<n[e[y]])then l=l+1;else l=e[d];end;else if f~=331 then repeat if f~=332 then local s,u,b,a,k,f,r;for f=0,9 do if f<5 then if f>=2 then if f>=3 then if-1~=f then repeat if 3~=f then f=0;while f>-1 do if 3>f then if 0<f then if f==2 then b=d;else u=h;end else s=e;end else if 5<=f then if 2<=f then repeat if f~=6 then n(k,a);break;end;f=-2;until true;else n(k,a);end else if 2<=f then for e=48,72 do if f>3 then k=s[u];break;end;a=s[b];break;end;else a=s[b];end end end f=f+1 end l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if f>0 then for e=e[h],e[d]do n[e]=nil;end;l=l+1;e=t[l];else n[e[h]]=(e[d]~=0);l=l+1;e=t[l];end end else if 6<f then if 7>=f then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else if f>=6 then repeat if f~=8 then n[e[h]][e[d]]=n[e[y]];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=n[e[y]];end end else if f>=1 then repeat if f~=6 then r=e[h]n[r]=n[r](n[r+1])l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];until true;else r=e[h]n[r]=n[r](n[r+1])l=l+1;e=t[l];end end end end break;end;n[e[h]]=#n[e[d]];until true;else local s,u,b,a,k,f,r;for f=0,9 do if f<5 then if f>=2 then if f>=3 then if-1~=f then repeat if 3~=f then f=0;while f>-1 do if 3>f then if 0<f then if f==2 then b=d;else u=h;end else s=e;end else if 5<=f then if 2<=f then repeat if f~=6 then n(k,a);break;end;f=-2;until true;else n(k,a);end else if 2<=f then for e=48,72 do if f>3 then k=s[u];break;end;a=s[b];break;end;else a=s[b];end end end f=f+1 end l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if f>0 then for e=e[h],e[d]do n[e]=nil;end;l=l+1;e=t[l];else n[e[h]]=(e[d]~=0);l=l+1;e=t[l];end end else if 6<f then if 7>=f then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else if f>=6 then repeat if f~=8 then n[e[h]][e[d]]=n[e[y]];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=n[e[y]];end end else if f>=1 then repeat if f~=6 then r=e[h]n[r]=n[r](n[r+1])l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];until true;else r=e[h]n[r]=n[r](n[r+1])l=l+1;e=t[l];end end end end end end end end end else if f<307 then if 302>f then if f>=299 then if f>299 then if 297<=f then for r=14,98 do if 301~=f then local r;for f=0,7 do if f<4 then if 2<=f then if 3>f then n[e[h]]=o[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if-4<f then for r=47,79 do if f>0 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]-e[y];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if f>=6 then if f>2 then repeat if f<7 then r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];until true;else n[e[h]][e[d]]=n[e[y]];end else if 5~=f then n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]];l=l+1;e=t[l];end end end end break;end;n[e[h]]();break;end;else local r;for f=0,7 do if f<4 then if 2<=f then if 3>f then n[e[h]]=o[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if-4<f then for r=47,79 do if f>0 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]-e[y];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if f>=6 then if f>2 then repeat if f<7 then r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];until true;else n[e[h]][e[d]]=n[e[y]];end else if 5~=f then n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]];l=l+1;e=t[l];end end end end end else local e=e[h];local l=n[e];for e=e+1,b do a.uFedPEzb(l,n[e])end;end else if f>293 then for o=24,95 do if 298>f then local r,o,b,a,k,u,f;for f=0,6 do if f<3 then if f<1 then n[e[h]]=e[d]*n[e[y]];l=l+1;e=t[l];else if f~=-2 then repeat if f>1 then f=0;while f>-1 do if 2<f then if f<=4 then if 4==f then u=o[b];else k=o[a];end else if f>1 then repeat if f~=5 then f=-2;break;end;n(u,k);until true;else f=-2;end end else if 1<=f then if f>-3 then for e=32,68 do if f~=2 then b=h;break;end;a=d;break;end;else a=d;end else o=e;end end f=f+1 end l=l+1;e=t[l];break;end;r=e[h]n[r]=n[r](n[r+1])l=l+1;e=t[l];until true;else r=e[h]n[r]=n[r](n[r+1])l=l+1;e=t[l];end end else if 5<=f then if f>1 then repeat if 5<f then n[e[h]][e[d]]=n[e[y]];break;end;r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];until true;else r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end else if 4==f then f=0;while f>-1 do if 3>f then if f>0 then if 0<f then for e=33,52 do if 1~=f then a=d;break;end;b=h;break;end;else b=h;end else o=e;end else if f>4 then if 5<f then f=-2;else n(u,k);end else if 2~=f then for e=46,82 do if f>3 then u=o[b];break;end;k=o[a];break;end;else k=o[a];end end end f=f+1 end l=l+1;e=t[l];else r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end end end end break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];l=e[d];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];l=e[d];end end else if f>=304 then if 304<f then if 301<=f then for r=11,79 do if f~=305 then local f,o;for r=0,2 do if 1<=r then if-2~=r then repeat if r~=2 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end break;end;local h=e[h];local l=n[e[d]];n[h+1]=l;n[h]=l[e[y]];break;end;else local f,o;for r=0,2 do if 1<=r then if-2~=r then repeat if r~=2 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end end else local h=e[h];local t=n[h]local y=n[h+2];if(y>0)then if(t>n[h+1])then l=e[d];else n[h+3]=t;end elseif(t<n[h+1])then l=e[d];else n[h+3]=t;end end else if f>300 then for s=29,96 do if f>302 then n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];do return end;break;end;local f;n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][n[e[d]]]=n[e[y]];l=l+1;e=t[l];do return end;break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];do return end;end end end else if 312<=f then if 315<=f then if f<316 then local h=e[h];local y=n[h+2];local t=n[h]+y;n[h]=t;if(y>0)then if(t<=n[h+1])then l=e[d];n[h+3]=t;end elseif(t>=n[h+1])then l=e[d];n[h+3]=t;end else if 315<f then for r=18,66 do if 316<f then local e=e[h]n[e]=n[e](n[e+1])break;end;local r,o;for f=0,6 do if 3<=f then if f<=4 then if-1<f then for r=28,59 do if f~=3 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]={};l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if f>=1 then repeat if 5<f then n[e[h]][e[d]]=e[y];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=e[y];end end else if f>0 then if f>=0 then for a=47,52 do if f<2 then r=e[h]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];break;end;else r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end break;end;else local f,o;for r=0,6 do if 3<=r then if r<=4 then if-1<r then for f=28,59 do if r~=3 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]={};l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if r>=1 then repeat if 5<r then n[e[h]][e[d]]=e[y];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=e[y];end end else if r>0 then if r>=0 then for a=47,52 do if r<2 then f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];break;end;else f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end end end else if f<=312 then local b,a,u,k,_,c,p,f;for f=0,8 do if f<4 then if f>=2 then if 1~=f then for r=15,56 do if f>2 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if f~=-2 then repeat if 1~=f then b=e[h]n[b]=n[b](s(n,b+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end else if 5<f then if 7<=f then if f>=6 then repeat if f<8 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];until true;else n[e[h]]=r[e[d]];end else b=e[h]n[b]=n[b](s(n,b+1,e[d]))l=l+1;e=t[l];end else if 4<f then f=0;while f>-1 do if f>=4 then if f<6 then if f~=1 then for e=27,64 do if 5>f then c=_[a[k]];break;end;p=a[u];break;end;else c=_[a[k]];end else if 3~=f then for e=39,55 do if 7~=f then n[p]=c;break;end;f=-2;break;end;else n[p]=c;end end else if 2>f then if f~=-3 then repeat if 1>f then a=e;break;end;u=h;until true;else u=h;end else if f~=-1 then repeat if 3>f then k=d;break;end;_=n;until true;else k=d;end end end f=f+1 end l=l+1;e=t[l];else f=0;while f>-1 do if 4<=f then if 6>f then if 3~=f then repeat if 4<f then p=a[u];break;end;c=_[a[k]];until true;else p=a[u];end else if 3~=f then for e=31,93 do if f~=7 then n[p]=c;break;end;f=-2;break;end;else f=-2;end end else if 1<f then if 0<f then repeat if f>2 then _=n;break;end;k=d;until true;else k=d;end else if f>=-4 then for l=48,72 do if 0~=f then u=h;break;end;a=e;break;end;else a=e;end end end f=f+1 end l=l+1;e=t[l];end end end end else if f>=309 then repeat if 314>f then n[e[h]]=n[e[d]]-n[e[y]];break;end;local y,o,a,f,s,r;n[e[h]]=n[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];y=e[h]n[y]=n[y](n[y+1])l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];do return n[e[h]]end l=l+1;e=t[l];y=e[h];o={};for e=1,#k do a=k[e];for e=0,#a do f=a[e];s=f[1];r=f[2];if s==n and r>=y then o[r]=s[r];f[1]=o;end;end;end;l=l+1;e=t[l];l=e[d];until true;else local y,o,s,r,a,f;n[e[h]]=n[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];y=e[h]n[y]=n[y](n[y+1])l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];do return n[e[h]]end l=l+1;e=t[l];y=e[h];o={};for e=1,#k do s=k[e];for e=0,#s do r=s[e];a=r[1];f=r[2];if a==n and f>=y then o[f]=a[f];r[1]=o;end;end;end;l=l+1;e=t[l];l=e[d];end end end else if f>=309 then if f>309 then if f~=306 then repeat if 311>f then local l=e[h];local h=n[l];for e=l+1,e[d]do a.uFedPEzb(h,n[e])end;break;end;local o;for f=0,9 do if 5>f then if f>=2 then if f<3 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 3~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];end end else if-3<=f then repeat if f<1 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if 7<=f then if 8>f then n[e[h]]=n[e[d]];l=l+1;e=t[l];else if 8~=f then o=e[h]n[o]=n[o](s(n,o+1,e[d]))else n[e[h]]=n[e[d]];l=l+1;e=t[l];end end else if 1<=f then repeat if f<6 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end end end until true;else local l=e[h];local h=n[l];for e=l+1,e[d]do a.uFedPEzb(h,n[e])end;end else local f,r;for o=0,2 do if o>0 then if-3<=o then repeat if 2~=o then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];until true;else f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];end else f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end end else if f~=306 then repeat if f>307 then local r,f,b,k,a,c,s,o,u;local t=0;while t>-1 do if 2<t then if t>4 then if t==5 then l=u;else t=-2;end else if 0<=t then for e=11,86 do if t~=3 then u=s==o and f[c]or 1+b;break;end;s=r[k];o=r[a];break;end;else s=r[k];o=r[a];end end else if t>=1 then if t>=-3 then for n=19,62 do if t<2 then f=e;b=l;break;end;k=f[h];a=f[y];c=d;break;end;else f=e;b=l;end else r=n;end end t=t+1 end break;end;for f=0,1 do if f<1 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else n[e[h]][e[d]]=e[y];end end until true;else local f,r,k,b,a,u,s,o,c;local t=0;while t>-1 do if 2<t then if t>4 then if t==5 then l=c;else t=-2;end else if 0<=t then for e=11,86 do if t~=3 then c=s==o and r[u]or 1+k;break;end;s=f[b];o=f[a];break;end;else s=f[b];o=f[a];end end else if t>=1 then if t>=-3 then for n=19,62 do if t<2 then r=e;k=l;break;end;b=r[h];a=r[y];u=d;break;end;else r=e;k=l;end else f=n;end end t=t+1 end end end end end end else if 275<f then if 285>=f then if 280<f then if 283<=f then if f<=283 then n[e[h]]=n[e[d]][n[e[y]]];else if 283<=f then repeat if 285>f then do return n[e[h]]end break;end;for f=0,4 do if 1>=f then if-2<f then for s=27,86 do if f<1 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f>2 then if 1<=f then for s=43,56 do if f~=4 then n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];break;end;r[e[d]]=n[e[h]];break;end;else r[e[d]]=n[e[h]];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end until true;else for f=0,4 do if 1>=f then if-2<f then for s=27,86 do if f<1 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f>2 then if 1<=f then for s=43,56 do if f~=4 then n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];break;end;r[e[d]]=n[e[h]];break;end;else r[e[d]]=n[e[h]];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end end end else if 281<f then local f,k,o,a,b,u,y,c;n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];y=0;while y>-1 do if y<=3 then if y>1 then if 3~=y then o=d;else a=n;end else if y<1 then f=e;else k=h;end end else if 6<=y then if 2<=y then for e=34,81 do if y<7 then n[u]=b;break;end;y=-2;break;end;else y=-2;end else if 3<y then for e=25,93 do if y~=5 then b=a[f[o]];break;end;u=f[k];break;end;else u=f[k];end end end y=y+1 end l=l+1;e=t[l];y=0;while y>-1 do if 3<y then if 5>=y then if y>1 then repeat if y~=4 then u=f[k];break;end;b=a[f[o]];until true;else b=a[f[o]];end else if 2<y then repeat if y~=7 then n[u]=b;break;end;y=-2;until true;else y=-2;end end else if 2<=y then if-1<=y then repeat if y~=3 then o=d;break;end;a=n;until true;else o=d;end else if-2<=y then repeat if 0<y then k=h;break;end;f=e;until true;else f=e;end end end y=y+1 end l=l+1;e=t[l];y=0;while y>-1 do if 4>y then if 1<y then if 2~=y then a=n;else o=d;end else if-1<=y then for l=11,74 do if 0~=y then k=h;break;end;f=e;break;end;else f=e;end end else if 5<y then if 4<y then for e=23,90 do if y<7 then n[u]=b;break;end;y=-2;break;end;else y=-2;end else if y~=1 then for e=43,62 do if y>4 then u=f[k];break;end;b=a[f[o]];break;end;else b=a[f[o]];end end end y=y+1 end l=l+1;e=t[l];c=e[h]n[c]=n[c](s(n,c+1,e[d]))else local r,a,b,p,c,k,u,f;for f=0,9 do if f>4 then if 6<f then if f>=8 then if 9~=f then r=e[h];a=n[e[d]];n[r+1]=a;n[r]=a[e[y]];l=l+1;e=t[l];else f=0;while f>-1 do if 3<=f then if f<5 then if f==4 then u=b[p];else k=b[c];end else if 3<f then repeat if f>5 then f=-2;break;end;n(u,k);until true;else n(u,k);end end else if 0<f then if 1==f then p=h;else c=d;end else b=e;end end f=f+1 end end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 4<=f then repeat if 6~=f then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end else if 1<f then if f>=3 then if 2~=f then repeat if 4>f then r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else f=0;while f>-1 do if f<=2 then if 0<f then if f~=2 then p=h;else c=d;end else b=e;end else if f>4 then if 5~=f then f=-2;else n(u,k);end else if 1~=f then repeat if 4~=f then k=b[c];break;end;u=b[p];until true;else k=b[c];end end end f=f+1 end l=l+1;e=t[l];end else if-3<f then for s=35,82 do if 1~=f then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;r=e[h];a=n[e[d]];n[r+1]=a;n[r]=a[e[y]];l=l+1;e=t[l];break;end;else r=e[h];a=n[e[d]];n[r+1]=a;n[r]=a[e[y]];l=l+1;e=t[l];end end end end end end else if f>277 then if f>278 then if 280==f then n[e[h]]=e[d]*n[e[y]];else local f;n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]=o[e[d]];end else local r,c,k,u,b,f,a;for f=0,6 do if 2>=f then if f>=1 then if 1<f then f=0;while f>-1 do if f>=3 then if f<=4 then if f>3 then b=r[c];else u=r[k];end else if f>2 then repeat if f<6 then n(b,u);break;end;f=-2;until true;else f=-2;end end else if 1<=f then if 0<f then for e=46,90 do if 2~=f then c=h;break;end;k=d;break;end;else k=d;end else r=e;end end f=f+1 end l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 4>=f then if 4~=f then f=0;while f>-1 do if f<3 then if 1<=f then if 2==f then k=d;else c=h;end else r=e;end else if f<5 then if 1<=f then repeat if f>3 then b=r[c];break;end;u=r[k];until true;else b=r[c];end else if 1<=f then for e=19,52 do if f>5 then f=-2;break;end;n(b,u);break;end;else n(b,u);end end end f=f+1 end l=l+1;e=t[l];else f=0;while f>-1 do if 2<f then if f<=4 then if f<4 then u=r[k];else b=r[c];end else if 4<f then for e=35,71 do if 6~=f then n(b,u);break;end;f=-2;break;end;else f=-2;end end else if 0<f then if f>-1 then for e=10,71 do if f~=1 then k=d;break;end;c=h;break;end;else k=d;end else r=e;end end f=f+1 end l=l+1;e=t[l];end else if f~=1 then for r=18,68 do if f>5 then n[e[h]]=n[e[d]]+n[e[y]];break;end;a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];break;end;else a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];end end end end end else if 274~=f then for t=37,63 do if 276~=f then local h=e[h];local y=e[y];local t=h+2 local h={n[h](n[h+1],n[t])};for e=1,y do n[t+e]=h[e];end;local h=h[1]if h then n[t]=h l=e[d];else l=l+1;end;break;end;n[e[h]]=n[e[d]]-n[e[y]];break;end;else local h=e[h];local y=e[y];local t=h+2 local h={n[h](n[h+1],n[t])};for e=1,y do n[t+e]=h[e];end;local h=h[1]if h then n[t]=h l=e[d];else l=l+1;end;end end end else if f<=290 then if f<288 then if f>=284 then repeat if 286~=f then local o,s,b,a,r,y,f;for y=0,1 do if-4<y then for k=28,89 do if y~=0 then f=e[h]n[f](n[f+1])break;end;y=0;while y>-1 do if 2<y then if y>=5 then if 1<y then repeat if 5<y then y=-2;break;end;n(r,a);until true;else n(r,a);end else if 3~=y then r=o[s];else a=o[b];end end else if 0>=y then o=e;else if-2<=y then for e=16,55 do if 1~=y then b=d;break;end;s=h;break;end;else s=h;end end end y=y+1 end l=l+1;e=t[l];break;end;else f=e[h]n[f](n[f+1])end end break;end;local a,c,u,b,k,f,p;for f=0,6 do if 2<f then if f>=5 then if 5<f then r[e[d]]=n[e[h]];else p=e[h]n[p]=n[p](s(n,p+1,e[d]))l=l+1;e=t[l];end else if f==4 then f=0;while f>-1 do if 3<=f then if 5<=f then if f>1 then for e=39,89 do if f>5 then f=-2;break;end;n(k,b);break;end;else n(k,b);end else if f>1 then for e=19,54 do if 4>f then b=a[u];break;end;k=a[c];break;end;else b=a[u];end end else if f<1 then a=e;else if f~=2 then c=h;else u=d;end end end f=f+1 end l=l+1;e=t[l];else f=0;while f>-1 do if f<3 then if f<=0 then a=e;else if 1==f then c=h;else u=d;end end else if 5>f then if f~=1 then repeat if 4>f then b=a[u];break;end;k=a[c];until true;else k=a[c];end else if 1~=f then for e=11,52 do if 5~=f then f=-2;break;end;n(k,b);break;end;else n(k,b);end end end f=f+1 end l=l+1;e=t[l];end end else if f>=1 then if f~=-1 then for r=33,52 do if 1~=f then f=0;while f>-1 do if 2>=f then if 0>=f then a=e;else if 1==f then c=h;else u=d;end end else if f>=5 then if f>=1 then for e=15,71 do if f>5 then f=-2;break;end;n(k,b);break;end;else f=-2;end else if 1~=f then repeat if f~=3 then k=a[c];break;end;b=a[u];until true;else b=a[u];end end end f=f+1 end l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else f=0;while f>-1 do if 2>=f then if 0>=f then a=e;else if 1==f then c=h;else u=d;end end else if f>=5 then if f>=1 then for e=15,71 do if f>5 then f=-2;break;end;n(k,b);break;end;else f=-2;end else if 1~=f then repeat if f~=3 then k=a[c];break;end;b=a[u];until true;else b=a[u];end end end f=f+1 end l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end until true;else local a,c,u,b,k,f,p;for f=0,6 do if 2<f then if f>=5 then if 5<f then r[e[d]]=n[e[h]];else p=e[h]n[p]=n[p](s(n,p+1,e[d]))l=l+1;e=t[l];end else if f==4 then f=0;while f>-1 do if 3<=f then if 5<=f then if f>1 then for e=39,89 do if f>5 then f=-2;break;end;n(k,b);break;end;else n(k,b);end else if f>1 then for e=19,54 do if 4>f then b=a[u];break;end;k=a[c];break;end;else b=a[u];end end else if f<1 then a=e;else if f~=2 then c=h;else u=d;end end end f=f+1 end l=l+1;e=t[l];else f=0;while f>-1 do if f<3 then if f<=0 then a=e;else if 1==f then c=h;else u=d;end end else if 5>f then if f~=1 then repeat if 4>f then b=a[u];break;end;k=a[c];until true;else k=a[c];end else if 1~=f then for e=11,52 do if 5~=f then f=-2;break;end;n(k,b);break;end;else n(k,b);end end end f=f+1 end l=l+1;e=t[l];end end else if f>=1 then if f~=-1 then for r=33,52 do if 1~=f then f=0;while f>-1 do if 2>=f then if 0>=f then a=e;else if 1==f then c=h;else u=d;end end else if f>=5 then if f>=1 then for e=15,71 do if f>5 then f=-2;break;end;n(k,b);break;end;else f=-2;end else if 1~=f then repeat if f~=3 then k=a[c];break;end;b=a[u];until true;else b=a[u];end end end f=f+1 end l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else f=0;while f>-1 do if 2>=f then if 0>=f then a=e;else if 1==f then c=h;else u=d;end end else if f>=5 then if f>=1 then for e=15,71 do if f>5 then f=-2;break;end;n(k,b);break;end;else f=-2;end else if 1~=f then repeat if f~=3 then k=a[c];break;end;b=a[u];until true;else b=a[u];end end end f=f+1 end l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end end else if f>=289 then if 290~=f then local o;for f=0,4 do if f<2 then if 0==f then n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];else o=e[h]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];end else if f>2 then if f~=2 then for r=33,93 do if f~=3 then if(n[e[h]]==e[y])then l=l+1;else l=e[d];end;break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end end else n[e[h]]=(e[d]~=0);l=l+1;end else for f=0,6 do if f<3 then if f<1 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else if f>=-3 then repeat if 1~=f then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end else if 5<=f then if 3~=f then for r=34,75 do if 6~=f then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];break;end;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if 3==f then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end end end end end else if f<294 then if 291>=f then if(n[e[h]]<n[e[y]])then l=e[d];else l=l+1;end;else if 291<f then repeat if f~=293 then do return n[e[h]]end break;end;local f,o;r[e[d]]=n[e[h]];l=l+1;e=t[l];f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];r[e[d]]=n[e[h]];l=l+1;e=t[l];do return end;until true;else do return n[e[h]]end end end else if f<295 then local f,o,a,k,r;f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]a,k=u(n[f](s(n,f+1,e[d])))b=k+f-1 r=0;for e=f,b do r=r+1;n[e]=a[r];end;l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,b))l=l+1;e=t[l];do return n[e[h]]end else if f~=293 then for y=13,75 do if 295~=f then local l=e[h];do return n[l](s(n,l+1,e[d]))end;break;end;local y;for f=0,4 do if 1>=f then if f>=-1 then for r=38,93 do if f<1 then y=e[h]n[y]=n[y]()l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]];l=l+1;e=t[l];end else if f<3 then n[e[h]]=n[e[d]];l=l+1;e=t[l];else if 4==f then if n[e[h]]then l=l+1;else l=e[d];end;else y=e[h]n[y]=n[y](n[y+1])l=l+1;e=t[l];end end end end break;end;else local y;for f=0,4 do if 1>=f then if f>=-1 then for r=38,93 do if f<1 then y=e[h]n[y]=n[y]()l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]];l=l+1;e=t[l];end else if f<3 then n[e[h]]=n[e[d]];l=l+1;e=t[l];else if 4==f then if n[e[h]]then l=l+1;else l=e[d];end;else y=e[h]n[y]=n[y](n[y+1])l=l+1;e=t[l];end end end end end end end end end else if f>264 then if f>=270 then if 272>=f then if 270<f then if 270<f then repeat if 272>f then local l=e[h];do return n[l](s(n,l+1,e[d]))end;break;end;local f,o;for r=0,2 do if r>0 then if r>=-1 then for s=22,61 do if 1<r then f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end until true;else local f,r;for o=0,2 do if o>0 then if o>=-1 then for s=22,61 do if 1<o then f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end end else local f,r;n[e[h]]=o[e[d]];l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];if n[e[h]]then l=l+1;else l=e[d];end;end else if 274>f then do return end;else if 270<f then for r=26,82 do if 275~=f then local t,f,s,y,r,o;local l=0;while l>-1 do if l<4 then if l>=2 then if 1<l then repeat if 3~=l then s=d;break;end;y=n;until true;else y=n;end else if-3<=l then repeat if l~=1 then t=e;break;end;f=h;until true;else f=h;end end else if 6<=l then if l==6 then n[o]=r;else l=-2;end else if l<5 then r=y[t[s]];else o=t[f];end end end l=l+1 end break;end;local r,o;for f=0,6 do if 2<f then if 4<f then if f>=4 then repeat if f~=6 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];until true;else n[e[h]][e[d]]=e[y];end else if-1~=f then repeat if f~=3 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]={};l=l+1;e=t[l];until true;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end else if f<=0 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if 2~=f then r=e[h]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];else r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];end end end end break;end;else local r,o;for f=0,6 do if 2<f then if 4<f then if f>=4 then repeat if f~=6 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];until true;else n[e[h]][e[d]]=e[y];end else if-1~=f then repeat if f~=3 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]={};l=l+1;e=t[l];until true;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end else if f<=0 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if 2~=f then r=e[h]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];else r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];end end end end end end end else if 267<=f then if f>=268 then if f>=265 then for r=44,95 do if 268~=f then if(n[e[h]]<=n[e[y]])then l=l+1;else l=e[d];end;break;end;local r,a;for f=0,6 do if 3>f then if f<=0 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if 2~=f then r=e[h]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];else r=e[h];a=n[e[d]];n[r+1]=a;n[r]=a[e[y]];l=l+1;e=t[l];end end else if 5<=f then if f>3 then repeat if f>5 then n[e[h]]=o[e[d]];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if 2<f then repeat if 3~=f then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]={};l=l+1;e=t[l];until true;else n[e[h]]={};l=l+1;e=t[l];end end end end break;end;else if(n[e[h]]<=n[e[y]])then l=l+1;else l=e[d];end;end else n[e[h]][n[e[d]]]=n[e[y]];end else if 263~=f then for r=15,92 do if 265~=f then local e=e[h]local h,l=u(n[e](n[e+1]))b=l+e-1 local l=0;for e=e,b do l=l+1;n[e]=h[l];end;break;end;local f,r;f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];break;end;else local e=e[h]local h,l=u(n[e](n[e+1]))b=l+e-1 local l=0;for e=e,b do l=l+1;n[e]=h[l];end;end end end else if 260<=f then if 262>f then if 257~=f then for o=35,86 do if f~=260 then for f=0,1 do if f>-2 then repeat if f>0 then n[e[h]][e[d]]=n[e[y]];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end break;end;local a,o,c,u,b,k,p,f;a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];f=0;while f>-1 do if f>3 then if 5>=f then if 0<=f then repeat if 4<f then p=o[c];break;end;k=b[o[u]];until true;else k=b[o[u]];end else if 7==f then f=-2;else n[p]=k;end end else if 1>=f then if-1~=f then for l=27,83 do if 1~=f then o=e;break;end;c=h;break;end;else o=e;end else if f~=3 then u=d;else b=n;end end end f=f+1 end l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];break;end;else local a,o,p,b,k,u,c,f;a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];f=0;while f>-1 do if f>3 then if 5>=f then if 0<=f then repeat if 4<f then c=o[p];break;end;u=k[o[b]];until true;else u=k[o[b]];end else if 7==f then f=-2;else n[c]=u;end end else if 1>=f then if-1~=f then for l=27,83 do if 1~=f then o=e;break;end;p=h;break;end;else o=e;end else if f~=3 then b=d;else k=n;end end end f=f+1 end l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];end else if 263>f then for f=0,9 do if 4>=f then if 2>f then if-3<=f then repeat if f~=0 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if f<=2 then n[e[h]]=r[e[d]];l=l+1;e=t[l];else if 0<f then repeat if 3~=f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end end else if 6<f then if f>=8 then if f>=5 then repeat if f>8 then n(e[h],e[d]);break;end;n(e[h],e[d]);l=l+1;e=t[l];until true;else n(e[h],e[d]);end else n(e[h],e[d]);l=l+1;e=t[l];end else if 5<f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end end end else if 263~=f then local l=e[h]local d={n[l](s(n,l+1,b))};local h=0;for e=l,e[y]do h=h+1;n[e]=d[h];end else local f,r;n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];end end end else if 257>f then if f~=251 then repeat if 256>f then n[e[h]]=o[e[d]];break;end;n[e[h]]=n[e[d]]-e[y];until true;else n[e[h]]=o[e[d]];end else if f<=257 then local a;for f=0,6 do if f<3 then if f>=1 then if-2<=f then repeat if f~=1 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];until true;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];end else if 5>f then if 3==f then n[e[h]]=r[e[d]];l=l+1;e=t[l];else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if 3<=f then for r=39,53 do if f~=5 then n[e[h]]=o[e[d]];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=o[e[d]];end end end end else if 254<f then for r=16,95 do if f~=258 then local f,o;for r=0,6 do if 3<=r then if r<=4 then if r==4 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else n[e[h]]={};l=l+1;e=t[l];end else if 5~=r then n[e[h]][e[d]]=e[y];else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end else if 0>=r then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if r>-2 then for a=37,71 do if 1~=r then f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];break;end;f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;else f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end end end break;end;local f,r;for s=0,1 do if-2<s then repeat if s>0 then f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end break;end;else local f,r;for s=0,1 do if-2<s then repeat if s>0 then f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end end end end end end end else if f>211 then if 232<f then if 244>f then if f<238 then if f<235 then if f>233 then n[e[h]]=n[e[d]]^e[y];else n[e[h]][n[e[d]]]=e[y];end else if f>=236 then if 232~=f then for r=25,67 do if 236<f then local r;for f=0,6 do if f>=3 then if 5<=f then if f<6 then n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];else n[e[h]]=e[d]*n[e[y]];end else if 0<=f then repeat if 3<f then n[e[h]]=n[e[d]]*e[y];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]]*e[y];l=l+1;e=t[l];end end else if f>0 then if 2~=f then r=e[h]n[r]=n[r](n[r+1])l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];end end end break;end;local e=e[h]local h,l=u(n[e](n[e+1]))b=l+e-1 local l=0;for e=e,b do l=l+1;n[e]=h[l];end;break;end;else local r;for f=0,6 do if f>=3 then if 5<=f then if f<6 then n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];else n[e[h]]=e[d]*n[e[y]];end else if 0<=f then repeat if 3<f then n[e[h]]=n[e[d]]*e[y];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]]*e[y];l=l+1;e=t[l];end end else if f>0 then if 2~=f then r=e[h]n[r]=n[r](n[r+1])l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];end end end end else local l=e[h];local h=n[l];for e=l+1,e[d]do a.uFedPEzb(h,n[e])end;end end else if 241<=f then if f>=242 then if f~=238 then repeat if f>242 then local r;for f=0,6 do if f>2 then if f>=5 then if f~=5 then r=e[h]n[r]=n[r](s(n,r+1,e[d]))else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if f==4 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end else if 0<f then if 0~=f then for r=12,94 do if 1~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end break;end;local o,b,u,f,a,r;for c=0,3 do if c<=1 then if c~=-2 then for f=10,88 do if c~=1 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;o=e[h]n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end else if c>-2 then repeat if 2<c then l=e[d];break;end;o=e[h];b={};for e=1,#k do u=k[e];for e=0,#u do f=u[e];a=f[1];r=f[2];if a==n and r>=o then b[r]=a[r];f[1]=b;end;end;end;l=l+1;e=t[l];until true;else o=e[h];b={};for e=1,#k do u=k[e];for e=0,#u do f=u[e];a=f[1];r=f[2];if a==n and r>=o then b[r]=a[r];f[1]=b;end;end;end;l=l+1;e=t[l];end end end until true;else local o,b,a,r,u,f;for c=0,3 do if c<=1 then if c~=-2 then for f=10,88 do if c~=1 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;o=e[h]n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end else if c>-2 then repeat if 2<c then l=e[d];break;end;o=e[h];b={};for e=1,#k do a=k[e];for e=0,#a do r=a[e];u=r[1];f=r[2];if u==n and f>=o then b[f]=u[f];r[1]=b;end;end;end;l=l+1;e=t[l];until true;else o=e[h];b={};for e=1,#k do a=k[e];for e=0,#a do r=a[e];u=r[1];f=r[2];if u==n and f>=o then b[f]=u[f];r[1]=b;end;end;end;l=l+1;e=t[l];end end end end else local e=e[h]n[e](n[e+1])end else if f>238 then if 236~=f then for s=39,88 do if f~=240 then for f=0,9 do if f<=4 then if f<=1 then if f>-2 then for r=16,55 do if f<1 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];end else if f<=2 then n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];else if f>=2 then repeat if f~=3 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end else if f>=7 then if f>7 then if f==9 then n[e[h]]=r[e[d]];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f>5 then n[e[h]]=o[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end end break;end;n[e[h]]=n[e[d]]+e[y];break;end;else n[e[h]]=n[e[d]]+e[y];end else local r;for f=0,6 do if 2<f then if f>4 then if f>1 then for y=48,77 do if f<6 then n(e[h],e[d]);l=l+1;e=t[l];break;end;r=e[h]n[r]=n[r](s(n,r+1,e[d]))break;end;else n(e[h],e[d]);l=l+1;e=t[l];end else if f>-1 then repeat if 3~=f then n(e[h],e[d]);l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];until true;else n(e[h],e[d]);l=l+1;e=t[l];end end else if 1<=f then if-3<f then repeat if f~=1 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n(e[h],e[d]);l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end end end end else if f>248 then if f>251 then if f>=253 then if f>251 then repeat if 253<f then n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);break;end;local f;for r=0,4 do if 1>=r then if-4~=r then for y=38,75 do if r~=1 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];break;end;else n(e[h],e[d]);l=l+1;e=t[l];end else if 3<=r then if 0~=r then repeat if r>3 then n[e[h]][e[d]]=n[e[y]];break;end;f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];until true;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else n(e[h],e[d]);l=l+1;e=t[l];end end end until true;else local f;for r=0,4 do if 1>=r then if-4~=r then for y=38,75 do if r~=1 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];break;end;else n(e[h],e[d]);l=l+1;e=t[l];end else if 3<=r then if 0~=r then repeat if r>3 then n[e[h]][e[d]]=n[e[y]];break;end;f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];until true;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else n(e[h],e[d]);l=l+1;e=t[l];end end end end else for f=0,4 do if 1>=f then if f>-4 then for r=23,90 do if f~=0 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if f>=3 then if 3~=f then n[e[h]]=n[e[d]][n[e[y]]];else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else n[e[h]][n[e[d]]]=n[e[y]];l=l+1;e=t[l];end end end end else if 250<=f then if 248~=f then repeat if 250<f then n[e[h]]=n[e[d]]-e[y];break;end;local r,o;for f=0,6 do if 2>=f then if 0>=f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if 1~=f then r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];else r=e[h]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end end else if f>4 then if 3<f then repeat if f~=6 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];until true;else n[e[h]][e[d]]=e[y];end else if 2<=f then for r=27,74 do if 3~=f then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]={};l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end end end until true;else local r,o;for f=0,6 do if 2>=f then if 0>=f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if 1~=f then r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];else r=e[h]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end end else if f>4 then if 3<f then repeat if f~=6 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];until true;else n[e[h]][e[d]]=e[y];end else if 2<=f then for r=27,74 do if 3~=f then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]={};l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end end end end else local f;n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))end end else if 245>=f then if f<245 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]/e[y];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]/e[y];else n[e[h]]=n[e[d]][e[y]];end else if 247<=f then if f>=244 then for r=16,56 do if 248>f then local f,a,c,k,r;n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f](n[f+1])l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];f=e[h];a=n[e[d]];n[f+1]=a;n[f]=a[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]c,k=u(n[f](s(n,f+1,e[d])))b=k+f-1 r=0;for e=f,b do r=r+1;n[e]=c[r];end;break;end;local e=e[h];local l=n[e];for e=e+1,b do a.uFedPEzb(l,n[e])end;break;end;else local f,a,k,c,r;n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f](n[f+1])l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];f=e[h];a=n[e[d]];n[f+1]=a;n[f]=a[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]k,c=u(n[f](s(n,f+1,e[d])))b=c+f-1 r=0;for e=f,b do r=r+1;n[e]=k[r];end;end else n[e[h]]=(not n[e[d]]);end end end end else if f<=221 then if 216>=f then if 214<=f then if 215<=f then if f>213 then repeat if 216~=f then local f,r;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];r[e[d]]=n[e[h]];until true;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];r[e[d]]=n[e[h]];end else local f,a;for r=0,6 do if r>=3 then if r<5 then if r==3 then n[e[h]]={};l=l+1;e=t[l];else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if 4<r then repeat if 6>r then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];until true;else n[e[h]]=o[e[d]];end end else if r>0 then if-1<r then repeat if r>1 then f=e[h];a=n[e[d]];n[f+1]=a;n[f]=a[e[y]];l=l+1;e=t[l];break;end;f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];until true;else f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end end else if 212<f then local f;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]+e[y];l=l+1;e=t[l];n[e[h]]=n[e[d]]+e[y];l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];else local j,b,u,k,j,f,r,g,z,_,p,a,c;n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];f=0;while f>-1 do if f<3 then if 1<=f then if f==2 then u=d;else b=h;end else r=e;end else if f<=4 then if f>1 then for e=12,69 do if f>3 then a=r[b];break;end;k=r[u];break;end;else k=r[u];end else if 1<f then for e=15,67 do if 6>f then n(a,k);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if 3<=f then if 4<f then if f~=3 then repeat if 5~=f then f=-2;break;end;n(a,k);until true;else n(a,k);end else if 3<f then a=r[b];else k=r[u];end end else if f<1 then r=e;else if f>=0 then repeat if f<2 then b=h;break;end;u=d;until true;else b=h;end end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if f<3 then if 0<f then if-1~=f then for e=30,74 do if 1<f then u=d;break;end;b=h;break;end;else b=h;end else r=e;end else if f>4 then if 1<f then repeat if f~=6 then n(a,k);break;end;f=-2;until true;else f=-2;end else if 2<f then for e=20,95 do if f<4 then k=r[u];break;end;a=r[b];break;end;else a=r[b];end end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if f>3 then if 6<=f then if f>=4 then for e=27,68 do if f~=7 then n[a]=p;break;end;f=-2;break;end;else n[a]=p;end else if f>=0 then for e=27,68 do if f~=4 then a=r[g];break;end;p=_[r[z]];break;end;else p=_[r[z]];end end else if f>=2 then if-1<=f then for e=20,92 do if 2<f then _=n;break;end;z=d;break;end;else _=n;end else if 1>f then r=e;else g=h;end end end f=f+1 end l=l+1;e=t[l];c=e[h]n[c]=n[c](s(n,c+1,e[d]))end end else if f<219 then if f>216 then repeat if f>217 then o[e[d]]=n[e[h]];break;end;local f,o;for r=0,6 do if 2<r then if 5<=r then if 2~=r then repeat if r<6 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];until true;else n[e[h]][e[d]]=e[y];end else if r>=1 then repeat if r>3 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]={};l=l+1;e=t[l];until true;else n[e[h]]={};l=l+1;e=t[l];end end else if 1<=r then if r>-1 then for a=40,52 do if r>1 then f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];break;end;f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;else f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end until true;else local r,o;for f=0,6 do if 2<f then if 5<=f then if 2~=f then repeat if f<6 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];until true;else n[e[h]][e[d]]=e[y];end else if f>=1 then repeat if f>3 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]]={};l=l+1;e=t[l];until true;else n[e[h]]={};l=l+1;e=t[l];end end else if 1<=f then if f>-1 then for a=40,52 do if f>1 then r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];break;end;r=e[h]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;else r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end end else if f>=220 then if f~=220 then n[e[h]]=_(z[e[d]],nil,o);else local f;for r=0,5 do if r<=2 then if r<1 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else if 0<r then repeat if 2~=r then f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];until true;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end else if r<=3 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 4==r then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if not n[e[h]]then l=l+1;else l=e[d];end;end end end end end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]];end end end else if f>=227 then if 229>=f then if f<=227 then local b=z[e[d]];local s;local f={};s=a.cVJKFQss({},{__index=function(l,e)local e=f[e];return e[1][e[2]];end,__newindex=function(n,e,l)local e=f[e]e[1][e[2]]=l;end;});for h=1,e[y]do l=l+1;local e=t[l];if e[m]==274 then f[h-1]={n,e[d]};else f[h-1]={r,e[d]};end;k[#k+1]=f;end;n[e[h]]=_(b,s,o);else if 229==f then local s,b,a,f,o,r,t;local l=0;while l>-1 do if l<=2 then if l<=0 then s=h;b=d;a=y;else if 1~=l then o=f[b];else f=e;end end else if l>=5 then if l>=3 then for e=41,92 do if l~=6 then n[r]=t;break;end;l=-2;break;end;else n[r]=t;end else if l>=-1 then repeat if l~=4 then r=f[s];break;end;t=n[o];for e=1+o,f[a]do t=t..n[e];end;until true;else r=f[s];end end end l=l+1 end else local f;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]={};end end else if 230<f then if f>=227 then for o=21,79 do if 231~=f then n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]();l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]();l=l+1;e=t[l];do return end;break;end;local h=e[h]local d={n[h](s(n,h+1,e[d]))};local l=0;for e=h,e[y]do l=l+1;n[e]=d[l];end break;end;else local l=e[h]local d={n[l](s(n,l+1,e[d]))};local h=0;for e=l,e[y]do h=h+1;n[e]=d[h];end end else n[e[h]]=_(z[e[d]],nil,o);end end else if 224<=f then if 224<f then if 221<f then for s=14,70 do if 225<f then n[e[h]][e[d]]=n[e[y]];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=e[d]*n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]^e[y];l=l+1;e=t[l];n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];n(e[h],e[d]);break;end;else n[e[h]][e[d]]=n[e[y]];end else if(e[h]<n[e[y]])then l=l+1;else l=e[d];end;end else if 219<=f then repeat if f<223 then local s;for f=0,6 do if f<=2 then if 0>=f then n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];else if f>-1 then for y=25,65 do if 1<f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;s=e[h]n[s]=n[s](n[s+1])l=l+1;e=t[l];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end else if 5<=f then if f~=4 then repeat if 6~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;if not n[e[h]]then l=l+1;else l=e[d];end;until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if 4==f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end end break;end;for e=e[h],e[d]do n[e]=nil;end;until true;else local s;for f=0,6 do if f<=2 then if 0>=f then n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];else if f>-1 then for y=25,65 do if 1<f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;s=e[h]n[s]=n[s](n[s+1])l=l+1;e=t[l];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end else if 5<=f then if f~=4 then repeat if 6~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;if not n[e[h]]then l=l+1;else l=e[d];end;until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if 4==f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end end end end end end end else if 191>f then if 180>f then if f>174 then if f<=176 then if f==176 then local r,b,u,c,k,a,f,p;for f=0,6 do if 2>=f then if f<=0 then n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];else if 2==f then n[e[h]]=o[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if f>=5 then if f~=3 then for y=22,92 do if 6>f then f=0;while f>-1 do if f>3 then if f>=6 then if 2<=f then repeat if 7>f then n[a]=k;break;end;f=-2;until true;else n[a]=k;end else if f>2 then repeat if 4~=f then a=r[b];break;end;k=c[r[u]];until true;else a=r[b];end end else if f>1 then if f==3 then c=n;else u=d;end else if f>=-3 then for l=37,79 do if f~=0 then b=h;break;end;r=e;break;end;else r=e;end end end f=f+1 end l=l+1;e=t[l];break;end;p=e[h]n[p]=n[p](s(n,p+1,e[d]))break;end;else f=0;while f>-1 do if f>3 then if f>=6 then if 2<=f then repeat if 7>f then n[a]=k;break;end;f=-2;until true;else n[a]=k;end else if f>2 then repeat if 4~=f then a=r[b];break;end;k=c[r[u]];until true;else a=r[b];end end else if f>1 then if f==3 then c=n;else u=d;end else if f>=-3 then for l=37,79 do if f~=0 then b=h;break;end;r=e;break;end;else r=e;end end end f=f+1 end l=l+1;e=t[l];end else if 2~=f then for r=17,81 do if f>3 then n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];end end end end else l=e[d];end else if 178>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];r[e[d]]=n[e[h]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]();l=l+1;e=t[l];do return end;else if 177~=f then for r=17,65 do if 178~=f then local r,k,u,b,a,f,c;f=0;while f>-1 do if f>=3 then if 5>f then if 0<f then for e=21,53 do if 4>f then b=r[u];break;end;a=r[k];break;end;else a=r[k];end else if 1<f then for e=42,74 do if f>5 then f=-2;break;end;n(a,b);break;end;else f=-2;end end else if 1>f then r=e;else if 2>f then k=h;else u=d;end end end f=f+1 end l=l+1;e=t[l];c=e[h]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];f=0;while f>-1 do if f<=2 then if f>=1 then if 0<=f then repeat if 2>f then k=h;break;end;u=d;until true;else k=h;end else r=e;end else if 4<f then if f>4 then for e=45,82 do if 5~=f then f=-2;break;end;n(a,b);break;end;else n(a,b);end else if 3~=f then a=r[k];else b=r[u];end end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if f>=3 then if 5>f then if f>2 then for e=33,81 do if 4>f then b=r[u];break;end;a=r[k];break;end;else b=r[u];end else if f~=4 then repeat if f~=6 then n(a,b);break;end;f=-2;until true;else n(a,b);end end else if 0<f then if-1<=f then repeat if 1~=f then u=d;break;end;k=h;until true;else u=d;end else r=e;end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if f>=3 then if f>4 then if 1<f then for e=44,77 do if f>5 then f=-2;break;end;n(a,b);break;end;else n(a,b);end else if f~=2 then for e=16,76 do if 4>f then b=r[u];break;end;a=r[k];break;end;else a=r[k];end end else if 0<f then if f>=0 then repeat if f>1 then u=d;break;end;k=h;until true;else k=h;end else r=e;end end f=f+1 end l=l+1;e=t[l];c=e[h]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];f=0;while f>-1 do if 3<=f then if f>=5 then if 4<f then repeat if 6~=f then n(a,b);break;end;f=-2;until true;else n(a,b);end else if 4>f then b=r[u];else a=r[k];end end else if f>=1 then if f~=2 then k=h;else u=d;end else r=e;end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if f>=3 then if 4<f then if 3~=f then for e=36,69 do if 5~=f then f=-2;break;end;n(a,b);break;end;else n(a,b);end else if f>=-1 then for e=40,83 do if 4~=f then b=r[u];break;end;a=r[k];break;end;else a=r[k];end end else if 0<f then if f>0 then for e=20,97 do if f>1 then u=d;break;end;k=h;break;end;else u=d;end else r=e;end end f=f+1 end break;end;n[e[h]]=(e[d]~=0);break;end;else local r,k,u,b,a,f,c;f=0;while f>-1 do if f>=3 then if 5>f then if 0<f then for e=21,53 do if 4>f then b=r[u];break;end;a=r[k];break;end;else a=r[k];end else if 1<f then for e=42,74 do if f>5 then f=-2;break;end;n(a,b);break;end;else f=-2;end end else if 1>f then r=e;else if 2>f then k=h;else u=d;end end end f=f+1 end l=l+1;e=t[l];c=e[h]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];f=0;while f>-1 do if f<=2 then if f>=1 then if 0<=f then repeat if 2>f then k=h;break;end;u=d;until true;else k=h;end else r=e;end else if 4<f then if f>4 then for e=45,82 do if 5~=f then f=-2;break;end;n(a,b);break;end;else n(a,b);end else if 3~=f then a=r[k];else b=r[u];end end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if f>=3 then if 5>f then if f>2 then for e=33,81 do if 4>f then b=r[u];break;end;a=r[k];break;end;else b=r[u];end else if f~=4 then repeat if f~=6 then n(a,b);break;end;f=-2;until true;else n(a,b);end end else if 0<f then if-1<=f then repeat if 1~=f then u=d;break;end;k=h;until true;else u=d;end else r=e;end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if f>=3 then if f>4 then if 1<f then for e=44,77 do if f>5 then f=-2;break;end;n(a,b);break;end;else n(a,b);end else if f~=2 then for e=16,76 do if 4>f then b=r[u];break;end;a=r[k];break;end;else a=r[k];end end else if 0<f then if f>=0 then repeat if f>1 then u=d;break;end;k=h;until true;else k=h;end else r=e;end end f=f+1 end l=l+1;e=t[l];c=e[h]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];f=0;while f>-1 do if 3<=f then if f>=5 then if 4<f then repeat if 6~=f then n(a,b);break;end;f=-2;until true;else n(a,b);end else if 4>f then b=r[u];else a=r[k];end end else if f>=1 then if f~=2 then k=h;else u=d;end else r=e;end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if f>=3 then if 4<f then if 3~=f then for e=36,69 do if 5~=f then f=-2;break;end;n(a,b);break;end;else n(a,b);end else if f>=-1 then for e=40,83 do if 4~=f then b=r[u];break;end;a=r[k];break;end;else a=r[k];end end else if 0<f then if f>0 then for e=20,97 do if f>1 then u=d;break;end;k=h;break;end;else u=d;end else r=e;end end f=f+1 end end end end else if 172<=f then if f>=173 then if 174~=f then for y=0,6 do if y<3 then if y>0 then if 0~=y then repeat if y~=2 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]();l=l+1;e=t[l];until true;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else n[e[h]]();l=l+1;e=t[l];end else if 5<=y then if 4<=y then repeat if 6~=y then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];until true;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if 0<=y then repeat if 3<y then n[e[h]]();l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[h]]();l=l+1;e=t[l];end end end end else local f,a;for r=0,5 do if 3>r then if r<1 then f=e[h]n[f]=n[f](s(n,f+1,b))l=l+1;e=t[l];else if r>1 then n[e[h]]=o[e[d]];l=l+1;e=t[l];else n[e[h]]();l=l+1;e=t[l];end end else if r<4 then f=e[h]n[f]=n[f]()l=l+1;e=t[l];else if 2~=r then for s=15,78 do if 4<r then n[e[h]]={};break;end;f=e[h];a=n[e[d]];n[f+1]=a;n[f]=a[e[y]];l=l+1;e=t[l];break;end;else n[e[h]]={};end end end end end else local f;n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=(e[d]~=0);l=l+1;e=t[l];n[e[h]]=(e[d]~=0);l=l+1;e=t[l];n[e[h]]=(e[d]~=0);l=l+1;e=t[l];n[e[h]]=(e[d]~=0);end else if 170~=f then for f=0,4 do if f<=1 then if f>-3 then repeat if 0~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if 3>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if f>2 then for s=43,98 do if 3~=f then r[e[d]]=n[e[h]];break;end;n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];end end end end else n[e[h]]=r[e[d]];end end end else if 185>f then if f<182 then if 176<=f then for r=26,85 do if 180~=f then local l=e[h]local h,e=u(n[l](s(n,l+1,e[d])))b=e+l-1 local e=0;for l=l,b do e=e+1;n[l]=h[e];end;break;end;local f,r;f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];n[e[h]]();l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=o[e[d]];break;end;else local l=e[h]local h,e=u(n[l](s(n,l+1,e[d])))b=e+l-1 local e=0;for l=l,b do e=e+1;n[l]=h[e];end;end else if f<=182 then n[e[h]]=n[e[d]]+n[e[y]];else if f>180 then repeat if 184>f then local f;for o=0,5 do if 2<o then if 3>=o then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if 5>o then n[e[h]]=r[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];end end else if 0<o then if-3<o then for r=10,68 do if o>1 then f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]-e[y];l=l+1;e=t[l];break;end;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else n[e[h]]=n[e[d]]-e[y];l=l+1;e=t[l];end end end break;end;n[e[h]][n[e[d]]]=e[y];until true;else local f;for o=0,5 do if 2<o then if 3>=o then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if 5>o then n[e[h]]=r[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];end end else if 0<o then if-3<o then for r=10,68 do if o>1 then f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]-e[y];l=l+1;e=t[l];break;end;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else n[e[h]]=n[e[d]]-e[y];l=l+1;e=t[l];end end end end end end else if 187>=f then if f<186 then local r,a;for f=0,6 do if 2<f then if f>4 then if f>3 then for r=16,96 do if 6~=f then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];break;end;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if-1<f then for r=30,74 do if 4~=f then n[e[h]]={};l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end else if 0<f then if 1<f then r=e[h];a=n[e[d]];n[r+1]=a;n[r]=a[e[y]];l=l+1;e=t[l];else r=e[h]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end else if f>=185 then repeat if 187>f then local a;for f=0,6 do if f<3 then if 1>f then a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];else if f~=0 then repeat if 1~=f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end else if 5<=f then if 6==f then n[e[h]]=o[e[d]];else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if f~=2 then repeat if f~=4 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end end break;end;local f;for o=0,8 do if 3<o then if 5<o then if o>6 then if o~=4 then repeat if o>7 then n[e[h]]=n[e[d]][e[y]];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if o~=3 then repeat if 4~=o then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];until true;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end else if o<2 then if-2<o then repeat if 0<o then n(e[h],e[d]);l=l+1;e=t[l];break;end;f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];until true;else n(e[h],e[d]);l=l+1;e=t[l];end else if 2<o then n(e[h],e[d]);l=l+1;e=t[l];else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end end end until true;else local f;for o=0,8 do if 3<o then if 5<o then if o>6 then if o~=4 then repeat if o>7 then n[e[h]]=n[e[d]][e[y]];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if o~=3 then repeat if 4~=o then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];until true;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end else if o<2 then if-2<o then repeat if 0<o then n(e[h],e[d]);l=l+1;e=t[l];break;end;f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];until true;else n(e[h],e[d]);l=l+1;e=t[l];end else if 2<o then n(e[h],e[d]);l=l+1;e=t[l];else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end end end end end else if 188<f then if f>=188 then for o=46,55 do if 189~=f then local f,r;for o=0,4 do if o>1 then if o<=2 then n(e[h],e[d]);l=l+1;e=t[l];else if 3<o then if n[e[h]]then l=l+1;else l=e[d];end;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end else if o>-3 then for s=25,77 do if 0~=o then f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];break;end;else f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];end end end break;end;local y;n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=(not n[e[d]]);l=l+1;e=t[l];y=e[h]n[y](n[y+1])l=l+1;e=t[l];do return end;break;end;else local f,r;for o=0,4 do if o>1 then if o<=2 then n(e[h],e[d]);l=l+1;e=t[l];else if 3<o then if n[e[h]]then l=l+1;else l=e[d];end;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end else if o>-3 then for s=25,77 do if 0~=o then f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];break;end;else f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];end end end end else n[e[h]]=n[e[d]]/n[e[y]];end end end end else if 200>=f then if 196>f then if f<=192 then if f>=189 then for o=35,90 do if 191<f then local l=e[h]local h,e=u(n[l](s(n,l+1,e[d])))b=e+l-1 local e=0;for l=l,b do e=e+1;n[l]=h[e];end;break;end;local f;n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];break;end;else local f;n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];end else if 194>f then for f=0,4 do if 2>f then if f>-1 then for r=18,88 do if f~=1 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f>=3 then if f==4 then if(n[e[h]]~=n[e[y]])then l=l+1;else l=e[d];end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end else if 195>f then local f;for y=0,6 do if y>2 then if y<=4 then if 1~=y then for f=45,97 do if y~=4 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if 6>y then f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];else if n[e[h]]then l=l+1;else l=e[d];end;end end else if 1>y then n[e[h]]=r[e[d]];l=l+1;e=t[l];else if-2~=y then repeat if 2~=y then n[e[h]]=n[e[d]];l=l+1;e=t[l];break;end;f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]];l=l+1;e=t[l];end end end end else n[e[h]]=n[e[d]]/e[y];end end end else if 197<f then if 199<=f then if 196<f then for r=36,98 do if f>199 then n[e[h]]=e[d]*n[e[y]];break;end;local r,a,b,u,k,f,c,p;for f=0,6 do if 2>=f then if 1<=f then if-3<f then repeat if 2>f then f=0;while f>-1 do if f>2 then if f<=4 then if f>-1 then repeat if 4~=f then u=r[b];break;end;k=r[a];until true;else u=r[b];end else if 5<f then f=-2;else n(k,u);end end else if f<1 then r=e;else if-3~=f then repeat if f~=2 then a=h;break;end;b=d;until true;else a=h;end end end f=f+1 end l=l+1;e=t[l];break;end;f=0;while f>-1 do if f<=2 then if 0>=f then r=e;else if-3<=f then repeat if f>1 then b=d;break;end;a=h;until true;else b=d;end end else if 5>f then if f~=4 then u=r[b];else k=r[a];end else if 2<=f then for e=45,66 do if 5~=f then f=-2;break;end;n(k,u);break;end;else f=-2;end end end f=f+1 end l=l+1;e=t[l];until true;else f=0;while f>-1 do if f>2 then if f<=4 then if f>-1 then repeat if 4~=f then u=r[b];break;end;k=r[a];until true;else u=r[b];end else if 5<f then f=-2;else n(k,u);end end else if f<1 then r=e;else if-3~=f then repeat if f~=2 then a=h;break;end;b=d;until true;else a=h;end end end f=f+1 end l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f>4 then if 6==f then c=e[h];p=n[e[d]];n[c+1]=p;n[c]=p[e[y]];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 2~=f then for y=31,82 do if f~=4 then f=0;while f>-1 do if 2>=f then if 1<=f then if 0<f then for e=34,76 do if 1~=f then b=d;break;end;a=h;break;end;else a=h;end else r=e;end else if f<=4 then if 0<=f then for e=38,78 do if 4>f then u=r[b];break;end;k=r[a];break;end;else k=r[a];end else if 2<=f then repeat if f<6 then n(k,u);break;end;f=-2;until true;else f=-2;end end end f=f+1 end l=l+1;e=t[l];break;end;c=e[h]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];break;end;else f=0;while f>-1 do if 2>=f then if 1<=f then if 0<f then for e=34,76 do if 1~=f then b=d;break;end;a=h;break;end;else a=h;end else r=e;end else if f<=4 then if 0<=f then for e=38,78 do if 4>f then u=r[b];break;end;k=r[a];break;end;else k=r[a];end else if 2<=f then repeat if f<6 then n(k,u);break;end;f=-2;until true;else f=-2;end end end f=f+1 end l=l+1;e=t[l];end end end end break;end;else local r,a,b,u,k,f,c,p;for f=0,6 do if 2>=f then if 1<=f then if-3<f then repeat if 2>f then f=0;while f>-1 do if f>2 then if f<=4 then if f>-1 then repeat if 4~=f then u=r[b];break;end;k=r[a];until true;else u=r[b];end else if 5<f then f=-2;else n(k,u);end end else if f<1 then r=e;else if-3~=f then repeat if f~=2 then a=h;break;end;b=d;until true;else a=h;end end end f=f+1 end l=l+1;e=t[l];break;end;f=0;while f>-1 do if f<=2 then if 0>=f then r=e;else if-3<=f then repeat if f>1 then b=d;break;end;a=h;until true;else b=d;end end else if 5>f then if f~=4 then u=r[b];else k=r[a];end else if 2<=f then for e=45,66 do if 5~=f then f=-2;break;end;n(k,u);break;end;else f=-2;end end end f=f+1 end l=l+1;e=t[l];until true;else f=0;while f>-1 do if f>2 then if f<=4 then if f>-1 then repeat if 4~=f then u=r[b];break;end;k=r[a];until true;else u=r[b];end else if 5<f then f=-2;else n(k,u);end end else if f<1 then r=e;else if-3~=f then repeat if f~=2 then a=h;break;end;b=d;until true;else a=h;end end end f=f+1 end l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f>4 then if 6==f then c=e[h];p=n[e[d]];n[c+1]=p;n[c]=p[e[y]];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 2~=f then for y=31,82 do if f~=4 then f=0;while f>-1 do if 2>=f then if 1<=f then if 0<f then for e=34,76 do if 1~=f then b=d;break;end;a=h;break;end;else a=h;end else r=e;end else if f<=4 then if 0<=f then for e=38,78 do if 4>f then u=r[b];break;end;k=r[a];break;end;else k=r[a];end else if 2<=f then repeat if f<6 then n(k,u);break;end;f=-2;until true;else f=-2;end end end f=f+1 end l=l+1;e=t[l];break;end;c=e[h]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];break;end;else f=0;while f>-1 do if 2>=f then if 1<=f then if 0<f then for e=34,76 do if 1~=f then b=d;break;end;a=h;break;end;else a=h;end else r=e;end else if f<=4 then if 0<=f then for e=38,78 do if 4>f then u=r[b];break;end;k=r[a];break;end;else k=r[a];end else if 2<=f then repeat if f<6 then n(k,u);break;end;f=-2;until true;else f=-2;end end end f=f+1 end l=l+1;e=t[l];end end end end end else local a,r,o;for f=0,4 do if f<=1 then if-1<f then for y=23,61 do if f<1 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]];l=l+1;e=t[l];end else if 2<f then if 0~=f then repeat if f>3 then if not n[e[h]]then l=l+1;else l=e[d];end;break;end;o=e[h]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];until true;else if not n[e[h]]then l=l+1;else l=e[d];end;end else a=e[d];r=n[a]for e=a+1,e[y]do r=r..n[e];end;n[e[h]]=r;l=l+1;e=t[l];end end end end else if f>194 then for r=45,63 do if 197>f then n[e[h]]=n[e[d]]/e[y];break;end;local f,b,s,o,r,y,k,u;n[e[h]]={};l=l+1;e=t[l];y=0;while y>-1 do if y<3 then if y>0 then if y~=-2 then repeat if 1~=y then s=d;break;end;b=h;until true;else s=d;end else f=e;end else if y<5 then if y>2 then for e=26,76 do if 4>y then o=f[s];break;end;r=f[b];break;end;else r=f[b];end else if 4<=y then repeat if y~=5 then y=-2;break;end;n(r,o);until true;else n(r,o);end end end y=y+1 end l=l+1;e=t[l];y=0;while y>-1 do if 2<y then if y<5 then if 0<y then repeat if 3<y then r=f[b];break;end;o=f[s];until true;else r=f[b];end else if 6>y then n(r,o);else y=-2;end end else if y<=0 then f=e;else if y<2 then b=h;else s=d;end end end y=y+1 end l=l+1;e=t[l];y=0;while y>-1 do if 2>=y then if 0<y then if 2~=y then b=h;else s=d;end else f=e;end else if y<=4 then if y~=0 then for e=31,82 do if y<4 then o=f[s];break;end;r=f[b];break;end;else r=f[b];end else if 4~=y then repeat if 6>y then n(r,o);break;end;y=-2;until true;else n(r,o);end end end y=y+1 end l=l+1;e=t[l];y=0;while y>-1 do if 3<=y then if y<5 then if 0~=y then for e=25,77 do if y~=3 then r=f[b];break;end;o=f[s];break;end;else o=f[s];end else if y==5 then n(r,o);else y=-2;end end else if 1<=y then if y>=-2 then repeat if y<2 then b=h;break;end;s=d;until true;else s=d;end else f=e;end end y=y+1 end l=l+1;e=t[l];k=e[h];u=n[k];for e=k+1,e[d]do a.uFedPEzb(u,n[e])end;break;end;else n[e[h]]=n[e[d]]/e[y];end end end else if f>205 then if 208>=f then if f<=206 then do return end;else if f>207 then r[e[d]]=n[e[h]];else local f,c,a,p,o,k;for a=0,4 do if 1>=a then if-2<=a then for s=26,88 do if a>0 then f=e[h];c=n[e[d]];n[f+1]=c;n[f]=c[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if a>2 then if 0~=a then repeat if 4>a then f=e[h]k={n[f](s(n,f+1,b))};o=0;for e=f,e[y]do o=o+1;n[e]=k[o];end l=l+1;e=t[l];break;end;l=e[d];until true;else l=e[d];end else f=e[h]k,p=u(n[f](n[f+1]))b=p+f-1 o=0;for e=f,b do o=o+1;n[e]=k[o];end;l=l+1;e=t[l];end end end end end else if 209<f then if f~=208 then for l=41,81 do if f~=210 then o[e[d]]=n[e[h]];break;end;n[e[h]][e[d]]=e[y];break;end;else n[e[h]][e[d]]=e[y];end else n[e[h]]=n[e[d]]*e[y];end end else if f<=202 then if 197<=f then for a=36,75 do if 202~=f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);break;end;local f,o;f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];if n[e[h]]then l=l+1;else l=e[d];end;break;end;else local f,o;f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];if n[e[h]]then l=l+1;else l=e[d];end;end else if f>203 then if f>=202 then repeat if 205~=f then n[e[h]]=(e[d]~=0);l=l+1;break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];do return end;until true;else n[e[h]]=(e[d]~=0);l=l+1;end else local e=e[h]n[e]=n[e]()end end end end end end end else if 85>f then if 42>f then if f>20 then if f>=31 then if 35<f then if 38>=f then if f>36 then if f<38 then local r,a,b,t,s,o,f;local l=0;while l>-1 do if l<=2 then if l<1 then r=h;a=d;b=y;else if l<2 then t=e;else s=t[a];end end else if l>=5 then if l==6 then l=-2;else n[o]=f;end else if-1<=l then repeat if l~=3 then f=n[s];for e=1+s,t[b]do f=f..n[e];end;break;end;o=t[r];until true;else o=t[r];end end end l=l+1 end else local r,a,b,c,p,u,k,f;for f=0,9 do if f>4 then if 7<=f then if 8<=f then if 5~=f then for s=39,66 do if 9~=f then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;r=e[h];a=n[e[d]];n[r+1]=a;n[r]=a[e[y]];break;end;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end else if 5<f then f=0;while f>-1 do if 2<f then if 5>f then if f>0 then repeat if f~=3 then k=b[c];break;end;u=b[p];until true;else k=b[c];end else if 4~=f then for e=19,86 do if 5~=f then f=-2;break;end;n(k,u);break;end;else f=-2;end end else if 0>=f then b=e;else if 2~=f then c=h;else p=d;end end end f=f+1 end l=l+1;e=t[l];else r=e[h];a=n[e[d]];n[r+1]=a;n[r]=a[e[y]];l=l+1;e=t[l];end end else if f>=2 then if f>=3 then if f==3 then r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else f=0;while f>-1 do if f>=3 then if 5<=f then if 1<f then repeat if 6>f then n(k,u);break;end;f=-2;until true;else n(k,u);end else if 0~=f then repeat if f~=3 then k=b[c];break;end;u=b[p];until true;else u=b[p];end end else if 1<=f then if f<2 then c=h;else p=d;end else b=e;end end f=f+1 end l=l+1;e=t[l];end else if 1>f then n[e[h]]=o[e[d]];l=l+1;e=t[l];else r=e[h];a=n[e[d]];n[r+1]=a;n[r]=a[e[y]];l=l+1;e=t[l];end end end end end else n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]/e[y];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];do return end;end else if 39<f then if f>37 then repeat if f<41 then local f,o;for r=0,6 do if 3>r then if 1<=r then if r~=2 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];end else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else if 4<r then if 2<r then repeat if r~=6 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];until true;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if r~=3 then n[e[h]]={};l=l+1;e=t[l];else f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];end end end end break;end;local f;n[e[h]]={};l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]=(e[d]~=0);until true;else local f;n[e[h]]={};l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]=(e[d]~=0);end else local f,r,s;n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h];r=n[f]s=n[f+2];if(s>0)then if(r>n[f+1])then l=e[d];else n[f+3]=r;end elseif(r<n[f+1])then l=e[d];else n[f+3]=r;end end end else if f>32 then if f>33 then if f~=32 then for r=10,62 do if f~=35 then local c,r,b,k,a,u,f;c=e[h]n[c]=n[c](s(n,c+1,e[d]))l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];f=0;while f>-1 do if f>=3 then if f<5 then if f~=1 then for e=47,69 do if f~=4 then a=r[k];break;end;u=r[b];break;end;else a=r[k];end else if 4~=f then for e=23,69 do if 6~=f then n(u,a);break;end;f=-2;break;end;else f=-2;end end else if 0>=f then r=e;else if f~=2 then b=h;else k=d;end end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if 2>=f then if 1>f then r=e;else if f>-2 then for e=44,85 do if f<2 then b=h;break;end;k=d;break;end;else b=h;end end else if 4>=f then if f==4 then u=r[b];else a=r[k];end else if f~=2 then repeat if f<6 then n(u,a);break;end;f=-2;until true;else n(u,a);end end end f=f+1 end break;end;n[e[h]]=n[e[d]]*e[y];break;end;else n[e[h]]=n[e[d]]*e[y];end else n[e[h]]=n[e[d]][e[y]];end else if 31==f then local r,o;for f=0,6 do if f<=2 then if 1>f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if 1<f then r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];else r=e[h]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end end else if 5>f then if f<4 then n[e[h]]={};l=l+1;e=t[l];else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if 4<=f then repeat if f~=6 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];until true;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end end end else local h=e[h]local d={n[h](n[h+1])};local l=0;for e=h,e[y]do l=l+1;n[e]=d[l];end end end end else if f<26 then if 23<=f then if 23>=f then local h=e[h]local d={n[h](s(n,h+1,e[d]))};local l=0;for e=h,e[y]do l=l+1;n[e]=d[l];end else if 23~=f then repeat if f~=24 then if n[e[h]]then l=l+1;else l=e[d];end;break;end;local s,b,u,k,a,f;for f=0,6 do if 2>=f then if 1<=f then if f>=0 then for y=20,64 do if 2~=f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end else if f<=4 then if f>0 then for r=30,84 do if 4~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;f=0;while f>-1 do if f>2 then if f<=4 then if f~=-1 then repeat if 3<f then a=s[b];break;end;k=s[u];until true;else a=s[b];end else if f<6 then n(a,k);else f=-2;end end else if f<=0 then s=e;else if f~=-1 then for e=21,91 do if f<2 then b=h;break;end;u=d;break;end;else u=d;end end end f=f+1 end l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if 4<f then repeat if f~=6 then f=0;while f>-1 do if f<3 then if 1<=f then if f>1 then u=d;else b=h;end else s=e;end else if f<5 then if 3==f then k=s[u];else a=s[b];end else if 2~=f then for e=10,79 do if 6>f then n(a,k);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end l=l+1;e=t[l];break;end;f=0;while f>-1 do if f>2 then if f<5 then if 1<=f then for e=32,76 do if f~=3 then a=s[b];break;end;k=s[u];break;end;else a=s[b];end else if 3<f then for e=29,66 do if 6~=f then n(a,k);break;end;f=-2;break;end;else n(a,k);end end else if f>0 then if 1<f then u=d;else b=h;end else s=e;end end f=f+1 end until true;else f=0;while f>-1 do if f<3 then if 1<=f then if f>1 then u=d;else b=h;end else s=e;end else if f<5 then if 3==f then k=s[u];else a=s[b];end else if 2~=f then for e=10,79 do if 6>f then n(a,k);break;end;f=-2;break;end;else f=-2;end end end f=f+1 end l=l+1;e=t[l];end end end end until true;else if n[e[h]]then l=l+1;else l=e[d];end;end end else if f~=17 then repeat if 22~=f then n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];do return end;break;end;local f,r;f=e[h]n[f](n[f+1])l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];until true;else local f,r;f=e[h]n[f](n[f+1])l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];end end else if 28<=f then if 28<f then if f==30 then n[e[h]]=n[e[d]][n[e[y]]];else local f,c,a,p,o,k;for a=0,4 do if a<2 then if a~=-3 then for s=12,96 do if a>0 then f=e[h];c=n[e[d]];n[f+1]=c;n[f]=c[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if 3<=a then if a==4 then l=e[d];else f=e[h]k={n[f](s(n,f+1,b))};o=0;for e=f,e[y]do o=o+1;n[e]=k[o];end l=l+1;e=t[l];end else f=e[h]k,p=u(n[f](n[f+1]))b=p+f-1 o=0;for e=f,b do o=o+1;n[e]=k[o];end;l=l+1;e=t[l];end end end end else if(n[e[h]]==e[y])then l=l+1;else l=e[d];end;end else if f==26 then n[e[h]]=#n[e[d]];else local f,c,_,z,p,f,f,r,b,a,k,o,u;for f=0,4 do if f>1 then if 2<f then if f>1 then repeat if f~=4 then u=e[h]n[u]=n[u](s(n,u+1,e[d]))l=l+1;e=t[l];break;end;if(n[e[h]]~=e[y])then l=l+1;else l=e[d];end;until true;else if(n[e[h]]~=e[y])then l=l+1;else l=e[d];end;end else f=0;while f>-1 do if f<3 then if f>=1 then if f>-2 then repeat if f>1 then a=d;break;end;b=h;until true;else b=h;end else r=e;end else if 5<=f then if f>=2 then for e=15,59 do if 6~=f then n(o,k);break;end;f=-2;break;end;else f=-2;end else if f>2 then for e=37,76 do if 3~=f then o=r[b];break;end;k=r[a];break;end;else k=r[a];end end end f=f+1 end l=l+1;e=t[l];end else if 1~=f then f=0;while f>-1 do if 4<=f then if 5>=f then if 3<f then repeat if f~=4 then o=r[c];break;end;p=z[r[_]];until true;else o=r[c];end else if f>5 then for e=13,60 do if f<7 then n[o]=p;break;end;f=-2;break;end;else f=-2;end end else if f<2 then if f==0 then r=e;else c=h;end else if f==3 then z=n;else _=d;end end end f=f+1 end l=l+1;e=t[l];else f=0;while f>-1 do if f<=2 then if f>0 then if f<2 then b=h;else a=d;end else r=e;end else if 4<f then if f~=1 then repeat if f~=5 then f=-2;break;end;n(o,k);until true;else f=-2;end else if f<4 then k=r[a];else o=r[b];end end end f=f+1 end l=l+1;e=t[l];end end end end end end end else if f<=9 then if f<5 then if f>=2 then if f<=2 then for e=e[h],e[d]do n[e]=nil;end;else if f~=3 then if(n[e[h]]==n[e[y]])then l=l+1;else l=e[d];end;else local g,b,k,a,g,f,r,_,p,c,z,s,u;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];f=0;while f>-1 do if f<=2 then if 1<=f then if f>-2 then repeat if 1~=f then k=d;break;end;b=h;until true;else b=h;end else r=e;end else if 5<=f then if 1<f then repeat if 6>f then n(s,a);break;end;f=-2;until true;else n(s,a);end else if 4>f then a=r[k];else s=r[b];end end end f=f+1 end l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];f=0;while f>-1 do if f<=2 then if f<1 then r=e;else if 1~=f then k=d;else b=h;end end else if f<5 then if 2~=f then repeat if 3<f then s=r[b];break;end;a=r[k];until true;else a=r[k];end else if 1<=f then for e=16,94 do if f~=5 then f=-2;break;end;n(s,a);break;end;else n(s,a);end end end f=f+1 end l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];f=0;while f>-1 do if 4<=f then if 5>=f then if f>4 then s=r[_];else z=c[r[p]];end else if 6==f then n[s]=z;else f=-2;end end else if 2>f then if f>-1 then for l=15,73 do if 1~=f then r=e;break;end;_=h;break;end;else r=e;end else if 0<f then for e=38,63 do if f<3 then p=d;break;end;c=n;break;end;else c=n;end end end f=f+1 end l=l+1;e=t[l];u=e[h]n[u]=n[u](n[u+1])l=l+1;e=t[l];f=0;while f>-1 do if 3<=f then if f>4 then if f>=3 then for e=21,82 do if 6>f then n(s,a);break;end;f=-2;break;end;else f=-2;end else if f~=0 then for e=14,63 do if f~=3 then s=r[b];break;end;a=r[k];break;end;else s=r[b];end end else if f>0 then if-3~=f then for e=45,69 do if f>1 then k=d;break;end;b=h;break;end;else b=h;end else r=e;end end f=f+1 end end end else if-1~=f then repeat if f~=0 then local u,r,c,p,_,k,b,a,s,f;for f=0,4 do if 1>=f then if f>=-3 then repeat if 1>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f<3 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 0<f then repeat if f>3 then f=0;while f>-1 do if f<3 then if f<=0 then u=n;else if f~=2 then r=e;c=l;else p=r[h];_=r[y];k=d;end end else if 5>f then if f>2 then repeat if 4~=f then b=u[p];a=u[_];break;end;s=b==a and r[k]or 1+c;until true;else s=b==a and r[k]or 1+c;end else if 2<f then for e=27,54 do if 6>f then l=s;break;end;f=-2;break;end;else l=s;end end end f=f+1 end break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else f=0;while f>-1 do if f<3 then if f<=0 then u=n;else if f~=2 then r=e;c=l;else p=r[h];_=r[y];k=d;end end else if 5>f then if f>2 then repeat if 4~=f then b=u[p];a=u[_];break;end;s=b==a and r[k]or 1+c;until true;else s=b==a and r[k]or 1+c;end else if 2<f then for e=27,54 do if 6>f then l=s;break;end;f=-2;break;end;else l=s;end end end f=f+1 end end end end end break;end;local b=z[e[d]];local s;local f={};s=a.cVJKFQss({},{__index=function(l,e)local e=f[e];return e[1][e[2]];end,__newindex=function(n,e,l)local e=f[e]e[1][e[2]]=l;end;});for h=1,e[y]do l=l+1;local e=t[l];if e[m]==274 then f[h-1]={n,e[d]};else f[h-1]={r,e[d]};end;k[#k+1]=f;end;n[e[h]]=_(b,s,o);until true;else local c,r,k,_,p,u,b,a,s,f;for f=0,4 do if 1>=f then if f>=-3 then repeat if 1>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f<3 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 0<f then repeat if f>3 then f=0;while f>-1 do if f<3 then if f<=0 then c=n;else if f~=2 then r=e;k=l;else _=r[h];p=r[y];u=d;end end else if 5>f then if f>2 then repeat if 4~=f then b=c[_];a=c[p];break;end;s=b==a and r[u]or 1+k;until true;else s=b==a and r[u]or 1+k;end else if 2<f then for e=27,54 do if 6>f then l=s;break;end;f=-2;break;end;else l=s;end end end f=f+1 end break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else f=0;while f>-1 do if f<3 then if f<=0 then c=n;else if f~=2 then r=e;k=l;else _=r[h];p=r[y];u=d;end end else if 5>f then if f>2 then repeat if 4~=f then b=c[_];a=c[p];break;end;s=b==a and r[u]or 1+k;until true;else s=b==a and r[u]or 1+k;end else if 2<f then for e=27,54 do if 6>f then l=s;break;end;f=-2;break;end;else l=s;end end end f=f+1 end end end end end end end else if 6<f then if 7>=f then if not n[e[h]]then l=l+1;else l=e[d];end;else if f~=8 then for f=0,4 do if 1>=f then if-4<f then for s=23,89 do if f<1 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if f>2 then if f>=1 then repeat if 4~=f then n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];break;end;r[e[d]]=n[e[h]];until true;else n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end else for f=0,6 do if f>2 then if f<5 then if f<4 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f==6 then n[e[h]]=r[e[d]];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if 1<=f then if 1==f then n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end end end else if 1~=f then for t=16,62 do if f~=5 then local h=e[h];local y=n[h+2];local t=n[h]+y;n[h]=t;if(y>0)then if(t<=n[h+1])then l=e[d];n[h+3]=t;end elseif(t>=n[h+1])then l=e[d];n[h+3]=t;end break;end;l=e[d];break;end;else l=e[d];end end end else if 15>f then if 12<=f then if 13<=f then if f>13 then n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];do return end;else n[e[h]]=n[e[d]]%e[y];end else local f;f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);end else if 7<f then repeat if 11~=f then local b,p,r,a,u,c,k,f;for f=0,6 do if f<3 then if f>0 then if f>-3 then repeat if 1<f then f=0;while f>-1 do if 2<f then if f>=5 then if 5==f then n(k,c);else f=-2;end else if f>=2 then repeat if 3~=f then k=r[a];break;end;c=r[u];until true;else c=r[u];end end else if 0<f then if-1<=f then repeat if f~=1 then u=d;break;end;a=h;until true;else a=h;end else r=e;end end f=f+1 end l=l+1;e=t[l];break;end;b=e[h];p=n[e[d]];n[b+1]=p;n[b]=p[e[y]];l=l+1;e=t[l];until true;else b=e[h];p=n[e[d]];n[b+1]=p;n[b]=p[e[y]];l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if f<5 then if 3==f then b=e[h]n[b]=n[b](s(n,b+1,e[d]))l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 3<f then repeat if 6~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;f=0;while f>-1 do if f>=3 then if 4>=f then if 1<f then repeat if f>3 then k=r[a];break;end;c=r[u];until true;else k=r[a];end else if 6==f then f=-2;else n(k,c);end end else if 1>f then r=e;else if f>-2 then for e=43,91 do if 2~=f then a=h;break;end;u=d;break;end;else a=h;end end end f=f+1 end until true;else f=0;while f>-1 do if f>=3 then if 4>=f then if 1<f then repeat if f>3 then k=r[a];break;end;c=r[u];until true;else k=r[a];end else if 6==f then f=-2;else n(k,c);end end else if 1>f then r=e;else if f>-2 then for e=43,91 do if 2~=f then a=h;break;end;u=d;break;end;else a=h;end end end f=f+1 end end end end end break;end;local r,o,b,u,a,k,c,f;for f=0,5 do if 3>f then if 0<f then if 1==f then n[e[h]][n[e[d]]]=n[e[y]];l=l+1;e=t[l];else r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];end else r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end else if f>3 then if f>1 then repeat if 4<f then r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];break;end;r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];until true;else r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end else f=0;while f>-1 do if 2<f then if 5<=f then if 5~=f then f=-2;else n(c,k);end else if 0<=f then for e=22,74 do if f<4 then k=b[a];break;end;c=b[u];break;end;else k=b[a];end end else if 0>=f then b=e;else if f>=-1 then repeat if f>1 then a=d;break;end;u=h;until true;else a=d;end end end f=f+1 end l=l+1;e=t[l];end end end until true;else local b,p,r,a,c,u,k,f;for f=0,6 do if f<3 then if f>0 then if f>-3 then repeat if 1<f then f=0;while f>-1 do if 2<f then if f>=5 then if 5==f then n(k,u);else f=-2;end else if f>=2 then repeat if 3~=f then k=r[a];break;end;u=r[c];until true;else u=r[c];end end else if 0<f then if-1<=f then repeat if f~=1 then c=d;break;end;a=h;until true;else a=h;end else r=e;end end f=f+1 end l=l+1;e=t[l];break;end;b=e[h];p=n[e[d]];n[b+1]=p;n[b]=p[e[y]];l=l+1;e=t[l];until true;else b=e[h];p=n[e[d]];n[b+1]=p;n[b]=p[e[y]];l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if f<5 then if 3==f then b=e[h]n[b]=n[b](s(n,b+1,e[d]))l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 3<f then repeat if 6~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;f=0;while f>-1 do if f>=3 then if 4>=f then if 1<f then repeat if f>3 then k=r[a];break;end;u=r[c];until true;else k=r[a];end else if 6==f then f=-2;else n(k,u);end end else if 1>f then r=e;else if f>-2 then for e=43,91 do if 2~=f then a=h;break;end;c=d;break;end;else a=h;end end end f=f+1 end until true;else f=0;while f>-1 do if f>=3 then if 4>=f then if 1<f then repeat if f>3 then k=r[a];break;end;u=r[c];until true;else k=r[a];end else if 6==f then f=-2;else n(k,u);end end else if 1>f then r=e;else if f>-2 then for e=43,91 do if 2~=f then a=h;break;end;c=d;break;end;else a=h;end end end f=f+1 end end end end end end end else if 18<=f then if 19>f then if(n[e[h]]<=n[e[y]])then l=l+1;else l=e[d];end;else if f>=15 then for t=12,73 do if f<20 then if(n[e[h]]<n[e[y]])then l=e[d];else l=l+1;end;break;end;n[e[h]][e[d]]=e[y];break;end;else n[e[h]][e[d]]=e[y];end end else if f<16 then for f=0,4 do if 1>=f then if-1<f then repeat if f~=0 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f<3 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 2<=f then repeat if 4>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;if not n[e[h]]then l=l+1;else l=e[d];end;until true;else if not n[e[h]]then l=l+1;else l=e[d];end;end end end end else if 15<f then repeat if 16<f then local f,o,a,b,r,y,k;for y=0,6 do if 3>y then if y>=1 then if-1~=y then repeat if 2>y then y=0;while y>-1 do if y>2 then if 4>=y then if y~=2 then repeat if y~=3 then r=f[o];break;end;b=f[a];until true;else r=f[o];end else if y~=5 then y=-2;else n(r,b);end end else if y<1 then f=e;else if y>0 then repeat if 1~=y then a=d;break;end;o=h;until true;else a=d;end end end y=y+1 end l=l+1;e=t[l];break;end;y=0;while y>-1 do if 2<y then if 4>=y then if 3~=y then r=f[o];else b=f[a];end else if y>=4 then for e=16,94 do if y~=6 then n(r,b);break;end;y=-2;break;end;else n(r,b);end end else if 1>y then f=e;else if-1~=y then for e=21,77 do if 2~=y then o=h;break;end;a=d;break;end;else a=d;end end end y=y+1 end l=l+1;e=t[l];until true;else y=0;while y>-1 do if 2<y then if 4>=y then if 3~=y then r=f[o];else b=f[a];end else if y>=4 then for e=16,94 do if y~=6 then n(r,b);break;end;y=-2;break;end;else n(r,b);end end else if 1>y then f=e;else if-1~=y then for e=21,77 do if 2~=y then o=h;break;end;a=d;break;end;else a=d;end end end y=y+1 end l=l+1;e=t[l];end else y=0;while y>-1 do if 3>y then if 1>y then f=e;else if y>=-2 then repeat if 1~=y then a=d;break;end;o=h;until true;else o=h;end end else if 4>=y then if y>1 then for e=10,80 do if y~=3 then r=f[o];break;end;b=f[a];break;end;else r=f[o];end else if y>=4 then repeat if y~=6 then n(r,b);break;end;y=-2;until true;else y=-2;end end end y=y+1 end l=l+1;e=t[l];end else if 4<y then if y==6 then if n[e[h]]then l=l+1;else l=e[d];end;else n[e[h]]=(e[d]~=0);l=l+1;e=t[l];end else if 3~=y then y=0;while y>-1 do if y>2 then if 4<y then if y~=2 then for e=45,58 do if y~=6 then n(r,b);break;end;y=-2;break;end;else y=-2;end else if 1<y then repeat if 4~=y then b=f[a];break;end;r=f[o];until true;else r=f[o];end end else if 1<=y then if y==2 then a=d;else o=h;end else f=e;end end y=y+1 end l=l+1;e=t[l];else k=e[h]n[k]=n[k](s(n,k+1,e[d]))l=l+1;e=t[l];end end end end break;end;n[e[h]]=(e[d]~=0);until true;else local f,o,a,b,r,y,k;for y=0,6 do if 3>y then if y>=1 then if-1~=y then repeat if 2>y then y=0;while y>-1 do if y>2 then if 4>=y then if y~=2 then repeat if y~=3 then r=f[o];break;end;b=f[a];until true;else r=f[o];end else if y~=5 then y=-2;else n(r,b);end end else if y<1 then f=e;else if y>0 then repeat if 1~=y then a=d;break;end;o=h;until true;else a=d;end end end y=y+1 end l=l+1;e=t[l];break;end;y=0;while y>-1 do if 2<y then if 4>=y then if 3~=y then r=f[o];else b=f[a];end else if y>=4 then for e=16,94 do if y~=6 then n(r,b);break;end;y=-2;break;end;else n(r,b);end end else if 1>y then f=e;else if-1~=y then for e=21,77 do if 2~=y then o=h;break;end;a=d;break;end;else a=d;end end end y=y+1 end l=l+1;e=t[l];until true;else y=0;while y>-1 do if 2<y then if 4>=y then if 3~=y then r=f[o];else b=f[a];end else if y>=4 then for e=16,94 do if y~=6 then n(r,b);break;end;y=-2;break;end;else n(r,b);end end else if 1>y then f=e;else if-1~=y then for e=21,77 do if 2~=y then o=h;break;end;a=d;break;end;else a=d;end end end y=y+1 end l=l+1;e=t[l];end else y=0;while y>-1 do if 3>y then if 1>y then f=e;else if y>=-2 then repeat if 1~=y then a=d;break;end;o=h;until true;else o=h;end end else if 4>=y then if y>1 then for e=10,80 do if y~=3 then r=f[o];break;end;b=f[a];break;end;else r=f[o];end else if y>=4 then repeat if y~=6 then n(r,b);break;end;y=-2;until true;else y=-2;end end end y=y+1 end l=l+1;e=t[l];end else if 4<y then if y==6 then if n[e[h]]then l=l+1;else l=e[d];end;else n[e[h]]=(e[d]~=0);l=l+1;e=t[l];end else if 3~=y then y=0;while y>-1 do if y>2 then if 4<y then if y~=2 then for e=45,58 do if y~=6 then n(r,b);break;end;y=-2;break;end;else y=-2;end else if 1<y then repeat if 4~=y then b=f[a];break;end;r=f[o];until true;else r=f[o];end end else if 1<=y then if y==2 then a=d;else o=h;end else f=e;end end y=y+1 end l=l+1;e=t[l];else k=e[h]n[k]=n[k](s(n,k+1,e[d]))l=l+1;e=t[l];end end end end end end end end end end else if 63<=f then if 74>f then if 68<=f then if 70>=f then if f>=69 then if f~=66 then for r=14,92 do if 69<f then n[e[h]]=n[e[d]]+n[e[y]];break;end;local f,a;for r=0,6 do if 2<r then if 5>r then if 4==r then n[e[h]]=(e[d]~=0);l=l+1;e=t[l];else f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else if r>3 then for y=32,90 do if 6~=r then n(e[h],e[d]);l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];break;end;else n[e[h]]=o[e[d]];end end else if 1>r then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 0<=r then repeat if r<2 then f=e[h];a=n[e[d]];n[f+1]=a;n[f]=a[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]];l=l+1;e=t[l];until true;else f=e[h];a=n[e[d]];n[f+1]=a;n[f]=a[e[y]];l=l+1;e=t[l];end end end end break;end;else n[e[h]]=n[e[d]]+n[e[y]];end else for f=0,6 do if f>=3 then if 5>f then if f~=1 then for s=32,71 do if f~=4 then n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if f>1 then repeat if 6>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if 0<f then if f==2 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end end end else if f<72 then local t=e[h];local d={};for e=1,#k do local e=k[e];for l=0,#e do local e=e[l];local h=e[1];local l=e[2];if h==n and l>=t then d[l]=h[l];e[1]=d;end;end;end;else if f>71 then repeat if 72~=f then local r;for f=0,9 do if 5<=f then if f>=7 then if 7<f then if f~=5 then repeat if 9~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=e[d]*n[e[y]];until true;else n[e[h]]=e[d]*n[e[y]];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if f>5 then r=e[h]n[r]=n[r](n[r+1])l=l+1;e=t[l];else n[e[h]]=e[d]*n[e[y]];l=l+1;e=t[l];end end else if f<=1 then if f~=-1 then for r=36,93 do if f>0 then n[e[h]]=e[d]/n[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]*e[y];l=l+1;e=t[l];break;end;else n[e[h]]=e[d]/n[e[y]];l=l+1;e=t[l];end else if f<=2 then n[e[h]]=n[e[d]]*e[y];l=l+1;e=t[l];else if f>3 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end end end break;end;n[e[h]][n[e[d]]]=n[e[y]];until true;else n[e[h]][n[e[d]]]=n[e[y]];end end end else if 65<=f then if 66<=f then if f==67 then local f,r;n[e[h]]=o[e[d]];l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];f=e[h];do return n[f](s(n,f+1,e[d]))end;l=l+1;e=t[l];f=e[h];do return s(n,f,b)end;l=l+1;e=t[l];do return end;else if(e[h]<n[e[y]])then l=e[d];else l=l+1;end;end else local e=e[h];b=e+j-1;for l=e,b do local e=g[l-e];n[l]=e;end;end else if 64>f then n[e[h]]=n[e[d]]%e[y];else local f,o;for r=0,6 do if r>2 then if 4>=r then if 4==r then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else n[e[h]]={};l=l+1;e=t[l];end else if r~=5 then n[e[h]][e[d]]=e[y];else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end else if r>0 then if-2<=r then repeat if r<2 then f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];until true;else f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end end end end else if 78>=f then if f<=75 then if 73<f then repeat if f<75 then local s,a;for f=0,9 do if f>=5 then if 7<=f then if f>7 then if f==8 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 4~=f then for r=35,61 do if f<6 then n[e[h]]={};l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;else n[e[h]]={};l=l+1;e=t[l];end end else if 2>f then if 0<f then s=e[h];a=n[e[d]];n[s+1]=a;n[s]=a[e[y]];l=l+1;e=t[l];else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if 2<f then if 3~=f then n[e[h]]={};l=l+1;e=t[l];else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else n[e[h]]={};l=l+1;e=t[l];end end end end break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][n[e[d]]]=n[e[y]];l=l+1;e=t[l];do return end;until true;else local s,a;for f=0,9 do if f>=5 then if 7<=f then if f>7 then if f==8 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 4~=f then for r=35,61 do if f<6 then n[e[h]]={};l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;else n[e[h]]={};l=l+1;e=t[l];end end else if 2>f then if 0<f then s=e[h];a=n[e[d]];n[s+1]=a;n[s]=a[e[y]];l=l+1;e=t[l];else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if 2<f then if 3~=f then n[e[h]]={};l=l+1;e=t[l];else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else n[e[h]]={};l=l+1;e=t[l];end end end end end else if f<77 then local b,a,u,k,c,f,o;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]/n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]/n[e[y]];l=l+1;e=t[l];f=0;while f>-1 do if f<=2 then if 0>=f then b=e;else if f>-1 then repeat if f~=2 then a=h;break;end;u=d;until true;else a=h;end end else if 4>=f then if 4~=f then k=b[u];else c=b[a];end else if f>5 then f=-2;else n(c,k);end end end f=f+1 end l=l+1;e=t[l];o=e[h]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];n[e[h]]=n[e[d]]+n[e[y]];else if f<78 then local a,r,s;for f=0,9 do if f>4 then if f>=7 then if f>7 then if f>=7 then repeat if f~=8 then n[e[h]]={};break;end;n[e[h]]={};l=l+1;e=t[l];until true;else n[e[h]]={};end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end else if 1<=f then repeat if 5~=f then s=e[h]n[s]=n[s](n[s+1])l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];until true;else s=e[h]n[s]=n[s](n[s+1])l=l+1;e=t[l];end end else if 1>=f then if-4<f then for s=41,59 do if f~=0 then a=e[d];r=n[a]for e=a+1,e[y]do r=r..n[e];end;n[e[h]]=r;l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];break;end;else a=e[d];r=n[a]for e=a+1,e[y]do r=r..n[e];end;n[e[h]]=r;l=l+1;e=t[l];end else if 3>f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if f>3 then n[e[h]]=o[e[d]];l=l+1;e=t[l];else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end end end end else local j,_,z,c,j,f,j,j,j,p,k,j,b,o,g,r,u,s,a;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];f=0;while f>-1 do if f>2 then if 5>f then if 2~=f then for e=46,61 do if f<4 then c=r[z];break;end;s=r[_];break;end;else s=r[_];end else if f>2 then repeat if f<6 then n(s,c);break;end;f=-2;until true;else n(s,c);end end else if 0<f then if 1==f then _=h;else z=d;end else r=e;end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if 3<f then if f>5 then if f>5 then repeat if 6~=f then f=-2;break;end;n[s]=k;until true;else f=-2;end else if 2<f then repeat if f~=5 then k=p[r[o]];break;end;s=r[b];until true;else k=p[r[o]];end end else if 1>=f then if f>-1 then repeat if 0~=f then b=h;break;end;r=e;until true;else b=h;end else if f==3 then p=n;else o=d;end end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if f<3 then if 1<=f then if f~=-2 then repeat if f~=1 then z=d;break;end;_=h;until true;else z=d;end else r=e;end else if f>=5 then if 3<f then for e=36,75 do if 5<f then f=-2;break;end;n(s,c);break;end;else n(s,c);end else if 3~=f then s=r[_];else c=r[z];end end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if 3<f then if f>=6 then if f>=2 then for e=29,82 do if 6<f then f=-2;break;end;n[s]=k;break;end;else f=-2;end else if 3<f then for e=28,55 do if 4~=f then s=r[b];break;end;k=p[r[o]];break;end;else k=p[r[o]];end end else if f<2 then if-3<f then repeat if 1~=f then r=e;break;end;b=h;until true;else r=e;end else if f>2 then p=n;else o=d;end end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if 3<=f then if f<5 then if f~=2 then for e=14,89 do if f>3 then a=n[u];for e=1+u,r[g]do a=a..n[e];end;break;end;s=r[b];break;end;else a=n[u];for e=1+u,r[g]do a=a..n[e];end;end else if 2~=f then repeat if f>5 then f=-2;break;end;n[s]=a;until true;else n[s]=a;end end else if f>=1 then if-1~=f then repeat if 1~=f then u=r[o];break;end;r=e;until true;else u=r[o];end else b=h;o=d;g=y;end end f=f+1 end l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];end end end else if f<82 then if f>79 then if 81==f then local e=e[h];do return s(n,e,b)end;else local f;n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);end else for f=0,5 do if f>2 then if 3>=f then n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];else if f~=4 then if n[e[h]]then l=l+1;else l=e[d];end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end else if f<1 then n[e[h]]=r[e[d]];l=l+1;e=t[l];else if 0~=f then for s=35,91 do if f~=1 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];end end end end end else if f>=83 then if 79<=f then repeat if f~=83 then local f,r;for s=0,1 do if s~=-4 then repeat if s>0 then f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end break;end;n[e[h]]=n[e[d]]+e[y];until true;else n[e[h]]=n[e[d]]+e[y];end else local a;for f=0,8 do if f<4 then if f>1 then if f~=1 then repeat if 3>f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]+e[y];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end else if f~=-2 then for s=13,67 do if f~=0 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end else if f>=6 then if f>6 then if f~=6 then for y=17,57 do if 8>f then n[e[h]]=n[e[d]];l=l+1;e=t[l];break;end;a=e[h]n[a](s(n,a+1,e[d]))break;end;else a=e[h]n[a](s(n,a+1,e[d]))end else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if f>=2 then repeat if f<5 then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end end end end end end else if f>=52 then if 57<=f then if 59>=f then if 57<f then if f>56 then for o=45,85 do if f<59 then for f=0,6 do if f<=2 then if f<1 then n[e[h]]=r[e[d]];l=l+1;e=t[l];else if-3<f then repeat if f~=2 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=(not n[e[d]]);l=l+1;e=t[l];until true;else n[e[h]]=(not n[e[d]]);l=l+1;e=t[l];end end else if f>=5 then if f>5 then n[e[h]]=n[e[d]][e[y]];else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if f~=2 then repeat if f~=4 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end end end break;end;local r;for f=0,5 do if f>=3 then if 4<=f then if f~=3 then repeat if f~=4 then if not n[e[h]]then l=l+1;else l=e[d];end;break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else if not n[e[h]]then l=l+1;else l=e[d];end;end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f<=0 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else if-2<f then for o=32,78 do if 1<f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end end break;end;else local r;for f=0,5 do if f>=3 then if 4<=f then if f~=3 then repeat if f~=4 then if not n[e[h]]then l=l+1;else l=e[d];end;break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else if not n[e[h]]then l=l+1;else l=e[d];end;end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f<=0 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else if-2<f then for o=32,78 do if 1<f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end end end else local f;n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]]=n[e[d]]/n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];end else if f>=61 then if f>57 then repeat if f>61 then local a,p,r,u,b,c,k,f;for f=0,7 do if 3<f then if f<=5 then if f>3 then repeat if 5>f then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 3~=f then repeat if f<7 then a=e[h];p=n[e[d]];n[a+1]=p;n[a]=p[e[y]];l=l+1;e=t[l];break;end;f=0;while f>-1 do if 2<f then if f<5 then if f>=2 then for e=14,79 do if 4>f then c=r[b];break;end;k=r[u];break;end;else k=r[u];end else if f<6 then n(k,c);else f=-2;end end else if 1<=f then if f>1 then b=d;else u=h;end else r=e;end end f=f+1 end until true;else f=0;while f>-1 do if 2<f then if f<5 then if f>=2 then for e=14,79 do if 4>f then c=r[b];break;end;k=r[u];break;end;else k=r[u];end else if f<6 then n(k,c);else f=-2;end end else if 1<=f then if f>1 then b=d;else u=h;end else r=e;end end f=f+1 end end end else if f<=1 then if 1>f then a=e[h];p=n[e[d]];n[a+1]=p;n[a]=p[e[y]];l=l+1;e=t[l];else f=0;while f>-1 do if f<=2 then if 0<f then if f>0 then for e=10,89 do if 2>f then u=h;break;end;b=d;break;end;else b=d;end else r=e;end else if f<5 then if f==4 then k=r[u];else c=r[b];end else if f==5 then n(k,c);else f=-2;end end end f=f+1 end l=l+1;e=t[l];end else if 1<f then for y=36,63 do if 3~=f then a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];break;end;f=0;while f>-1 do if f<=2 then if 0>=f then r=e;else if f==1 then u=h;else b=d;end end else if f>4 then if f>5 then f=-2;else n(k,c);end else if 0<=f then for e=41,69 do if f<4 then c=r[b];break;end;k=r[u];break;end;else c=r[b];end end end f=f+1 end l=l+1;e=t[l];break;end;else a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];end end end end break;end;local k,c,b,a,u,f,r,p;f=0;while f>-1 do if 3<=f then if f>=5 then if f~=2 then repeat if f<6 then n(u,a);break;end;f=-2;until true;else n(u,a);end else if f~=0 then repeat if f~=3 then u=k[c];break;end;a=k[b];until true;else a=k[b];end end else if 1>f then k=e;else if 0<f then repeat if 2~=f then c=h;break;end;b=d;until true;else b=d;end end end f=f+1 end l=l+1;e=t[l];r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];r=e[h];p=n[e[d]];n[r+1]=p;n[r]=p[e[y]];l=l+1;e=t[l];f=0;while f>-1 do if 3<=f then if f>4 then if 4~=f then repeat if 6>f then n(u,a);break;end;f=-2;until true;else n(u,a);end else if 0<=f then for e=18,63 do if f>3 then u=k[c];break;end;a=k[b];break;end;else a=k[b];end end else if 0<f then if 0<f then repeat if 2~=f then c=h;break;end;b=d;until true;else b=d;end else k=e;end end f=f+1 end l=l+1;e=t[l];r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];until true;else local a,p,r,u,b,c,k,f;for f=0,7 do if 3<f then if f<=5 then if f>3 then repeat if 5>f then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if 3~=f then repeat if f<7 then a=e[h];p=n[e[d]];n[a+1]=p;n[a]=p[e[y]];l=l+1;e=t[l];break;end;f=0;while f>-1 do if 2<f then if f<5 then if f>=2 then for e=14,79 do if 4>f then c=r[b];break;end;k=r[u];break;end;else k=r[u];end else if f<6 then n(k,c);else f=-2;end end else if 1<=f then if f>1 then b=d;else u=h;end else r=e;end end f=f+1 end until true;else f=0;while f>-1 do if 2<f then if f<5 then if f>=2 then for e=14,79 do if 4>f then c=r[b];break;end;k=r[u];break;end;else k=r[u];end else if f<6 then n(k,c);else f=-2;end end else if 1<=f then if f>1 then b=d;else u=h;end else r=e;end end f=f+1 end end end else if f<=1 then if 1>f then a=e[h];p=n[e[d]];n[a+1]=p;n[a]=p[e[y]];l=l+1;e=t[l];else f=0;while f>-1 do if f<=2 then if 0<f then if f>0 then for e=10,89 do if 2>f then u=h;break;end;b=d;break;end;else b=d;end else r=e;end else if f<5 then if f==4 then k=r[u];else c=r[b];end else if f==5 then n(k,c);else f=-2;end end end f=f+1 end l=l+1;e=t[l];end else if 1<f then for y=36,63 do if 3~=f then a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];break;end;f=0;while f>-1 do if f<=2 then if 0>=f then r=e;else if f==1 then u=h;else b=d;end end else if f>4 then if f>5 then f=-2;else n(k,c);end else if 0<=f then for e=41,69 do if f<4 then c=r[b];break;end;k=r[u];break;end;else c=r[b];end end end f=f+1 end l=l+1;e=t[l];break;end;else a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];end end end end end else if(n[e[h]]<n[e[y]])then l=l+1;else l=e[d];end;end end else if f>53 then if 55<=f then if f<56 then local r;for f=0,6 do if 3>f then if f>=1 then if f>0 then repeat if f~=2 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if 4<f then if 4~=f then repeat if 6>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];until true;else n[e[h]]=n[e[d]][e[y]];end else if 3==f then r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end end else n[e[h]]=(not n[e[d]]);end else for f=0,4 do if 2<=f then if f<=2 then n[e[h]]=r[e[d]];l=l+1;e=t[l];else if 2~=f then for r=16,80 do if f<4 then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];break;end;else n[e[h]]=n[e[d]][e[y]];end end else if f>-3 then repeat if 1~=f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];until true;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end end end else if 49<f then for a=20,88 do if 53>f then local f,r;for a=0,7 do if a>3 then if a<6 then if a>1 then for y=46,81 do if a<5 then f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else if a>=5 then repeat if 6~=a then n(e[h],e[d]);break;end;f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];until true;else f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];end end else if 2<=a then if a>1 then repeat if a~=2 then n(e[h],e[d]);l=l+1;e=t[l];break;end;f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];until true;else f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];end else if a~=-2 then for y=20,64 do if a~=1 then f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end end break;end;local f;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];break;end;else local f;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];end end end else if 46>=f then if f>43 then if 45>f then local f;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);else if 46==f then local y,o,a,f;for r=0,2 do if 0>=r then y=e[h]o,a=u(n[y](s(n,y+1,e[d])))b=a+y-1 f=0;for e=y,b do f=f+1;n[e]=o[f];end;l=l+1;e=t[l];else if r>0 then repeat if r~=2 then y=e[h]n[y]=n[y](s(n,y+1,b))l=l+1;e=t[l];break;end;y=e[h]n[y]=n[y]()until true;else y=e[h]n[y]=n[y](s(n,y+1,b))l=l+1;e=t[l];end end end else local f,o;n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h];do return n[f](s(n,f+1,e[d]))end;l=l+1;e=t[l];f=e[h];do return s(n,f,b)end;l=l+1;e=t[l];do return end;end end else if 39<f then repeat if f<43 then local f,c,_,p,a,k;n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h];c=n[e[d]];n[f+1]=c;n[f]=c[e[y]];l=l+1;e=t[l];f=e[h]k,p=u(n[f](n[f+1]))b=p+f-1 a=0;for e=f,b do a=a+1;n[e]=k[a];end;l=l+1;e=t[l];f=e[h]k={n[f](s(n,f+1,b))};a=0;for e=f,e[y]do a=a+1;n[e]=k[a];end l=l+1;e=t[l];l=e[d];break;end;local f,o;for r=0,5 do if 2>=r then if r<=0 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if-3~=r then for s=15,90 do if r>1 then n(e[h],e[d]);l=l+1;e=t[l];break;end;f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];break;end;else f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];end end else if r<=3 then f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];else if r>0 then repeat if 5>r then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;if not n[e[h]]then l=l+1;else l=e[d];end;until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end end until true;else local f,c,_,p,a,k;n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h];c=n[e[d]];n[f+1]=c;n[f]=c[e[y]];l=l+1;e=t[l];f=e[h]k,p=u(n[f](n[f+1]))b=p+f-1 a=0;for e=f,b do a=a+1;n[e]=k[a];end;l=l+1;e=t[l];f=e[h]k={n[f](s(n,f+1,b))};a=0;for e=f,e[y]do a=a+1;n[e]=k[a];end l=l+1;e=t[l];l=e[d];end end else if 48<f then if 49<f then if 49~=f then repeat if f<51 then local r;for f=0,6 do if f>=3 then if 5>f then if 3~=f then n(e[h],e[d]);l=l+1;e=t[l];else n(e[h],e[d]);l=l+1;e=t[l];end else if 1~=f then repeat if 5~=f then n[e[h]]=o[e[d]];break;end;r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];until true;else r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end end else if 0<f then if f>-1 then repeat if f~=1 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end break;end;local r,o;for f=0,6 do if 2>=f then if f>0 then if 1<f then r=e[h];o=n[e[d]];n[r+1]=o;n[r]=o[e[y]];l=l+1;e=t[l];else r=e[h]n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end else if 5>f then if f>1 then for r=20,94 do if f~=4 then n[e[h]]={};l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;else n[e[h]]={};l=l+1;e=t[l];end else if 1<=f then repeat if f>5 then n[e[h]][e[d]]=e[y];break;end;n[e[h]][e[d]]=e[y];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=e[y];end end end end until true;else local f;for r=0,6 do if r>=3 then if 5>r then if 3~=r then n(e[h],e[d]);l=l+1;e=t[l];else n(e[h],e[d]);l=l+1;e=t[l];end else if 1~=r then repeat if 5~=r then n[e[h]]=o[e[d]];break;end;f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];until true;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end end else if 0<r then if r>-1 then repeat if r~=1 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end end else if n[e[h]]then l=l+1;else l=e[d];end;end else if 46~=f then repeat if 47<f then local f;n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];break;end;local y,f,o,t,r,s;local l=0;while l>-1 do if 3>=l then if 1<l then if l~=1 then repeat if l~=3 then o=d;break;end;t=n;until true;else t=n;end else if 0==l then y=e;else f=h;end end else if 5<l then if l==6 then n[s]=r;else l=-2;end else if l~=4 then s=y[f];else r=t[y[o]];end end end l=l+1 end until true;else local f;n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];end end end end end end else if f>=127 then if f<148 then if 137<=f then if f>141 then if 145<=f then if 145>=f then local b,f,a;n[e[h]]=n[e[d]];l=l+1;e=t[l];b=e[d];f=n[b]for e=b+1,e[y]do f=f..n[e];end;n[e[h]]=f;l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];else if f~=143 then for r=11,63 do if 146<f then local r;for f=0,6 do if f<3 then if 1>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if f>0 then for r=32,77 do if f>1 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if f>4 then if f<6 then r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];else n[e[h]][e[d]]=n[e[y]];end else if f==4 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end end end end break;end;n[e[h]]=e[d]/n[e[y]];break;end;else n[e[h]]=e[d]/n[e[y]];end end else if f>142 then if f>141 then for t=11,95 do if 143<f then local f,r,u,s,o,k,b,a,c;local t=0;while t>-1 do if t<=2 then if 0>=t then f=n;else if t==1 then r=e;u=l;else s=r[h];o=r[y];k=d;end end else if t>=5 then if 5~=t then t=-2;else l=c;end else if-1~=t then for e=36,55 do if t>3 then c=b==a and r[k]or 1+u;break;end;b=f[s];a=f[o];break;end;else b=f[s];a=f[o];end end end t=t+1 end break;end;local h=e[h]local d={n[h](n[h+1])};local l=0;for e=h,e[y]do l=l+1;n[e]=d[l];end break;end;else local f,r,c,b,a,u,o,s,k;local t=0;while t>-1 do if t<=2 then if 0>=t then f=n;else if t==1 then r=e;c=l;else b=r[h];a=r[y];u=d;end end else if t>=5 then if 5~=t then t=-2;else l=k;end else if-1~=t then for e=36,55 do if t>3 then k=o==s and r[u]or 1+c;break;end;o=f[b];s=f[a];break;end;else o=f[b];s=f[a];end end end t=t+1 end end else local o;for f=0,9 do if f<5 then if 1<f then if 2>=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 0~=f then repeat if 4>f then o=e[h]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end else if-2<f then for r=16,78 do if 0~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if 6<f then if 8>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if f>=5 then repeat if f~=9 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;if(n[e[h]]<=n[e[y]])then l=l+1;else l=e[d];end;until true;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end else if 1~=f then for r=16,56 do if 5~=f then n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];end end end end end end else if f<139 then if f~=134 then for r=10,96 do if 138>f then n[e[h]][e[d]]=n[e[y]];break;end;local r;for f=0,4 do if 2>f then if 1>f then n(e[h],e[d]);l=l+1;e=t[l];else n(e[h],e[d]);l=l+1;e=t[l];end else if 2>=f then n(e[h],e[d]);l=l+1;e=t[l];else if 1<f then for o=41,98 do if 4>f then r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];break;end;else n[e[h]][e[d]]=n[e[y]];end end end end break;end;else local r;for f=0,4 do if 2>f then if 1>f then n(e[h],e[d]);l=l+1;e=t[l];else n(e[h],e[d]);l=l+1;e=t[l];end else if 2>=f then n(e[h],e[d]);l=l+1;e=t[l];else if 1<f then for o=41,98 do if 4>f then r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];break;end;else n[e[h]][e[d]]=n[e[y]];end end end end end else if 139<f then if 141==f then local a;for f=0,9 do if f>=5 then if 7<=f then if f<=7 then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];else if f>6 then repeat if 9~=f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];until true;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end else if 5~=f then a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];else n[e[h]]=n[e[d]];l=l+1;e=t[l];end end else if 2<=f then if f<3 then n[e[h]]=o[e[d]];l=l+1;e=t[l];else if f~=-1 then repeat if 3~=f then n[e[h]]=n[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]];l=l+1;e=t[l];end end else if f>=-3 then for r=35,60 do if 1>f then a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end end else for f=0,6 do if 2<f then if 5>f then if 4==f then n[e[h]]=o[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f~=5 then n[e[h]]=e[d]*n[e[y]];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if f<1 then n[e[h]]=o[e[d]];l=l+1;e=t[l];else if f~=-2 then for r=10,98 do if 1~=f then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end end end else n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);end end end else if 131>=f then if 129>f then if 127~=f then local f;n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];else n[e[h]]=n[e[d]]/n[e[y]];end else if 129>=f then local r;for f=0,5 do if 2>=f then if f<=0 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];else if f~=-3 then repeat if f<2 then r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end else if 4<=f then if f~=0 then for r=32,85 do if 5>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;if not n[e[h]]then l=l+1;else l=e[d];end;break;end;else if not n[e[h]]then l=l+1;else l=e[d];end;end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end else if f<131 then local f,o,k,b;for a=0,4 do if 1<a then if 3<=a then if 3~=a then if n[e[h]]then l=l+1;else l=e[d];end;else f=e[h]k={n[f](s(n,f+1,e[d]))};b=0;for e=f,e[y]do b=b+1;n[e]=k[b];end l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if a>=-3 then for s=15,67 do if 1~=a then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];break;end;else f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];end end end else local f,c,k,a;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]*e[y];l=l+1;e=t[l];f=e[h]c,k=u(n[f](n[f+1]))b=k+f-1 a=0;for e=f,b do a=a+1;n[e]=c[a];end;l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,b))end end end else if f<=133 then if 132~=f then local a,k,b,p,c,u,f;for f=0,7 do if f<4 then if 2<=f then if-2~=f then repeat if 2<f then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];until true;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if-1<=f then for r=16,94 do if 1>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if f<=5 then if f~=0 then for r=16,66 do if f>4 then f=0;while f>-1 do if 3>f then if 1>f then k=e;else if-3<=f then for e=38,85 do if 1<f then p=d;break;end;b=h;break;end;else b=h;end end else if f<=4 then if 1<=f then for e=40,70 do if 3~=f then u=k[b];break;end;c=k[p];break;end;else u=k[b];end else if f~=5 then f=-2;else n(u,c);end end end f=f+1 end l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if 3<=f then for y=15,95 do if 7~=f then a=e[h]n[a]=n[a](n[a+1])l=l+1;e=t[l];break;end;r[e[d]]=n[e[h]];break;end;else r[e[d]]=n[e[h]];end end end end else local r,t,s,y,f;local l=0;while l>-1 do if l<3 then if 1>l then r=e;else if l>0 then repeat if 1<l then s=d;break;end;t=h;until true;else t=h;end end else if l>4 then if l>=1 then for e=45,58 do if l~=6 then n(f,y);break;end;l=-2;break;end;else n(f,y);end else if l==4 then f=r[t];else y=r[s];end end end l=l+1 end end else if f>134 then if 132~=f then for o=28,78 do if f<136 then local f,o;for s=0,4 do if s>=2 then if 2<s then if s>2 then repeat if s~=3 then n[e[h]][n[e[d]]]=e[y];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[h]][n[e[d]]]=e[y];end else f=e[h]n[f](n[f+1])l=l+1;e=t[l];end else if 0<s then f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];end end end break;end;local f,r;f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))break;end;else local f,o;for s=0,4 do if s>=2 then if 2<s then if s>2 then repeat if s~=3 then n[e[h]][n[e[d]]]=e[y];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[h]][n[e[d]]]=e[y];end else f=e[h]n[f](n[f+1])l=l+1;e=t[l];end else if 0<s then f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];end end end end else for y=0,1 do if 1==y then if n[e[h]]then l=l+1;else l=e[d];end;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end end end end else if 159<=f then if f>=164 then if f<=166 then if 165<=f then if f~=162 then repeat if 165<f then n[e[h]]=-n[e[d]];break;end;n[e[h]]={};until true;else n[e[h]]={};end else local o;for f=0,6 do if 2<f then if f>4 then if f~=2 then repeat if 5~=f then n[e[h]][e[d]]=e[y];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if f>-1 then repeat if 3~=f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;o=e[h]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];until true;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end else if f<1 then n(e[h],e[d]);l=l+1;e=t[l];else if f==2 then n(e[h],e[d]);l=l+1;e=t[l];else n(e[h],e[d]);l=l+1;e=t[l];end end end end end else if 167<f then if 164~=f then for r=10,82 do if f~=168 then n[e[h]]=n[e[d]]*n[e[y]];break;end;local y;for f=0,6 do if 2<f then if f<5 then if 3==f then n[e[h]]=o[e[d]];l=l+1;e=t[l];else n(e[h],e[d]);l=l+1;e=t[l];end else if 5~=f then n[e[h]]=o[e[d]];else y=e[h]n[y](n[y+1])l=l+1;e=t[l];end end else if 0>=f then n[e[h]]=n[e[d]];l=l+1;e=t[l];else if-2<=f then for r=43,82 do if f<2 then n[e[h]]=n[e[d]];l=l+1;e=t[l];break;end;y=e[h]n[y](s(n,y+1,e[d]))l=l+1;e=t[l];break;end;else y=e[h]n[y](s(n,y+1,e[d]))l=l+1;e=t[l];end end end end break;end;else n[e[h]]=n[e[d]]*n[e[y]];end else for f=0,6 do if 3>f then if 1>f then n[e[h]]=r[e[d]];l=l+1;e=t[l];else if 1~=f then n[e[h]]=r[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if 4<f then if f>=2 then for s=38,65 do if 6~=f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if-1<f then repeat if 3<f then n(e[h],e[d]);l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];until true;else n(e[h],e[d]);l=l+1;e=t[l];end end end end end end else if 160<f then if 161<f then if 160<=f then repeat if f<163 then local f,o;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];r[e[d]]=n[e[h]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];until true;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];end else local f,o;for r=0,4 do if 1<r then if r>2 then if-1<=r then repeat if 4>r then f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];until true;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else n[e[h]]=n[e[d]];l=l+1;e=t[l];end else if-2~=r then repeat if 1~=r then f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]];l=l+1;e=t[l];end end end end else if f>158 then repeat if 159~=f then local r;for f=0,9 do if f>4 then if f>=7 then if 7<f then if f>=6 then for r=25,66 do if f<9 then n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];break;end;else n[e[h]][e[d]]=n[e[y]];end else r=e[h]n[r]=n[r](s(n,r+1,e[d]))l=l+1;e=t[l];end else if f>5 then n(e[h],e[d]);l=l+1;e=t[l];else n[e[h]]=n[e[d]];l=l+1;e=t[l];end end else if f>1 then if f>2 then if 0<=f then for r=44,61 do if f~=4 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else if-2<f then repeat if 1~=f then n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];end end end end break;end;local s,f;n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]%e[y];l=l+1;e=t[l];n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];s=e[d];f=n[s]for e=s+1,e[y]do f=f..n[e];end;n[e[h]]=f;until true;else local s,f;n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]%e[y];l=l+1;e=t[l];n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];s=e[d];f=n[s]for e=s+1,e[y]do f=f..n[e];end;n[e[h]]=f;end end end else if f<=152 then if f>=150 then if f>150 then if f<152 then n[e[h]]=n[e[d]]^e[y];else local b,u,k,a,o,f,s;for f=0,6 do if f<=2 then if 0>=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if f>-1 then repeat if f~=1 then s=e[h]n[s]=n[s](n[s+1])l=l+1;e=t[l];break;end;f=0;while f>-1 do if f>=3 then if f>=5 then if f>2 then repeat if f~=5 then f=-2;break;end;n(o,a);until true;else n(o,a);end else if f==3 then a=b[k];else o=b[u];end end else if 0>=f then b=e;else if f==2 then k=d;else u=h;end end end f=f+1 end l=l+1;e=t[l];until true;else s=e[h]n[s]=n[s](n[s+1])l=l+1;e=t[l];end end else if f>4 then if f>=1 then for r=21,53 do if f<6 then n[e[h]][e[d]]=e[y];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=e[y];break;end;else n[e[h]][e[d]]=e[y];l=l+1;e=t[l];end else if f>=0 then for s=21,53 do if f~=4 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];break;end;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end end end end end else n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];if not n[e[h]]then l=l+1;else l=e[d];end;end else if 146<=f then for l=36,92 do if 148<f then local t=e[h];local h={};for e=1,#k do local e=k[e];for l=0,#e do local e=e[l];local d=e[1];local l=e[2];if d==n and l>=t then h[l]=d[l];e[1]=h;end;end;end;break;end;n[e[h]]={};break;end;else local t=e[h];local h={};for e=1,#k do local e=k[e];for l=0,#e do local l=e[l];local d=l[1];local e=l[2];if d==n and e>=t then h[e]=d[e];l[1]=h;end;end;end;end end else if f<156 then if 153<f then if f<155 then local c,o,u,r,a,f,b,y,z,j,p,g,_;for y=0,4 do if y>1 then if y<3 then n[e[h]]();l=l+1;e=t[l];else if 3~=y then l=e[d];else c=e[h];z={};for e=1,#k do j=k[e];for e=0,#j do p=j[e];g=p[1];_=p[2];if g==n and _>=c then z[_]=g[_];p[1]=z;end;end;end;l=l+1;e=t[l];end end else if y~=-3 then for k=49,59 do if y>0 then y=0;while y>-1 do if y>3 then if y>=6 then if y~=4 then for e=44,73 do if 6~=y then y=-2;break;end;n[b]=f;break;end;else n[b]=f;end else if y>3 then repeat if 5~=y then f=a[o[r]];break;end;b=o[u];until true;else f=a[o[r]];end end else if 2<=y then if y>=0 then for e=47,73 do if 3>y then r=d;break;end;a=n;break;end;else r=d;end else if-2<y then for l=38,57 do if 1~=y then o=e;break;end;u=h;break;end;else u=h;end end end y=y+1 end l=l+1;e=t[l];break;end;c=e[h]n[c](s(n,c+1,e[d]))l=l+1;e=t[l];break;end;else y=0;while y>-1 do if y>3 then if y>=6 then if y~=4 then for e=44,73 do if 6~=y then y=-2;break;end;n[b]=f;break;end;else n[b]=f;end else if y>3 then repeat if 5~=y then f=a[o[r]];break;end;b=o[u];until true;else f=a[o[r]];end end else if 2<=y then if y>=0 then for e=47,73 do if 3>y then r=d;break;end;a=n;break;end;else r=d;end else if-2<y then for l=38,57 do if 1~=y then o=e;break;end;u=h;break;end;else u=h;end end end y=y+1 end l=l+1;e=t[l];end end end else local a,b,p,k,u,c,f,r;n[e[h]]=n[e[d]]+n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];f=0;while f>-1 do if 3>=f then if 2<=f then if f~=-1 then repeat if 2<f then k=n;break;end;p=d;until true;else k=n;end else if-4<=f then for l=21,67 do if f>0 then b=h;break;end;a=e;break;end;else b=h;end end else if f>=6 then if 3<=f then for e=24,93 do if 7>f then n[c]=u;break;end;f=-2;break;end;else n[c]=u;end else if f==5 then c=a[b];else u=k[a[p]];end end end f=f+1 end l=l+1;e=t[l];r=e[h]n[r]=n[r](s(n,r+1,e[d]))end else local e=e[h]n[e](n[e+1])end else if f<157 then local o,b,c,u,p,k,f,a;for f=0,6 do if 3<=f then if 4<f then if f>2 then for s=32,62 do if f~=6 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else if f~=1 then repeat if 3<f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];until true;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end else if f>=1 then if f>1 then f=0;while f>-1 do if 3>=f then if f>1 then if 3>f then c=d;else u=n;end else if-3<f then for l=23,66 do if f~=0 then b=h;break;end;o=e;break;end;else o=e;end end else if f>5 then if f~=3 then repeat if f~=6 then f=-2;break;end;n[k]=p;until true;else f=-2;end else if 0~=f then repeat if f~=5 then p=u[o[c]];break;end;k=o[b];until true;else k=o[b];end end end f=f+1 end l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end else if f>=154 then repeat if f<158 then local f;f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];break;end;if(e[h]<n[e[y]])then l=e[d];else l=l+1;end;until true;else if(e[h]<n[e[y]])then l=e[d];else l=l+1;end;end end end end end end else if 105>=f then if f<95 then if f<90 then if f<87 then if 85==f then for f=0,6 do if 3<=f then if 5<=f then if f<6 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];end else if 4~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end else if f>0 then if-1<=f then repeat if 1<f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];until true;else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end else local f;for r=0,4 do if 2>r then if r>=-2 then for f=18,69 do if r>0 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if r>=3 then if 0<r then for o=24,97 do if 3<r then n[e[h]][e[d]]=n[e[y]];break;end;f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else n[e[h]]=n[e[d]]/e[y];l=l+1;e=t[l];end end end end else if f>=88 then if 84<=f then for r=49,84 do if 89>f then local r,u,b,a,k,f,o;f=0;while f>-1 do if f<3 then if f>0 then if f~=1 then b=d;else u=h;end else r=e;end else if 4>=f then if-1~=f then repeat if f>3 then k=r[u];break;end;a=r[b];until true;else a=r[b];end else if 4~=f then for e=22,87 do if f>5 then f=-2;break;end;n(k,a);break;end;else f=-2;end end end f=f+1 end l=l+1;e=t[l];o=e[h]n[o]=n[o](s(n,o+1,e[d]))l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]={};break;end;local l=e[h]n[l](s(n,l+1,e[d]))break;end;else local l=e[h]n[l](s(n,l+1,e[d]))end else local h=e[h];local l=n[e[d]];n[h+1]=l;n[h]=l[e[y]];end end else if 91<f then if f>92 then if 93==f then n[e[h]]();else local e=e[h];do return s(n,e,b)end;end else for f=0,6 do if f>=3 then if f<=4 then if 3~=f then n(e[h],e[d]);l=l+1;e=t[l];else n(e[h],e[d]);l=l+1;e=t[l];end else if f~=3 then repeat if f<6 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n(e[h],e[d]);until true;else n(e[h],e[d]);l=l+1;e=t[l];end end else if f>0 then if f>1 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else n[e[h]]=o[e[d]];l=l+1;e=t[l];end else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end end end else if 86<f then repeat if f>90 then local f,a;for r=0,4 do if r>1 then if r>2 then if r~=1 then for y=36,80 do if 4~=r then f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;if not n[e[h]]then l=l+1;else l=e[d];end;break;end;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else n(e[h],e[d]);l=l+1;e=t[l];end else if 0==r then n[e[h]]=o[e[d]];l=l+1;e=t[l];else f=e[h];a=n[e[d]];n[f+1]=a;n[f]=a[e[y]];l=l+1;e=t[l];end end end break;end;local e=e[h]n[e]=n[e](s(n,e+1,b))until true;else local f,a;for r=0,4 do if r>1 then if r>2 then if r~=1 then for y=36,80 do if 4~=r then f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;if not n[e[h]]then l=l+1;else l=e[d];end;break;end;else f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];end else n(e[h],e[d]);l=l+1;e=t[l];end else if 0==r then n[e[h]]=o[e[d]];l=l+1;e=t[l];else f=e[h];a=n[e[d]];n[f+1]=a;n[f]=a[e[y]];l=l+1;e=t[l];end end end end end end else if f<100 then if f>=97 then if f<98 then local z,c,_,p,z,f,r,k,u,a,b,s;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];f=0;while f>-1 do if f<3 then if f>0 then if f>=-3 then for e=25,85 do if 2>f then c=h;break;end;_=d;break;end;else c=h;end else r=e;end else if f>4 then if f<6 then n(s,p);else f=-2;end else if f~=2 then for e=36,54 do if 3<f then s=r[c];break;end;p=r[_];break;end;else s=r[c];end end end f=f+1 end l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];f=0;while f>-1 do if 4>f then if 2<=f then if-1<f then repeat if 3~=f then u=d;break;end;a=n;until true;else a=n;end else if 0==f then r=e;else k=h;end end else if 6<=f then if 3<=f then repeat if f~=7 then n[s]=b;break;end;f=-2;until true;else f=-2;end else if f==5 then s=r[k];else b=a[r[u]];end end end f=f+1 end l=l+1;e=t[l];f=0;while f>-1 do if f<=3 then if f>1 then if f~=2 then a=n;else u=d;end else if f>=-1 then repeat if f~=0 then k=h;break;end;r=e;until true;else k=h;end end else if 6>f then if 2~=f then repeat if f~=4 then s=r[k];break;end;b=a[r[u]];until true;else b=a[r[u]];end else if f>2 then repeat if f~=7 then n[s]=b;break;end;f=-2;until true;else f=-2;end end end f=f+1 end else if f>97 then repeat if f~=98 then local f,r;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];break;end;n[e[h]]=r[e[d]];until true;else n[e[h]]=r[e[d]];end end else if f~=95 then local e=e[h]n[e]=n[e]()else local f;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];f=e[h]n[f](s(n,f+1,e[d]))end end else if 103>f then if f>100 then if f>101 then n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]-n[e[y]];else local f,o;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]];l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];if not n[e[h]]then l=l+1;else l=e[d];end;end else local f;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];r[e[d]]=n[e[h]];end else if f>103 then if 101<f then repeat if 104<f then local t,r,f,y,s;local l=0;while l>-1 do if l<=2 then if 0>=l then t=e;else if l~=-1 then repeat if l<2 then r=h;break;end;f=d;until true;else r=h;end end else if l<=4 then if l>=1 then for e=37,62 do if 3<l then s=t[r];break;end;y=t[f];break;end;else y=t[f];end else if l~=4 then repeat if 5~=l then l=-2;break;end;n(s,y);until true;else n(s,y);end end end l=l+1 end break;end;local t=e[h];local y=e[y];local h=t+2 local t={n[t](n[t+1],n[h])};for e=1,y do n[h+e]=t[e];end;local t=t[1]if t then n[h]=t l=e[d];else l=l+1;end;until true;else local t=e[h];local y=e[y];local h=t+2 local t={n[t](n[t+1],n[h])};for e=1,y do n[h+e]=t[e];end;local t=t[1]if t then n[h]=t l=e[d];else l=l+1;end;end else local f;f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];f=e[h]n[f]=n[f](n[f+1])l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];end end end end else if f<116 then if f>110 then if f<113 then if 108<f then for s=48,83 do if f~=112 then if(n[e[h]]~=e[y])then l=l+1;else l=e[d];end;break;end;n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]+n[e[y]];break;end;else if(n[e[h]]~=e[y])then l=l+1;else l=e[d];end;end else if 114>f then n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];if n[e[h]]then l=l+1;else l=e[d];end;else if f~=110 then for r=44,93 do if 114~=f then for f=0,4 do if f>1 then if f>=3 then if 4==f then n[e[h]]=n[e[d]][e[y]];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if-3~=f then repeat if 0~=f then n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];end end end break;end;local f,a;for r=0,4 do if 2<=r then if r<3 then n(e[h],e[d]);l=l+1;e=t[l];else if r>0 then for y=18,79 do if r~=3 then if n[e[h]]then l=l+1;else l=e[d];end;break;end;f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];break;end;else if n[e[h]]then l=l+1;else l=e[d];end;end end else if-4<=r then for s=17,92 do if 1>r then n[e[h]]=o[e[d]];l=l+1;e=t[l];break;end;f=e[h];a=n[e[d]];n[f+1]=a;n[f]=a[e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end end break;end;else for f=0,4 do if f>1 then if f>=3 then if 4==f then n[e[h]]=n[e[d]][e[y]];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if-3~=f then repeat if 0~=f then n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]][n[e[y]]];l=l+1;e=t[l];end end end end end end else if f>107 then if 108<f then if f~=107 then repeat if f>109 then local r,f;r=e[d];f=n[r]for e=r+1,e[y]do f=f..n[e];end;n[e[h]]=f;l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];break;end;local l=e[h]n[l]=n[l](s(n,l+1,e[d]))until true;else local r,f;r=e[d];f=n[r]for e=r+1,e[y]do f=f..n[e];end;n[e[h]]=f;l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=o[e[d]];end else n[e[h]]=e[d]/n[e[y]];end else if 102<f then for a=20,55 do if 106<f then local a;for f=0,9 do if 4>=f then if 2>f then if f~=-4 then repeat if f<1 then r[e[d]]=n[e[h]];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else r[e[d]]=n[e[h]];l=l+1;e=t[l];end else if 2<f then if 2<f then for r=38,92 do if f~=3 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end else if f>6 then if 8<=f then if 8~=f then n[e[h]]=r[e[d]];else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end else if f>=2 then repeat if f~=5 then a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];until true;else n(e[h],e[d]);l=l+1;e=t[l];end end end end break;end;local l=e[h]local d={n[l](s(n,l+1,b))};local h=0;for e=l,e[y]do h=h+1;n[e]=d[h];end break;end;else local a;for f=0,9 do if 4>=f then if 2>f then if f~=-4 then repeat if f<1 then r[e[d]]=n[e[h]];l=l+1;e=t[l];break;end;n[e[h]]=r[e[d]];l=l+1;e=t[l];until true;else r[e[d]]=n[e[h]];l=l+1;e=t[l];end else if 2<f then if 2<f then for r=38,92 do if f~=3 then n(e[h],e[d]);l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else n[e[h]]=o[e[d]];l=l+1;e=t[l];end end else if f>6 then if 8<=f then if 8~=f then n[e[h]]=r[e[d]];else n[e[h]]=r[e[d]];l=l+1;e=t[l];end else n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];end else if f>=2 then repeat if f~=5 then a=e[h]n[a]=n[a](s(n,a+1,e[d]))l=l+1;e=t[l];break;end;n(e[h],e[d]);l=l+1;e=t[l];until true;else n(e[h],e[d]);l=l+1;e=t[l];end end end end end end end else if 120<f then if 123>=f then if f<=121 then n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];else if f>118 then for o=12,98 do if f<123 then local f,r;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];break;end;for f=0,7 do if 4<=f then if 6>f then if f>=0 then for s=44,80 do if 5>f then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]]*n[e[y]];l=l+1;e=t[l];end else if f>5 then for s=22,58 do if f<7 then n[e[h]]=r[e[d]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]][e[y]];break;end;else n[e[h]]=r[e[d]];l=l+1;e=t[l];end end else if 1>=f then if f==1 then n[e[h]]=r[e[d]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if f>1 then repeat if 3~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];until true;else n[e[h]]=n[e[d]]-n[e[y]];l=l+1;e=t[l];end end end end break;end;else local f,r;n[e[h]][e[d]]=n[e[y]];l=l+1;e=t[l];f=e[h]n[f](s(n,f+1,e[d]))l=l+1;e=t[l];f=e[h];r=n[e[d]];n[f+1]=r;n[f]=r[e[y]];l=l+1;e=t[l];n[e[h]]={};l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];l=l+1;e=t[l];n[e[h]][e[d]]=e[y];end end else if f<125 then local l=e[h]n[l](s(n,l+1,e[d]))else if 126>f then local f;n[e[h]]=o[e[d]];l=l+1;e=t[l];n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];n(e[h],e[d]);l=l+1;e=t[l];f=e[h]n[f]=n[f](s(n,f+1,e[d]))l=l+1;e=t[l];n[e[h]][e[d]]=n[e[y]];else local f,o;n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h];o=n[e[d]];n[f+1]=o;n[f]=o[e[y]];l=l+1;e=t[l];n[e[h]]=r[e[d]];l=l+1;e=t[l];f=e[h];do return n[f](s(n,f+1,e[d]))end;l=l+1;e=t[l];f=e[h];do return s(n,f,b)end;l=l+1;e=t[l];do return end;end end end else if 117<f then if 119<=f then if f>117 then for r=39,74 do if 119<f then for f=0,6 do if f>2 then if 4>=f then if f==4 then o[e[d]]=n[e[h]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if 1~=f then for y=22,96 do if f~=6 then n[e[h]]=(e[d]~=0);l=l+1;e=t[l];break;end;o[e[d]]=n[e[h]];break;end;else o[e[d]]=n[e[h]];end end else if f<=0 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 2==f then n[e[h]]=o[e[d]];l=l+1;e=t[l];else o[e[d]]=n[e[h]];l=l+1;e=t[l];end end end end break;end;n[e[h]]=n[e[d]]*n[e[y]];break;end;else for f=0,6 do if f>2 then if 4>=f then if f==4 then o[e[d]]=n[e[h]];l=l+1;e=t[l];else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end else if 1~=f then for y=22,96 do if f~=6 then n[e[h]]=(e[d]~=0);l=l+1;e=t[l];break;end;o[e[d]]=n[e[h]];break;end;else o[e[d]]=n[e[h]];end end else if f<=0 then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];else if 2==f then n[e[h]]=o[e[d]];l=l+1;e=t[l];else o[e[d]]=n[e[h]];l=l+1;e=t[l];end end end end end else local e=e[h]n[e]=n[e](s(n,e+1,b))end else if 117==f then local r;for f=0,4 do if 2<=f then if 2>=f then n[e[h]]=o[e[d]];l=l+1;e=t[l];else if 0<f then for r=25,89 do if 4~=f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;n[e[h]]=n[e[d]]*e[y];break;end;else n[e[h]]=n[e[d]]*e[y];end end else if-1<f then for s=33,60 do if 1>f then n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];break;end;r=e[h]n[r]=n[r](n[r+1])l=l+1;e=t[l];break;end;else n[e[h]]=n[e[d]][e[y]];l=l+1;e=t[l];end end end else if(n[e[h]]==e[y])then l=l+1;else l=e[d];end;end end end end end end end end l=1+l;end;end;return he end;local d=0xff;local y={};local f=(1);local h='';(function(l)local n=l local t=0x00 local e=0x00 n={(function(r)if t>0x27 then return r end t=t+1 e=(e+0xf25-r)%0x23 return(e%0x03==0x0 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x60);h={h..'\58 a',h};y[f]=he();f=f+((not a.PHPZGYoK)and 1 or 0);h[1]='\58'..h[1];d[2]=0xff;end return true end)'A_TVv'and n[0x2](0x2d1+r))or(e%0x03==0x1 and(function(n)if not l[n]then e=e+0x01 l[n]=(0xb0);end return true end)'bvjwT'and n[0x3](r+0x1c2))or(e%0x03==0x2 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x47);h='\37';d={function()d()end};h=h..'\100\43';end return true end)'lqRVL'and n[0x1](r+0x372))or r end),(function(r)if t>0x1f then return r end t=t+1 e=(e+0x75d-r)%0x1b return(e%0x03==0x0 and(function(n)if not l[n]then e=e+0x01 l[n]=(0xea);d[2]=(d[2]*(ne(function()y()end,s(h))-ne(d[1],s(h))))+1;y[f]={};d=d[2];f=f+d;end return true end)'hiTnO'and n[0x2](0x2f7+r))or(e%0x03==0x1 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x4);end return true end)'AbWtA'and n[0x1](r+0x390))or(e%0x03==0x2 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x35);y[f]=te();f=f+d;end return true end)'XBwdw'and n[0x3](r+0x33f))or r end),(function(h)if t>0x2d then return h end t=t+1 e=(e+0xff0-h)%0x3b return(e%0x03==0x0 and(function(n)if not l[n]then e=e+0x01 l[n]=(0xe5);end return true end)'DzfMF'and n[0x1](0x2c8+h))or(e%0x03==0x1 and(function(n)if not l[n]then e=e+0x01 l[n]=(0x45);end return true end)'H_cSW'and n[0x2](h+0x1e9))or(e%0x03==0x2 and(function(n)if not l[n]then e=e+0x01 l[n]=(0xf3);end return true end)'BmigH'and n[0x3](h+0x223))or h end)}n[0x1](0x19f)end){};local e=_(s(y));y[2]={};y[1]=e(y[1])gRYcx_gYGYfHceM=nil;e=_(s(y))return e(...);end return de((function()local l={}local e=0x01;local n;if a.PHPZGYoK then n=a.PHPZGYoK(de)else n=''end if a.FLtYhGby(n,a.MfqEgfSi)then e=e+0;else e=e+1;end l[e]=0x02;l[l[e]+0x01]=0x03;return l;end)(),...)end)((function(l,e,n,h,d,t)local t;if l<4 then if l>1 then if l~=1 then repeat if 2~=l then do return e(1),e(4,d,h,n,e),e(5,d,h,n)end;break;end;do return 16777216,65536,256 end;until true;else do return 16777216,65536,256 end;end else if-2<=l then repeat if l>0 then do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return e(1),e(4,d,h,n,e),e(5,d,h,n)end;until true;else do return e(1),e(4,d,h,n,e),e(5,d,h,n)end;end end else if l>=6 then if 6<l then if 6<=l then repeat if 7<l then do return n(l,nil,n);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,d,n,h,l)if l then return e[l]elseif h then return e else e[d]=n end end})end until true;else do return setmetatable({},{['__\99\97\108\108']=function(e,n,d,h,l)if l then return e[l]elseif h then return e else e[n]=d end end})end end else do return d[n]end;end else if l~=1 then for t=42,56 do if 4~=l then local l=h;do return function()local e=e(n,l(l,l),l(l,l));l(1);return e;end;end;break;end;local l=h;local f,y,t=d(2);do return function()local d,n,h,e=e(n,l(l,l),l(l,l)+3);l(4);return(e*f)+(h*y)+(n*t)+d;end;end;break;end;else local l=h;do return function()local e=e(n,l(l,l),l(l,l));l(1);return e;end;end;end end end end),...)
+local cloneref = (cloneref or clonereference or function(instance: any)
+    return instance
+end)
+local CoreGui: CoreGui = cloneref(game:GetService("CoreGui"))
+local Players: Players = cloneref(game:GetService("Players"))
+local RunService: RunService = cloneref(game:GetService("RunService"))
+local SoundService: SoundService = cloneref(game:GetService("SoundService"))
+local UserInputService: UserInputService = cloneref(game:GetService("UserInputService"))
+local TextService: TextService = cloneref(game:GetService("TextService"))
+local Teams: Teams = cloneref(game:GetService("Teams"))
+local TweenService: TweenService = cloneref(game:GetService("TweenService"))
+
+local getgenv = getgenv or function()
+    return shared
+end
+local setclipboard = setclipboard or nil
+local protectgui = protectgui or (syn and syn.protect_gui) or function() end
+local gethui = gethui or function()
+    return CoreGui
+end
+
+local LocalPlayer = Players.LocalPlayer or Players.PlayerAdded:Wait()
+local Mouse = LocalPlayer:GetMouse()
+
+local Labels = {}
+local Buttons = {}
+local Toggles = {}
+local Options = {}
+
+local Library = {
+    LocalPlayer = LocalPlayer,
+    DevicePlatform = nil,
+    IsMobile = false,
+    IsRobloxFocused = true,
+
+    ScreenGui = nil,
+
+    SearchText = "",
+    Searching = false,
+    LastSearchTab = nil,
+
+    ActiveTab = nil,
+    Tabs = {},
+    DependencyBoxes = {},
+
+    KeybindFrame = nil,
+    KeybindContainer = nil,
+    KeybindToggles = {},
+
+    Notifications = {},
+
+    ToggleKeybind = Enum.KeyCode.RightControl,
+    TweenInfo = TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+    NotifyTweenInfo = TweenInfo.new(0.25, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+
+    Toggled = false,
+    Unloaded = false,
+
+    Labels = Labels,
+    Buttons = Buttons,
+    Toggles = Toggles,
+    Options = Options,
+
+    NotifySide = "Right",
+    ShowCustomCursor = true,
+    ForceCheckbox = false,
+    ShowToggleFrameInKeybinds = true,
+    NotifyOnError = false,
+
+    CantDragForced = false,
+
+    Signals = {},
+    UnloadSignals = {},
+
+    MinSize = Vector2.new(480, 360),
+    DPIScale = 1,
+    CornerRadius = 4,
+
+    IsLightTheme = false,
+    Scheme = {
+        BackgroundColor = Color3.fromRGB(15, 15, 15),
+        MainColor = Color3.fromRGB(25, 25, 25),
+        AccentColor = Color3.fromRGB(125, 85, 255),
+        OutlineColor = Color3.fromRGB(40, 40, 40),
+        FontColor = Color3.new(1, 1, 1),
+        Font = Font.fromEnum(Enum.Font.Code),
+
+        Red = Color3.fromRGB(255, 50, 50),
+        Dark = Color3.new(0, 0, 0),
+        White = Color3.new(1, 1, 1),
+    },
+
+    Registry = {},
+    DPIRegistry = {},
+}
+
+if RunService:IsStudio() then
+    if UserInputService.TouchEnabled and not UserInputService.MouseEnabled then
+        Library.IsMobile = true
+        Library.MinSize = Vector2.new(480, 240)
+    else
+        Library.IsMobile = false
+        Library.MinSize = Vector2.new(480, 360)
+    end
+else
+    pcall(function()
+        Library.DevicePlatform = UserInputService:GetPlatform()
+    end)
+    Library.IsMobile = (Library.DevicePlatform == Enum.Platform.Android or Library.DevicePlatform == Enum.Platform.IOS)
+    Library.MinSize = Library.IsMobile and Vector2.new(480, 240) or Vector2.new(480, 360)
+end
+
+local Templates = {
+    --// UI \\-
+    Frame = {
+        BorderSizePixel = 0,
+    },
+    ImageLabel = {
+        BackgroundTransparency = 1,
+        BorderSizePixel = 0,
+    },
+    ImageButton = {
+        AutoButtonColor = false,
+        BorderSizePixel = 0,
+    },
+    ScrollingFrame = {
+        BorderSizePixel = 0,
+    },
+    TextLabel = {
+        BorderSizePixel = 0,
+        FontFace = "Font",
+        RichText = true,
+        TextColor3 = "FontColor",
+    },
+    TextButton = {
+        AutoButtonColor = false,
+        BorderSizePixel = 0,
+        FontFace = "Font",
+        RichText = true,
+        TextColor3 = "FontColor",
+    },
+    TextBox = {
+        BorderSizePixel = 0,
+        FontFace = "Font",
+        PlaceholderColor3 = function()
+            local H, S, V = Library.Scheme.FontColor:ToHSV()
+            return Color3.fromHSV(H, S, V / 2)
+        end,
+        Text = "",
+        TextColor3 = "FontColor",
+    },
+    UIListLayout = {
+        SortOrder = Enum.SortOrder.LayoutOrder,
+    },
+    UIStroke = {
+        ApplyStrokeMode = Enum.ApplyStrokeMode.Border,
+    },
+
+    --// Library \\--
+    Window = {
+        Title = "No Title",
+        Footer = "No Footer",
+        Position = UDim2.fromOffset(6, 6),
+        Size = UDim2.fromOffset(720, 600),
+        IconSize = UDim2.fromOffset(30, 30),
+        AutoShow = true,
+        Center = true,
+        Resizable = true,
+        CornerRadius = 4,
+        NotifySide = "Right",
+        ShowCustomCursor = true,
+        Font = Enum.Font.Code,
+        ToggleKeybind = Enum.KeyCode.RightControl,
+        MobileButtonsSide = "Left",
+    },
+    Toggle = {
+        Text = "Toggle",
+        Default = false,
+
+        Callback = function() end,
+        Changed = function() end,
+
+        Risky = false,
+        Disabled = false,
+        Visible = true,
+    },
+    Input = {
+        Text = "Input",
+        Default = "",
+        Finished = false,
+        Numeric = false,
+        ClearTextOnFocus = true,
+        Placeholder = "",
+        AllowEmpty = true,
+        EmptyReset = "---",
+
+        Callback = function() end,
+        Changed = function() end,
+
+        Disabled = false,
+        Visible = true,
+    },
+    Slider = {
+        Text = "Slider",
+        Default = 0,
+        Min = 0,
+        Max = 100,
+        Rounding = 0,
+
+        Prefix = "",
+        Suffix = "",
+
+        Callback = function() end,
+        Changed = function() end,
+
+        Disabled = false,
+        Visible = true,
+    },
+    Dropdown = {
+        Values = {},
+        DisabledValues = {},
+        Multi = false,
+        MaxVisibleDropdownItems = 8,
+
+        Callback = function() end,
+        Changed = function() end,
+
+        Disabled = false,
+        Visible = true,
+    },
+
+    --// Addons \\-
+    KeyPicker = {
+        Text = "KeyPicker",
+        Default = "None",
+        Mode = "Toggle",
+        Modes = { "Always", "Toggle", "Hold" },
+        SyncToggleState = false,
+
+        Callback = function() end,
+        ChangedCallback = function() end,
+        Changed = function() end,
+        Clicked = function() end,
+    },
+    ColorPicker = {
+        Default = Color3.new(1, 1, 1),
+
+        Callback = function() end,
+        Changed = function() end,
+    },
+}
+
+local Places = {
+    Bottom = { 0, 1 },
+    Right = { 1, 0 },
+}
+local Sizes = {
+    Left = { 0.5, 1 },
+    Right = { 0.5, 1 },
+}
+
+--// Basic Functions \\--
+local function ApplyDPIScale(Dimension, ExtraOffset)
+    if typeof(Dimension) == "UDim" then
+        return UDim.new(Dimension.Scale, Dimension.Offset * Library.DPIScale)
+    end
+
+    if ExtraOffset then
+        return UDim2.new(
+            Dimension.X.Scale,
+            (Dimension.X.Offset * Library.DPIScale) + (ExtraOffset[1] * Library.DPIScale),
+            Dimension.Y.Scale,
+            (Dimension.Y.Offset * Library.DPIScale) + (ExtraOffset[2] * Library.DPIScale)
+        )
+    end
+
+    return UDim2.new(
+        Dimension.X.Scale,
+        Dimension.X.Offset * Library.DPIScale,
+        Dimension.Y.Scale,
+        Dimension.Y.Offset * Library.DPIScale
+    )
+end
+local function ApplyTextScale(TextSize)
+    return TextSize * Library.DPIScale
+end
+
+local function WaitForEvent(Event, Timeout, Condition)
+    local Bindable = Instance.new("BindableEvent")
+    local Connection = Event:Once(function(...)
+        if not Condition or typeof(Condition) == "function" and Condition(...) then
+            Bindable:Fire(true)
+        else
+            Bindable:Fire(false)
+        end
+    end)
+    task.delay(Timeout, function()
+        Connection:Disconnect()
+        Bindable:Fire(false)
+    end)
+
+    local Result = Bindable.Event:Wait()
+    Bindable:Destroy()
+
+    return Result
+end
+
+local function IsMouseInput(Input: InputObject, IncludeM2: boolean?)
+    return Input.UserInputType == Enum.UserInputType.MouseButton1
+        or IncludeM2 and Input.UserInputType == Enum.UserInputType.MouseButton2
+        or Input.UserInputType == Enum.UserInputType.Touch
+end
+local function IsClickInput(Input: InputObject, IncludeM2: boolean?)
+    return IsMouseInput(Input, IncludeM2)
+        and Input.UserInputState == Enum.UserInputState.Begin
+        and Library.IsRobloxFocused
+end
+local function IsHoverInput(Input: InputObject)
+    return (Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch)
+        and Input.UserInputState == Enum.UserInputState.Change
+end
+
+local function GetTableSize(Table: { [any]: any })
+    local Size = 0
+
+    for _, _ in pairs(Table) do
+        Size += 1
+    end
+
+    return Size
+end
+local function StopTween(Tween: TweenBase)
+    if not (Tween and Tween.PlaybackState == Enum.PlaybackState.Playing) then
+        return
+    end
+
+    Tween:Cancel()
+end
+local function Trim(Text: string)
+    return Text:match("^%s*(.-)%s*$")
+end
+local function Round(Value, Rounding)
+    assert(Rounding >= 0, "Invalid rounding number.")
+
+    if Rounding == 0 then
+        return math.floor(Value)
+    end
+
+    return tonumber(string.format("%." .. Rounding .. "f", Value))
+end
+
+local function GetPlayers(ExcludeLocalPlayer: boolean?)
+    local PlayerList = Players:GetPlayers()
+
+    if ExcludeLocalPlayer then
+        local Idx = table.find(PlayerList, LocalPlayer)
+        if Idx then
+            table.remove(PlayerList, Idx)
+        end
+    end
+
+    table.sort(PlayerList, function(Player1, Player2)
+        return Player1.Name:lower() < Player2.Name:lower()
+    end)
+
+    return PlayerList
+end
+local function GetTeams()
+    local TeamList = Teams:GetTeams()
+
+    table.sort(TeamList, function(Team1, Team2)
+        return Team1.Name:lower() < Team2.Name:lower()
+    end)
+
+    return TeamList
+end
+
+function Library:UpdateKeybindFrame()
+    if not Library.KeybindFrame then
+        return
+    end
+
+    local XSize = 0
+    for _, KeybindToggle in pairs(Library.KeybindToggles) do
+        if not KeybindToggle.Holder.Visible then
+            continue
+        end
+
+        local FullSize = KeybindToggle.Label.Size.X.Offset + KeybindToggle.Label.Position.X.Offset
+        if FullSize > XSize then
+            XSize = FullSize
+        end
+    end
+
+    Library.KeybindFrame.Size = UDim2.fromOffset(XSize + 18 * Library.DPIScale, 0)
+end
+function Library:UpdateDependencyBoxes()
+    for _, Depbox in pairs(Library.DependencyBoxes) do
+        Depbox:Update(true)
+    end
+
+    if Library.Searching then
+        Library:UpdateSearch(Library.SearchText)
+    end
+end
+
+local function CheckDepbox(Box, Search)
+    local VisibleElements = 0
+
+    for _, ElementInfo in pairs(Box.Elements) do
+        if ElementInfo.Type == "Divider" then
+            ElementInfo.Holder.Visible = false
+            continue
+        elseif ElementInfo.SubButton then
+            --// Check if any of the Buttons Name matches with Search
+            local Visible = false
+
+            --// Check if Search matches Element's Name and if Element is Visible
+            if ElementInfo.Text:lower():match(Search) and ElementInfo.Visible then
+                Visible = true
+            else
+                ElementInfo.Base.Visible = false
+            end
+            if ElementInfo.SubButton.Text:lower():match(Search) and ElementInfo.SubButton.Visible then
+                Visible = true
+            else
+                ElementInfo.SubButton.Base.Visible = false
+            end
+            ElementInfo.Holder.Visible = Visible
+            if Visible then
+                VisibleElements += 1
+            end
+
+            continue
+        end
+
+        --// Check if Search matches Element's Name and if Element is Visible
+        if ElementInfo.Text and ElementInfo.Text:lower():match(Search) and ElementInfo.Visible then
+            ElementInfo.Holder.Visible = true
+            VisibleElements += 1
+        else
+            ElementInfo.Holder.Visible = false
+        end
+    end
+
+    for _, Depbox in pairs(Box.DependencyBoxes) do
+        if not Depbox.Visible then
+            continue
+        end
+
+        VisibleElements += CheckDepbox(Depbox, Search)
+    end
+
+    return VisibleElements
+end
+local function RestoreDepbox(Box)
+    for _, ElementInfo in pairs(Box.Elements) do
+        ElementInfo.Holder.Visible = typeof(ElementInfo.Visible) == "boolean" and ElementInfo.Visible or true
+
+        if ElementInfo.SubButton then
+            ElementInfo.Base.Visible = ElementInfo.Visible
+            ElementInfo.SubButton.Base.Visible = ElementInfo.SubButton.Visible
+        end
+    end
+
+    Box:Resize()
+    Box.Holder.Visible = true
+
+    for _, Depbox in pairs(Box.DependencyBoxes) do
+        if not Depbox.Visible then
+            continue
+        end
+
+        RestoreDepbox(Depbox)
+    end
+end
+
+function Library:UpdateSearch(SearchText)
+    Library.SearchText = SearchText
+
+    --// Reset Elements Visibility in Last Tab Searched
+    if Library.LastSearchTab then
+        for _, Groupbox in pairs(Library.LastSearchTab.Groupboxes) do
+            for _, ElementInfo in pairs(Groupbox.Elements) do
+                ElementInfo.Holder.Visible = typeof(ElementInfo.Visible) == "boolean" and ElementInfo.Visible or true
+
+                if ElementInfo.SubButton then
+                    ElementInfo.Base.Visible = ElementInfo.Visible
+                    ElementInfo.SubButton.Base.Visible = ElementInfo.SubButton.Visible
+                end
+            end
+
+            for _, Depbox in pairs(Groupbox.DependencyBoxes) do
+                if not Depbox.Visible then
+                    continue
+                end
+
+                RestoreDepbox(Depbox)
+            end
+
+            Groupbox:Resize()
+            Groupbox.Holder.Visible = true
+        end
+
+        for _, Tabbox in pairs(Library.LastSearchTab.Tabboxes) do
+            for _, Tab in pairs(Tabbox.Tabs) do
+                for _, ElementInfo in pairs(Tab.Elements) do
+                    ElementInfo.Holder.Visible = typeof(ElementInfo.Visible) == "boolean" and ElementInfo.Visible
+                        or true
+
+                    if ElementInfo.SubButton then
+                        ElementInfo.Base.Visible = ElementInfo.Visible
+                        ElementInfo.SubButton.Base.Visible = ElementInfo.SubButton.Visible
+                    end
+                end
+
+                for _, Depbox in pairs(Tab.DependencyBoxes) do
+                    if not Depbox.Visible then
+                        continue
+                    end
+
+                    RestoreDepbox(Depbox)
+                end
+
+                Tab.ButtonHolder.Visible = true
+            end
+
+            Tabbox.ActiveTab:Resize()
+            Tabbox.Holder.Visible = true
+        end
+
+        for _, DepGroupbox in pairs(Library.LastSearchTab.DependencyGroupboxes) do
+            if not DepGroupbox.Visible then
+                continue
+            end
+
+            for _, ElementInfo in pairs(DepGroupbox.Elements) do
+                ElementInfo.Holder.Visible = typeof(ElementInfo.Visible) == "boolean" and ElementInfo.Visible or true
+
+                if ElementInfo.SubButton then
+                    ElementInfo.Base.Visible = ElementInfo.Visible
+                    ElementInfo.SubButton.Base.Visible = ElementInfo.SubButton.Visible
+                end
+            end
+
+            for _, Depbox in pairs(DepGroupbox.DependencyBoxes) do
+                if not Depbox.Visible then
+                    continue
+                end
+
+                RestoreDepbox(Depbox)
+            end
+
+            DepGroupbox:Resize()
+            DepGroupbox.Holder.Visible = true
+        end
+    end
+
+    --// Cancel Search if Search Text is empty
+    local Search = SearchText:lower()
+    if Trim(Search) == "" or Library.ActiveTab.IsKeyTab then
+        Library.Searching = false
+        Library.LastSearchTab = nil
+        return
+    end
+
+    Library.Searching = true
+
+    --// Loop through Groupboxes to get Elements Info
+    for _, Groupbox in pairs(Library.ActiveTab.Groupboxes) do
+        local VisibleElements = 0
+
+        for _, ElementInfo in pairs(Groupbox.Elements) do
+            if ElementInfo.Type == "Divider" then
+                ElementInfo.Holder.Visible = false
+                continue
+            elseif ElementInfo.SubButton then
+                --// Check if any of the Buttons Name matches with Search
+                local Visible = false
+
+                --// Check if Search matches Element's Name and if Element is Visible
+                if ElementInfo.Text:lower():match(Search) and ElementInfo.Visible then
+                    Visible = true
+                else
+                    ElementInfo.Base.Visible = false
+                end
+                if ElementInfo.SubButton.Text:lower():match(Search) and ElementInfo.SubButton.Visible then
+                    Visible = true
+                else
+                    ElementInfo.SubButton.Base.Visible = false
+                end
+                ElementInfo.Holder.Visible = Visible
+                if Visible then
+                    VisibleElements += 1
+                end
+
+                continue
+            end
+
+            --// Check if Search matches Element's Name and if Element is Visible
+            if ElementInfo.Text and ElementInfo.Text:lower():match(Search) and ElementInfo.Visible then
+                ElementInfo.Holder.Visible = true
+                VisibleElements += 1
+            else
+                ElementInfo.Holder.Visible = false
+            end
+        end
+
+        for _, Depbox in pairs(Groupbox.DependencyBoxes) do
+            if not Depbox.Visible then
+                continue
+            end
+
+            VisibleElements += CheckDepbox(Depbox, Search)
+        end
+
+        --// Update Groupbox Size and Visibility if found any element
+        if VisibleElements > 0 then
+            Groupbox:Resize()
+        end
+        Groupbox.Holder.Visible = VisibleElements > 0
+    end
+
+    for _, Tabbox in pairs(Library.ActiveTab.Tabboxes) do
+        local VisibleTabs = 0
+        local VisibleElements = {}
+
+        for _, Tab in pairs(Tabbox.Tabs) do
+            VisibleElements[Tab] = 0
+
+            for _, ElementInfo in pairs(Tab.Elements) do
+                if ElementInfo.Type == "Divider" then
+                    ElementInfo.Holder.Visible = false
+                    continue
+                elseif ElementInfo.SubButton then
+                    --// Check if any of the Buttons Name matches with Search
+                    local Visible = false
+
+                    --// Check if Search matches Element's Name and if Element is Visible
+                    if ElementInfo.Text:lower():match(Search) and ElementInfo.Visible then
+                        Visible = true
+                    else
+                        ElementInfo.Base.Visible = false
+                    end
+                    if ElementInfo.SubButton.Text:lower():match(Search) and ElementInfo.SubButton.Visible then
+                        Visible = true
+                    else
+                        ElementInfo.SubButton.Base.Visible = false
+                    end
+                    ElementInfo.Holder.Visible = Visible
+                    if Visible then
+                        VisibleElements[Tab] += 1
+                    end
+
+                    continue
+                end
+
+                --// Check if Search matches Element's Name and if Element is Visible
+                if ElementInfo.Text and ElementInfo.Text:lower():match(Search) and ElementInfo.Visible then
+                    ElementInfo.Holder.Visible = true
+                    VisibleElements[Tab] += 1
+                else
+                    ElementInfo.Holder.Visible = false
+                end
+            end
+
+            for _, Depbox in pairs(Tab.DependencyBoxes) do
+                if not Depbox.Visible then
+                    continue
+                end
+
+                VisibleElements[Tab] += CheckDepbox(Depbox, Search)
+            end
+        end
+
+        for Tab, Visible in pairs(VisibleElements) do
+            Tab.ButtonHolder.Visible = Visible > 0
+            if Visible > 0 then
+                VisibleTabs += 1
+
+                if Tabbox.ActiveTab == Tab then
+                    Tab:Resize()
+                elseif VisibleElements[Tabbox.ActiveTab] == 0 then
+                    Tab:Show()
+                end
+            end
+        end
+
+        --// Update Tabbox Visibility if any visible
+        Tabbox.Holder.Visible = VisibleTabs > 0
+    end
+
+    for _, DepGroupbox in pairs(Library.ActiveTab.DependencyGroupboxes) do
+        if not DepGroupbox.Visible then
+            continue
+        end
+
+        local VisibleElements = 0
+
+        for _, ElementInfo in pairs(DepGroupbox.Elements) do
+            if ElementInfo.Type == "Divider" then
+                ElementInfo.Holder.Visible = false
+                continue
+            elseif ElementInfo.SubButton then
+                --// Check if any of the Buttons Name matches with Search
+                local Visible = false
+
+                --// Check if Search matches Element's Name and if Element is Visible
+                if ElementInfo.Text:lower():match(Search) and ElementInfo.Visible then
+                    Visible = true
+                else
+                    ElementInfo.Base.Visible = false
+                end
+                if ElementInfo.SubButton.Text:lower():match(Search) and ElementInfo.SubButton.Visible then
+                    Visible = true
+                else
+                    ElementInfo.SubButton.Base.Visible = false
+                end
+                ElementInfo.Holder.Visible = Visible
+                if Visible then
+                    VisibleElements += 1
+                end
+
+                continue
+            end
+
+            --// Check if Search matches Element's Name and if Element is Visible
+            if ElementInfo.Text and ElementInfo.Text:lower():match(Search) and ElementInfo.Visible then
+                ElementInfo.Holder.Visible = true
+                VisibleElements += 1
+            else
+                ElementInfo.Holder.Visible = false
+            end
+        end
+
+        for _, Depbox in pairs(DepGroupbox.DependencyBoxes) do
+            if not Depbox.Visible then
+                continue
+            end
+
+            VisibleElements += CheckDepbox(Depbox, Search)
+        end
+
+        --// Update Groupbox Size and Visibility if found any element
+        if VisibleElements > 0 then
+            DepGroupbox:Resize()
+        end
+        DepGroupbox.Holder.Visible = VisibleElements > 0
+    end
+
+    --// Set Last Tab to Current One
+    Library.LastSearchTab = Library.ActiveTab
+end
+
+function Library:AddToRegistry(Instance, Properties)
+    Library.Registry[Instance] = Properties
+end
+
+function Library:RemoveFromRegistry(Instance)
+    Library.Registry[Instance] = nil
+end
+
+function Library:UpdateColorsUsingRegistry()
+    for Instance, Properties in pairs(Library.Registry) do
+        for Property, ColorIdx in pairs(Properties) do
+            if typeof(ColorIdx) == "string" then
+                Instance[Property] = Library.Scheme[ColorIdx]
+            elseif typeof(ColorIdx) == "function" then
+                Instance[Property] = ColorIdx()
+            end
+        end
+    end
+end
+
+function Library:UpdateDPI(Instance, Properties)
+    if not Library.DPIRegistry[Instance] then
+        return
+    end
+
+    for Property, Value in pairs(Properties) do
+        Library.DPIRegistry[Instance][Property] = Value and Value or nil
+    end
+end
+
+function Library:SetDPIScale(DPIScale: number)
+    Library.DPIScale = DPIScale / 100
+    Library.MinSize *= Library.DPIScale
+
+    for Instance, Properties in pairs(Library.DPIRegistry) do
+        for Property, Value in pairs(Properties) do
+            if Property == "DPIExclude" or Property == "DPIOffset" then
+                continue
+            elseif Property == "TextSize" then
+                Instance[Property] = ApplyTextScale(Value)
+            else
+                Instance[Property] = ApplyDPIScale(Value, Properties["DPIOffset"][Property])
+            end
+        end
+    end
+
+    for _, Tab in pairs(Library.Tabs) do
+        if Tab.IsKeyTab then
+            continue
+        end
+
+        Tab:Resize(true)
+        for _, Groupbox in pairs(Tab.Groupboxes) do
+            Groupbox:Resize()
+        end
+        for _, Tabbox in pairs(Tab.Tabboxes) do
+            for _, SubTab in pairs(Tabbox.Tabs) do
+                SubTab:Resize()
+            end
+        end
+    end
+
+    for _, Option in pairs(Options) do
+        if Option.Type == "Dropdown" then
+            Option:RecalculateListSize()
+        elseif Option.Type == "KeyPicker" then
+            Option:Update()
+        end
+    end
+
+    Library:UpdateKeybindFrame()
+    for _, Notification in pairs(Library.Notifications) do
+        Notification:Resize()
+    end
+end
+
+function Library:GiveSignal(Connection: RBXScriptConnection)
+    table.insert(Library.Signals, Connection)
+    return Connection
+end
+
+local FetchIcons, Icons = pcall(function()
+    return loadstring(
+        game:HttpGet("https://raw.githubusercontent.com/deividcomsono/lucide-roblox-direct/refs/heads/main/source.lua")
+    )()
+end)
+function Library:GetIcon(IconName: string)
+    if not FetchIcons then
+        return
+    end
+    local Success, Icon = pcall(Icons.GetAsset, IconName)
+    if not Success then
+        return
+    end
+    return Icon
+end
+
+function Library:Validate(Table: { [string]: any }, Template: { [string]: any }): { [string]: any }
+    if typeof(Table) ~= "table" then
+        return Template
+    end
+
+    for k, v in pairs(Template) do
+        if typeof(k) == "number" then
+            continue
+        end
+
+        if typeof(v) == "table" then
+            Table[k] = Library:Validate(Table[k], v)
+        elseif Table[k] == nil then
+            Table[k] = v
+        end
+    end
+
+    return Table
+end
+
+--// Creator Functions \\--
+local function FillInstance(Table: { [string]: any }, Instance: GuiObject)
+    local ThemeProperties = Library.Registry[Instance] or {}
+    local DPIProperties = Library.DPIRegistry[Instance] or {}
+
+    local DPIExclude = DPIProperties["DPIExclude"] or Table["DPIExclude"] or {}
+    local DPIOffset = DPIProperties["DPIOffset"] or Table["DPIOffset"] or {}
+
+    for k, v in pairs(Table) do
+        if k == "DPIExclude" or k == "DPIOffset" then
+            continue
+        elseif ThemeProperties[k] then
+            ThemeProperties[k] = nil
+        elseif k ~= "Text" and (Library.Scheme[v] or typeof(v) == "function") then
+            -- me when Red in dropdowns break things (temp fix - or perm idk if deivid will do something about this)
+            ThemeProperties[k] = v
+            Instance[k] = Library.Scheme[v] or v()
+            continue
+        end
+
+        if not DPIExclude[k] then
+            if k == "Position" or k == "Size" or k:match("Padding") then
+                DPIProperties[k] = v
+                v = ApplyDPIScale(v, DPIOffset[k])
+            elseif k == "TextSize" then
+                DPIProperties[k] = v
+                v = ApplyTextScale(v)
+            end
+        end
+
+        Instance[k] = v
+    end
+
+    if GetTableSize(ThemeProperties) > 0 then
+        Library.Registry[Instance] = ThemeProperties
+    end
+    if GetTableSize(DPIProperties) > 0 then
+        DPIProperties["DPIExclude"] = DPIExclude
+        DPIProperties["DPIOffset"] = DPIOffset
+        Library.DPIRegistry[Instance] = DPIProperties
+    end
+end
+
+local function New(ClassName: string, Properties: { [string]: any }): any
+    local Instance = Instance.new(ClassName)
+
+    if Templates[ClassName] then
+        FillInstance(Templates[ClassName], Instance)
+    end
+    FillInstance(Properties, Instance)
+
+    if Properties["Parent"] and not Properties["ZIndex"] then
+        pcall(function()
+            Instance.ZIndex = Properties.Parent.ZIndex
+        end)
+    end
+
+    return Instance
+end
+
+--// Main Instances \\-
+local function SafeParentUI(Instance: Instance, Parent: Instance | () -> Instance)
+    if
+        not pcall(function()
+            if not Parent then
+                Parent = CoreGui
+            end
+
+            local DestinationParent
+            if typeof(Parent) == "function" then
+                DestinationParent = Parent()
+            else
+                DestinationParent = Parent
+            end
+
+            Instance.Parent = DestinationParent
+        end)
+    then
+        Instance.Parent = Library.LocalPlayer:WaitForChild("PlayerGui", math.huge)
+    end
+end
+
+local function ParentUI(UI: Instance, SkipHiddenUI: boolean?)
+    if SkipHiddenUI then
+        SafeParentUI(UI, CoreGui)
+        return
+    end
+
+    pcall(protectgui, UI)
+
+    SafeParentUI(UI, gethui)
+end
+
+local ScreenGui = New("ScreenGui", {
+    Name = "Obsidian",
+    DisplayOrder = 999,
+    ResetOnSpawn = false,
+})
+ParentUI(ScreenGui)
+Library.ScreenGui = ScreenGui
+ScreenGui.DescendantRemoving:Connect(function(Instance)
+    Library:RemoveFromRegistry(Instance)
+    Library.DPIRegistry[Instance] = nil
+end)
+
+local ModalScreenGui = New("ScreenGui", {
+    Name = "ObsidanModal",
+    DisplayOrder = 999,
+    ResetOnSpawn = false,
+})
+ParentUI(ModalScreenGui, true)
+
+local ModalElement = New("TextButton", {
+    BackgroundTransparency = 1,
+    Modal = false,
+    Size = UDim2.fromScale(0, 0),
+    Text = "",
+    ZIndex = -999,
+    Parent = ModalScreenGui,
+})
+
+--// Cursor
+local Cursor
+do
+    Cursor = New("Frame", {
+        AnchorPoint = Vector2.new(0.5, 0.5),
+        BackgroundColor3 = "White",
+        Size = UDim2.fromOffset(9, 1),
+        Visible = false,
+        ZIndex = 999,
+        Parent = ScreenGui,
+    })
+    New("Frame", {
+        AnchorPoint = Vector2.new(0.5, 0.5),
+        BackgroundColor3 = "Dark",
+        Position = UDim2.fromScale(0.5, 0.5),
+        Size = UDim2.new(1, 2, 1, 2),
+        ZIndex = 998,
+        Parent = Cursor,
+    })
+
+    local CursorV = New("Frame", {
+        AnchorPoint = Vector2.new(0.5, 0.5),
+        BackgroundColor3 = "White",
+        Position = UDim2.fromScale(0.5, 0.5),
+        Size = UDim2.fromOffset(1, 9),
+        Parent = Cursor,
+    })
+    New("Frame", {
+        AnchorPoint = Vector2.new(0.5, 0.5),
+        BackgroundColor3 = "Dark",
+        Position = UDim2.fromScale(0.5, 0.5),
+        Size = UDim2.new(1, 2, 1, 2),
+        ZIndex = 998,
+        Parent = CursorV,
+    })
+end
+
+--// Notification
+local NotificationArea
+local NotificationList
+do
+    NotificationArea = New("Frame", {
+        AnchorPoint = Vector2.new(1, 0),
+        BackgroundTransparency = 1,
+        Position = UDim2.new(1, -6, 0, 6),
+        Size = UDim2.new(0, 300, 1, -6),
+        Parent = ScreenGui,
+    })
+    NotificationList = New("UIListLayout", {
+        HorizontalAlignment = Enum.HorizontalAlignment.Right,
+        Padding = UDim.new(0, 6),
+        Parent = NotificationArea,
+    })
+end
+
+--// Lib Functions \\--
+function Library:GetBetterColor(Color: Color3, Add: number): Color3
+    Add = Add * (Library.IsLightTheme and -4 or 2)
+    return Color3.fromRGB(
+        math.clamp(Color.R * 255 + Add, 0, 255),
+        math.clamp(Color.G * 255 + Add, 0, 255),
+        math.clamp(Color.B * 255 + Add, 0, 255)
+    )
+end
+
+function Library:GetDarkerColor(Color: Color3): Color3
+    local H, S, V = Color:ToHSV()
+    return Color3.fromHSV(H, S, V / 2)
+end
+
+function Library:GetKeyString(KeyCode: Enum.KeyCode)
+    if KeyCode.EnumType == Enum.KeyCode and KeyCode.Value > 33 and KeyCode.Value < 127 then
+        return string.char(KeyCode.Value)
+    end
+
+    return KeyCode.Name
+end
+
+function Library:GetTextBounds(Text: string, Font: Font, Size: number, Width: number?): (number, number)
+    local Params = Instance.new("GetTextBoundsParams")
+    Params.Text = Text
+    Params.RichText = true
+    Params.Font = Font
+    Params.Size = Size
+    Params.Width = Width or workspace.CurrentCamera.ViewportSize.X - 32
+
+    local Bounds = TextService:GetTextBoundsAsync(Params)
+    return Bounds.X, Bounds.Y
+end
+
+function Library:MouseIsOverFrame(Frame: GuiObject, Mouse: Vector2): boolean
+    local AbsPos, AbsSize = Frame.AbsolutePosition, Frame.AbsoluteSize
+    return Mouse.X >= AbsPos.X
+        and Mouse.X <= AbsPos.X + AbsSize.X
+        and Mouse.Y >= AbsPos.Y
+        and Mouse.Y <= AbsPos.Y + AbsSize.Y
+end
+
+function Library:SafeCallback(Func: (...any) -> ...any, ...: any)
+    if not (Func and typeof(Func) == "function") then
+        return
+    end
+
+    local Success, Response = pcall(Func, ...)
+    if Success then
+        return Response
+    end
+
+    local Traceback = debug.traceback():gsub("\n", " ")
+    local _, i = Traceback:find(":%d+ ")
+    Traceback = Traceback:sub(i + 1):gsub(" :", ":")
+
+    task.defer(error, Response .. " - " .. Traceback)
+    if Library.NotifyOnError then
+        Library:Notify(Response)
+    end
+end
+
+function Library:MakeDraggable(UI: GuiObject, DragFrame: GuiObject, IgnoreToggled: boolean?, IsMainWindow: boolean?)
+    local StartPos
+    local FramePos
+    local Dragging = false
+    local Changed
+    DragFrame.InputBegan:Connect(function(Input: InputObject)
+        if not IsClickInput(Input) or IsMainWindow and Library.CantDragForced then
+            return
+        end
+
+        StartPos = Input.Position
+        FramePos = UI.Position
+        Dragging = true
+
+        Changed = Input.Changed:Connect(function()
+            if Input.UserInputState ~= Enum.UserInputState.End then
+                return
+            end
+
+            Dragging = false
+            if Changed and Changed.Connected then
+                Changed:Disconnect()
+                Changed = nil
+            end
+        end)
+    end)
+    Library:GiveSignal(UserInputService.InputChanged:Connect(function(Input: InputObject)
+        if
+            (not IgnoreToggled and not Library.Toggled)
+            or (IsMainWindow and Library.CantDragForced)
+            or not (ScreenGui and ScreenGui.Parent)
+        then
+            Dragging = false
+            if Changed and Changed.Connected then
+                Changed:Disconnect()
+                Changed = nil
+            end
+
+            return
+        end
+
+        if Dragging and IsHoverInput(Input) then
+            local Delta = Input.Position - StartPos
+            UI.Position =
+                UDim2.new(FramePos.X.Scale, FramePos.X.Offset + Delta.X, FramePos.Y.Scale, FramePos.Y.Offset + Delta.Y)
+        end
+    end))
+end
+
+function Library:MakeResizable(UI: GuiObject, DragFrame: GuiObject, Callback: () -> ()?)
+    local StartPos
+    local FrameSize
+    local Dragging = false
+    local Changed
+    DragFrame.InputBegan:Connect(function(Input: InputObject)
+        if not IsClickInput(Input) then
+            return
+        end
+
+        StartPos = Input.Position
+        FrameSize = UI.Size
+        Dragging = true
+
+        Changed = Input.Changed:Connect(function()
+            if Input.UserInputState ~= Enum.UserInputState.End then
+                return
+            end
+
+            Dragging = false
+            if Changed and Changed.Connected then
+                Changed:Disconnect()
+                Changed = nil
+            end
+        end)
+    end)
+    Library:GiveSignal(UserInputService.InputChanged:Connect(function(Input: InputObject)
+        if not UI.Visible or not (ScreenGui and ScreenGui.Parent) then
+            Dragging = false
+            if Changed and Changed.Connected then
+                Changed:Disconnect()
+                Changed = nil
+            end
+
+            return
+        end
+
+        if Dragging and IsHoverInput(Input) then
+            local Delta = Input.Position - StartPos
+            UI.Size = UDim2.new(
+                FrameSize.X.Scale,
+                math.clamp(FrameSize.X.Offset + Delta.X, Library.MinSize.X, math.huge),
+                FrameSize.Y.Scale,
+                math.clamp(FrameSize.Y.Offset + Delta.Y, Library.MinSize.Y, math.huge)
+            )
+            if Callback then
+                Library:SafeCallback(Callback)
+            end
+        end
+    end))
+end
+
+function Library:MakeCover(Holder: GuiObject, Place: string)
+    local Pos = Places[Place] or { 0, 0 }
+    local Size = Sizes[Place] or { 1, 0.5 }
+
+    local Cover = New("Frame", {
+        AnchorPoint = Vector2.new(Pos[1], Pos[2]),
+        BackgroundColor3 = Holder.BackgroundColor3,
+        Position = UDim2.fromScale(Pos[1], Pos[2]),
+        Size = UDim2.fromScale(Size[1], Size[2]),
+        Parent = Holder,
+    })
+
+    return Cover
+end
+
+function Library:MakeLine(Frame: GuiObject, Info)
+    local Line = New("Frame", {
+        AnchorPoint = Info.AnchorPoint or Vector2.zero,
+        BackgroundColor3 = "OutlineColor",
+        Position = Info.Position,
+        Size = Info.Size,
+        Parent = Frame,
+    })
+
+    return Line
+end
+
+function Library:MakeOutline(Frame: GuiObject, Corner: number?, ZIndex: number?)
+    local Holder = New("Frame", {
+        BackgroundColor3 = "Dark",
+        Position = UDim2.fromOffset(-2, -2),
+        Size = UDim2.new(1, 4, 1, 4),
+        ZIndex = ZIndex,
+        Parent = Frame,
+    })
+
+    local Outline = New("Frame", {
+        BackgroundColor3 = "OutlineColor",
+        Position = UDim2.fromOffset(1, 1),
+        Size = UDim2.new(1, -2, 1, -2),
+        ZIndex = ZIndex,
+        Parent = Holder,
+    })
+
+    if Corner and Corner > 0 then
+        New("UICorner", {
+            CornerRadius = UDim.new(0, Corner + 1),
+            Parent = Holder,
+        })
+        New("UICorner", {
+            CornerRadius = UDim.new(0, Corner),
+            Parent = Outline,
+        })
+    end
+
+    return Holder
+end
+
+function Library:AddDraggableButton(Text: string, Func)
+    local Table = {}
+
+    local Button = New("TextButton", {
+        BackgroundColor3 = "BackgroundColor",
+        Position = UDim2.fromOffset(6, 6),
+        TextSize = 16,
+        ZIndex = 10,
+        Parent = ScreenGui,
+
+        DPIExclude = {
+            Position = true,
+        },
+    })
+    New("UICorner", {
+        CornerRadius = UDim.new(0, Library.CornerRadius - 1),
+        Parent = Button,
+    })
+    Library:MakeOutline(Button, Library.CornerRadius, 9)
+
+    Table.Button = Button
+    Button.MouseButton1Click:Connect(function()
+        Library:SafeCallback(Func, Table)
+    end)
+    Library:MakeDraggable(Button, Button, true)
+
+    function Table:SetText(NewText: string)
+        local X, Y = Library:GetTextBounds(NewText, Library.Scheme.Font, 16)
+
+        Button.Text = NewText
+        Button.Size = UDim2.fromOffset(X * Library.DPIScale * 2, Y * Library.DPIScale * 2)
+        Library:UpdateDPI(Button, {
+            Size = UDim2.fromOffset(X * 2, Y * 2),
+        })
+    end
+    Table:SetText(Text)
+
+    return Table
+end
+
+function Library:AddDraggableMenu(Name: string)
+    local Background = Library:MakeOutline(ScreenGui, Library.CornerRadius, 10)
+    Background.AutomaticSize = Enum.AutomaticSize.Y
+    Background.Position = UDim2.fromOffset(6, 6)
+    Background.Size = UDim2.fromOffset(0, 0)
+    Library:UpdateDPI(Background, {
+        Position = false,
+        Size = false,
+    })
+
+    local Holder = New("Frame", {
+        BackgroundColor3 = "BackgroundColor",
+        Position = UDim2.fromOffset(2, 2),
+        Size = UDim2.new(1, -4, 1, -4),
+        Parent = Background,
+    })
+    New("UICorner", {
+        CornerRadius = UDim.new(0, Library.CornerRadius - 1),
+        Parent = Holder,
+    })
+    Library:MakeLine(Holder, {
+        Position = UDim2.fromOffset(0, 34),
+        Size = UDim2.new(1, 0, 0, 1),
+    })
+
+    local Label = New("TextLabel", {
+        BackgroundTransparency = 1,
+        Size = UDim2.new(1, 0, 0, 34),
+        Text = Name,
+        TextSize = 15,
+        TextXAlignment = Enum.TextXAlignment.Left,
+        Parent = Holder,
+    })
+    New("UIPadding", {
+        PaddingLeft = UDim.new(0, 12),
+        PaddingRight = UDim.new(0, 12),
+        Parent = Label,
+    })
+
+    local Container = New("Frame", {
+        BackgroundTransparency = 1,
+        Position = UDim2.fromOffset(0, 35),
+        Size = UDim2.new(1, 0, 1, -35),
+        Parent = Holder,
+    })
+    New("UIListLayout", {
+        Padding = UDim.new(0, 7),
+        Parent = Container,
+    })
+    New("UIPadding", {
+        PaddingBottom = UDim.new(0, 7),
+        PaddingLeft = UDim.new(0, 7),
+        PaddingRight = UDim.new(0, 7),
+        PaddingTop = UDim.new(0, 7),
+        Parent = Container,
+    })
+
+    Library:MakeDraggable(Background, Label, true)
+    return Background, Container
+end
+
+--// Context Menu \\--
+local CurrentMenu
+function Library:AddContextMenu(
+    Holder: GuiObject,
+    Size: UDim2 | () -> (),
+    Offset: { [number]: number } | () -> {},
+    List: number?,
+    ActiveCallback: (Active: boolean) -> ()?
+)
+    local Menu
+    if List then
+        Menu = New("ScrollingFrame", {
+            AutomaticCanvasSize = List == 2 and Enum.AutomaticSize.Y or Enum.AutomaticSize.None,
+            AutomaticSize = List == 1 and Enum.AutomaticSize.Y or Enum.AutomaticSize.None,
+            BackgroundColor3 = "BackgroundColor",
+            BorderColor3 = "OutlineColor",
+            BorderSizePixel = 1,
+            BottomImage = "rbxasset://textures/ui/Scroll/scroll-middle.png",
+            CanvasSize = UDim2.fromOffset(0, 0),
+            ScrollBarImageColor3 = "OutlineColor",
+            ScrollBarThickness = List == 2 and 2 or 0,
+            Size = typeof(Size) == "function" and Size() or Size,
+            TopImage = "rbxasset://textures/ui/Scroll/scroll-middle.png",
+            Visible = false,
+            ZIndex = 10,
+            Parent = ScreenGui,
+
+            DPIExclude = {
+                Position = true,
+            },
+        })
+    else
+        Menu = New("Frame", {
+            BackgroundColor3 = "BackgroundColor",
+            BorderColor3 = "OutlineColor",
+            BorderSizePixel = 1,
+            Size = typeof(Size) == "function" and Size() or Size,
+            Visible = false,
+            ZIndex = 10,
+            Parent = ScreenGui,
+
+            DPIExclude = {
+                Position = true,
+            },
+        })
+    end
+
+    local Table = {
+        Active = false,
+        Holder = Holder,
+        Menu = Menu,
+        List = nil,
+        Signal = nil,
+
+        Size = Size,
+    }
+
+    if List then
+        Table.List = New("UIListLayout", {
+            Parent = Menu,
+        })
+    end
+
+    function Table:Open()
+        if CurrentMenu == Table then
+            return
+        elseif CurrentMenu then
+            CurrentMenu:Close()
+        end
+
+        CurrentMenu = Table
+        Table.Active = true
+
+        if typeof(Offset) == "function" then
+            Menu.Position = UDim2.fromOffset(
+                math.floor(Holder.AbsolutePosition.X + Offset()[1]),
+                math.floor(Holder.AbsolutePosition.Y + Offset()[2])
+            )
+        else
+            Menu.Position = UDim2.fromOffset(
+                math.floor(Holder.AbsolutePosition.X + Offset[1]),
+                math.floor(Holder.AbsolutePosition.Y + Offset[2])
+            )
+        end
+        if typeof(Table.Size) == "function" then
+            Menu.Size = Table.Size()
+        else
+            Menu.Size = ApplyDPIScale(Table.Size)
+        end
+        if typeof(ActiveCallback) == "function" then
+            Library:SafeCallback(ActiveCallback, true)
+        end
+
+        Menu.Visible = true
+
+        Table.Signal = Holder:GetPropertyChangedSignal("AbsolutePosition"):Connect(function()
+            if typeof(Offset) == "function" then
+                Menu.Position = UDim2.fromOffset(
+                    math.floor(Holder.AbsolutePosition.X + Offset()[1]),
+                    math.floor(Holder.AbsolutePosition.Y + Offset()[2])
+                )
+            else
+                Menu.Position = UDim2.fromOffset(
+                    math.floor(Holder.AbsolutePosition.X + Offset[1]),
+                    math.floor(Holder.AbsolutePosition.Y + Offset[2])
+                )
+            end
+        end)
+    end
+
+    function Table:Close()
+        if CurrentMenu ~= Table then
+            return
+        end
+        Menu.Visible = false
+
+        if Table.Signal then
+            Table.Signal:Disconnect()
+            Table.Signal = nil
+        end
+        Table.Active = false
+        CurrentMenu = nil
+        if typeof(ActiveCallback) == "function" then
+            Library:SafeCallback(ActiveCallback, false)
+        end
+    end
+
+    function Table:Toggle()
+        if Table.Active then
+            Table:Close()
+        else
+            Table:Open()
+        end
+    end
+
+    function Table:SetSize(Size)
+        Table.Size = Size
+        Menu.Size = typeof(Size) == "function" and Size() or Size
+    end
+
+    return Table
+end
+
+Library:GiveSignal(UserInputService.InputBegan:Connect(function(Input: InputObject)
+    if IsClickInput(Input, true) then
+        local Location = Input.Position
+
+        if
+            CurrentMenu
+            and not (
+                Library:MouseIsOverFrame(CurrentMenu.Menu, Location)
+                or Library:MouseIsOverFrame(CurrentMenu.Holder, Location)
+            )
+        then
+            CurrentMenu:Close()
+        end
+    end
+end))
+
+--// Tooltip \\--
+local TooltipLabel = New("TextLabel", {
+    BackgroundColor3 = "BackgroundColor",
+    BorderColor3 = "OutlineColor",
+    BorderSizePixel = 1,
+    TextSize = 14,
+    TextWrapped = true,
+    Visible = false,
+    ZIndex = 20,
+    Parent = ScreenGui,
+})
+TooltipLabel:GetPropertyChangedSignal("AbsolutePosition"):Connect(function()
+    local X, Y = Library:GetTextBounds(
+        TooltipLabel.Text,
+        TooltipLabel.FontFace,
+        TooltipLabel.TextSize,
+        workspace.CurrentCamera.ViewportSize.X - TooltipLabel.AbsolutePosition.X - 4
+    )
+
+    TooltipLabel.Size = UDim2.fromOffset(X + 8 * Library.DPIScale, Y + 4 * Library.DPIScale)
+    Library:UpdateDPI(TooltipLabel, {
+        Size = UDim2.fromOffset(X, Y),
+        DPIOffset = {
+            Size = { 8, 4 },
+        },
+    })
+end)
+
+local CurrentHoverInstance
+function Library:AddTooltip(InfoStr: string, DisabledInfoStr: string, HoverInstance: GuiObject)
+    local TooltipTable = {
+        Disabled = false,
+        Hovering = false,
+        Signals = {},
+    }
+
+    local function DoHover()
+        if
+            CurrentHoverInstance == HoverInstance
+            or (CurrentMenu and Library:MouseIsOverFrame(CurrentMenu.Menu, Mouse))
+            or (TooltipTable.Disabled and typeof(DisabledInfoStr) ~= "string")
+            or (not TooltipTable.Disabled and typeof(InfoStr) ~= "string")
+        then
+            return
+        end
+        CurrentHoverInstance = HoverInstance
+
+        TooltipLabel.Text = TooltipTable.Disabled and DisabledInfoStr or InfoStr
+        TooltipLabel.Visible = true
+
+        while
+            Library.Toggled
+            and Library:MouseIsOverFrame(HoverInstance, Mouse)
+            and not (CurrentMenu and Library:MouseIsOverFrame(CurrentMenu.Menu, Mouse))
+        do
+            TooltipLabel.Position = UDim2.fromOffset(
+                Mouse.X + (Library.ShowCustomCursor and 8 or 14),
+                Mouse.Y + (Library.ShowCustomCursor and 8 or 12)
+            )
+
+            RunService.RenderStepped:Wait()
+        end
+
+        TooltipLabel.Visible = false
+        CurrentHoverInstance = nil
+    end
+
+    table.insert(TooltipTable.Signals, HoverInstance.MouseEnter:Connect(DoHover))
+    table.insert(TooltipTable.Signals, HoverInstance.MouseMoved:Connect(DoHover))
+    table.insert(
+        TooltipTable.Signals,
+        HoverInstance.MouseLeave:Connect(function()
+            if CurrentHoverInstance ~= HoverInstance then
+                return
+            end
+
+            TooltipLabel.Visible = false
+            CurrentHoverInstance = nil
+        end)
+    )
+
+    function TooltipTable:Destroy()
+        for Index = #TooltipTable.Signals, 1, -1 do
+            local Connection = table.remove(TooltipTable.Signals, Index)
+            Connection:Disconnect()
+        end
+
+        if CurrentHoverInstance == HoverInstance then
+            TooltipLabel.Visible = false
+            CurrentHoverInstance = nil
+        end
+    end
+
+    return TooltipTable
+end
+
+function Library:OnUnload(Callback)
+    table.insert(Library.UnloadSignals, Callback)
+end
+
+function Library:Unload()
+    for Index = #Library.Signals, 1, -1 do
+        local Connection = table.remove(Library.Signals, Index)
+        Connection:Disconnect()
+    end
+
+    for _, Callback in pairs(Library.UnloadSignals) do
+        Library:SafeCallback(Callback)
+    end
+
+    Library.Unloaded = true
+    ScreenGui:Destroy()
+    ModalScreenGui:Destroy()
+    getgenv().Library = nil
+end
+
+local CheckIcon = Library:GetIcon("check")
+local ArrowIcon = Library:GetIcon("chevron-up")
+local ResizeIcon = Library:GetIcon("move-diagonal-2")
+local KeyIcon = Library:GetIcon("key")
+
+local BaseAddons = {}
+do
+    local Funcs = {}
+
+    function Funcs:AddKeyPicker(Idx, Info)
+        Info = Library:Validate(Info, Templates.KeyPicker)
+
+        local ParentObj = self
+        local ToggleLabel = ParentObj.TextLabel
+
+        local KeyPicker = {
+            Text = Info.Text,
+            Value = Info.Default,
+            Toggled = false,
+            Mode = Info.Mode,
+            SyncToggleState = Info.SyncToggleState,
+
+            Callback = Info.Callback,
+            ChangedCallback = Info.ChangedCallback,
+            Changed = Info.Changed,
+            Clicked = Info.Clicked,
+
+            Type = "KeyPicker",
+        }
+
+        if KeyPicker.SyncToggleState then
+            Info.Modes = { "Toggle" }
+            Info.Mode = "Toggle"
+        end
+
+        local Picker = New("TextButton", {
+            BackgroundColor3 = "MainColor",
+            BorderColor3 = "OutlineColor",
+            BorderSizePixel = 1,
+            Size = UDim2.fromOffset(18, 18),
+            Text = KeyPicker.Value,
+            TextSize = 14,
+            Parent = ToggleLabel,
+        })
+
+        local KeybindsToggle = {
+            Normal = KeyPicker.Mode ~= "Toggle",
+        }
+        do
+            local Holder = New("TextButton", {
+                BackgroundTransparency = 1,
+                Size = UDim2.new(1, 0, 0, 16),
+                Text = "",
+                Visible = not Info.NoUI,
+                Parent = Library.KeybindContainer,
+            })
+
+            local Label = New("TextLabel", {
+                BackgroundTransparency = 1,
+                Size = UDim2.fromScale(1, 1),
+                Text = "",
+                TextSize = 14,
+                TextTransparency = 0.5,
+                Parent = Holder,
+
+                DPIExclude = {
+                    Size = true,
+                },
+            })
+
+            local Checkbox = New("Frame", {
+                BackgroundColor3 = "MainColor",
+                Size = UDim2.fromOffset(14, 14),
+                SizeConstraint = Enum.SizeConstraint.RelativeYY,
+                Parent = Holder,
+            })
+            New("UICorner", {
+                CornerRadius = UDim.new(0, Library.CornerRadius / 2),
+                Parent = Checkbox,
+            })
+            New("UIStroke", {
+                Color = "OutlineColor",
+                Parent = Checkbox,
+            })
+
+            local CheckImage = New("ImageLabel", {
+                Image = CheckIcon and CheckIcon.Url or "",
+                ImageColor3 = "FontColor",
+                ImageRectOffset = CheckIcon and CheckIcon.ImageRectOffset or Vector2.zero,
+                ImageRectSize = CheckIcon and CheckIcon.ImageRectSize or Vector2.zero,
+                ImageTransparency = 1,
+                Position = UDim2.fromOffset(2, 2),
+                Size = UDim2.new(1, -4, 1, -4),
+                Parent = Checkbox,
+            })
+
+            function KeybindsToggle:Display(State)
+                Label.TextTransparency = State and 0 or 0.5
+                CheckImage.ImageTransparency = State and 0 or 1
+            end
+
+            function KeybindsToggle:SetText(Text)
+                local X = Library:GetTextBounds(Text, Label.FontFace, Label.TextSize)
+                Label.Text = Text
+                Label.Size = UDim2.new(0, X, 1, 0)
+            end
+
+            function KeybindsToggle:SetVisibility(Visibility)
+                Holder.Visible = Visibility
+            end
+
+            function KeybindsToggle:SetNormal(Normal)
+                KeybindsToggle.Normal = Normal
+
+                Holder.Active = not Normal
+                Label.Position = Normal and UDim2.fromOffset(0, 0) or UDim2.fromOffset(22 * Library.DPIScale, 0)
+                Checkbox.Visible = not Normal
+            end
+
+            Holder.MouseButton1Click:Connect(function()
+                if KeybindsToggle.Normal then
+                    return
+                end
+
+                KeyPicker.Toggled = not KeyPicker.Toggled
+                KeyPicker:DoClick()
+            end)
+
+            KeybindsToggle.Holder = Holder
+            KeybindsToggle.Label = Label
+            KeybindsToggle.Checkbox = Checkbox
+            KeybindsToggle.Loaded = true
+            table.insert(Library.KeybindToggles, KeybindsToggle)
+        end
+
+        local MenuTable = Library:AddContextMenu(Picker, UDim2.fromOffset(62, 0), function()
+            return { Picker.AbsoluteSize.X + 1.5, 0.5 }
+        end, 1)
+        KeyPicker.Menu = MenuTable
+
+        local ModeButtons = {}
+        for _, Mode in pairs(Info.Modes) do
+            local ModeButton = {}
+
+            local Button = New("TextButton", {
+                BackgroundColor3 = "MainColor",
+                BackgroundTransparency = 1,
+                Size = UDim2.new(1, 0, 0, 21),
+                Text = Mode,
+                TextSize = 14,
+                TextTransparency = 0.5,
+                Parent = MenuTable.Menu,
+            })
+
+            function ModeButton:Select()
+                for _, Button in pairs(ModeButtons) do
+                    Button:Deselect()
+                end
+
+                KeyPicker.Mode = Mode
+
+                Button.BackgroundTransparency = 0
+                Button.TextTransparency = 0
+
+                MenuTable:Close()
+            end
+
+            function ModeButton:Deselect()
+                KeyPicker.Mode = nil
+
+                Button.BackgroundTransparency = 1
+                Button.TextTransparency = 0.5
+            end
+
+            Button.MouseButton1Click:Connect(function()
+                ModeButton:Select()
+            end)
+
+            if KeyPicker.Mode == Mode then
+                ModeButton:Select()
+            end
+
+            ModeButtons[Mode] = ModeButton
+        end
+
+        function KeyPicker:Display()
+            if Library.Unloaded then
+                return
+            end
+
+            local X, Y =
+                Library:GetTextBounds(KeyPicker.Value, Picker.FontFace, Picker.TextSize, ToggleLabel.AbsoluteSize.X)
+            Picker.Text = KeyPicker.Value
+            Picker.Size = UDim2.fromOffset(X + 9 * Library.DPIScale, Y + 4 * Library.DPIScale)
+        end
+
+        function KeyPicker:Update()
+            KeyPicker:Display()
+
+            if Info.NoUI then
+                return
+            end
+
+            if KeyPicker.Mode == "Toggle" and ParentObj.Type == "Toggle" and ParentObj.Disabled then
+                KeybindsToggle:SetVisibility(false)
+                return
+            end
+
+            local State = KeyPicker:GetState()
+            local ShowToggle = Library.ShowToggleFrameInKeybinds and KeyPicker.Mode == "Toggle"
+
+            if KeybindsToggle.Loaded then
+                if ShowToggle then
+                    KeybindsToggle:SetNormal(false)
+                else
+                    KeybindsToggle:SetNormal(true)
+                end
+
+                KeybindsToggle:SetText(("[%s] %s (%s)"):format(KeyPicker.Value, KeyPicker.Text, KeyPicker.Mode))
+                KeybindsToggle:SetVisibility(true)
+                KeybindsToggle:Display(State)
+            end
+
+            Library:UpdateKeybindFrame()
+        end
+
+        function KeyPicker:GetState()
+            if KeyPicker.Mode == "Always" then
+                return true
+            elseif KeyPicker.Mode == "Hold" then
+                local Key = KeyPicker.Value
+                if Key == "None" then
+                    return false
+                end
+
+                if Key == "MB1" or Key == "MB2" then
+                    return Key == "MB1" and UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1)
+                        or Key == "MB2" and UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton2)
+                end
+
+                return UserInputService:IsKeyDown(Enum.KeyCode[KeyPicker.Value])
+                    and not UserInputService:GetFocusedTextBox()
+            else
+                return KeyPicker.Toggled
+            end
+        end
+
+        function KeyPicker:OnChanged(Func)
+            KeyPicker.Changed = Func
+        end
+
+        function KeyPicker:OnClick(Func)
+            KeyPicker.Clicked = Func
+        end
+
+        function KeyPicker:DoClick()
+            if ParentObj.Type == "Toggle" and KeyPicker.SyncToggleState then
+                ParentObj:SetValue(KeyPicker.Toggled)
+            end
+
+            Library:SafeCallback(KeyPicker.Callback, KeyPicker.Toggled)
+            Library:SafeCallback(KeyPicker.Changed, KeyPicker.Toggled)
+        end
+
+        function KeyPicker:SetValue(Data)
+            local Key, Mode = Data[1], Data[2]
+
+            KeyPicker.Value = Key
+            if ModeButtons[Mode] then
+                ModeButtons[Mode]:Select()
+            end
+
+            KeyPicker:Update()
+        end
+
+        function KeyPicker:SetText(Text)
+            KeybindsToggle:SetText(Text)
+            KeyPicker:Update()
+        end
+
+        local Picking = false
+        Picker.MouseButton1Click:Connect(function()
+            if Picking then
+                return
+            end
+
+            Picking = true
+
+            Picker.Text = "..."
+            Picker.Size = UDim2.fromOffset(29 * Library.DPIScale, 18 * Library.DPIScale)
+
+            local Input = UserInputService.InputBegan:Wait()
+            local Key = "Unknown"
+
+            if Input.UserInputType == Enum.UserInputType.Keyboard then
+                Key = Input.KeyCode == Enum.KeyCode.Escape and "None" or Input.KeyCode.Name
+            elseif Input.UserInputType == Enum.UserInputType.MouseButton1 then
+                Key = "MB1"
+            elseif Input.UserInputType == Enum.UserInputType.MouseButton2 then
+                Key = "MB2"
+            end
+
+            KeyPicker.Value = Key
+            KeyPicker:Update()
+
+            Library:SafeCallback(
+                KeyPicker.ChangedCallback,
+                Input.KeyCode == Enum.KeyCode.Unknown and Input.UserInputType or Input.KeyCode
+            )
+            Library:SafeCallback(
+                KeyPicker.Changed,
+                Input.KeyCode == Enum.KeyCode.Unknown and Input.UserInputType or Input.KeyCode
+            )
+
+            RunService.RenderStepped:Wait()
+            Picking = false
+        end)
+        Picker.MouseButton2Click:Connect(MenuTable.Toggle)
+
+        Library:GiveSignal(UserInputService.InputBegan:Connect(function(Input: InputObject)
+            if
+                KeyPicker.Mode == "Always"
+                or KeyPicker.Value == "Unknown"
+                or KeyPicker.Value == "None"
+                or Picking
+                or UserInputService:GetFocusedTextBox()
+            then
+                return
+            end
+
+            if KeyPicker.Mode == "Toggle" then
+                local Key = KeyPicker.Value
+
+                if Key == "MB1" or Key == "MB2" then
+                    if
+                        Key == "MB1" and UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1)
+                        or Key == "MB2" and UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton2)
+                    then
+                        KeyPicker.Toggled = not KeyPicker.Toggled
+                        KeyPicker:DoClick()
+                    end
+                elseif Input.UserInputType == Enum.UserInputType.Keyboard and Input.KeyCode.Name == Key then
+                    KeyPicker.Toggled = not KeyPicker.Toggled
+                    KeyPicker:DoClick()
+                end
+            end
+
+            KeyPicker:Update()
+        end))
+
+        Library:GiveSignal(UserInputService.InputEnded:Connect(function()
+            if
+                KeyPicker.Value == "Unknown"
+                or KeyPicker.Value == "None"
+                or Picking
+                or UserInputService:GetFocusedTextBox()
+            then
+                return
+            end
+
+            KeyPicker:Update()
+        end))
+
+        KeyPicker:Update()
+
+        if ParentObj.Addons then
+            table.insert(ParentObj.Addons, KeyPicker)
+        end
+
+        Options[Idx] = KeyPicker
+
+        return self
+    end
+
+    local HueSequenceTable = {}
+    for Hue = 0, 1, 0.1 do
+        table.insert(HueSequenceTable, ColorSequenceKeypoint.new(Hue, Color3.fromHSV(Hue, 1, 1)))
+    end
+    function Funcs:AddColorPicker(Idx, Info)
+        Info = Library:Validate(Info, Templates.ColorPicker)
+
+        local ParentObj = self
+        local ToggleLabel = ParentObj.TextLabel
+
+        local ColorPicker = {
+            Value = Info.Default,
+            Transparency = Info.Transparency or 0,
+
+            Callback = Info.Callback,
+            Changed = Info.Changed,
+
+            Type = "ColorPicker",
+        }
+        ColorPicker.Hue, ColorPicker.Sat, ColorPicker.Vib = ColorPicker.Value:ToHSV()
+
+        local Holder = New("TextButton", {
+            BackgroundColor3 = ColorPicker.Value,
+            BorderColor3 = Library:GetDarkerColor(ColorPicker.Value),
+            BorderSizePixel = 1,
+            Size = UDim2.fromOffset(18, 18),
+            Text = "",
+            Parent = ToggleLabel,
+        })
+
+        local HolderTransparency = New("ImageLabel", {
+            Image = "rbxassetid://139785960036434",
+            ImageTransparency = (1 - ColorPicker.Transparency),
+            ScaleType = Enum.ScaleType.Tile,
+            Size = UDim2.fromScale(1, 1),
+            TileSize = UDim2.fromOffset(9, 9),
+            Parent = Holder,
+        })
+
+        --// Color Menu \\--
+        local ColorMenu = Library:AddContextMenu(
+            Holder,
+            UDim2.fromOffset(Info.Transparency and 256 or 234, 0),
+            function()
+                return { 0.5, Holder.AbsoluteSize.Y + 1.5 }
+            end,
+            1
+        )
+        ColorMenu.List.Padding = UDim.new(0, 8)
+        ColorPicker.ColorMenu = ColorMenu
+
+        New("UIPadding", {
+            PaddingBottom = UDim.new(0, 6),
+            PaddingLeft = UDim.new(0, 6),
+            PaddingRight = UDim.new(0, 6),
+            PaddingTop = UDim.new(0, 6),
+            Parent = ColorMenu.Menu,
+        })
+
+        if typeof(Info.Title) == "string" then
+            New("TextLabel", {
+                BackgroundTransparency = 1,
+                Size = UDim2.new(1, 0, 0, 8),
+                Text = Info.Title,
+                TextSize = 14,
+                TextXAlignment = Enum.TextXAlignment.Left,
+                Parent = ColorMenu.Menu,
+            })
+        end
+
+        local ColorHolder = New("Frame", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, 200),
+            Parent = ColorMenu.Menu,
+        })
+        New("UIListLayout", {
+            FillDirection = Enum.FillDirection.Horizontal,
+            Padding = UDim.new(0, 6),
+            Parent = ColorHolder,
+        })
+
+        --// Sat Map
+        local SatVipMap = New("ImageButton", {
+            BackgroundColor3 = ColorPicker.Value,
+            Image = "rbxassetid://4155801252",
+            Size = UDim2.fromOffset(200, 200),
+            Parent = ColorHolder,
+        })
+
+        local SatVibCursor = New("Frame", {
+            AnchorPoint = Vector2.new(0.5, 0.5),
+            BackgroundColor3 = "White",
+            Size = UDim2.fromOffset(6, 6),
+            Parent = SatVipMap,
+        })
+        New("UICorner", {
+            CornerRadius = UDim.new(1, 0),
+            Parent = SatVibCursor,
+        })
+        New("UIStroke", {
+            Color = "Dark",
+            Parent = SatVibCursor,
+        })
+
+        --// Hue
+        local HueSelector = New("TextButton", {
+            Size = UDim2.fromOffset(16, 200),
+            Text = "",
+            Parent = ColorHolder,
+        })
+        New("UIGradient", {
+            Color = ColorSequence.new(HueSequenceTable),
+            Rotation = 90,
+            Parent = HueSelector,
+        })
+
+        local HueCursor = New("Frame", {
+            AnchorPoint = Vector2.new(0.5, 0.5),
+            BackgroundColor3 = "White",
+            BorderColor3 = "Dark",
+            BorderSizePixel = 1,
+            Position = UDim2.fromScale(0.5, ColorPicker.Hue),
+            Size = UDim2.new(1, 2, 0, 1),
+            Parent = HueSelector,
+        })
+
+        --// Alpha
+        local TransparencySelector, TransparencyColor, TransparencyCursor
+        if Info.Transparency then
+            TransparencySelector = New("ImageButton", {
+                Image = "rbxassetid://139785960036434",
+                ScaleType = Enum.ScaleType.Tile,
+                Size = UDim2.fromOffset(16, 200),
+                TileSize = UDim2.fromOffset(8, 8),
+                Parent = ColorHolder,
+            })
+
+            TransparencyColor = New("Frame", {
+                BackgroundColor3 = ColorPicker.Value,
+                Size = UDim2.fromScale(1, 1),
+                Parent = TransparencySelector,
+            })
+            New("UIGradient", {
+                Rotation = 90,
+                Transparency = NumberSequence.new({
+                    NumberSequenceKeypoint.new(0, 0),
+                    NumberSequenceKeypoint.new(1, 1),
+                }),
+                Parent = TransparencyColor,
+            })
+
+            TransparencyCursor = New("Frame", {
+                AnchorPoint = Vector2.new(0.5, 0.5),
+                BackgroundColor3 = "White",
+                BorderColor3 = "Dark",
+                BorderSizePixel = 1,
+                Position = UDim2.fromScale(0.5, ColorPicker.Transparency),
+                Size = UDim2.new(1, 2, 0, 1),
+                Parent = TransparencySelector,
+            })
+        end
+
+        local InfoHolder = New("Frame", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, 20),
+            Parent = ColorMenu.Menu,
+        })
+        New("UIListLayout", {
+            FillDirection = Enum.FillDirection.Horizontal,
+            HorizontalFlex = Enum.UIFlexAlignment.Fill,
+            Padding = UDim.new(0, 8),
+            Parent = InfoHolder,
+        })
+
+        local HueBox = New("TextBox", {
+            BackgroundColor3 = "MainColor",
+            BorderColor3 = "OutlineColor",
+            BorderSizePixel = 1,
+            ClearTextOnFocus = false,
+            Size = UDim2.fromScale(1, 1),
+            Text = "#??????",
+            TextSize = 14,
+            Parent = InfoHolder,
+        })
+
+        local RgbBox = New("TextBox", {
+            BackgroundColor3 = "MainColor",
+            BorderColor3 = "OutlineColor",
+            BorderSizePixel = 1,
+            ClearTextOnFocus = false,
+            Size = UDim2.fromScale(1, 1),
+            Text = "?, ?, ?",
+            TextSize = 14,
+            Parent = InfoHolder,
+        })
+
+        --// Context Menu \\--
+        local ContextMenu = Library:AddContextMenu(Holder, UDim2.fromOffset(93, 0), function()
+            return { Holder.AbsoluteSize.X + 1.5, 0.5 }
+        end, 1)
+        ColorPicker.ContextMenu = ContextMenu
+        do
+            local function CreateButton(Text, Func)
+                local Button = New("TextButton", {
+                    BackgroundTransparency = 1,
+                    Size = UDim2.new(1, 0, 0, 21),
+                    Text = Text,
+                    TextSize = 14,
+                    Parent = ContextMenu.Menu,
+                })
+
+                Button.MouseButton1Click:Connect(function()
+                    Library:SafeCallback(Func)
+                    ContextMenu:Close()
+                end)
+            end
+
+            CreateButton("Copy color", function()
+                Library.CopiedColor = { ColorPicker.Value, ColorPicker.Transparency }
+            end)
+
+            CreateButton("Paste color", function()
+                ColorPicker:SetValueRGB(Library.CopiedColor[1], Library.CopiedColor[2])
+            end)
+
+            if setclipboard then
+                CreateButton("Copy Hex", function()
+                    setclipboard(tostring(ColorPicker.Value:ToHex()))
+                end)
+                CreateButton("Copy RGB", function()
+                    setclipboard(table.concat({
+                        math.floor(ColorPicker.Value.R * 255),
+                        math.floor(ColorPicker.Value.G * 255),
+                        math.floor(ColorPicker.Value.B * 255),
+                    }, ", "))
+                end)
+            end
+        end
+
+        --// End \\--
+
+        function ColorPicker:SetHSVFromRGB(Color)
+            ColorPicker.Hue, ColorPicker.Sat, ColorPicker.Vib = Color:ToHSV()
+        end
+
+        function ColorPicker:Display()
+            if Library.Unloaded then
+                return
+            end
+
+            ColorPicker.Value = Color3.fromHSV(ColorPicker.Hue, ColorPicker.Sat, ColorPicker.Vib)
+
+            Holder.BackgroundColor3 = ColorPicker.Value
+            Holder.BorderColor3 = Library:GetDarkerColor(ColorPicker.Value)
+            HolderTransparency.ImageTransparency = (1 - ColorPicker.Transparency)
+
+            SatVipMap.BackgroundColor3 = Color3.fromHSV(ColorPicker.Hue, 1, 1)
+            if TransparencyColor then
+                TransparencyColor.BackgroundColor3 = ColorPicker.Value
+            end
+
+            SatVibCursor.Position = UDim2.fromScale(ColorPicker.Sat, 1 - ColorPicker.Vib)
+            HueCursor.Position = UDim2.fromScale(0.5, ColorPicker.Hue)
+            if TransparencyCursor then
+                TransparencyCursor.Position = UDim2.fromScale(0.5, ColorPicker.Transparency)
+            end
+
+            HueBox.Text = "#" .. ColorPicker.Value:ToHex()
+            RgbBox.Text = table.concat({
+                math.floor(ColorPicker.Value.R * 255),
+                math.floor(ColorPicker.Value.G * 255),
+                math.floor(ColorPicker.Value.B * 255),
+            }, ", ")
+        end
+
+        function ColorPicker:Update()
+            ColorPicker:Display()
+
+            Library:SafeCallback(ColorPicker.Callback, ColorPicker.Value)
+            Library:SafeCallback(ColorPicker.Changed, ColorPicker.Value)
+        end
+
+        function ColorPicker:OnChanged(Func)
+            ColorPicker.Changed = Func
+        end
+
+        function ColorPicker:SetValue(HSV, Transparency)
+            local Color = Color3.fromHSV(HSV[1], HSV[2], HSV[3])
+
+            ColorPicker.Transparency = Info.Transparency and Transparency or 0
+            ColorPicker:SetHSVFromRGB(Color)
+            ColorPicker:Display()
+        end
+
+        function ColorPicker:SetValueRGB(Color, Transparency)
+            ColorPicker.Transparency = Info.Transparency and Transparency or 0
+            ColorPicker:SetHSVFromRGB(Color)
+            ColorPicker:Display()
+        end
+
+        Holder.MouseButton1Click:Connect(ColorMenu.Toggle)
+        Holder.MouseButton2Click:Connect(ContextMenu.Toggle)
+
+        SatVipMap.InputBegan:Connect(function(Input: InputObject)
+            while IsClickInput(Input) do
+                local MinX = SatVipMap.AbsolutePosition.X
+                local MaxX = MinX + SatVipMap.AbsoluteSize.X
+                local LocationX = math.clamp(Mouse.X, MinX, MaxX)
+
+                local MinY = SatVipMap.AbsolutePosition.Y
+                local MaxY = MinY + SatVipMap.AbsoluteSize.Y
+                local LocationY = math.clamp(Mouse.Y, MinY, MaxY)
+
+                local OldSat = ColorPicker.Sat
+                local OldVib = ColorPicker.Vib
+                ColorPicker.Sat = (LocationX - MinX) / (MaxX - MinX)
+                ColorPicker.Vib = 1 - ((LocationY - MinY) / (MaxY - MinY))
+
+                if ColorPicker.Sat ~= OldSat or ColorPicker.Vib ~= OldVib then
+                    ColorPicker:Update()
+                end
+
+                RunService.RenderStepped:Wait()
+            end
+        end)
+        HueSelector.InputBegan:Connect(function(Input: InputObject)
+            while IsClickInput(Input) do
+                local Min = HueSelector.AbsolutePosition.Y
+                local Max = Min + HueSelector.AbsoluteSize.Y
+                local Location = math.clamp(Mouse.Y, Min, Max)
+
+                local OldHue = ColorPicker.Hue
+                ColorPicker.Hue = (Location - Min) / (Max - Min)
+
+                if ColorPicker.Hue ~= OldHue then
+                    ColorPicker:Update()
+                end
+
+                RunService.RenderStepped:Wait()
+            end
+        end)
+        if TransparencySelector then
+            TransparencySelector.InputBegan:Connect(function(Input: InputObject)
+                while IsClickInput(Input) do
+                    local Min = TransparencySelector.AbsolutePosition.Y
+                    local Max = TransparencySelector.AbsolutePosition.Y + TransparencySelector.AbsoluteSize.Y
+                    local Location = math.clamp(Mouse.Y, Min, Max)
+
+                    local OldTransparency = ColorPicker.Transparency
+                    ColorPicker.Transparency = (Location - Min) / (Max - Min)
+
+                    if ColorPicker.Transparency ~= OldTransparency then
+                        ColorPicker:Update()
+                    end
+
+                    RunService.RenderStepped:Wait()
+                end
+            end)
+        end
+
+        HueBox.FocusLost:Connect(function(Enter)
+            if not Enter then
+                return
+            end
+
+            local Success, Color = pcall(Color3.fromHex, HueBox.Text)
+            if Success and typeof(Color) == "Color3" then
+                ColorPicker.Hue, ColorPicker.Sat, ColorPicker.Vib = Color:ToHSV()
+            end
+
+            ColorPicker:Update()
+        end)
+        RgbBox.FocusLost:Connect(function(Enter)
+            if not Enter then
+                return
+            end
+
+            local R, G, B = RgbBox.Text:match("(%d+),%s*(%d+),%s*(%d+)")
+            if R and G and B then
+                ColorPicker:SetHSVFromRGB(Color3.fromRGB(R, G, B))
+            end
+
+            ColorPicker:Update()
+        end)
+
+        ColorPicker:Display()
+
+        if ParentObj.Addons then
+            table.insert(ParentObj.Addons, ColorPicker)
+        end
+
+        Options[Idx] = ColorPicker
+
+        return self
+    end
+
+    BaseAddons.__index = Funcs
+    BaseAddons.__namecall = function(_, Key, ...)
+        return Funcs[Key](...)
+    end
+end
+
+local BaseGroupbox = {}
+do
+    local Funcs = {}
+
+    function Funcs:AddDivider()
+        local Groupbox = self
+        local Container = Groupbox.Container
+
+        local Holder = New("Frame", {
+            BackgroundColor3 = "MainColor",
+            BorderColor3 = "OutlineColor",
+            BorderSizePixel = 1,
+            Size = UDim2.new(1, 0, 0, 2),
+            Parent = Container,
+        })
+
+        Groupbox:Resize()
+
+        table.insert(Groupbox.Elements, {
+            Holder = Holder,
+            Type = "Divider",
+        })
+    end
+
+    function Funcs:AddLabel(...)
+        local Data = {}
+
+        local First = select(1, ...)
+        local Second = select(2, ...)
+
+        if typeof(First) == "table" or typeof(Second) == "table" then
+            local Params = typeof(First) == "table" and First or Second
+
+            Data.Text = Params.Text or ""
+            Data.DoesWrap = Params.DoesWrap or false
+            Data.Size = Params.Size or 14
+            Data.Visible = Params.Visible or true
+            Data.Idx = typeof(Second) == "table" and First or nil
+        else
+            Data.Text = First or ""
+            Data.DoesWrap = Second or false
+            Data.Size = 14
+            Data.Visible = true
+            Data.Idx = select(3, ...) or nil
+        end
+
+        local Groupbox = self
+        local Container = Groupbox.Container
+
+        local Label = {
+            Text = Data.Text,
+            DoesWrap = Data.DoesWrap,
+
+            Visible = Data.Visible,
+            Type = "Label",
+        }
+
+        local TextLabel = New("TextLabel", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, 18),
+            Text = Label.Text,
+            TextSize = Data.Size,
+            TextWrapped = Label.DoesWrap,
+            TextXAlignment = Groupbox.IsKeyTab and Enum.TextXAlignment.Center or Enum.TextXAlignment.Left,
+            Parent = Container,
+        })
+
+        function Label:SetVisible(Visible: boolean)
+            Label.Visible = Visible
+
+            TextLabel.Visible = Label.Visible
+            Groupbox:Resize()
+        end
+
+        function Label:SetText(Text: string)
+            Label.Text = Text
+            TextLabel.Text = Text
+
+            if Label.DoesWrap then
+                local _, Y =
+                    Library:GetTextBounds(Label.Text, TextLabel.FontFace, TextLabel.TextSize, TextLabel.AbsoluteSize.X)
+                TextLabel.Size = UDim2.new(1, 0, 0, Y + 4 * Library.DPIScale)
+            end
+
+            Groupbox:Resize()
+        end
+
+        if Label.DoesWrap then
+            local _, Y =
+                Library:GetTextBounds(Label.Text, TextLabel.FontFace, TextLabel.TextSize, TextLabel.AbsoluteSize.X)
+            TextLabel.Size = UDim2.new(1, 0, 0, Y + 4 * Library.DPIScale)
+        else
+            New("UIListLayout", {
+                FillDirection = Enum.FillDirection.Horizontal,
+                HorizontalAlignment = Enum.HorizontalAlignment.Right,
+                Padding = UDim.new(0, 6),
+                Parent = TextLabel,
+            })
+        end
+
+        if Data.DoesWrap then
+            local Last = TextLabel.AbsoluteSize
+
+            TextLabel:GetPropertyChangedSignal("AbsoluteSize"):Connect(function()
+                if TextLabel.AbsoluteSize == Last then
+                    return
+                end
+
+                local _, Y =
+                    Library:GetTextBounds(Label.Text, TextLabel.FontFace, TextLabel.TextSize, TextLabel.AbsoluteSize.X)
+                TextLabel.Size = UDim2.new(1, 0, 0, Y + 4 * Library.DPIScale)
+
+                Last = TextLabel.AbsoluteSize
+                Groupbox:Resize()
+            end)
+        end
+
+        Groupbox:Resize()
+
+        Label.TextLabel = TextLabel
+        Label.Container = Container
+        if not Data.DoesWrap then
+            setmetatable(Label, BaseAddons)
+        end
+
+        Label.Holder = TextLabel
+        table.insert(Groupbox.Elements, Label)
+
+        if Data.Idx then
+            Labels[Data.Idx] = Label
+        else
+            table.insert(Labels, Label)
+        end
+
+        return Label
+    end
+
+    function Funcs:AddButton(...)
+        local function GetInfo(...)
+            local Info = {}
+
+            local First = select(1, ...)
+            local Second = select(2, ...)
+
+            if typeof(First) == "table" or typeof(Second) == "table" then
+                local Params = typeof(First) == "table" and First or Second
+
+                Info.Text = Params.Text or ""
+                Info.Func = Params.Func or function() end
+                Info.DoubleClick = Params.DoubleClick
+
+                Info.Tooltip = Params.Tooltip
+                Info.DisabledTooltip = Params.DisabledTooltip
+
+                Info.Risky = Params.Risky or false
+                Info.Disabled = Params.Disabled or false
+                Info.Visible = Params.Visible or true
+                Info.Idx = typeof(Second) == "table" and First or nil
+            else
+                Info.Text = First or ""
+                Info.Func = Second or function() end
+                Info.DoubleClick = false
+
+                Info.Tooltip = nil
+                Info.DisabledTooltip = nil
+
+                Info.Risky = false
+                Info.Disabled = false
+                Info.Visible = true
+                Info.Idx = select(3, ...) or nil
+            end
+
+            return Info
+        end
+        local Info = GetInfo(...)
+
+        local Groupbox = self
+        local Container = Groupbox.Container
+
+        local Button = {
+            Text = Info.Text,
+            Func = Info.Func,
+            DoubleClick = Info.DoubleClick,
+
+            Tooltip = Info.Tooltip,
+            DisabledTooltip = Info.DisabledTooltip,
+            TooltipTable = nil,
+
+            Risky = Info.Risky,
+            Disabled = Info.Disabled,
+            Visible = Info.Visible,
+
+            Tween = nil,
+            Type = "Button",
+        }
+
+        local Holder = New("Frame", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, 21),
+            Parent = Container,
+        })
+
+        New("UIListLayout", {
+            FillDirection = Enum.FillDirection.Horizontal,
+            HorizontalFlex = Enum.UIFlexAlignment.Fill,
+            Padding = UDim.new(0, 9),
+            Parent = Holder,
+        })
+
+        local function CreateButton(Button)
+            local Base = New("TextButton", {
+                Active = not Button.Disabled,
+                BackgroundColor3 = Button.Disabled and "BackgroundColor" or "MainColor",
+                Size = UDim2.fromScale(1, 1),
+                Text = Button.Text,
+                TextSize = 14,
+                TextTransparency = 0.4,
+                Visible = Button.Visible,
+                Parent = Holder,
+            })
+
+            local Stroke = New("UIStroke", {
+                Color = "OutlineColor",
+                Transparency = Button.Disabled and 0.5 or 0,
+                Parent = Base,
+            })
+
+            return Base, Stroke
+        end
+
+        local function InitEvents(Button)
+            Button.Base.MouseEnter:Connect(function()
+                if Button.Disabled then
+                    return
+                end
+
+                Button.Tween = TweenService:Create(Button.Base, Library.TweenInfo, {
+                    TextTransparency = 0,
+                })
+                Button.Tween:Play()
+            end)
+            Button.Base.MouseLeave:Connect(function()
+                if Button.Disabled then
+                    return
+                end
+
+                Button.Tween = TweenService:Create(Button.Base, Library.TweenInfo, {
+                    TextTransparency = 0.4,
+                })
+                Button.Tween:Play()
+            end)
+
+            Button.Base.MouseButton1Click:Connect(function()
+                if Button.Disabled or Button.Locked then
+                    return
+                end
+
+                if Button.DoubleClick then
+                    Button.Locked = true
+
+                    Button.Base.Text = "Are you sure?"
+                    Button.Base.TextColor3 = Library.Scheme.AccentColor
+                    Library.Registry[Button.Base].TextColor3 = "AccentColor"
+
+                    local Clicked = WaitForEvent(Button.Base.MouseButton1Click, 0.5)
+
+                    Button.Base.Text = Button.Text
+                    Button.Base.TextColor3 = Button.Risky and Library.Scheme.Red or Library.Scheme.FontColor
+                    Library.Registry[Button.Base].TextColor3 = Button.Risky and "Red" or "FontColor"
+
+                    if Clicked then
+                        Library:SafeCallback(Button.Func)
+                    end
+
+                    RunService.RenderStepped:Wait() --// Mouse Button fires without waiting (i hate roblox)
+                    Button.Locked = false
+                    return
+                end
+
+                Library:SafeCallback(Button.Func)
+            end)
+        end
+
+        Button.Base, Button.Stroke = CreateButton(Button)
+        InitEvents(Button)
+
+        function Button:AddButton(...)
+            local Info = GetInfo(...)
+
+            local SubButton = {
+                Text = Info.Text,
+                Func = Info.Func,
+                DoubleClick = Info.DoubleClick,
+
+                Tooltip = Info.Tooltip,
+                DisabledTooltip = Info.DisabledTooltip,
+                TooltipTable = nil,
+
+                Risky = Info.Risky,
+                Disabled = Info.Disabled,
+                Visible = Info.Visible,
+
+                Tween = nil,
+                Type = "SubButton",
+            }
+
+            Button.SubButton = SubButton
+            SubButton.Base, SubButton.Stroke = CreateButton(SubButton)
+            InitEvents(SubButton)
+
+            function SubButton:UpdateColors()
+                if Library.Unloaded then
+                    return
+                end
+
+                StopTween(SubButton.Tween)
+
+                SubButton.Base.BackgroundColor3 = SubButton.Disabled and Library.Scheme.BackgroundColor
+                    or Library.Scheme.MainColor
+                SubButton.Base.TextTransparency = SubButton.Disabled and 0.8 or 0.4
+                SubButton.Stroke.Transparency = SubButton.Disabled and 0.5 or 0
+
+                Library.Registry[SubButton.Base].BackgroundColor3 = SubButton.Disabled and "BackgroundColor"
+                    or "MainColor"
+            end
+
+            function SubButton:SetDisabled(Disabled: boolean)
+                SubButton.Disabled = Disabled
+
+                if SubButton.TooltipTable then
+                    SubButton.TooltipTable.Disabled = SubButton.Disabled
+                end
+
+                SubButton.Base.Active = not SubButton.Disabled
+                SubButton:UpdateColors()
+            end
+
+            function SubButton:SetVisible(Visible: boolean)
+                SubButton.Visible = Visible
+
+                SubButton.Base.Visible = SubButton.Visible
+                Groupbox:Resize()
+            end
+
+            function SubButton:SetText(Text: string)
+                SubButton.Text = Text
+                SubButton.Base.Text = Text
+            end
+
+            if typeof(SubButton.Tooltip) == "string" or typeof(SubButton.DisabledTooltip) == "string" then
+                SubButton.TooltipTable =
+                    Library:AddTooltip(SubButton.Tooltip, SubButton.DisabledTooltip, SubButton.Base)
+                SubButton.TooltipTable.Disabled = SubButton.Disabled
+            end
+
+            if SubButton.Risky then
+                SubButton.Base.TextColor3 = Library.Scheme.Red
+                Library.Registry[SubButton.Base].TextColor3 = "Red"
+            end
+
+            SubButton:UpdateColors()
+
+            if Info.Idx then
+                Buttons[Info.Idx] = SubButton
+            else
+                table.insert(Buttons, SubButton)
+            end
+
+            return SubButton
+        end
+
+        function Button:UpdateColors()
+            if Library.Unloaded then
+                return
+            end
+
+            StopTween(Button.Tween)
+
+            Button.Base.BackgroundColor3 = Button.Disabled and Library.Scheme.BackgroundColor
+                or Library.Scheme.MainColor
+            Button.Base.TextTransparency = Button.Disabled and 0.8 or 0.4
+            Button.Stroke.Transparency = Button.Disabled and 0.5 or 0
+
+            Library.Registry[Button.Base].BackgroundColor3 = Button.Disabled and "BackgroundColor" or "MainColor"
+        end
+
+        function Button:SetDisabled(Disabled: boolean)
+            Button.Disabled = Disabled
+
+            if Button.TooltipTable then
+                Button.TooltipTable.Disabled = Button.Disabled
+            end
+
+            Button.Base.Active = not Button.Disabled
+            Button:UpdateColors()
+        end
+
+        function Button:SetVisible(Visible: boolean)
+            Button.Visible = Visible
+
+            Holder.Visible = Button.Visible
+            Groupbox:Resize()
+        end
+
+        function Button:SetText(Text: string)
+            Button.Text = Text
+            Button.Base.Text = Text
+        end
+
+        if typeof(Button.Tooltip) == "string" or typeof(Button.DisabledTooltip) == "string" then
+            Button.TooltipTable = Library:AddTooltip(Button.Tooltip, Button.DisabledTooltip, Button.Base)
+            Button.TooltipTable.Disabled = Button.Disabled
+        end
+
+        if Button.Risky then
+            Button.Base.TextColor3 = Library.Scheme.Red
+            Library.Registry[Button.Base].TextColor3 = "Red"
+        end
+
+        Button:UpdateColors()
+        Groupbox:Resize()
+
+        Button.Holder = Holder
+        table.insert(Groupbox.Elements, Button)
+
+        if Info.Idx then
+            Buttons[Info.Idx] = Button
+        else
+            table.insert(Buttons, Button)
+        end
+
+        return Button
+    end
+
+    function Funcs:AddCheckbox(Idx, Info)
+        Info = Library:Validate(Info, Templates.Toggle)
+
+        local Groupbox = self
+        local Container = Groupbox.Container
+
+        local Toggle = {
+            Text = Info.Text,
+            Value = Info.Default,
+
+            Tooltip = Info.Tooltip,
+            DisabledTooltip = Info.DisabledTooltip,
+            TooltipTable = nil,
+
+            Callback = Info.Callback,
+            Changed = Info.Changed,
+
+            Risky = Info.Risky,
+            Disabled = Info.Disabled,
+            Visible = Info.Visible,
+            Addons = {},
+
+            Type = "Toggle",
+        }
+
+        local Button = New("TextButton", {
+            Active = not Toggle.Disabled,
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, 18),
+            Text = "",
+            Visible = Toggle.Visible,
+            Parent = Container,
+        })
+
+        local Label = New("TextLabel", {
+            BackgroundTransparency = 1,
+            Position = UDim2.fromOffset(26, 0),
+            Size = UDim2.new(1, -26, 1, 0),
+            Text = Toggle.Text,
+            TextSize = 14,
+            TextTransparency = 0.4,
+            TextXAlignment = Enum.TextXAlignment.Left,
+            Parent = Button,
+        })
+
+        New("UIListLayout", {
+            FillDirection = Enum.FillDirection.Horizontal,
+            HorizontalAlignment = Enum.HorizontalAlignment.Right,
+            Padding = UDim.new(0, 6),
+            Parent = Label,
+        })
+
+        local Checkbox = New("Frame", {
+            BackgroundColor3 = "MainColor",
+            Size = UDim2.fromScale(1, 1),
+            SizeConstraint = Enum.SizeConstraint.RelativeYY,
+            Parent = Button,
+        })
+        New("UICorner", {
+            CornerRadius = UDim.new(0, Library.CornerRadius / 2),
+            Parent = Checkbox,
+        })
+
+        local CheckboxStroke = New("UIStroke", {
+            Color = "OutlineColor",
+            Parent = Checkbox,
+        })
+
+        local CheckImage = New("ImageLabel", {
+            Image = CheckIcon and CheckIcon.Url or "",
+            ImageColor3 = "FontColor",
+            ImageRectOffset = CheckIcon and CheckIcon.ImageRectOffset or Vector2.zero,
+            ImageRectSize = CheckIcon and CheckIcon.ImageRectSize or Vector2.zero,
+            ImageTransparency = 1,
+            Position = UDim2.fromOffset(2, 2),
+            Size = UDim2.new(1, -4, 1, -4),
+            Parent = Checkbox,
+        })
+
+        function Toggle:UpdateColors()
+            Toggle:Display()
+        end
+
+        function Toggle:Display()
+            if Library.Unloaded then
+                return
+            end
+
+            CheckboxStroke.Transparency = Toggle.Disabled and 0.5 or 0
+
+            if Toggle.Disabled then
+                Label.TextTransparency = 0.8
+                CheckImage.ImageTransparency = Toggle.Value and 0.8 or 1
+
+                Checkbox.BackgroundColor3 = Library.Scheme.BackgroundColor
+                Library.Registry[Checkbox].BackgroundColor3 = "BackgroundColor"
+
+                return
+            end
+
+            TweenService:Create(Label, Library.TweenInfo, {
+                TextTransparency = Toggle.Value and 0 or 0.4,
+            }):Play()
+            TweenService:Create(CheckImage, Library.TweenInfo, {
+                ImageTransparency = Toggle.Value and 0 or 1,
+            }):Play()
+
+            Checkbox.BackgroundColor3 = Library.Scheme.MainColor
+            Library.Registry[Checkbox].BackgroundColor3 = "MainColor"
+        end
+
+        function Toggle:OnChanged(Func)
+            Toggle.Changed = Func
+        end
+
+        function Toggle:SetValue(Value)
+            if Toggle.Disabled then
+                return
+            end
+
+            Toggle.Value = Value
+            Toggle:Display()
+
+            for _, Addon in pairs(Toggle.Addons) do
+                if Addon.Type == "KeyPicker" and Addon.SyncToggleState then
+                    Addon.Toggled = Toggle.Value
+                    Addon:Update()
+                end
+            end
+
+            Library:SafeCallback(Toggle.Callback, Toggle.Value)
+            Library:SafeCallback(Toggle.Changed, Toggle.Value)
+            Library:UpdateDependencyBoxes()
+        end
+
+        function Toggle:SetDisabled(Disabled: boolean)
+            Toggle.Disabled = Disabled
+
+            if Toggle.TooltipTable then
+                Toggle.TooltipTable.Disabled = Toggle.Disabled
+            end
+
+            for _, Addon in pairs(Toggle.Addons) do
+                if Addon.Type == "KeyPicker" and Addon.SyncToggleState then
+                    Addon:Update()
+                end
+            end
+
+            Button.Active = not Toggle.Disabled
+            Toggle:Display()
+        end
+
+        function Toggle:SetVisible(Visible: boolean)
+            Toggle.Visible = Visible
+
+            Button.Visible = Toggle.Visible
+            Groupbox:Resize()
+        end
+
+        function Toggle:SetText(Text: string)
+            Toggle.Text = Text
+            Label.Text = Text
+        end
+
+        Button.MouseButton1Click:Connect(function()
+            if Toggle.Disabled then
+                return
+            end
+
+            Toggle:SetValue(not Toggle.Value)
+        end)
+
+        if typeof(Toggle.Tooltip) == "string" or typeof(Toggle.DisabledTooltip) == "string" then
+            Toggle.TooltipTable = Library:AddTooltip(Toggle.Tooltip, Toggle.DisabledTooltip, Button)
+            Toggle.TooltipTable.Disabled = Toggle.Disabled
+        end
+
+        if Toggle.Risky then
+            Label.TextColor3 = Library.Scheme.Red
+            Library.Registry[Label].TextColor3 = "Red"
+        end
+
+        Toggle:Display()
+        Groupbox:Resize()
+
+        Toggle.TextLabel = Label
+        Toggle.Container = Container
+        setmetatable(Toggle, BaseAddons)
+
+        Toggle.Holder = Button
+        table.insert(Groupbox.Elements, Toggle)
+
+        Toggles[Idx] = Toggle
+
+        return Toggle
+    end
+
+    function Funcs:AddToggle(Idx, Info)
+        if Library.ForceCheckbox then
+            return Funcs.AddCheckbox(self, Idx, Info)
+        end
+
+        Info = Library:Validate(Info, Templates.Toggle)
+
+        local Groupbox = self
+        local Container = Groupbox.Container
+
+        local Toggle = {
+            Text = Info.Text,
+            Value = Info.Default,
+
+            Tooltip = Info.Tooltip,
+            DisabledTooltip = Info.DisabledTooltip,
+            TooltipTable = nil,
+
+            Callback = Info.Callback,
+            Changed = Info.Changed,
+
+            Risky = Info.Risky,
+            Disabled = Info.Disabled,
+            Visible = Info.Visible,
+            Addons = {},
+
+            Type = "Toggle",
+        }
+
+        local Button = New("TextButton", {
+            Active = not Toggle.Disabled,
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, 18),
+            Text = "",
+            Visible = Toggle.Visible,
+            Parent = Container,
+        })
+
+        local Label = New("TextLabel", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, -40, 1, 0),
+            Text = Toggle.Text,
+            TextSize = 14,
+            TextTransparency = 0.4,
+            TextXAlignment = Enum.TextXAlignment.Left,
+            Parent = Button,
+        })
+
+        New("UIListLayout", {
+            FillDirection = Enum.FillDirection.Horizontal,
+            HorizontalAlignment = Enum.HorizontalAlignment.Right,
+            Padding = UDim.new(0, 6),
+            Parent = Label,
+        })
+
+        local Switch = New("Frame", {
+            AnchorPoint = Vector2.new(1, 0),
+            BackgroundColor3 = "MainColor",
+            Position = UDim2.fromScale(1, 0),
+            Size = UDim2.fromOffset(32, 18),
+            Parent = Button,
+        })
+        New("UICorner", {
+            CornerRadius = UDim.new(1, 0),
+            Parent = Switch,
+        })
+        New("UIPadding", {
+            PaddingBottom = UDim.new(0, 2),
+            PaddingLeft = UDim.new(0, 2),
+            PaddingRight = UDim.new(0, 2),
+            PaddingTop = UDim.new(0, 2),
+            Parent = Switch,
+        })
+        local SwitchStroke = New("UIStroke", {
+            Color = "OutlineColor",
+            Parent = Switch,
+        })
+
+        local Ball = New("Frame", {
+            BackgroundColor3 = "FontColor",
+            Size = UDim2.fromScale(1, 1),
+            SizeConstraint = Enum.SizeConstraint.RelativeYY,
+            Parent = Switch,
+        })
+        New("UICorner", {
+            CornerRadius = UDim.new(1, 0),
+            Parent = Ball,
+        })
+
+        function Toggle:UpdateColors()
+            Toggle:Display()
+        end
+
+        function Toggle:Display()
+            if Library.Unloaded then
+                return
+            end
+
+            local Offset = Toggle.Value and 1 or 0
+
+            Switch.BackgroundTransparency = Toggle.Disabled and 0.75 or 0
+            SwitchStroke.Transparency = Toggle.Disabled and 0.75 or 0
+
+            Switch.BackgroundColor3 = Toggle.Value and Library.Scheme.AccentColor or Library.Scheme.MainColor
+            SwitchStroke.Color = Toggle.Value and Library.Scheme.AccentColor or Library.Scheme.OutlineColor
+
+            Library.Registry[Switch].BackgroundColor3 = Toggle.Value and "AccentColor" or "MainColor"
+            Library.Registry[SwitchStroke].Color = Toggle.Value and "AccentColor" or "OutlineColor"
+
+            if Toggle.Disabled then
+                Label.TextTransparency = 0.8
+                Ball.AnchorPoint = Vector2.new(Offset, 0)
+                Ball.Position = UDim2.fromScale(Offset, 0)
+
+                Ball.BackgroundColor3 = Library:GetDarkerColor(Library.Scheme.FontColor)
+                Library.Registry[Ball].BackgroundColor3 = function()
+                    return Library:GetDarkerColor(Library.Scheme.FontColor)
+                end
+
+                return
+            end
+
+            TweenService:Create(Label, Library.TweenInfo, {
+                TextTransparency = Toggle.Value and 0 or 0.4,
+            }):Play()
+            TweenService:Create(Ball, Library.TweenInfo, {
+                AnchorPoint = Vector2.new(Offset, 0),
+                Position = UDim2.fromScale(Offset, 0),
+            }):Play()
+
+            Ball.BackgroundColor3 = Library.Scheme.FontColor
+            Library.Registry[Ball].BackgroundColor3 = "FontColor"
+        end
+
+        function Toggle:OnChanged(Func)
+            Toggle.Changed = Func
+        end
+
+        function Toggle:SetValue(Value)
+            if Toggle.Disabled then
+                return
+            end
+
+            Toggle.Value = Value
+            Toggle:Display()
+
+            for _, Addon in pairs(Toggle.Addons) do
+                if Addon.Type == "KeyPicker" and Addon.SyncToggleState then
+                    Addon.Toggled = Toggle.Value
+                    Addon:Update()
+                end
+            end
+
+            Library:SafeCallback(Toggle.Callback, Toggle.Value)
+            Library:SafeCallback(Toggle.Changed, Toggle.Value)
+            Library:UpdateDependencyBoxes()
+        end
+
+        function Toggle:SetDisabled(Disabled: boolean)
+            Toggle.Disabled = Disabled
+
+            if Toggle.TooltipTable then
+                Toggle.TooltipTable.Disabled = Toggle.Disabled
+            end
+
+            for _, Addon in pairs(Toggle.Addons) do
+                if Addon.Type == "KeyPicker" and Addon.SyncToggleState then
+                    Addon:Update()
+                end
+            end
+
+            Button.Active = not Toggle.Disabled
+            Toggle:Display()
+        end
+
+        function Toggle:SetVisible(Visible: boolean)
+            Toggle.Visible = Visible
+
+            Button.Visible = Toggle.Visible
+            Groupbox:Resize()
+        end
+
+        function Toggle:SetText(Text: string)
+            Toggle.Text = Text
+            Label.Text = Text
+        end
+
+        Button.MouseButton1Click:Connect(function()
+            if Toggle.Disabled then
+                return
+            end
+
+            Toggle:SetValue(not Toggle.Value)
+        end)
+
+        if typeof(Toggle.Tooltip) == "string" or typeof(Toggle.DisabledTooltip) == "string" then
+            Toggle.TooltipTable = Library:AddTooltip(Toggle.Tooltip, Toggle.DisabledTooltip, Button)
+            Toggle.TooltipTable.Disabled = Toggle.Disabled
+        end
+
+        if Toggle.Risky then
+            Label.TextColor3 = Library.Scheme.Red
+            Library.Registry[Label].TextColor3 = "Red"
+        end
+
+        Toggle:Display()
+        Groupbox:Resize()
+
+        Toggle.TextLabel = Label
+        Toggle.Container = Container
+        setmetatable(Toggle, BaseAddons)
+
+        Toggle.Holder = Button
+        table.insert(Groupbox.Elements, Toggle)
+
+        Toggles[Idx] = Toggle
+
+        return Toggle
+    end
+
+    function Funcs:AddInput(Idx, Info)
+        Info = Library:Validate(Info, Templates.Input)
+
+        local Groupbox = self
+        local Container = Groupbox.Container
+
+        local Input = {
+            Text = Info.Text,
+            Value = Info.Default,
+            Finished = Info.Finished,
+            Numeric = Info.Numeric,
+            ClearTextOnFocus = Info.ClearTextOnFocus,
+            Placeholder = Info.Placeholder,
+            AllowEmpty = Info.AllowEmpty,
+            EmptyReset = Info.EmptyReset,
+
+            Tooltip = Info.Tooltip,
+            DisabledTooltip = Info.DisabledTooltip,
+            TooltipTable = nil,
+
+            Callback = Info.Callback,
+            Changed = Info.Changed,
+
+            Disabled = Info.Disabled,
+            Visible = Info.Visible,
+
+            Type = "Input",
+        }
+
+        local Holder = New("Frame", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, 39),
+            Visible = Input.Visible,
+            Parent = Container,
+        })
+
+        local Label = New("TextLabel", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, 14),
+            Text = Input.Text,
+            TextSize = 14,
+            TextXAlignment = Enum.TextXAlignment.Left,
+            Parent = Holder,
+        })
+
+        local Box = New("TextBox", {
+            AnchorPoint = Vector2.new(0, 1),
+            BackgroundColor3 = "MainColor",
+            BorderColor3 = "OutlineColor",
+            BorderSizePixel = 1,
+            ClearTextOnFocus = not Input.Disabled and Input.ClearTextOnFocus,
+            PlaceholderText = Input.Placeholder,
+            Position = UDim2.fromScale(0, 1),
+            Size = UDim2.new(1, 0, 0, 21),
+            Text = Input.Value,
+            TextEditable = not Input.Disabled,
+            TextScaled = true,
+            TextXAlignment = Enum.TextXAlignment.Left,
+            Parent = Holder,
+        })
+
+        New("UIPadding", {
+            PaddingBottom = UDim.new(0, 3),
+            PaddingLeft = UDim.new(0, 8),
+            PaddingRight = UDim.new(0, 8),
+            PaddingTop = UDim.new(0, 4),
+            Parent = Box,
+        })
+
+        function Input:UpdateColors()
+            if Library.Unloaded then
+                return
+            end
+
+            Label.TextTransparency = Input.Disabled and 0.8 or 0
+            Box.TextTransparency = Input.Disabled and 0.8 or 0
+        end
+
+        function Input:OnChanged(Func)
+            Input.Changed = Func
+        end
+
+        function Input:SetValue(Text)
+            if not Input.AllowEmpty and Trim(Text) == "" then
+                Text = Input.EmptyReset
+            end
+
+            if Info.MaxLength and #Text > Info.MaxLength then
+                Text = Text:sub(1, Info.MaxLength)
+            end
+
+            if Input.Numeric then
+                if #Text > 0 and not tonumber(Text) then
+                    Text = Input.Value
+                end
+            end
+
+            Input.Value = Text
+            Box.Text = Text
+
+            if not Input.Disabled then
+                Library:SafeCallback(Input.Callback, Input.Value)
+                Library:SafeCallback(Input.Changed, Input.Value)
+            end
+        end
+
+        function Input:SetDisabled(Disabled: boolean)
+            Input.Disabled = Disabled
+
+            if Input.TooltipTable then
+                Input.TooltipTable.Disabled = Input.Disabled
+            end
+
+            Box.ClearTextOnFocus = not Input.Disabled and Input.ClearTextOnFocus
+            Box.TextEditable = not Input.Disabled
+            Input:UpdateColors()
+        end
+
+        function Input:SetVisible(Visible: boolean)
+            Input.Visible = Visible
+
+            Holder.Visible = Input.Visible
+            Groupbox:Resize()
+        end
+
+        function Input:SetText(Text: string)
+            Input.Text = Text
+            Label.Text = Text
+        end
+
+        if Input.Finished then
+            Box.FocusLost:Connect(function(Enter)
+                if not Enter then
+                    return
+                end
+
+                Input:SetValue(Box.Text)
+            end)
+        else
+            Box:GetPropertyChangedSignal("Text"):Connect(function()
+                Input:SetValue(Box.Text)
+            end)
+        end
+
+        if typeof(Input.Tooltip) == "string" or typeof(Input.DisabledTooltip) == "string" then
+            Input.TooltipTable = Library:AddTooltip(Input.Tooltip, Input.DisabledTooltip, Box)
+            Input.TooltipTable.Disabled = Input.Disabled
+        end
+
+        Groupbox:Resize()
+
+        Input.Holder = Holder
+        table.insert(Groupbox.Elements, Input)
+
+        Options[Idx] = Input
+
+        return Input
+    end
+
+    function Funcs:AddSlider(Idx, Info)
+        Info = Library:Validate(Info, Templates.Slider)
+
+        local Groupbox = self
+        local Container = Groupbox.Container
+
+        local Dragging = false
+        local Slider = {
+            Text = Info.Text,
+            Value = Info.Default,
+            Min = Info.Min,
+            Max = Info.Max,
+
+            Prefix = Info.Prefix,
+            Suffix = Info.Suffix,
+
+            Tooltip = Info.Tooltip,
+            DisabledTooltip = Info.DisabledTooltip,
+            TooltipTable = nil,
+
+            Callback = Info.Callback,
+            Changed = Info.Changed,
+
+            Disabled = Info.Disabled,
+            Visible = Info.Visible,
+
+            Type = "Slider",
+        }
+
+        local Holder = New("Frame", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, Info.Compact and 13 or 31),
+            Visible = Slider.Visible,
+            Parent = Container,
+        })
+
+        local SliderLabel
+        if not Info.Compact then
+            SliderLabel = New("TextLabel", {
+                BackgroundTransparency = 1,
+                Size = UDim2.new(1, 0, 0, 14),
+                Text = Slider.Text,
+                TextSize = 14,
+                TextXAlignment = Enum.TextXAlignment.Left,
+                Parent = Holder,
+            })
+        end
+
+        local Bar = New("TextButton", {
+            Active = not Slider.Disabled,
+            AnchorPoint = Vector2.new(0, 1),
+            BackgroundColor3 = "MainColor",
+            BorderColor3 = "OutlineColor",
+            BorderSizePixel = 1,
+            Position = UDim2.fromScale(0, 1),
+            Size = UDim2.new(1, 0, 0, 13),
+            Text = "",
+            Parent = Holder,
+        })
+
+        local DisplayLabel = New("TextLabel", {
+            BackgroundTransparency = 1,
+            Size = UDim2.fromScale(1, 1),
+            Text = "",
+            TextSize = 14,
+            ZIndex = 2,
+            Parent = Bar,
+        })
+        New("UIStroke", {
+            ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual,
+            Color = "Dark",
+            LineJoinMode = Enum.LineJoinMode.Miter,
+            Parent = DisplayLabel,
+        })
+
+        local Fill = New("Frame", {
+            BackgroundColor3 = "AccentColor",
+            Size = UDim2.fromScale(0.5, 1),
+            Parent = Bar,
+
+            DPIExclude = {
+                Size = true,
+            },
+        })
+
+        function Slider:UpdateColors()
+            if Library.Unloaded then
+                return
+            end
+
+            if SliderLabel then
+                SliderLabel.TextTransparency = Slider.Disabled and 0.8 or 0
+            end
+            DisplayLabel.TextTransparency = Slider.Disabled and 0.8 or 0
+
+            Fill.BackgroundColor3 = Slider.Disabled and Library.Scheme.OutlineColor or Library.Scheme.AccentColor
+            Library.Registry[Fill].BackgroundColor3 = Slider.Disabled and "OutlineColor" or "AccentColor"
+        end
+
+        function Slider:Display()
+            if Library.Unloaded then
+                return
+            end
+
+            if Info.Compact then
+                DisplayLabel.Text = string.format("%s: %s%s%s", Slider.Text, Slider.Prefix, Slider.Value, Slider.Suffix)
+            elseif Info.HideMax then
+                DisplayLabel.Text = string.format("%s%s%s", Slider.Prefix, Slider.Value, Slider.Suffix)
+            else
+                DisplayLabel.Text = string.format(
+                    "%s%s%s/%s%s%s",
+                    Slider.Prefix,
+                    Slider.Value,
+                    Slider.Suffix,
+                    Slider.Prefix,
+                    Slider.Max,
+                    Slider.Suffix
+                )
+            end
+
+            local X = (Slider.Value - Slider.Min) / (Slider.Max - Slider.Min)
+            Fill.Size = UDim2.fromScale(X, 1)
+        end
+
+        function Slider:OnChanged(Func)
+            Slider.Changed = Func
+        end
+
+        function Slider:SetMax(Value)
+            assert(Value > Slider.Min, "Max value cannot be less than the current min value.")
+
+            Slider.Value = math.clamp(Slider.Value, Slider.Min, Value)
+            Slider.Max = Value
+            Slider:Display()
+        end
+
+        function Slider:SetMin(Value)
+            assert(Value < Slider.Max, "Min value cannot be greater than the current max value.")
+
+            Slider.Value = math.clamp(Slider.Value, Value, Slider.Max)
+            Slider.Min = Value
+            Slider:Display()
+        end
+
+        function Slider:SetValue(Str)
+            if Slider.Disabled then
+                return
+            end
+
+            local Num = tonumber(Str)
+            if not Num then
+                return
+            end
+
+            Num = math.clamp(Num, Slider.Min, Slider.Max)
+
+            Slider.Value = Num
+            Slider:Display()
+
+            Library:SafeCallback(Slider.Callback, Slider.Value)
+            Library:SafeCallback(Slider.Changed, Slider.Value)
+        end
+
+        function Slider:SetDisabled(Disabled: boolean)
+            Slider.Disabled = Disabled
+
+            if Slider.TooltipTable then
+                Slider.TooltipTable.Disabled = Slider.Disabled
+            end
+
+            Bar.Active = not Slider.Disabled
+            Slider:UpdateColors()
+        end
+
+        function Slider:SetVisible(Visible: boolean)
+            Slider.Visible = Visible
+
+            Holder.Visible = Slider.Visible
+            Groupbox:Resize()
+        end
+
+        function Slider:SetText(Text: string)
+            Slider.Text = Text
+            if SliderLabel then
+                SliderLabel.Text = Text
+                return
+            end
+            Slider:Display()
+        end
+
+        function Slider:SetPrefix(Prefix: string)
+            Slider.Prefix = Prefix
+            Slider:Display()
+        end
+
+        function Slider:SetSuffix(Suffix: string)
+            Slider.Suffix = Suffix
+            Slider:Display()
+        end
+
+        Bar.InputBegan:Connect(function(Input: InputObject)
+            if not IsClickInput(Input) or Slider.Disabled then
+                return
+            end
+
+            for _, Side in pairs(Library.ActiveTab.Sides) do
+                Side.ScrollingEnabled = false
+            end
+
+            while IsClickInput(Input) do
+                local Location = Mouse.X
+                local Scale = math.clamp((Location - Bar.AbsolutePosition.X) / Bar.AbsoluteSize.X, 0, 1)
+
+                local OldValue = Slider.Value
+                Slider.Value = Round(Slider.Min + ((Slider.Max - Slider.Min) * Scale), Info.Rounding)
+
+                Slider:Display()
+                if Slider.Value ~= OldValue then
+                    Library:SafeCallback(Slider.Callback, Slider.Value)
+                    Library:SafeCallback(Slider.Changed, Slider.Value)
+                end
+
+                RunService.RenderStepped:Wait()
+            end
+
+            for _, Side in pairs(Library.ActiveTab.Sides) do
+                Side.ScrollingEnabled = true
+            end
+        end)
+
+        if typeof(Slider.Tooltip) == "string" or typeof(Slider.DisabledTooltip) == "string" then
+            Slider.TooltipTable = Library:AddTooltip(Slider.Tooltip, Slider.DisabledTooltip, Bar)
+            Slider.TooltipTable.Disabled = Slider.Disabled
+        end
+
+        Slider:UpdateColors()
+        Slider:Display()
+        Groupbox:Resize()
+
+        Slider.Holder = Holder
+        table.insert(Groupbox.Elements, Slider)
+
+        Options[Idx] = Slider
+
+        return Slider
+    end
+
+    function Funcs:AddDropdown(Idx, Info)
+        Info = Library:Validate(Info, Templates.Dropdown)
+
+        local Groupbox = self
+        local Container = Groupbox.Container
+
+        if Info.SpecialType == "Player" then
+            Info.Values = GetPlayers(Info.ExcludeLocalPlayer)
+            Info.AllowNull = true
+        elseif Info.SpecialType == "Team" then
+            Info.Values = GetTeams()
+            Info.AllowNull = true
+        end
+        local Dropdown = {
+            Text = typeof(Info.Text) == "string" and Info.Text or nil,
+            Value = Info.Multi and {} or nil,
+            Values = Info.Values,
+            DisabledValues = Info.DisabledValues,
+
+            SpecialType = Info.SpecialType,
+            ExcludeLocalPlayer = Info.ExcludeLocalPlayer,
+
+            Tooltip = Info.Tooltip,
+            DisabledTooltip = Info.DisabledTooltip,
+            TooltipTable = nil,
+
+            Callback = Info.Callback,
+            Changed = Info.Changed,
+
+            Disabled = Info.Disabled,
+            Visible = Info.Visible,
+
+            Type = "Dropdown",
+        }
+
+        local Holder = New("Frame", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, Dropdown.Text and 39 or 21),
+            Visible = Dropdown.Visible,
+            Parent = Container,
+        })
+
+        local Label = New("TextLabel", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, 14),
+            Text = Dropdown.Text,
+            TextSize = 14,
+            TextXAlignment = Enum.TextXAlignment.Left,
+            Visible = not not Info.Text,
+            Parent = Holder,
+        })
+
+        local Display = New("TextButton", {
+            Active = not Dropdown.Disabled,
+            AnchorPoint = Vector2.new(0, 1),
+            BackgroundColor3 = "MainColor",
+            BorderColor3 = "OutlineColor",
+            BorderSizePixel = 1,
+            Position = UDim2.fromScale(0, 1),
+            Size = UDim2.new(1, 0, 0, 21),
+            Text = "---",
+            TextSize = 14,
+            TextXAlignment = Enum.TextXAlignment.Left,
+            Parent = Holder,
+        })
+
+        New("UIPadding", {
+            PaddingLeft = UDim.new(0, 8),
+            PaddingRight = UDim.new(0, 4),
+            Parent = Display,
+        })
+
+        local ArrowImage = New("ImageLabel", {
+            AnchorPoint = Vector2.new(1, 0.5),
+            Image = ArrowIcon and ArrowIcon.Url or "",
+            ImageColor3 = "FontColor",
+            ImageRectOffset = ArrowIcon and ArrowIcon.ImageRectOffset or Vector2.zero,
+            ImageRectSize = ArrowIcon and ArrowIcon.ImageRectSize or Vector2.zero,
+            ImageTransparency = 0.5,
+            Position = UDim2.fromScale(1, 0.5),
+            Size = UDim2.fromOffset(16, 16),
+            Parent = Display,
+        })
+
+        local SearchBox
+        if Info.Searchable then
+            SearchBox = New("TextBox", {
+                BackgroundTransparency = 1,
+                PlaceholderText = "Search...",
+                Position = UDim2.fromOffset(-8, 0),
+                Size = UDim2.new(1, -12, 1, 0),
+                TextSize = 14,
+                TextXAlignment = Enum.TextXAlignment.Left,
+                Visible = false,
+                Parent = Display,
+            })
+            New("UIPadding", {
+                PaddingLeft = UDim.new(0, 8),
+                Parent = SearchBox,
+            })
+        end
+
+        local MenuTable = Library:AddContextMenu(
+            Display,
+            function()
+                return UDim2.fromOffset(Display.AbsoluteSize.X, 0)
+            end,
+            function()
+                return { 0.5, Display.AbsoluteSize.Y + 1.5 }
+            end,
+            2,
+            function(Active: boolean)
+                Display.TextTransparency = (Active and SearchBox) and 1 or 0
+                ArrowImage.ImageTransparency = Active and 0 or 0.5
+                ArrowImage.Rotation = Active and 180 or 0
+                if SearchBox then
+                    SearchBox.Text = ""
+                    SearchBox.Visible = Active
+                end
+            end
+        )
+        Dropdown.Menu = MenuTable
+        Library:UpdateDPI(MenuTable.Menu, {
+            Position = false,
+            Size = false,
+        })
+
+        function Dropdown:RecalculateListSize(Count)
+            local Y = math.clamp(
+                (Count or GetTableSize(Dropdown.Values)) * (21 * Library.DPIScale),
+                0,
+                Info.MaxVisibleDropdownItems * (21 * Library.DPIScale)
+            )
+
+            MenuTable:SetSize(function()
+                return UDim2.fromOffset(Display.AbsoluteSize.X, Y)
+            end)
+        end
+
+        function Dropdown:UpdateColors()
+            if Library.Unloaded then
+                return
+            end
+
+            Label.TextTransparency = Dropdown.Disabled and 0.8 or 0
+            Display.TextTransparency = Dropdown.Disabled and 0.8 or 0
+            ArrowImage.ImageTransparency = Dropdown.Disabled and 0.8 or MenuTable.Active and 0 or 0.5
+        end
+
+        function Dropdown:Display()
+            if Library.Unloaded then
+                return
+            end
+
+            local Str = ""
+
+            if Info.Multi then
+                for _, Value in pairs(Dropdown.Values) do
+                    if Dropdown.Value[Value] then
+                        Str = Str
+                            .. (Info.FormatDisplayValue and tostring(Info.FormatDisplayValue(Value)) or tostring(Value))
+                            .. ", "
+                    end
+                end
+
+                Str = Str:sub(1, #Str - 2)
+            else
+                Str = Dropdown.Value and tostring(Dropdown.Value) or ""
+                if Str ~= "" and Info.FormatDisplayValue then
+                    Str = tostring(Info.FormatDisplayValue(Str))
+                end
+            end
+
+            if #Str > 25 then
+                Str = Str:sub(1, 22) .. "..."
+            end
+
+            Display.Text = (Str == "" and "---" or Str)
+        end
+
+        function Dropdown:OnChanged(Func)
+            Dropdown.Changed = Func
+        end
+
+        function Dropdown:GetActiveValues()
+            if Info.Multi then
+                local Table = {}
+
+                for Value, _ in pairs(Dropdown.Value) do
+                    table.insert(Table, Value)
+                end
+
+                return Table
+            end
+
+            return Dropdown.Value and 1 or 0
+        end
+
+        local Buttons = {}
+        function Dropdown:BuildDropdownList()
+            local Values = Dropdown.Values
+            local DisabledValues = Dropdown.DisabledValues
+
+            for Button, _ in pairs(Buttons) do
+                Button:Destroy()
+            end
+            table.clear(Buttons)
+
+            local Count = 0
+            for _, Value in pairs(Values) do
+                if SearchBox and not tostring(Value):lower():match(SearchBox.Text:lower()) then
+                    continue
+                end
+
+                Count += 1
+                local IsDisabled = table.find(DisabledValues, Value)
+                local Table = {}
+
+                local Button = New("TextButton", {
+                    BackgroundColor3 = "MainColor",
+                    BackgroundTransparency = 1,
+                    LayoutOrder = IsDisabled and 1 or 0,
+                    Size = UDim2.new(1, 0, 0, 21),
+                    Text = tostring(Value),
+                    TextSize = 14,
+                    TextTransparency = 0.5,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    Parent = MenuTable.Menu,
+                })
+                New("UIPadding", {
+                    PaddingLeft = UDim.new(0, 7),
+                    PaddingRight = UDim.new(0, 7),
+                    Parent = Button,
+                })
+
+                local Selected
+                if Info.Multi then
+                    Selected = Dropdown.Value[Value]
+                else
+                    Selected = Dropdown.Value == Value
+                end
+
+                function Table:UpdateButton()
+                    if Info.Multi then
+                        Selected = Dropdown.Value[Value]
+                    else
+                        Selected = Dropdown.Value == Value
+                    end
+
+                    Button.BackgroundTransparency = Selected and 0 or 1
+                    Button.TextTransparency = IsDisabled and 0.8 or Selected and 0 or 0.5
+                end
+
+                if not IsDisabled then
+                    Button.MouseButton1Click:Connect(function()
+                        local Try = not Selected
+
+                        if not (Dropdown:GetActiveValues() == 1 and not Try and not Info.AllowNull) then
+                            Selected = Try
+                            if Info.Multi then
+                                Dropdown.Value[Value] = Selected and true or nil
+                            else
+                                Dropdown.Value = Selected and Value or nil
+                            end
+
+                            for _, OtherButton in pairs(Buttons) do
+                                OtherButton:UpdateButton()
+                            end
+                        end
+
+                        Table:UpdateButton()
+                        Dropdown:Display()
+
+                        Library:SafeCallback(Dropdown.Callback, Dropdown.Value)
+                        Library:SafeCallback(Dropdown.Changed, Dropdown.Value)
+                    end)
+                end
+
+                Table:UpdateButton()
+                Dropdown:Display()
+
+                Buttons[Button] = Table
+            end
+
+            Dropdown:RecalculateListSize(Count)
+        end
+
+        function Dropdown:SetValue(Value)
+            if Info.Multi then
+                local Table = {}
+
+                for Val, Active in pairs(Value or {}) do
+                    if Active and table.find(Dropdown.Values, Val) then
+                        Table[Val] = true
+                    end
+                end
+
+                Dropdown.Value = Table
+            else
+                if table.find(Dropdown.Values, Value) then
+                    Dropdown.Value = Value
+                elseif not Value then
+                    Dropdown.Value = nil
+                end
+            end
+
+            Dropdown:Display()
+            for _, Button in pairs(Buttons) do
+                Button:UpdateButton()
+            end
+
+            if not Dropdown.Disabled then
+                Library:SafeCallback(Dropdown.Callback, Dropdown.Value)
+                Library:SafeCallback(Dropdown.Changed, Dropdown.Value)
+            end
+        end
+
+        function Dropdown:SetValues(Values)
+            Dropdown.Values = Values
+            Dropdown:BuildDropdownList()
+        end
+
+        function Dropdown:AddValues(Values)
+            if typeof(Values) == "table" then
+                for _, val in pairs(Values) do
+                    table.insert(Dropdown.Values, val)
+                end
+            elseif typeof(Values) == "string" then
+                table.insert(Dropdown.Values, Values)
+            else
+                return
+            end
+
+            Dropdown:BuildDropdownList()
+        end
+
+        function Dropdown:SetDisabledValues(DisabledValues)
+            Dropdown.DisabledValues = DisabledValues
+            Dropdown:BuildDropdownList()
+        end
+
+        function Dropdown:AddDisabledValues(DisabledValues)
+            if typeof(DisabledValues) == "table" then
+                for _, val in pairs(DisabledValues) do
+                    table.insert(Dropdown.DisabledValues, val)
+                end
+            elseif typeof(DisabledValues) == "string" then
+                table.insert(Dropdown.DisabledValues, DisabledValues)
+            else
+                return
+            end
+
+            Dropdown:BuildDropdownList()
+        end
+
+        function Dropdown:SetDisabled(Disabled: boolean)
+            Dropdown.Disabled = Disabled
+
+            if Dropdown.TooltipTable then
+                Dropdown.TooltipTable.Disabled = Dropdown.Disabled
+            end
+
+            MenuTable:Close()
+            Display.Active = not Dropdown.Disabled
+            Dropdown:UpdateColors()
+        end
+
+        function Dropdown:SetVisible(Visible: boolean)
+            Dropdown.Visible = Visible
+
+            Holder.Visible = Dropdown.Visible
+            Groupbox:Resize()
+        end
+
+        function Dropdown:SetText(Text: string)
+            Dropdown.Text = Text
+            Holder.Size = UDim2.new(1, 0, 0, (Text and 39 or 21) * Library.DPIScale)
+
+            Label.Text = Text and Text or ""
+            Label.Visible = not not Text
+        end
+
+        Display.MouseButton1Click:Connect(function()
+            if Dropdown.Disabled then
+                return
+            end
+
+            MenuTable:Toggle()
+        end)
+
+        if SearchBox then
+            SearchBox:GetPropertyChangedSignal("Text"):Connect(Dropdown.BuildDropdownList)
+        end
+
+        local Defaults = {}
+        if typeof(Info.Default) == "string" then
+            local Index = table.find(Dropdown.Values, Info.Default)
+            if Index then
+                table.insert(Defaults, Index)
+            end
+        elseif typeof(Info.Default) == "table" then
+            for _, Value in next, Info.Default do
+                local Index = table.find(Dropdown.Values, Value)
+                if Index then
+                    table.insert(Defaults, Index)
+                end
+            end
+        elseif Dropdown.Values[Info.Default] ~= nil then
+            table.insert(Defaults, Info.Default)
+        end
+        if next(Defaults) then
+            for i = 1, #Defaults do
+                local Index = Defaults[i]
+                if Info.Multi then
+                    Dropdown.Value[Dropdown.Values[Index]] = true
+                else
+                    Dropdown.Value = Dropdown.Values[Index]
+                end
+
+                if not Info.Multi then
+                    break
+                end
+            end
+        end
+
+        if typeof(Dropdown.Tooltip) == "string" or typeof(Dropdown.DisabledTooltip) == "string" then
+            Dropdown.TooltipTable = Library:AddTooltip(Dropdown.Tooltip, Dropdown.DisabledTooltip, Display)
+            Dropdown.TooltipTable.Disabled = Dropdown.Disabled
+        end
+
+        Dropdown:UpdateColors()
+        Dropdown:Display()
+        Dropdown:BuildDropdownList()
+        Groupbox:Resize()
+
+        Dropdown.Holder = Holder
+        table.insert(Groupbox.Elements, Dropdown)
+
+        Options[Idx] = Dropdown
+
+        return Dropdown
+    end
+
+    function Funcs:AddDependencyBox()
+        local Groupbox = self
+        local Container = Groupbox.Container
+
+        local DepboxContainer
+        local DepboxList
+
+        do
+            DepboxContainer = New("Frame", {
+                BackgroundTransparency = 1,
+                Size = UDim2.fromScale(1, 1),
+                Visible = false,
+                Parent = Container,
+            })
+
+            DepboxList = New("UIListLayout", {
+                Padding = UDim.new(0, 8),
+                Parent = DepboxContainer,
+            })
+        end
+
+        local Depbox = {
+            Visible = false,
+            Dependencies = {},
+
+            Holder = DepboxContainer,
+            Container = DepboxContainer,
+
+            Elements = {},
+            DependencyBoxes = {},
+        }
+
+        function Depbox:Resize()
+            DepboxContainer.Size = UDim2.new(1, 0, 0, DepboxList.AbsoluteContentSize.Y * Library.DPIScale)
+            Groupbox:Resize()
+        end
+
+        function Depbox:Update(CancelSearch)
+            for _, Dependency in pairs(Depbox.Dependencies) do
+                local Element = Dependency[1]
+                local Value = Dependency[2]
+
+                if Element.Type == "Toggle" and Element.Value ~= Value then
+                    DepboxContainer.Visible = false
+                    Depbox.Visible = false
+                    return
+                end
+            end
+
+            Depbox.Visible = true
+            DepboxContainer.Visible = true
+            if not Library.Searching then
+                Depbox:Resize()
+            elseif not CancelSearch then
+                Library:UpdateSearch(Library.SearchText)
+            end
+        end
+
+        function Depbox:SetupDependencies(Dependencies)
+            for _, Dependency in pairs(Dependencies) do
+                assert(typeof(Dependency) == "table", "Dependency should be a table.")
+                assert(Dependency[1] ~= nil, "Dependency is missing element.")
+                assert(Dependency[2] ~= nil, "Dependency is missing expected value.")
+            end
+
+            Depbox.Dependencies = Dependencies
+            Depbox:Update()
+        end
+
+        DepboxContainer:GetPropertyChangedSignal("Visible"):Connect(function()
+            Depbox:Resize()
+        end)
+
+        setmetatable(Depbox, BaseGroupbox)
+
+        table.insert(Groupbox.DependencyBoxes, Depbox)
+        table.insert(Library.DependencyBoxes, Depbox)
+
+        return Depbox
+    end
+
+    function Funcs:AddDependencyGroupbox()
+        local Groupbox = self
+        local Tab = Groupbox.Tab
+        local BoxHolder = Groupbox.BoxHolder
+
+        local Background = Library:MakeOutline(BoxHolder, Library.CornerRadius)
+        Background.Size = UDim2.fromScale(1, 0)
+        Background.Visible = false
+        Library:UpdateDPI(Background, {
+            Size = false,
+        })
+
+        local DepGroupboxContainer
+        local DepGroupboxList
+
+        do
+            DepGroupboxContainer = New("Frame", {
+                BackgroundColor3 = "BackgroundColor",
+                Position = UDim2.fromOffset(2, 2),
+                Size = UDim2.new(1, -4, 1, -4),
+                Parent = Background,
+            })
+            New("UICorner", {
+                CornerRadius = UDim.new(0, Library.CornerRadius - 1),
+                Parent = DepGroupboxContainer,
+            })
+
+            DepGroupboxList = New("UIListLayout", {
+                Padding = UDim.new(0, 8),
+                Parent = DepGroupboxContainer,
+            })
+            New("UIPadding", {
+                PaddingBottom = UDim.new(0, 7),
+                PaddingLeft = UDim.new(0, 7),
+                PaddingRight = UDim.new(0, 7),
+                PaddingTop = UDim.new(0, 7),
+                Parent = DepGroupboxContainer,
+            })
+        end
+
+        local DepGroupbox = {
+            Visible = false,
+            Dependencies = {},
+
+            BoxHolder = BoxHolder,
+            Holder = Background,
+            Container = DepGroupboxContainer,
+
+            Tab = Tab,
+            Elements = {},
+            DependencyBoxes = {},
+        }
+
+        function DepGroupbox:Resize()
+            Background.Size = UDim2.new(1, 0, 0, DepGroupboxList.AbsoluteContentSize.Y + 18 * Library.DPIScale)
+        end
+
+        function DepGroupbox:Update(CancelSearch)
+            for _, Dependency in pairs(DepGroupbox.Dependencies) do
+                local Element = Dependency[1]
+                local Value = Dependency[2]
+
+                if Element.Type == "Toggle" and Element.Value ~= Value then
+                    Background.Visible = false
+                    DepGroupbox.Visible = false
+                    return
+                end
+            end
+
+            DepGroupbox.Visible = true
+            if not Library.Searching then
+                Background.Visible = true
+                DepGroupbox:Resize()
+            elseif not CancelSearch then
+                Library:UpdateSearch(Library.SearchText)
+            end
+        end
+
+        function DepGroupbox:SetupDependencies(Dependencies)
+            for _, Dependency in pairs(Dependencies) do
+                assert(typeof(Dependency) == "table", "Dependency should be a table.")
+                assert(Dependency[1] ~= nil, "Dependency is missing element.")
+                assert(Dependency[2] ~= nil, "Dependency is missing expected value.")
+            end
+
+            DepGroupbox.Dependencies = Dependencies
+            DepGroupbox:Update()
+        end
+
+        setmetatable(DepGroupbox, BaseGroupbox)
+
+        table.insert(Tab.DependencyGroupboxes, DepGroupbox)
+        table.insert(Library.DependencyBoxes, DepGroupbox)
+
+        return DepGroupbox
+    end
+
+    BaseGroupbox.__index = Funcs
+    BaseGroupbox.__namecall = function(_, Key, ...)
+        return Funcs[Key](...)
+    end
+end
+
+function Library:SetFont(FontFace)
+    if typeof(FontFace) == "EnumItem" then
+        FontFace = Font.fromEnum(FontFace)
+    end
+
+    Library.Scheme.Font = FontFace
+    Library:UpdateColorsUsingRegistry()
+end
+
+function Library:SetNotifySide(Side: string)
+    Library.NotifySide = Side
+
+    if Side:lower() == "left" then
+        NotificationArea.AnchorPoint = Vector2.new(0, 0)
+        NotificationArea.Position = UDim2.fromOffset(6, 6)
+        NotificationList.HorizontalAlignment = Enum.HorizontalAlignment.Left
+    else
+        NotificationArea.AnchorPoint = Vector2.new(1, 0)
+        NotificationArea.Position = UDim2.new(1, -6, 0, 6)
+        NotificationList.HorizontalAlignment = Enum.HorizontalAlignment.Right
+    end
+end
+
+function Library:Notify(...)
+    local Data = {}
+    local Info = select(1, ...)
+
+    if typeof(Info) == "table" then
+        Data.Title = tostring(Info.Title)
+        Data.Description = tostring(Info.Description)
+        Data.Time = Info.Time or 5
+        Data.SoundId = Info.SoundId
+        Data.Steps = Info.Steps
+        Data.Persist = Info.Persist
+    else
+        Data.Description = tostring(Info)
+        Data.Time = select(2, ...) or 5
+        Data.SoundId = select(3, ...)
+    end
+    Data.Destroyed = false
+
+    local DeletedInstance = false
+    local DeleteConnection = nil
+    if typeof(Data.Time) == "Instance" then
+        DeleteConnection = Data.Time.Destroying:Connect(function()
+            DeletedInstance = true
+
+            DeleteConnection:Disconnect()
+            DeleteConnection = nil
+        end)
+    end
+
+    local FakeBackground = New("Frame", {
+        AutomaticSize = Enum.AutomaticSize.Y,
+        BackgroundTransparency = 1,
+        Size = UDim2.fromScale(1, 0),
+        Visible = false,
+        Parent = NotificationArea,
+
+        DPIExclude = {
+            Size = true,
+        },
+    })
+
+    local Background = Library:MakeOutline(FakeBackground, Library.CornerRadius, 5)
+    Background.AutomaticSize = Enum.AutomaticSize.Y
+    Background.Position = Library.NotifySide:lower() == "left" and UDim2.new(-1, -6, 0, -2) or UDim2.new(1, 6, 0, -2)
+    Background.Size = UDim2.fromScale(1, 0)
+    Library:UpdateDPI(Background, {
+        Position = false,
+        Size = false,
+    })
+
+    local Holder = New("Frame", {
+        BackgroundColor3 = "MainColor",
+        Position = UDim2.fromOffset(2, 2),
+        Size = UDim2.new(1, -4, 1, -4),
+        Parent = Background,
+    })
+    New("UICorner", {
+        CornerRadius = UDim.new(0, Library.CornerRadius - 1),
+        Parent = Holder,
+    })
+    New("UIListLayout", {
+        Padding = UDim.new(0, 4),
+        Parent = Holder,
+    })
+    New("UIPadding", {
+        PaddingBottom = UDim.new(0, 8),
+        PaddingLeft = UDim.new(0, 8),
+        PaddingRight = UDim.new(0, 8),
+        PaddingTop = UDim.new(0, 8),
+        Parent = Holder,
+    })
+
+    local Title
+    local Desc
+    local TitleX = 0
+    local DescX = 0
+
+    local TimerFill
+
+    if Data.Title then
+        Title = New("TextLabel", {
+            BackgroundTransparency = 1,
+            Text = Data.Title,
+            TextSize = 15,
+            TextXAlignment = Enum.TextXAlignment.Left,
+            TextWrapped = true,
+            Parent = Holder,
+
+            DPIExclude = {
+                Size = true,
+            },
+        })
+    end
+
+    if Data.Description then
+        Desc = New("TextLabel", {
+            BackgroundTransparency = 1,
+            Text = Data.Description,
+            TextSize = 14,
+            TextXAlignment = Enum.TextXAlignment.Left,
+            TextWrapped = true,
+            Parent = Holder,
+
+            DPIExclude = {
+                Size = true,
+            },
+        })
+    end
+
+    function Data:Resize()
+        if Title then
+            local X, Y = Library:GetTextBounds(
+                Title.Text,
+                Title.FontFace,
+                Title.TextSize,
+                NotificationArea.AbsoluteSize.X - (24 * Library.DPIScale)
+            )
+            Title.Size = UDim2.fromOffset(math.ceil(X), Y)
+            TitleX = X
+        end
+
+        if Desc then
+            local X, Y = Library:GetTextBounds(
+                Desc.Text,
+                Desc.FontFace,
+                Desc.TextSize,
+                NotificationArea.AbsoluteSize.X - (24 * Library.DPIScale)
+            )
+            Desc.Size = UDim2.fromOffset(math.ceil(X), Y)
+            DescX = X
+        end
+
+        FakeBackground.Size = UDim2.fromOffset((TitleX > DescX and TitleX or DescX) + (24 * Library.DPIScale), 0)
+    end
+
+    function Data:ChangeTitle(NewText)
+        if Title then
+            Data.Title = tostring(NewText)
+            Title.Text = Data.Title
+            Data:Resize()
+        end
+    end
+
+    function Data:ChangeDescription(NewText)
+        if Desc then
+            Data.Description = tostring(NewText)
+            Desc.Text = Data.Description
+            Data:Resize()
+        end
+    end
+
+    function Data:ChangeStep(NewStep)
+        if TimerFill and Data.Steps then
+            NewStep = math.clamp(NewStep or 0, 0, Data.Steps)
+            TimerFill.Size = UDim2.fromScale(NewStep / Data.Steps, 1)
+        end
+    end
+
+    function Data:Destroy()
+        Data.Destroyed = true
+        if DeleteConnection then
+            DeleteConnection:Disconnect()
+        end
+
+        TweenService
+            :Create(Background, Library.NotifyTweenInfo, {
+                Position = Library.NotifySide:lower() == "left" and UDim2.new(-1, -6, 0, -2) or UDim2.new(1, 6, 0, -2),
+            })
+            :Play()
+        task.delay(Library.NotifyTweenInfo.Time, function()
+            Library.Notifications[FakeBackground] = nil
+            FakeBackground:Destroy()
+        end)
+    end
+
+    Data:Resize()
+
+    local TimerHolder = New("Frame", {
+        BackgroundTransparency = 1,
+        Size = UDim2.new(1, 0, 0, 7),
+        Visible = (Data.Persist ~= true and typeof(Data.Time) ~= "Instance") or typeof(Data.Steps) == "number",
+        Parent = Holder,
+    })
+    local TimerBar = New("Frame", {
+        BackgroundColor3 = "BackgroundColor",
+        BorderColor3 = "OutlineColor",
+        BorderSizePixel = 1,
+        Position = UDim2.fromOffset(0, 3),
+        Size = UDim2.new(1, 0, 0, 2),
+        Parent = TimerHolder,
+    })
+    TimerFill = New("Frame", {
+        BackgroundColor3 = "AccentColor",
+        Size = UDim2.fromScale(1, 1),
+        Parent = TimerBar,
+    })
+
+    if typeof(Data.Time) == "Instance" then
+        TimerFill.Size = UDim2.fromScale(0, 1)
+    end
+    if Data.SoundId then
+        New("Sound", {
+            SoundId = "rbxassetid://" .. tostring(Data.SoundId):gsub("rbxassetid://", ""),
+            Volume = 3,
+            PlayOnRemove = true,
+            Parent = SoundService,
+        }):Destroy()
+    end
+
+    Library.Notifications[FakeBackground] = Data
+
+    FakeBackground.Visible = true
+    TweenService:Create(Background, Library.NotifyTweenInfo, {
+        Position = UDim2.fromOffset(-2, -2),
+    }):Play()
+
+    task.delay(Library.NotifyTweenInfo.Time, function()
+        if Data.Persist then
+            return
+        elseif typeof(Data.Time) == "Instance" then
+            repeat
+                task.wait()
+            until DeletedInstance or Data.Destroyed
+        else
+            TweenService
+                :Create(TimerFill, TweenInfo.new(Data.Time, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut), {
+                    Size = UDim2.fromScale(0, 1),
+                })
+                :Play()
+            task.wait(Data.Time)
+        end
+
+        if not Data.Destroyed then
+            Data:Destroy()
+        end
+    end)
+
+    return Data
+end
+
+function Library:CreateWindow(WindowInfo)
+    WindowInfo = Library:Validate(WindowInfo, Templates.Window)
+    local ViewportSize: Vector2 = workspace.CurrentCamera.ViewportSize
+    if RunService:IsStudio() and ViewportSize.X <= 5 and ViewportSize.Y <= 5 then
+        repeat
+            ViewportSize = workspace.CurrentCamera.ViewportSize
+            task.wait()
+        until ViewportSize.X > 5 and ViewportSize.Y > 5
+    end
+
+    local MaxX = ViewportSize.X - 64
+    local MaxY = ViewportSize.Y - 64
+
+    Library.MinSize = Vector2.new(math.min(Library.MinSize.X, MaxX), math.min(Library.MinSize.Y, MaxY))
+    WindowInfo.Size = UDim2.fromOffset(
+        math.clamp(WindowInfo.Size.X.Offset, Library.MinSize.X, MaxX),
+        math.clamp(WindowInfo.Size.Y.Offset, Library.MinSize.Y, MaxY)
+    )
+    if typeof(WindowInfo.Font) == "EnumItem" then
+        WindowInfo.Font = Font.fromEnum(WindowInfo.Font)
+    end
+
+    Library.CornerRadius = WindowInfo.CornerRadius
+    Library:SetNotifySide(WindowInfo.NotifySide)
+    Library.ShowCustomCursor = WindowInfo.ShowCustomCursor
+    Library.Scheme.Font = WindowInfo.Font
+    Library.ToggleKeybind = WindowInfo.ToggleKeybind
+
+    local MainFrame
+    local SearchBox
+    local ResizeButton
+    local Tabs
+    local Container
+    do
+        Library.KeybindFrame, Library.KeybindContainer = Library:AddDraggableMenu("Keybinds")
+        Library.KeybindFrame.AnchorPoint = Vector2.new(0, 0.5)
+        Library.KeybindFrame.Position = UDim2.new(0, 6, 0.5, 0)
+        Library.KeybindFrame.Visible = false
+        Library:UpdateDPI(Library.KeybindFrame, {
+            Position = false,
+            Size = false,
+        })
+
+        MainFrame = New("Frame", {
+            BackgroundColor3 = function()
+                return Library:GetBetterColor(Library.Scheme.BackgroundColor, -1)
+            end,
+            Name = "Main",
+            Position = WindowInfo.Position,
+            Size = WindowInfo.Size,
+            Visible = false,
+            Parent = ScreenGui,
+
+            DPIExclude = {
+                Position = true,
+            },
+        })
+        New("UICorner", {
+            CornerRadius = UDim.new(0, WindowInfo.CornerRadius - 1),
+            Parent = MainFrame,
+        })
+        do
+            local Lines = {
+                {
+                    Position = UDim2.fromOffset(0, 48),
+                    Size = UDim2.new(1, 0, 0, 1),
+                },
+                {
+                    Position = UDim2.fromScale(0.3, 0),
+                    Size = UDim2.new(0, 1, 1, -21),
+                },
+                {
+                    AnchorPoint = Vector2.new(0, 1),
+                    Position = UDim2.new(0, 0, 1, -20),
+                    Size = UDim2.new(1, 0, 0, 1),
+                },
+            }
+            for _, Info in pairs(Lines) do
+                Library:MakeLine(MainFrame, Info)
+            end
+            Library:MakeOutline(MainFrame, WindowInfo.CornerRadius, 0)
+        end
+
+        if WindowInfo.Center then
+            MainFrame.Position = UDim2.new(0.5, -MainFrame.Size.X.Offset / 2, 0.5, -MainFrame.Size.Y.Offset / 2)
+        end
+
+        --// Top Bar \\-
+        local TopBar = New("Frame", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(1, 0, 0, 48),
+            Parent = MainFrame,
+        })
+        Library:MakeDraggable(MainFrame, TopBar, false, true)
+
+        --// Title
+        local TitleHolder = New("Frame", {
+            BackgroundTransparency = 1,
+            Size = UDim2.fromScale(0.3, 1),
+            Parent = TopBar,
+        })
+        New("UIListLayout", {
+            FillDirection = Enum.FillDirection.Horizontal,
+            HorizontalAlignment = Enum.HorizontalAlignment.Center,
+            VerticalAlignment = Enum.VerticalAlignment.Center,
+            Padding = UDim.new(0, 6),
+            Parent = TitleHolder,
+        })
+
+        if WindowInfo.Icon then
+            New("ImageLabel", {
+                Image = tonumber(WindowInfo.Icon) and "rbxassetid://" .. WindowInfo.Icon or WindowInfo.Icon,
+                Size = WindowInfo.IconSize,
+                Parent = TitleHolder,
+            })
+        end
+
+        local X = Library:GetTextBounds(
+            WindowInfo.Title,
+            Library.Scheme.Font,
+            20,
+            TitleHolder.AbsoluteSize.X - (WindowInfo.Icon and WindowInfo.IconSize.X.Offset + 6 or 0) - 12
+        )
+        New("TextLabel", {
+            BackgroundTransparency = 1,
+            Size = UDim2.new(0, X, 1, 0),
+            Text = WindowInfo.Title,
+            TextSize = 20,
+            Parent = TitleHolder,
+        })
+
+        --// Search Box
+        SearchBox = New("TextBox", {
+            AnchorPoint = Vector2.new(0, 0.5),
+            BackgroundColor3 = "MainColor",
+            PlaceholderText = "Search",
+            Position = UDim2.new(0.3, 8, 0.5, 0),
+            Size = UDim2.new(0.7, -57, 1, -16),
+            TextScaled = true,
+            Parent = TopBar,
+        })
+        New("UICorner", {
+            CornerRadius = UDim.new(0, WindowInfo.CornerRadius),
+            Parent = SearchBox,
+        })
+        New("UIPadding", {
+            PaddingBottom = UDim.new(0, 8),
+            PaddingLeft = UDim.new(0, 8),
+            PaddingRight = UDim.new(0, 8),
+            PaddingTop = UDim.new(0, 8),
+            Parent = SearchBox,
+        })
+        New("UIStroke", {
+            Color = "OutlineColor",
+            Parent = SearchBox,
+        })
+
+        local SearchIcon = Library:GetIcon("search")
+        if SearchIcon then
+            New("ImageLabel", {
+                Image = SearchIcon.Url,
+                ImageColor3 = "FontColor",
+                ImageRectOffset = SearchIcon.ImageRectOffset,
+                ImageRectSize = SearchIcon.ImageRectSize,
+                ImageTransparency = 0.5,
+                Size = UDim2.fromScale(1, 1),
+                SizeConstraint = Enum.SizeConstraint.RelativeYY,
+                Parent = SearchBox,
+            })
+        end
+
+        local MoveIcon = Library:GetIcon("move")
+        if MoveIcon then
+            New("ImageLabel", {
+                AnchorPoint = Vector2.new(1, 0.5),
+                Image = MoveIcon.Url,
+                ImageColor3 = "OutlineColor",
+                ImageRectOffset = MoveIcon.ImageRectOffset,
+                ImageRectSize = MoveIcon.ImageRectSize,
+                Position = UDim2.new(1, -10, 0.5, 0),
+                Size = UDim2.fromOffset(28, 28),
+                SizeConstraint = Enum.SizeConstraint.RelativeYY,
+                Parent = TopBar,
+            })
+        end
+
+        --// Bottom Bar \\--
+        local BottomBar = New("Frame", {
+            AnchorPoint = Vector2.new(0, 1),
+            BackgroundColor3 = function()
+                return Library:GetBetterColor(Library.Scheme.BackgroundColor, 4)
+            end,
+            Position = UDim2.fromScale(0, 1),
+            Size = UDim2.new(1, 0, 0, 20),
+            Parent = MainFrame,
+        })
+        do
+            local Cover = Library:MakeCover(BottomBar, "Top")
+            Library:AddToRegistry(Cover, {
+                BackgroundColor3 = function()
+                    return Library:GetBetterColor(Library.Scheme.BackgroundColor, 4)
+                end,
+            })
+        end
+        New("UICorner", {
+            CornerRadius = UDim.new(0, WindowInfo.CornerRadius - 1),
+            Parent = BottomBar,
+        })
+
+        --// Footer
+        New("TextLabel", {
+            BackgroundTransparency = 1,
+            Size = UDim2.fromScale(1, 1),
+            Text = WindowInfo.Footer,
+            TextSize = 14,
+            TextTransparency = 0.5,
+            Parent = BottomBar,
+        })
+
+        --// Resize Button
+        if WindowInfo.Resizable then
+            ResizeButton = New("TextButton", {
+                AnchorPoint = Vector2.new(1, 0),
+                BackgroundTransparency = 1,
+                Position = UDim2.fromScale(1, 0),
+                Size = UDim2.fromScale(1, 1),
+                SizeConstraint = Enum.SizeConstraint.RelativeYY,
+                Text = "",
+                Parent = BottomBar,
+            })
+
+            Library:MakeResizable(MainFrame, ResizeButton, function()
+                for _, Tab in pairs(Library.Tabs) do
+                    Tab:Resize(true)
+                end
+            end)
+        end
+
+        New("ImageLabel", {
+            Image = ResizeIcon and ResizeIcon.Url or "",
+            ImageColor3 = "FontColor",
+            ImageRectOffset = ResizeIcon and ResizeIcon.ImageRectOffset or Vector2.zero,
+            ImageRectSize = ResizeIcon and ResizeIcon.ImageRectSize or Vector2.zero,
+            ImageTransparency = 0.5,
+            Position = UDim2.fromOffset(2, 2),
+            Size = UDim2.new(1, -4, 1, -4),
+            Parent = ResizeButton,
+        })
+
+        --// Tabs \\--
+        Tabs = New("ScrollingFrame", {
+            AutomaticCanvasSize = Enum.AutomaticSize.Y,
+            BackgroundColor3 = "BackgroundColor",
+            CanvasSize = UDim2.fromScale(0, 0),
+            Position = UDim2.fromOffset(0, 49),
+            ScrollBarThickness = 0,
+            Size = UDim2.new(0.3, 0, 1, -70),
+            Parent = MainFrame,
+        })
+
+        New("UIListLayout", {
+            Parent = Tabs,
+        })
+
+        --// Container \\--
+        Container = New("Frame", {
+            AnchorPoint = Vector2.new(1, 0),
+            BackgroundColor3 = function()
+                return Library:GetBetterColor(Library.Scheme.BackgroundColor, 1)
+            end,
+            Name = "Container",
+            Position = UDim2.new(1, 0, 0, 49),
+            Size = UDim2.new(0.7, -1, 1, -70),
+            Parent = MainFrame,
+        })
+
+        New("UIPadding", {
+            PaddingBottom = UDim.new(0, 0),
+            PaddingLeft = UDim.new(0, 6),
+            PaddingRight = UDim.new(0, 6),
+            PaddingTop = UDim.new(0, 0),
+            Parent = Container,
+        })
+    end
+
+    --// Window Table \\--
+    local Window = {}
+
+    function Window:AddTab(Name: string, Icon)
+        local TabButton: TextButton
+        local TabLabel
+        local TabIcon
+
+        local TabContainer
+        local TabLeft
+        local TabRight
+
+        local WarningBox
+        local WarningTitle
+        local WarningText
+        local WarningStroke
+
+        Icon = Library:GetIcon(Icon)
+        do
+            TabButton = New("TextButton", {
+                BackgroundColor3 = "MainColor",
+                BackgroundTransparency = 1,
+                Size = UDim2.new(1, 0, 0, 40),
+                Text = "",
+                Parent = Tabs,
+            })
+
+            New("UIPadding", {
+                PaddingBottom = UDim.new(0, 11),
+                PaddingLeft = UDim.new(0, 12),
+                PaddingRight = UDim.new(0, 12),
+                PaddingTop = UDim.new(0, 11),
+                Parent = TabButton,
+            })
+
+            TabLabel = New("TextLabel", {
+                BackgroundTransparency = 1,
+                Position = UDim2.fromOffset(30, 0),
+                Size = UDim2.new(1, -30, 1, 0),
+                Text = Name,
+                TextSize = 16,
+                TextTransparency = 0.5,
+                TextXAlignment = Enum.TextXAlignment.Left,
+                Parent = TabButton,
+            })
+
+            if Icon then
+                TabIcon = New("ImageLabel", {
+                    Image = Icon.Url,
+                    ImageColor3 = "AccentColor",
+                    ImageRectOffset = Icon.ImageRectOffset,
+                    ImageRectSize = Icon.ImageRectSize,
+                    ImageTransparency = 0.5,
+                    Size = UDim2.fromScale(1, 1),
+                    SizeConstraint = Enum.SizeConstraint.RelativeYY,
+                    Parent = TabButton,
+                })
+            end
+
+            --// Tab Container \\--
+            TabContainer = New("Frame", {
+                BackgroundTransparency = 1,
+                Size = UDim2.fromScale(1, 1),
+                Visible = false,
+                Parent = Container,
+            })
+
+            TabLeft = New("ScrollingFrame", {
+                AutomaticCanvasSize = Enum.AutomaticSize.Y,
+                BackgroundTransparency = 1,
+                CanvasSize = UDim2.fromScale(0, 0),
+                ScrollBarThickness = 0,
+                Parent = TabContainer,
+            })
+            New("UIListLayout", {
+                Padding = UDim.new(0, 6),
+                Parent = TabLeft,
+            })
+            do
+                New("Frame", {
+                    BackgroundTransparency = 1,
+                    LayoutOrder = -1,
+                    Parent = TabLeft,
+                })
+                New("Frame", {
+                    BackgroundTransparency = 1,
+                    LayoutOrder = 1,
+                    Parent = TabLeft,
+                })
+
+                TabLeft.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 2) - 3, 1, 0)
+                Library:UpdateDPI(TabLeft, { Size = TabLeft.Size })
+            end
+
+            TabRight = New("ScrollingFrame", {
+                AnchorPoint = Vector2.new(1, 0),
+                AutomaticCanvasSize = Enum.AutomaticSize.Y,
+                BackgroundTransparency = 1,
+                CanvasSize = UDim2.fromScale(0, 0),
+                Position = UDim2.fromScale(1, 0),
+                ScrollBarThickness = 0,
+                Parent = TabContainer,
+            })
+            New("UIListLayout", {
+                Padding = UDim.new(0, 6),
+                Parent = TabRight,
+            })
+            do
+                New("Frame", {
+                    BackgroundTransparency = 1,
+                    LayoutOrder = -1,
+                    Parent = TabRight,
+                })
+                New("Frame", {
+                    BackgroundTransparency = 1,
+                    LayoutOrder = 1,
+                    Parent = TabRight,
+                })
+
+                TabRight.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 2) - 3, 1, 0)
+                Library:UpdateDPI(TabRight, { Size = TabRight.Size })
+            end
+
+            TabMid = New("ScrollingFrame", {
+                AnchorPoint = Vector2.new(2, 0),
+                AutomaticCanvasSize = Enum.AutomaticSize.Y,
+                BackgroundTransparency = 1,
+                CanvasSize = UDim2.fromScale(0, 0),
+                Position = UDim2.fromScale(2, 0),
+                ScrollBarThickness = 0,
+                Parent = TabContainer,
+            })
+            New("UIListLayout", {
+                Padding = UDim.new(0, 6),
+                Parent = TabMid,
+            })
+            do
+                New("Frame", {
+                    BackgroundTransparency = 1,
+                    LayoutOrder = -1,
+                    Parent = TabMid,
+                })
+                New("Frame", {
+                    BackgroundTransparency = 1,
+                    LayoutOrder = 1,
+                    Parent = TabMid,
+                })
+
+                TabMid.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 2) - 3, 1, 0)
+                Library:UpdateDPI(TabMid, { Size = TabMid.Size })
+            end
+
+            WarningBox = New("Frame", {
+                AutomaticSize = Enum.AutomaticSize.Y,
+                BackgroundColor3 = Color3.fromRGB(127, 0, 0),
+                BorderColor3 = Color3.fromRGB(255, 50, 50),
+                BorderMode = Enum.BorderMode.Inset,
+                BorderSizePixel = 1,
+                Position = UDim2.fromOffset(0, 6),
+                Size = UDim2.fromScale(1, 0),
+                Visible = false,
+                Parent = TabContainer,
+            })
+            New("UIPadding", {
+                PaddingBottom = UDim.new(0, 4),
+                PaddingLeft = UDim.new(0, 6),
+                PaddingRight = UDim.new(0, 6),
+                PaddingTop = UDim.new(0, 4),
+                Parent = WarningBox,
+            })
+
+            WarningTitle = New("TextLabel", {
+                BackgroundTransparency = 1,
+                Size = UDim2.new(1, 0, 0, 14),
+                Text = "",
+                TextColor3 = Color3.fromRGB(255, 50, 50),
+                TextSize = 14,
+                TextXAlignment = Enum.TextXAlignment.Left,
+                Parent = WarningBox,
+            })
+            WarningStroke = New("UIStroke", {
+                ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual,
+                Color = Color3.fromRGB(169, 0, 0),
+                LineJoinMode = Enum.LineJoinMode.Miter,
+                Parent = WarningTitle,
+            })
+
+            WarningText = New("TextLabel", {
+                BackgroundTransparency = 1,
+                Position = UDim2.fromOffset(0, 16),
+                Size = UDim2.fromScale(1, 0),
+                Text = "",
+                TextSize = 14,
+                TextXAlignment = Enum.TextXAlignment.Left,
+                TextWrapped = true,
+                Parent = WarningBox,
+            })
+            New("UIStroke", {
+                ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual,
+                Color = "Dark",
+                LineJoinMode = Enum.LineJoinMode.Miter,
+                Parent = WarningText,
+            })
+        end
+
+        --// Tab Table \\--
+        local Tab = {
+            Groupboxes = {},
+            Tabboxes = {},
+            DependencyGroupboxes = {},
+            Sides = {
+                TabLeft,
+                TabRight,
+                TabMid,
+            },
+        }
+
+        function Tab:UpdateWarningBox(Info)
+            if typeof(Info.Visible) == "boolean" then
+                WarningBox.Visible = Info.Visible
+                Tab:Resize()
+            end
+
+            if typeof(Info.Title) == "string" then
+                WarningTitle.Text = Info.Title
+            end
+
+            if typeof(Info.Text) == "string" then
+                local _, Y = Library:GetTextBounds(
+                    Info.Text,
+                    Library.Scheme.Font,
+                    WarningText.TextSize,
+                    WarningText.AbsoluteSize.X
+                )
+
+                WarningText.Size = UDim2.new(1, 0, 0, Y)
+                WarningText.Text = Info.Text
+                Library:UpdateDPI(WarningText, { Size = WarningText.Size })
+                Tab:Resize()
+            end
+
+            WarningBox.BackgroundColor3 = Info.IsNormal == true and Library.Scheme.BackgroundColor
+                or Color3.fromRGB(127, 0, 0)
+            WarningBox.BorderColor3 = Info.IsNormal == true and Library.Scheme.OutlineColor
+                or Color3.fromRGB(255, 50, 50)
+            WarningTitle.TextColor3 = Info.IsNormal == true and Library.Scheme.FontColor or Color3.fromRGB(255, 50, 50)
+            WarningStroke.Color = Info.IsNormal == true and Library.Scheme.OutlineColor or Color3.fromRGB(169, 0, 0)
+
+            if not Library.Registry[WarningBox] then
+                Library:AddToRegistry(WarningBox, {})
+            end
+            if not Library.Registry[WarningTitle] then
+                Library:AddToRegistry(WarningTitle, {})
+            end
+            if not Library.Registry[WarningStroke] then
+                Library:AddToRegistry(WarningStroke, {})
+            end
+
+            Library.Registry[WarningBox].BackgroundColor3 = function()
+                return Info.IsNormal == true and Library.Scheme.BackgroundColor or Color3.fromRGB(127, 0, 0)
+            end
+
+            Library.Registry[WarningBox].BorderColor3 = function()
+                return Info.IsNormal == true and Library.Scheme.OutlineColor or Color3.fromRGB(255, 50, 50)
+            end
+
+            Library.Registry[WarningTitle].TextColor3 = function()
+                return Info.IsNormal == true and Library.Scheme.FontColor or Color3.fromRGB(255, 50, 50)
+            end
+
+            Library.Registry[WarningStroke].Color = function()
+                return Info.IsNormal == true and Library.Scheme.OutlineColor or Color3.fromRGB(169, 0, 0)
+            end
+        end
+
+        function Tab:Resize(ResizeWarningBox: boolean?)
+            if ResizeWarningBox then
+                local _, Y = Library:GetTextBounds(
+                    WarningText.Text,
+                    Library.Scheme.Font,
+                    WarningText.TextSize,
+                    WarningText.AbsoluteSize.X
+                )
+
+                WarningText.Size = UDim2.new(1, 0, 0, Y)
+                Library:UpdateDPI(WarningText, { Size = WarningText.Size })
+            end
+
+            local Offset = WarningBox.Visible and WarningBox.AbsoluteSize.Y + 6 or 0
+            for _, Side in pairs(Tab.Sides) do
+                Side.Position = UDim2.new(Side.Position.X.Scale, 0, 0, Offset)
+                Side.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 2) - 3, 1, -Offset)
+                Library:UpdateDPI(Side, {
+                    Position = Side.Position,
+                    Size = Side.Size,
+                })
+            end
+        end
+
+        function Tab:AddGroupbox(Info)
+            local BoxHolder = New("Frame", {
+                AutomaticSize = Enum.AutomaticSize.Y,
+                BackgroundTransparency = 1,
+                Size = UDim2.fromScale(1, 0),
+                Parent = Info.Side == 1 and TabLeft or TabRight or TabMid,
+            })
+            New("UIListLayout", {
+                Padding = UDim.new(0, 6),
+                Parent = BoxHolder,
+            })
+
+            local Background = Library:MakeOutline(BoxHolder, WindowInfo.CornerRadius)
+            Background.Size = UDim2.fromScale(1, 0)
+            Library:UpdateDPI(Background, {
+                Size = false,
+            })
+
+            local GroupboxHolder
+            local GroupboxLabel
+
+            local GroupboxContainer
+            local GroupboxList
+
+            do
+                GroupboxHolder = New("Frame", {
+                    BackgroundColor3 = "BackgroundColor",
+                    Position = UDim2.fromOffset(2, 2),
+                    Size = UDim2.new(1, -4, 1, -4),
+                    Parent = Background,
+                })
+                New("UICorner", {
+                    CornerRadius = UDim.new(0, WindowInfo.CornerRadius - 1),
+                    Parent = GroupboxHolder,
+                })
+                Library:MakeLine(GroupboxHolder, {
+                    Position = UDim2.fromOffset(0, 34),
+                    Size = UDim2.new(1, 0, 0, 1),
+                })
+
+                local BoxIcon = Library:GetIcon(Info.IconName)
+                if BoxIcon then
+                    New("ImageLabel", {
+                        Image = BoxIcon.Url,
+                        ImageColor3 = "AccentColor",
+                        ImageRectOffset = BoxIcon.ImageRectOffset,
+                        ImageRectSize = BoxIcon.ImageRectSize,
+                        Position = UDim2.fromOffset(6, 6),
+                        Size = UDim2.fromOffset(22, 22),
+                        Parent = GroupboxHolder,
+                    })
+                end
+
+                GroupboxLabel = New("TextLabel", {
+                    BackgroundTransparency = 1,
+                    Position = UDim2.fromOffset(BoxIcon and 24 or 0, 0),
+                    Size = UDim2.new(1, 0, 0, 34),
+                    Text = Info.Name,
+                    TextSize = 15,
+                    TextXAlignment = Enum.TextXAlignment.Left,
+                    Parent = GroupboxHolder,
+                })
+                New("UIPadding", {
+                    PaddingLeft = UDim.new(0, 12),
+                    PaddingRight = UDim.new(0, 12),
+                    Parent = GroupboxLabel,
+                })
+
+                GroupboxContainer = New("Frame", {
+                    BackgroundTransparency = 1,
+                    Position = UDim2.fromOffset(0, 35),
+                    Size = UDim2.new(1, 0, 1, -35),
+                    Parent = GroupboxHolder,
+                })
+
+                GroupboxList = New("UIListLayout", {
+                    Padding = UDim.new(0, 8),
+                    Parent = GroupboxContainer,
+                })
+                New("UIPadding", {
+                    PaddingBottom = UDim.new(0, 7),
+                    PaddingLeft = UDim.new(0, 7),
+                    PaddingRight = UDim.new(0, 7),
+                    PaddingTop = UDim.new(0, 7),
+                    Parent = GroupboxContainer,
+                })
+            end
+
+            local Groupbox = {
+                BoxHolder = BoxHolder,
+                Holder = Background,
+                Container = GroupboxContainer,
+
+                Tab = Tab,
+                DependencyBoxes = {},
+                Elements = {},
+            }
+
+            function Groupbox:Resize()
+                Background.Size = UDim2.new(1, 0, 0, GroupboxList.AbsoluteContentSize.Y + 53 * Library.DPIScale)
+            end
+
+            setmetatable(Groupbox, BaseGroupbox)
+
+            Groupbox:Resize()
+            Tab.Groupboxes[Info.Name] = Groupbox
+
+            return Groupbox
+        end
+
+        function Tab:AddLeftGroupbox(Name, IconName)
+            return Tab:AddGroupbox({ Side = 1, Name = Name, IconName = IconName })
+        end
+
+        function Tab:AddRightGroupbox(Name, IconName)
+            return Tab:AddGroupbox({ Side = 2, Name = Name, IconName = IconName })
+        end
+
+        function Tab:AddRightGroupbox(Name, IconName)
+            return Tab:AddGroupbox({ Side = 3, Name = Name, IconName = IconName })
+        end
+
+        function Tab:AddTabbox(Info)
+            local BoxHolder = New("Frame", {
+                AutomaticSize = Enum.AutomaticSize.Y,
+                BackgroundTransparency = 1,
+                Size = UDim2.fromScale(1, 0),
+                Parent = Info.Side == 1 and TabLeft or TabRight or TabMid,
+            })
+            New("UIListLayout", {
+                Padding = UDim.new(0, 6),
+                Parent = BoxHolder,
+            })
+
+            local Background = Library:MakeOutline(BoxHolder, WindowInfo.CornerRadius)
+            Background.Size = UDim2.fromScale(1, 0)
+            Library:UpdateDPI(Background, {
+                Size = false,
+            })
+
+            local TabboxHolder
+            local TabboxButtons
+
+            do
+                TabboxHolder = New("Frame", {
+                    BackgroundColor3 = "BackgroundColor",
+                    Position = UDim2.fromOffset(2, 2),
+                    Size = UDim2.new(1, -4, 1, -4),
+                    Parent = Background,
+                })
+                New("UICorner", {
+                    CornerRadius = UDim.new(0, WindowInfo.CornerRadius - 1),
+                    Parent = TabboxHolder,
+                })
+
+                TabboxButtons = New("Frame", {
+                    BackgroundTransparency = 1,
+                    Size = UDim2.new(1, 0, 0, 34),
+                    Parent = TabboxHolder,
+                })
+                New("UIListLayout", {
+                    FillDirection = Enum.FillDirection.Horizontal,
+                    HorizontalFlex = Enum.UIFlexAlignment.Fill,
+                    Parent = TabboxButtons,
+                })
+            end
+
+            local Tabbox = {
+                ActiveTab = nil,
+
+                BoxHolder = BoxHolder,
+                Holder = Background,
+                Tabs = {},
+            }
+
+            function Tabbox:AddTab(Name)
+                local Button = New("TextButton", {
+                    BackgroundColor3 = "MainColor",
+                    BackgroundTransparency = 0,
+                    Size = UDim2.fromOffset(0, 34),
+                    Text = Name,
+                    TextSize = 15,
+                    TextTransparency = 0.5,
+                    Parent = TabboxButtons,
+                })
+
+                local Line = Library:MakeLine(Button, {
+                    AnchorPoint = Vector2.new(0, 1),
+                    Position = UDim2.new(0, 0, 1, 1),
+                    Size = UDim2.new(1, 0, 0, 1),
+                })
+
+                local Container = New("Frame", {
+                    BackgroundTransparency = 1,
+                    Position = UDim2.fromOffset(0, 35),
+                    Size = UDim2.new(1, 0, 1, -35),
+                    Visible = false,
+                    Parent = TabboxHolder,
+                })
+                local List = New("UIListLayout", {
+                    Padding = UDim.new(0, 8),
+                    Parent = Container,
+                })
+                New("UIPadding", {
+                    PaddingBottom = UDim.new(0, 7),
+                    PaddingLeft = UDim.new(0, 7),
+                    PaddingRight = UDim.new(0, 7),
+                    PaddingTop = UDim.new(0, 7),
+                    Parent = Container,
+                })
+
+                local Tab = {
+                    ButtonHolder = Button,
+                    Container = Container,
+
+                    Tab = Tab,
+                    Elements = {},
+                    DependencyBoxes = {},
+                }
+
+                function Tab:Show()
+                    if Tabbox.ActiveTab then
+                        Tabbox.ActiveTab:Hide()
+                    end
+
+                    Button.BackgroundTransparency = 1
+                    Button.TextTransparency = 0
+                    Line.Visible = false
+
+                    Container.Visible = true
+
+                    Tabbox.ActiveTab = Tab
+                    Tab:Resize()
+                end
+
+                function Tab:Hide()
+                    Button.BackgroundTransparency = 0
+                    Button.TextTransparency = 0.5
+                    Line.Visible = true
+                    Container.Visible = false
+
+                    Tabbox.ActiveTab = nil
+                end
+
+                function Tab:Resize()
+                    if Tabbox.ActiveTab ~= Tab then
+                        return
+                    end
+                    Background.Size = UDim2.new(1, 0, 0, List.AbsoluteContentSize.Y + 53 * Library.DPIScale)
+                end
+
+                --// Execution \\--
+                if not Tabbox.ActiveTab then
+                    Tab:Show()
+                end
+
+                Button.MouseButton1Click:Connect(Tab.Show)
+
+                setmetatable(Tab, BaseGroupbox)
+
+                Tabbox.Tabs[Name] = Tab
+
+                return Tab
+            end
+
+            if Info.Name then
+                Tab.Tabboxes[Info.Name] = Tabbox
+            else
+                table.insert(Tab.Tabboxes, Tabbox)
+            end
+
+            return Tabbox
+        end
+
+        function Tab:AddLeftTabbox(Name)
+            return Tab:AddTabbox({ Side = 1, Name = Name })
+        end
+
+        function Tab:AddRightTabbox(Name)
+            return Tab:AddTabbox({ Side = 2, Name = Name })
+        end
+
+        function Tab:Hover(Hovering)
+            if Library.ActiveTab == Tab then
+                return
+            end
+
+            TweenService:Create(TabLabel, Library.TweenInfo, {
+                TextTransparency = Hovering and 0.25 or 0.5,
+            }):Play()
+            if TabIcon then
+                TweenService:Create(TabIcon, Library.TweenInfo, {
+                    ImageTransparency = Hovering and 0.25 or 0.5,
+                }):Play()
+            end
+        end
+
+        function Tab:Show()
+            if Library.ActiveTab then
+                Library.ActiveTab:Hide()
+            end
+
+            TweenService:Create(TabButton, Library.TweenInfo, {
+                BackgroundTransparency = 0,
+            }):Play()
+            TweenService:Create(TabLabel, Library.TweenInfo, {
+                TextTransparency = 0,
+            }):Play()
+            if TabIcon then
+                TweenService:Create(TabIcon, Library.TweenInfo, {
+                    ImageTransparency = 0,
+                }):Play()
+            end
+            TabContainer.Visible = true
+
+            Library.ActiveTab = Tab
+        end
+
+        function Tab:Hide()
+            TweenService:Create(TabButton, Library.TweenInfo, {
+                BackgroundTransparency = 1,
+            }):Play()
+            TweenService:Create(TabLabel, Library.TweenInfo, {
+                TextTransparency = 0.5,
+            }):Play()
+            if TabIcon then
+                TweenService:Create(TabIcon, Library.TweenInfo, {
+                    ImageTransparency = 0.5,
+                }):Play()
+            end
+            TabContainer.Visible = false
+
+            Library.ActiveTab = nil
+        end
+
+        --// Execution \\--
+        if not Library.ActiveTab then
+            Tab:Show()
+        end
+
+        TabButton.MouseEnter:Connect(function()
+            Tab:Hover(true)
+        end)
+        TabButton.MouseLeave:Connect(function()
+            Tab:Hover(false)
+        end)
+        TabButton.MouseButton1Click:Connect(Tab.Show)
+
+        Library.Tabs[Name] = Tab
+
+        return Tab
+    end
+
+    function Window:AddKeyTab(Name)
+        local TabButton: TextButton
+        local TabLabel
+        local TabIcon
+
+        local TabContainer
+
+        do
+            TabButton = New("TextButton", {
+                BackgroundColor3 = "MainColor",
+                BackgroundTransparency = 1,
+                Size = UDim2.new(1, 0, 0, 40),
+                Text = "",
+                Parent = Tabs,
+            })
+            New("UIPadding", {
+                PaddingBottom = UDim.new(0, 11),
+                PaddingLeft = UDim.new(0, 12),
+                PaddingRight = UDim.new(0, 12),
+                PaddingTop = UDim.new(0, 11),
+                Parent = TabButton,
+            })
+
+            TabLabel = New("TextLabel", {
+                BackgroundTransparency = 1,
+                Position = UDim2.fromOffset(30, 0),
+                Size = UDim2.new(1, -30, 1, 0),
+                Text = Name,
+                TextSize = 16,
+                TextTransparency = 0.5,
+                TextXAlignment = Enum.TextXAlignment.Left,
+                Parent = TabButton,
+            })
+
+            if KeyIcon then
+                TabIcon = New("ImageLabel", {
+                    Image = KeyIcon.Url,
+                    ImageColor3 = "AccentColor",
+                    ImageRectOffset = KeyIcon.ImageRectOffset,
+                    ImageRectSize = KeyIcon.ImageRectSize,
+                    ImageTransparency = 0.5,
+                    Size = UDim2.fromScale(1, 1),
+                    SizeConstraint = Enum.SizeConstraint.RelativeYY,
+                    Parent = TabButton,
+                })
+            end
+
+            --// Tab Container \\--
+            TabContainer = New("ScrollingFrame", {
+                AutomaticCanvasSize = Enum.AutomaticSize.Y,
+                BackgroundTransparency = 1,
+                CanvasSize = UDim2.fromScale(0, 0),
+                ScrollBarThickness = 0,
+                Size = UDim2.fromScale(1, 1),
+                Visible = false,
+                Parent = Container,
+            })
+            New("UIListLayout", {
+                HorizontalAlignment = Enum.HorizontalAlignment.Center,
+                Padding = UDim.new(0, 8),
+                VerticalAlignment = Enum.VerticalAlignment.Center,
+                Parent = TabContainer,
+            })
+            New("UIPadding", {
+                PaddingLeft = UDim.new(0, 1),
+                PaddingRight = UDim.new(0, 1),
+                Parent = TabContainer,
+            })
+        end
+
+        --// Tab Table \\--
+        local Tab = {
+            Elements = {},
+            IsKeyTab = true,
+        }
+
+        function Tab:AddKeyBox(...)
+            local Data = {}
+
+            local First = select(1, ...)
+
+            if typeof(First) == "function" then
+                Data.Callback = First
+            else
+                Data.ExpectedKey = First
+                Data.Callback = select(2, ...)
+            end
+
+            local Holder = New("Frame", {
+                BackgroundTransparency = 1,
+                Size = UDim2.new(0.75, 0, 0, 21),
+                Parent = TabContainer,
+            })
+
+            local Box = New("TextBox", {
+                BackgroundColor3 = "MainColor",
+                BorderColor3 = "OutlineColor",
+                BorderSizePixel = 1,
+                PlaceholderText = "Key",
+                Size = UDim2.new(1, -71, 1, 0),
+                TextSize = 14,
+                TextXAlignment = Enum.TextXAlignment.Left,
+                Parent = Holder,
+            })
+            New("UIPadding", {
+                PaddingLeft = UDim.new(0, 8),
+                PaddingRight = UDim.new(0, 8),
+                Parent = Box,
+            })
+
+            local Button = New("TextButton", {
+                AnchorPoint = Vector2.new(1, 0),
+                BackgroundColor3 = "MainColor",
+                BorderColor3 = "OutlineColor",
+                BorderSizePixel = 1,
+                Position = UDim2.fromScale(1, 0),
+                Size = UDim2.new(0, 63, 1, 0),
+                Text = "Execute",
+                TextSize = 14,
+                Parent = Holder,
+            })
+
+            Button.MouseButton1Click:Connect(function()
+                if Data.ExpectedKey and Box.Text ~= Data.ExpectedKey then
+                    Data.Callback(false, Box.Text)
+                    return
+                end
+
+                Data.Callback(true, Box.Text)
+            end)
+        end
+
+        function Tab:Resize() end
+
+        function Tab:Hover(Hovering)
+            if Library.ActiveTab == Tab then
+                return
+            end
+
+            TweenService:Create(TabLabel, Library.TweenInfo, {
+                TextTransparency = Hovering and 0.25 or 0.5,
+            }):Play()
+            if TabIcon then
+                TweenService:Create(TabIcon, Library.TweenInfo, {
+                    ImageTransparency = Hovering and 0.25 or 0.5,
+                }):Play()
+            end
+        end
+
+        function Tab:Show()
+            if Library.ActiveTab then
+                Library.ActiveTab:Hide()
+            end
+
+            TweenService:Create(TabButton, Library.TweenInfo, {
+                BackgroundTransparency = 0,
+            }):Play()
+            TweenService:Create(TabLabel, Library.TweenInfo, {
+                TextTransparency = 0,
+            }):Play()
+            if TabIcon then
+                TweenService:Create(TabIcon, Library.TweenInfo, {
+                    ImageTransparency = 0,
+                }):Play()
+            end
+            TabContainer.Visible = true
+
+            Library.ActiveTab = Tab
+        end
+
+        function Tab:Hide()
+            TweenService:Create(TabButton, Library.TweenInfo, {
+                BackgroundTransparency = 1,
+            }):Play()
+            TweenService:Create(TabLabel, Library.TweenInfo, {
+                TextTransparency = 0.5,
+            }):Play()
+            if TabIcon then
+                TweenService:Create(TabIcon, Library.TweenInfo, {
+                    ImageTransparency = 0.5,
+                }):Play()
+            end
+            TabContainer.Visible = false
+
+            Library.ActiveTab = nil
+        end
+
+        --// Execution \\--
+        if not Library.ActiveTab then
+            Tab:Show()
+        end
+
+        TabButton.MouseEnter:Connect(function()
+            Tab:Hover(true)
+        end)
+        TabButton.MouseLeave:Connect(function()
+            Tab:Hover(false)
+        end)
+        TabButton.MouseButton1Click:Connect(Tab.Show)
+
+        Tab.Container = TabContainer
+        setmetatable(Tab, BaseGroupbox)
+
+        Library.Tabs[Name] = Tab
+
+        return Tab
+    end
+
+    function Library:Toggle(Value: boolean?)
+        if typeof(Value) == "boolean" then
+            Library.Toggled = Value
+        else
+            Library.Toggled = not Library.Toggled
+        end
+
+        MainFrame.Visible = Library.Toggled
+        ModalElement.Modal = Library.Toggled
+
+        if Library.Toggled and not Library.IsMobile then
+            local OldMouseIconEnabled = UserInputService.MouseIconEnabled
+            pcall(function()
+                RunService:UnbindFromRenderStep("ShowCursor")
+            end)
+            RunService:BindToRenderStep("ShowCursor", Enum.RenderPriority.Last.Value, function()
+                UserInputService.MouseIconEnabled = not Library.ShowCustomCursor
+
+                Cursor.Position = UDim2.fromOffset(Mouse.X, Mouse.Y)
+                Cursor.Visible = Library.ShowCustomCursor
+
+                if not (Library.Toggled and ScreenGui and ScreenGui.Parent) then
+                    UserInputService.MouseIconEnabled = OldMouseIconEnabled
+                    Cursor.Visible = false
+                    RunService:UnbindFromRenderStep("ShowCursor")
+                end
+            end)
+        elseif not Library.Toggled then
+            TooltipLabel.Visible = false
+            for _, Option in pairs(Library.Options) do
+                if Option.Type == "ColorPicker" then
+                    Option.ColorMenu:Close()
+                    Option.ContextMenu:Close()
+                elseif Option.Type == "Dropdown" or Option.Type == "KeyPicker" then
+                    Option.Menu:Close()
+                end
+            end
+        end
+    end
+
+    if WindowInfo.AutoShow then
+        task.spawn(Library.Toggle)
+    end
+
+    if Library.IsMobile then
+        local ToggleButton = Library:AddDraggableButton("Toggle", function()
+            Library:Toggle()
+        end)
+
+        local LockButton = Library:AddDraggableButton("Lock", function(self)
+            Library.CantDragForced = not Library.CantDragForced
+            self:SetText(Library.CantDragForced and "Unlock" or "Lock")
+        end)
+
+        if WindowInfo.MobileButtonsSide == "Right" then
+            ToggleButton.Button.Position = UDim2.new(1, -6, 0, 6)
+            ToggleButton.Button.AnchorPoint = Vector2.new(1, 0)
+
+            LockButton.Button.Position = UDim2.new(1, -6, 0, 46)
+            LockButton.Button.AnchorPoint = Vector2.new(1, 0)
+        else
+            LockButton.Button.Position = UDim2.fromOffset(6, 46)
+        end
+    end
+
+    --// Execution \\--
+    SearchBox:GetPropertyChangedSignal("Text"):Connect(function()
+        Library:UpdateSearch(SearchBox.Text)
+    end)
+
+    Library:GiveSignal(UserInputService.InputBegan:Connect(function(Input: InputObject)
+        if UserInputService:GetFocusedTextBox() then
+            return
+        end
+
+        if
+            (
+                typeof(Library.ToggleKeybind) == "table"
+                and Library.ToggleKeybind.Type == "KeyPicker"
+                and Input.KeyCode.Name == Library.ToggleKeybind.Value
+            ) or Input.KeyCode == Library.ToggleKeybind
+        then
+            Library.Toggle()
+        end
+    end))
+
+    Library:GiveSignal(UserInputService.WindowFocused:Connect(function()
+        Library.IsRobloxFocused = true
+    end))
+    Library:GiveSignal(UserInputService.WindowFocusReleased:Connect(function()
+        Library.IsRobloxFocused = false
+    end))
+
+    return Window
+end
+
+local function OnPlayerChange()
+    local PlayerList, ExcludedPlayerList = GetPlayers(), GetPlayers(true)
+
+    for _, Dropdown in pairs(Options) do
+        if Dropdown.Type == "Dropdown" and Dropdown.SpecialType == "Player" then
+            Dropdown:SetValues(Dropdown.ExcludeLocalPlayer and ExcludedPlayerList or PlayerList)
+        end
+    end
+end
+local function OnTeamChange()
+    local TeamList = GetTeams()
+
+    for _, Dropdown in pairs(Options) do
+        if Dropdown.Type == "Dropdown" and Dropdown.SpecialType == "Team" then
+            Dropdown:SetValues(TeamList)
+        end
+    end
+end
+
+Library:GiveSignal(Players.PlayerAdded:Connect(OnPlayerChange))
+Library:GiveSignal(Players.PlayerRemoving:Connect(OnPlayerChange))
+
+Library:GiveSignal(Teams.ChildAdded:Connect(OnTeamChange))
+Library:GiveSignal(Teams.ChildRemoved:Connect(OnTeamChange))
+
+getgenv().Library = Library
+return Library
