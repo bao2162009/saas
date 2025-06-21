@@ -4862,6 +4862,7 @@ function Library:CreateWindow(WindowInfo)
         local TabContainer
         local TabLeft
         local TabRight
+        local TabMid
 
         local WarningBox
         local WarningTitle
@@ -4941,7 +4942,7 @@ function Library:CreateWindow(WindowInfo)
                     Parent = TabLeft,
                 })
 
-                TabLeft.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 2) - 3, 1, 0)
+                TabLeft.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 3) - 3, 1, 0)
                 Library:UpdateDPI(TabLeft, { Size = TabLeft.Size })
             end
 
@@ -4970,16 +4971,16 @@ function Library:CreateWindow(WindowInfo)
                     Parent = TabRight,
                 })
 
-                TabRight.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 2) - 3, 1, 0)
+                TabRight.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 3) - 3, 1, 0)
                 Library:UpdateDPI(TabRight, { Size = TabRight.Size })
             end
 
             TabMid = New("ScrollingFrame", {
-                AnchorPoint = Vector2.new(2, 0),
+                AnchorPoint = Vector2.new(0.5, 0),
                 AutomaticCanvasSize = Enum.AutomaticSize.Y,
                 BackgroundTransparency = 1,
                 CanvasSize = UDim2.fromScale(0, 0),
-                Position = UDim2.fromScale(2, 0),
+                Position = UDim2.fromScale(0.5, 0),
                 ScrollBarThickness = 0,
                 Parent = TabContainer,
             })
@@ -4999,7 +5000,7 @@ function Library:CreateWindow(WindowInfo)
                     Parent = TabMid,
                 })
 
-                TabMid.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 2) - 3, 1, 0)
+                TabMid.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 3) - 3, 1, 0)
                 Library:UpdateDPI(TabMid, { Size = TabMid.Size })
             end
 
@@ -5142,7 +5143,7 @@ function Library:CreateWindow(WindowInfo)
             local Offset = WarningBox.Visible and WarningBox.AbsoluteSize.Y + 6 or 0
             for _, Side in pairs(Tab.Sides) do
                 Side.Position = UDim2.new(Side.Position.X.Scale, 0, 0, Offset)
-                Side.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 2) - 3, 1, -Offset)
+                Side.Size = UDim2.new(0, math.floor(TabContainer.AbsoluteSize.X / 3) - 3, 1, -Offset)
                 Library:UpdateDPI(Side, {
                     Position = Side.Position,
                     Size = Side.Size,
@@ -5155,7 +5156,7 @@ function Library:CreateWindow(WindowInfo)
                 AutomaticSize = Enum.AutomaticSize.Y,
                 BackgroundTransparency = 1,
                 Size = UDim2.fromScale(1, 0),
-                Parent = Info.Side == 1 and TabLeft or TabRight or TabMid,
+                Parent = Tab.Sides[Info.Side] or Tab.Sides[1],
             })
             New("UIListLayout", {
                 Padding = UDim.new(0, 6),
@@ -5268,7 +5269,7 @@ function Library:CreateWindow(WindowInfo)
             return Tab:AddGroupbox({ Side = 2, Name = Name, IconName = IconName })
         end
 
-        function Tab:AddRightGroupbox(Name, IconName)
+        function Tab:AddMidGroupbox(Name, IconName)
             return Tab:AddGroupbox({ Side = 3, Name = Name, IconName = IconName })
         end
 
@@ -5277,7 +5278,7 @@ function Library:CreateWindow(WindowInfo)
                 AutomaticSize = Enum.AutomaticSize.Y,
                 BackgroundTransparency = 1,
                 Size = UDim2.fromScale(1, 0),
-                Parent = Info.Side == 1 and TabLeft or TabRight or TabMid,
+                Parent = Tab.Sides[Info.Side] or Tab.Sides[1],
             })
             New("UIListLayout", {
                 Padding = UDim.new(0, 6),
