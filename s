@@ -27,6 +27,17 @@ local Buttons = {}
 local Toggles = {}
 local Options = {}
 
+local IconLibrary = {
+    ["chevron-up"] = "rbxassetid://1234567890",  -- Thay bằng asset ID thật của bạn
+    ["chevron-down"] = "rbxassetid://1234567891",
+    ["close"] = "rbxassetid://1234567892",
+    ["HBP"] = "rbxassetid://77449121548129",
+}
+
+function Library:GetIcon(IconName)
+    return IconLibrary[IconName] or IconLibrary["HBP"] or ""
+end
+
 local Library = {
     LocalPlayer = LocalPlayer,
     DevicePlatform = nil,
@@ -833,22 +844,6 @@ function Library:GiveSignal(Connection: RBXScriptConnection)
     return Connection
 end
 
-local FetchIcons, Icons = pcall(function()
-    return loadstring(
-        game:HttpGet("https://raw.githubusercontent.com/deividcomsono/lucide-roblox-direct/refs/heads/main/source.lua")
-    )()
-end)
-function Library:GetIcon(IconName: string)
-    if not FetchIcons then
-        return
-    end
-    local Success, Icon = pcall(Icons.GetAsset, IconName)
-    if not Success then
-        return
-    end
-    return Icon
-end
-
 function Library:Validate(Table: { [string]: any }, Template: { [string]: any }): { [string]: any }
     if typeof(Table) ~= "table" then
         return Template
@@ -1643,10 +1638,10 @@ function Library:Unload()
     getgenv().Library = nil
 end
 
-local CheckIcon = Library:GetIcon("check")
-local ArrowIcon = Library:GetIcon("chevron-up")
-local ResizeIcon = Library:GetIcon("move-diagonal-2")
-local KeyIcon = Library:GetIcon("key")
+local CheckIcon = Library:GetIcon("HBP")
+local ArrowIcon = Library:GetIcon("HBP")
+local ResizeIcon = Library:GetIcon("HBP")
+local KeyIcon = Library:GetIcon("HBP")
 
 local BaseAddons = {}
 do
@@ -1729,7 +1724,7 @@ do
             })
 
             local CheckImage = New("ImageLabel", {
-                Image = CheckIcon and CheckIcon.Url or "",
+                Image = CheckIcon or "",
                 ImageColor3 = "FontColor",
                 ImageRectOffset = CheckIcon and CheckIcon.ImageRectOffset or Vector2.zero,
                 ImageRectSize = CheckIcon and CheckIcon.ImageRectSize or Vector2.zero,
@@ -2922,7 +2917,7 @@ do
         })
 
         local CheckImage = New("ImageLabel", {
-            Image = CheckIcon and CheckIcon.Url or "",
+            Image = CheckIcon or "",
             ImageColor3 = "FontColor",
             ImageRectOffset = CheckIcon and CheckIcon.ImageRectOffset or Vector2.zero,
             ImageRectSize = CheckIcon and CheckIcon.ImageRectSize or Vector2.zero,
@@ -3750,7 +3745,7 @@ do
 
         local ArrowImage = New("ImageLabel", {
             AnchorPoint = Vector2.new(1, 0.5),
-            Image = ArrowIcon and ArrowIcon.Url or "",
+            Image = ArrowIcon or "",
             ImageColor3 = "FontColor",
             ImageRectOffset = ArrowIcon and ArrowIcon.ImageRectOffset or Vector2.zero,
             ImageRectSize = ArrowIcon and ArrowIcon.ImageRectSize or Vector2.zero,
@@ -4723,10 +4718,10 @@ function Library:CreateWindow(WindowInfo)
             Parent = SearchBox,
         })
 
-        local SearchIcon = Library:GetIcon("search")
+        local SearchIcon = Library:GetIcon("HBP")
         if SearchIcon then
             New("ImageLabel", {
-                Image = SearchIcon.Url,
+                Image = SearchIcon or "",
                 ImageColor3 = "FontColor",
                 ImageRectOffset = SearchIcon.ImageRectOffset,
                 ImageRectSize = SearchIcon.ImageRectSize,
@@ -4737,11 +4732,11 @@ function Library:CreateWindow(WindowInfo)
             })
         end
 
-        local MoveIcon = Library:GetIcon("move")
+        local MoveIcon = Library:GetIcon("HBP")
         if MoveIcon then
             New("ImageLabel", {
                 AnchorPoint = Vector2.new(1, 0.5),
-                Image = MoveIcon.Url,
+                Image = MoveIcon or "",
                 ImageColor3 = "OutlineColor",
                 ImageRectOffset = MoveIcon.ImageRectOffset,
                 ImageRectSize = MoveIcon.ImageRectSize,
@@ -4805,7 +4800,7 @@ function Library:CreateWindow(WindowInfo)
         end
 
         New("ImageLabel", {
-            Image = ResizeIcon and ResizeIcon.Url or "",
+            Image = ResizeIcon or "",
             ImageColor3 = "FontColor",
             ImageRectOffset = ResizeIcon and ResizeIcon.ImageRectOffset or Vector2.zero,
             ImageRectSize = ResizeIcon and ResizeIcon.ImageRectSize or Vector2.zero,
@@ -4900,7 +4895,7 @@ function Library:CreateWindow(WindowInfo)
 
             if Icon then
                 TabIcon = New("ImageLabel", {
-                    Image = Icon.Url,
+                    Image = CheckIcon,
                     ImageColor3 = "AccentColor",
                     ImageRectOffset = Icon.ImageRectOffset,
                     ImageRectSize = Icon.ImageRectSize,
@@ -5191,10 +5186,10 @@ function Library:CreateWindow(WindowInfo)
                     Size = UDim2.new(1, 0, 0, 1),
                 })
 
-                local BoxIcon = Library:GetIcon(Info.IconName)
+                local BoxIcon = Library:GetIcon("HBP")
                 if BoxIcon then
                     New("ImageLabel", {
-                        Image = BoxIcon.Url,
+                        Image = BoxIcon or "",
                         ImageColor3 = "AccentColor",
                         ImageRectOffset = BoxIcon.ImageRectOffset,
                         ImageRectSize = BoxIcon.ImageRectSize,
@@ -5540,7 +5535,7 @@ function Library:CreateWindow(WindowInfo)
 
             if KeyIcon then
                 TabIcon = New("ImageLabel", {
-                    Image = KeyIcon.Url,
+                    Image = KeyIcon or "",
                     ImageColor3 = "AccentColor",
                     ImageRectOffset = KeyIcon.ImageRectOffset,
                     ImageRectSize = KeyIcon.ImageRectSize,
