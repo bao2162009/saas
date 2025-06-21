@@ -95,7 +95,7 @@ local Library = {
 }
 
 local IconLibrary = {
-    ["chevron-up"] = "rbxassetid://1234567890",  -- Thay bằng asset ID thật của bạn
+    ["chevron-up"] = "rbxassetid://103134660123798",  -- Thay bằng asset ID thật của bạn
     ["chevron-down"] = "rbxassetid://1234567891",
     ["close"] = "rbxassetid://1234567892",
     ["HBP"] = "rbxassetid://77449121548129",
