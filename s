@@ -27,17 +27,6 @@ local Buttons = {}
 local Toggles = {}
 local Options = {}
 
-local IconLibrary = {
-    ["chevron-up"] = "rbxassetid://1234567890",  -- Thay bằng asset ID thật của bạn
-    ["chevron-down"] = "rbxassetid://1234567891",
-    ["close"] = "rbxassetid://1234567892",
-    ["HBP"] = "rbxassetid://77449121548129",
-}
-
-function Library:GetIcon(IconName)
-    return IconLibrary[IconName] or IconLibrary["HBP"] or ""
-end
-
 local Library = {
     LocalPlayer = LocalPlayer,
     DevicePlatform = nil,
@@ -104,6 +93,17 @@ local Library = {
     Registry = {},
     DPIRegistry = {},
 }
+
+local IconLibrary = {
+    ["chevron-up"] = "rbxassetid://96547749485922",  -- Thay bằng asset ID thật của bạn
+    ["chevron-down"] = "rbxassetid://1234567891",
+    ["close"] = "rbxassetid://1234567892",
+    ["HBP"] = "rbxassetid://96547749485922",
+}
+
+function Library:GetIcon(IconName)
+    return IconLibrary[IconName] or IconLibrary["HBP"] or ""
+end
 
 if RunService:IsStudio() then
     if UserInputService.TouchEnabled and not UserInputService.MouseEnabled then
