@@ -4675,14 +4675,6 @@ function Library:CreateWindow(WindowInfo)
             Parent = TitleHolder,
         })
 
-        if WindowInfo.Icon then
-            New("ImageLabel", {
-                Image = tonumber(WindowInfo.Icon) and "rbxassetid://" .. WindowInfo.Icon or WindowInfo.Icon,
-                Size = WindowInfo.IconSize,
-                Parent = TitleHolder,
-            })
-        end
-
         local X = Library:GetTextBounds(
             WindowInfo.Title,
             Library.Scheme.Font,
