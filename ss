@@ -4906,7 +4906,7 @@ function Library:CreateWindow(WindowInfo)
             --// Tab Container \\--
             TabContainer = New("Frame", {
                 BackgroundTransparency = 1,
-                Size = UDim2.fromScale(1, 1),
+                Size = UDim2.fromScale(0.5, 0.5),
                 Visible = false,
                 Parent = Container,
             })
