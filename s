@@ -100,7 +100,7 @@ if RunService:IsStudio() then
         Library.MinSize = Vector2.new(480, 240)
     else
         Library.IsMobile = false
-        Library.MinSize = Vector2.new(480, 360)
+        Library.MinSize = Vector2.new(480, 360)c  
     end
 else
     pcall(function()
@@ -4634,7 +4634,7 @@ function Library:CreateWindow(WindowInfo)
                     Size = UDim2.new(1, 0, 0, 1),
                 },
                 {
-                    Position = UDim2.fromScale(0.3, 0),
+                    Position = UDim2.fromScale(0.2, 0),
                     Size = UDim2.new(0, 1, 1, -21),
                 },
                 {
@@ -4664,7 +4664,7 @@ function Library:CreateWindow(WindowInfo)
         --// Title
         local TitleHolder = New("Frame", {
             BackgroundTransparency = 1,
-            Size = UDim2.fromScale(0.3, 1),
+            Size = UDim2.fromScale(0.2, 1),
             Parent = TopBar,
         })
         New("UIListLayout", {
@@ -4694,8 +4694,8 @@ function Library:CreateWindow(WindowInfo)
             AnchorPoint = Vector2.new(0, 0.5),
             BackgroundColor3 = "MainColor",
             PlaceholderText = "Search",
-            Position = UDim2.new(0.3, 8, 0.5, 0),
-            Size = UDim2.new(0.7, -57, 1, -16),
+            Position = UDim2.new(0.2, 8, 0.5, 0),
+            Size = UDim2.new(0.8, -57, 1, -16),
             TextScaled = true,
             Parent = TopBar,
         })
@@ -4814,7 +4814,7 @@ function Library:CreateWindow(WindowInfo)
             CanvasSize = UDim2.fromScale(0, 0),
             Position = UDim2.fromOffset(0, 49),
             ScrollBarThickness = 0,
-            Size = UDim2.new(0.17, 0, 1, -70),
+            Size = UDim2.new(0.2, 0, 1, -70),
             Parent = MainFrame,
         })
 
@@ -4830,7 +4830,7 @@ function Library:CreateWindow(WindowInfo)
             end,
             Name = "Container",
             Position = UDim2.new(1, 0, 0, 49),
-            Size = UDim2.new(0.7, -1, 1, -70),
+            Size = UDim2.new(0.8, -1, 1, -70),
             Parent = MainFrame,
         })
 
@@ -4866,25 +4866,25 @@ function Library:CreateWindow(WindowInfo)
             TabButton = New("TextButton", {
                 BackgroundColor3 = "MainColor",
                 BackgroundTransparency = 1,
-                Size = UDim2.new(1, 0, 0, 40),
+                Size = UDim2.new(1, 0, 0, 35),
                 Text = "",
                 Parent = Tabs,
             })
 
             New("UIPadding", {
-                PaddingBottom = UDim.new(0, 11),
-                PaddingLeft = UDim.new(0, 12),
-                PaddingRight = UDim.new(0, 12),
-                PaddingTop = UDim.new(0, 11),
+                PaddingBottom = UDim.new(0, 8), -- Giảm từ 11 xuống 8
+                PaddingLeft = UDim.new(0, 8), -- Giảm từ 12 xuống 8
+                PaddingRight = UDim.new(0, 8), -- Giảm từ 12 xuống 8
+                PaddingTop = UDim.new(0, 8), -- Giảm từ 11 xuống 8
                 Parent = TabButton,
             })
 
             TabLabel = New("TextLabel", {
                 BackgroundTransparency = 1,
-                Position = UDim2.fromOffset(30, 0),
-                Size = UDim2.new(1, -30, 1, 0),
+                Position = UDim2.fromOffset(24, 0), -- Giảm từ 30 xuống 24
+                Size = UDim2.new(1, -24, 1, 0), -- Giảm từ -30 xuống -24
                 Text = Name,
-                TextSize = 16,
+                TextSize = 14, -- Giảm từ 16 xuống 14
                 TextTransparency = 0.5,
                 TextXAlignment = Enum.TextXAlignment.Left,
                 Parent = TabButton,
@@ -4897,8 +4897,7 @@ function Library:CreateWindow(WindowInfo)
                     ImageRectOffset = Icon.ImageRectOffset,
                     ImageRectSize = Icon.ImageRectSize,
                     ImageTransparency = 0.5,
-                    Size = UDim2.fromScale(1, 1),
-                    SizeConstraint = Enum.SizeConstraint.RelativeYY,
+                    Size = UDim2.fromOffset(16, 16), -- Giảm từ 18x18 xuống 16x16
                     Parent = TabButton,
                 })
             end
