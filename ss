@@ -161,7 +161,7 @@ local Templates = {
         Title = "No Title",
         Footer = "No Footer",
         Position = UDim2.fromOffset(6, 6),
-        Size = UDim2.fromOffset(720, 600),
+        Size = UDim2.fromOffset(800, 600),
         IconSize = UDim2.fromOffset(30, 30),
         AutoShow = true,
         Center = true,
@@ -963,7 +963,7 @@ local function ParentUI(UI: Instance, SkipHiddenUI: boolean?)
 end
 
 local ScreenGui = New("ScreenGui", {
-    Name = "Obsidian",
+    Name = "NguyenGiaBao",
     DisplayOrder = 999,
     ResetOnSpawn = false,
 })
@@ -975,7 +975,7 @@ ScreenGui.DescendantRemoving:Connect(function(Instance)
 end)
 
 local ModalScreenGui = New("ScreenGui", {
-    Name = "ObsidanModal",
+    Name = "NguyenGiaBaoDZ",
     DisplayOrder = 999,
     ResetOnSpawn = false,
 })
@@ -1646,7 +1646,7 @@ end
 local CheckIcon = Library:GetIcon("check")
 local ArrowIcon = Library:GetIcon("chevron-up")
 local ResizeIcon = Library:GetIcon("move-diagonal-2")
-local KeyIcon = Library:GetIcon("chevron-up")
+local KeyIcon = Library:GetIcon("key")
 
 local BaseAddons = {}
 do
@@ -5811,3 +5811,12 @@ Library:GiveSignal(Teams.ChildRemoved:Connect(OnTeamChange))
 
 getgenv().Library = Library
 return Library
+
+
+local Window = Library:CreateWindow({
+	Title = "mspaint",
+	Footer = "version: example",
+	Icon = 95816097006870,
+	NotifySide = "Right",
+	ShowCustomCursor = true,
+})
