@@ -4830,7 +4830,7 @@ function Library:CreateWindow(WindowInfo)
             end,
             Name = "Container",
             Position = UDim2.new(1, 0, 0, 49),
-            Size = UDim2.new(0.7, -1, 1, -70),
+            Size = UDim2.new(0.7, -1, 1, -700),
             Parent = MainFrame,
         })
 
@@ -4906,7 +4906,7 @@ function Library:CreateWindow(WindowInfo)
             --// Tab Container \\--
             TabContainer = New("Frame", {
                 BackgroundTransparency = 1,
-                Size = UDim2.fromScale(0.5, 0.5),
+                Size = UDim2.fromScale(1, 1),
                 Visible = false,
                 Parent = Container,
             })
